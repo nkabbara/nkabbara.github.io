@@ -2,13 +2,13 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.4.1
+version: 1.4.2
 categories: quotes
 ---
 
 > I’m no genius. I’m smart in spots—but I stay around those spots.
 
--— Tom Watson Sr
+-- Tom Watson Sr
 
 <br>
 
