@@ -26,7 +26,7 @@ A better end image to harbor would be to imagine your abilities just as they are
 2. Your mind will see more patterns related to what you've learned.
 3. You will hopefully know what to do next in order to get closer to the extra abilities.
 
-![end image v2](assets/learning-end-image-v2.png)
+![end image v2](/nkabbara.github.io/assets/learning-end-image-v2.png)
 
 More hurdles to come...
 
