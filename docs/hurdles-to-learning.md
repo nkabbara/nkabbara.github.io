@@ -17,7 +17,6 @@ You picture yourself in the future, when you're done reading it, with extra abil
 But this is a false image to harbor. Because when you're done, you most likely will not have acquired those imagined abilities.
 Which will result in disappointment. We don't want disappointment while learning. We want constant motivation and fun.
 
-![end image v1](/nkabbara.github.io/assets/learning-end-image-v1.png)
 ![end image v1](/assets/learning-end-image-v1.png)
 
 So we must set a proper expectation.
@@ -28,7 +27,7 @@ A better end image to harbor would be to imagine your abilities just **as they a
 2. Your mind will see more patterns related to what you've learned.
 3. You will have a better idea about where to go next for more.
 
-![end image v2](/nkabbara.github.io/assets/learning-end-image-v2.png)
+![end image v2](/assets/learning-end-image-v2.png)
 
 ### This Should Be Easier (SBE)
 
