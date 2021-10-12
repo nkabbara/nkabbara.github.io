@@ -2,7 +2,7 @@
 layout: page
 title: "Hurdles To Learning"
 date: 2021-10-09
-version: 0.1.3
+version: 0.2.0
 categories: learning
 ---
 
@@ -39,6 +39,28 @@ good at. But when you try to apply it, you discover that that's not actually tru
 The unproductive self talk would be: this should be easier or I should already know this.
 
 The productive attitude to summon here is: **ok, another opportunity to review this material and reinforce my knowledge.**
+
+### Too Tired To Learn (TTT)
+
+You're tired right now. Because you worked hard all day. You feel like your brain contracts the moment you think
+about learning.
+
+It's probable that you still have some juice left for some productive learning.
+
+How to find out? Reframe your thinking about learning today in the following ways:
+
+1. Pick a **time duration** that your brain is willing to spend on learning.
+   Say, 20 minutes. Subtract 10% of that. Now we're at 18 minutes. That's
+   the minimum you have to do today. Easy.
+2. In the time allotted in #1, you have a goal: **move your learning up one notch**
+   from yesterday. Like understanding a key term, or going over a hard
+   concept that needs several go-overs. Up a notch.
+3. 1 and 2 work because we're measuring our **progress in weeks**, not days. Today
+   there's no pressure to finish anything. But come Friday, you're on the hook.
+
+What did you learn this week?
+
+![concept](/assets/concept-40.png)
 
 ---
 
