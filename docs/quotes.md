@@ -40,3 +40,17 @@ categories: quotes
 > How we spend our time is how we spend our days. How we spend our days is how our life goes. How our life goes determines whether we thought it was worth living.
 
 -— Keith Yamashita
+
+<br>
+
+> If I read as many books as most men do, I would be as dull witted as they are.
+
+-- Hobbes
+
+<br>
+
+> That which most determines the result of an action is the motivation behind it.
+
+-- Buddha
+
+<br>
