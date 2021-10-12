@@ -2,7 +2,7 @@
 layout: page
 title: "Hurdles To Learning"
 date: 2021-10-09
-version: 0.2.0
+version: 0.2.1
 categories: learning
 ---
 
@@ -52,7 +52,7 @@ How to find out? Reframe your thinking about learning today in the following way
 1. Pick a **time duration** that your brain is willing to spend on learning.
    Say, 20 minutes. Subtract 10% of that. Now we're at 18 minutes. That's
    the minimum you have to do today. Easy.
-2. In the time allotted in #1, you have a goal: **move your learning up one notch**
+2. In the time allotted in 1, you have a goal: **move your learning up one notch**
    from yesterday. Like understanding a key term, or going over a hard
    concept that needs several go-overs. Up a notch.
 3. 1 and 2 work because we're measuring our **progress in weeks**, not days. Today
