@@ -2,6 +2,7 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
+version: 1.0.1
 categories: quotes
 ---
 
@@ -19,7 +20,7 @@ categories: quotes
 
 > Everyone is always trying their very very best, and it’s never very very good.
 
--- David whyte
+-- David Whyte
 
 <br>
 
