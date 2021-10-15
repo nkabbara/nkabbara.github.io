@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<meta name="google-site-verification" content="GsznzDjSEowntTj1QDFP5VXjrsV5OF_LcFqwQ5yfHRg" />
