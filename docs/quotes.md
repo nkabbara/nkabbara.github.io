@@ -2,7 +2,7 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.0.1
+version: 1.1.0
 categories: quotes
 ---
 
@@ -50,8 +50,28 @@ categories: quotes
 
 <br>
 
+> There was once a man who inherited a lot of money and land.
+>
+> But he squandered it all too quickly. Those who inherit wealth
+> don't know what it took to get it.
+>
+> In the same way, we don't know the value of our souls,
+> which were given to us for nothing.
+
+-- Rumi
+
+<br>
+
 > That which most determines the result of an action is the motivation behind it.
 
 -- Buddha
+
+<br>
+
+> If I had known the real way it was, I would have stopped all the looking around.
+
+> But that knowing depends on the time spent looking!
+
+-- Rumi
 
 <br>
