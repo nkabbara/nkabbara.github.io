@@ -2,7 +2,7 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.1.0
+version: 1.2.1
 categories: quotes
 ---
 
@@ -69,7 +69,7 @@ categories: quotes
 <br>
 
 > If I had known the real way it was, I would have stopped all the looking around.
-
+>
 > But that knowing depends on the time spent looking!
 
 -- Rumi
