@@ -26,7 +26,7 @@ categories: quotes
 
 > When you have a clock you always know what time it is. When you have two you are never quite certain.
 
---Mark Twain
+-- Mark Twain
 
 <br>
 
@@ -73,5 +73,11 @@ categories: quotes
 > But that knowing depends on the time spent looking!
 
 -- Rumi
+
+<br>
+
+> Let your soul stand cool and composed before a million universes.
+
+-- Walt Whitman
 
 <br>
