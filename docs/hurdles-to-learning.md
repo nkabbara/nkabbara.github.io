@@ -2,7 +2,7 @@
 layout: page
 title: "Hurdles To Learning"
 date: 2021-10-09
-version: 0.2.1
+version: 0.3.1
 categories: learning
 ---
 
@@ -58,7 +58,13 @@ How to find out? Reframe your thinking about learning today in the following way
 3. 1 and 2 work because we're measuring our **progress in weeks**, not days. Today
    there's no pressure to finish anything. But come Friday, you're on the hook.
 
-What did you learn this week?
+Now try again.
+
+### Get it Over With (GOW)
+
+This is not referring to just in time learning, it's more about finishing the steps in your learning plan.
+
+The last step which is usally the most important, you....WIP
 
 ![concept](/assets/concept-40.png)
 
