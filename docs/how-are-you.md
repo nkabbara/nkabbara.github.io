@@ -2,7 +2,7 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.2.0
+version: 0.3.0
 categories: philosophy
 ---
 
@@ -70,8 +70,9 @@ fact that her normal fun and loving self loves her job, but when she's in her ma
 
 Are there alternatives? [^1]
 
-Instead of the you-centric view, you may want consider viewing yourself as a multitude of selves. Each with its own wants, needs and disposition
-to the world.
+Instead of the you-centric view, you may want consider viewing the word from the perspective of one of a multitude of selves.
+Each with its own wants, needs and dispositions to the world. Not viewing yourself, but viewing the world. This distinction will
+is important and will become clear later.
 
 [wip]
 
@@ -79,4 +80,4 @@ to the world.
 
 So who is really you? Here comes the disucssion of self. Meaning if it's not hte center you. Even the many yous, which one is it. The you!
 
-[^1] I promise, as of today, 2021/10/21, I've never done mushrooms or any drugs for that matter. With the exceptions of a few joints under social pressure.
+[^1]: I promise, as of today, 2021/10/21, I've never done mushrooms or any drugs for that matter. With the exceptions of a few joints under social pressure.
