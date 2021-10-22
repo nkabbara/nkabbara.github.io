@@ -56,15 +56,27 @@ on exceptions to make things fit into your thinking. Solar system math pre Galil
 complicated exceptions in order to justify the sun's orbit around the earth. All those exceptions became unnecessary
 after his discoveries. Things naturally fell into place without the need for exceptions.
 
-A doctor once described to me how conflicted she feels when she's with a patient. She feels like she's not being herself and like she's acting
-a role. She said outside the hospital, she felt like she's a loving person with a light sense of humor. But when with a patient, she had to
-cover up the real her with stoic mask. The conflict stemmed from her not feeling comfortable conducting her session with humor due to the patient
-usual severe situations and that love felt like it could affect her professional judgement. But simultaenously, it felt wrong to hide the
-true and real her in order to help the patient. To do her job that she loved in her normal self, she had to become someone else, that didn't necessarily
-love that job [wip paragraph. Refine].
+Maybe in the same way, moving away from the you-centric model, might change the wind to your advantage in how you interact with the world.
+
+A friend, an infectologist, recently described to me a situation which encapsulates all the problems with the you-centric view.
+
+She said that whenever she's with a patient, she feels like a fraud. She has to abandon her true self, the fun and loving person that
+she knows and wear a mask. The mask hides _her_ and shows a matter-of-fact and an emotionally unconnected doctor. She can't show
+her fun side because her patients are usally in very serious condtions. And she can't show her love because she said that it could
+affect her judgement.
+
+Her conflict arises not only from the fact that she's not being her normal self when she's with patients. But strangely, it's from the
+fact that her normal fun and loving self loves her job, but when she's in her mask, she doesn't care for it at all.
+
+Are there alternatives? [^1]
+
+Instead of the you-centric view, you may want consider viewing yourself as a multitude of selves. Each with its own wants, needs and disposition
+to the world.
 
 [wip]
 
 ### Later
 
-So who is really you? Here comes the disucssion of self.
+So who is really you? Here comes the disucssion of self. Meaning if it's not hte center you. Even the many yous, which one is it. The you!
+
+[^1] I promise, as of today, 2021/10/21, I've never done mushrooms or any drugs for that matter. With the exceptions of a few joints under social pressure.
