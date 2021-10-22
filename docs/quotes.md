@@ -76,7 +76,7 @@ categories: quotes
 
 <br>
 
-> Let your soul stand cool and composed before a million universes.
+> Stand cool and composed before a million universes.
 
 -- Walt Whitman
 
