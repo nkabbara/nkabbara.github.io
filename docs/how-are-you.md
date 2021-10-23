@@ -40,6 +40,8 @@ you have to tend to all the parts at all times under the pressure of your identi
 
 Not tending to one of the parts feels bad. Like a ding in your identity's armor.
 
+(maybe replace #2 with conflic resolution between parts. How can it be done if it's the same part?)
+
 **Finally, the you-centric model does not match with how things feel in reality.** Observe yourself in the following situations:
 
 - Hanging out with a close friend
@@ -76,20 +78,52 @@ Each with its own wants, needs and disposition to the world [^1].
 One way to start adopting this view is to notice which set of behaviors constantly show themselves in your life and name them. For example:
 
 - Father Self
-- Critical Self.
 - Professional Self
 - Barista Self
 - Business Owner Self
-- Listener Self
-- Why Don't I Have That Self
 - Obsessive Self
 
-> friend owns a coffe shop. She’s boss, barista, cashier and everything. She loves the following things. She runs into situations where she has to summon a certain mindset to make it all withwhile. She calls it the multi hat state. She’s wearing the barista hat, the professional hat, etc…
+_(Maybe follow a pattern of story/explanation below as you go along)_
 
 Once you've named them, then it becomes easier to notice who's in charge of your world at any given time.
 
-A friend of mine owns a coffee shop. His passion is making perfect espressos. When he describes his day to me, he does it in terms
-of selves.
+A friend of mine owns a coffee shop. His passion is making perfect espressos. He
+sources his coffee from a mountain in Mexico where the height and conditions are
+exactly like he thinks they should be. His store is decked with La Marzocco apartus
+think Ferarri of cars.
+
+One surprising thing about him though, is when a customer complains about his product,
+he responds in a way where you wouldn't think that that is the same person that can
+identify a coffee bean's type just by smelling it. He responds with complete agreement
+and asks the clueless customer how he'd like his espresso. And when the customer says,
+more like Starbucks please, he doesn't throw the coffee at the custoemrs's face and kick
+him out of the store. Instead, he makes him a bad espresso.
+
+When I asked about this he said when a customer complains about his drinks, he does not
+encourage the Barista Self to take charge, instead, he encourages the Profession Self.
+Otherwise the situation would turn into an espressor snobery debate and the customer
+into a one timer. But when he's actually making the espresso, he invokes his passion
+by summoning the Barista Self. The same self that stays at the shop late into
+the night experimenting with different beans, grind levels and temperatures.
+
+The Professional self is, in a way, a completely different creature from the Barista Self.
+The first is charming and serves at the pleasure of the customer. The Barista Self is focused,
+scientific and obsessive.
+
+When a customer complains, he summons the Professional Self and as professionals do, actualize the purpose
+of their profession. In this case, to give the customer their caffein in any way the customer wants it. The Professional
+Self is the one that also opens the store on time, and stays later if there are customers still around.
+The Teacher Self shows up when an employee is having a hard time and needs help improving.
+
+This becomes interesting when conflicts arise between selves.
+
+My friend again: when he wears his business hat (Business Self), he clearly sees that he can order beans from another farmer that
+is 20% cheaper, increasing his profits substantially. But then he wears his Barista Hat (Barista Self) and he knows that this is
+going to make less than perfect espressos. What shall he do? Which self should he listen to?
+
+When conflicts arise between selves, the only solution is collaboration in solving problems.
+You will never get rid of yourselves. They're always going to be in you. So you must resolve
+conflicts for everyone to get their fair share of the floor.
 
 [wip]
 
@@ -100,5 +134,7 @@ of selves.
 - Modify example paragraph with the hats analogy
 - when learning self is in charge, then ego self has the least say.
 - Compatible selves. If someone is behing directed purely by ego self, then which self do you need to pull out? Definitely not your ego self.
+- Read this out loud when done. Re-edit.
+- This can become detrimental if you think about it too much
 
 [^1]: No, as of today, 2021/10/21, I've never done mushrooms or any psychadelics.

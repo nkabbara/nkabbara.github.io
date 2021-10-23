@@ -16,5 +16,7 @@ When I've successfully integrated the ideas into my thinking and happy with the 
 ### Also Also
 
 I'm writing to myself. These articles are to help me sleep better when I can't. To learn better when I'm not.
-To be happier when I'm sad. To have some answers to what does it all mean when I need them.
+To be happier when I'm sad. To have some answers to 'what does it all mean?'' when I need them.
 If they help others in any way, then I'm one thousand times happier.
+
+Some stories are fictional, some aren't.
