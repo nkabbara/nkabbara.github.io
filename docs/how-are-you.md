@@ -68,16 +68,37 @@ affect her judgement.
 Her conflict arises not only from the fact that she's not being her normal self when she's with patients. But strangely, it's from the
 fact that her normal fun and loving self loves her job, but when she's in her mask, she doesn't care for it at all.
 
-Are there alternatives? [^1]
+Are there alternatives?
 
-Instead of the you-centric view, you may want consider viewing the word from the perspective of one of a multitude of selves.
-Each with its own wants, needs and dispositions to the world. Not viewing yourself, but viewing the world. This distinction will
-is important and will become clear later.
+Instead of the you-centric view, you may want consider viewing the world from the perspective of one of a multitude of selves.
+Each with its own wants, needs and disposition to the world [^1].
+
+One way to start adopting this view is to notice which set of behaviors constantly show themselves in your life and name them. For example:
+
+- Father Self
+- Critical Self.
+- Professional Self
+- Barista Self
+- Business Owner Self
+- Listener Self
+- Why Don't I Have That Self
+- Obsessive Self
+
+> friend owns a coffe shop. She’s boss, barista, cashier and everything. She loves the following things. She runs into situations where she has to summon a certain mindset to make it all withwhile. She calls it the multi hat state. She’s wearing the barista hat, the professional hat, etc…
+
+Once you've named them, then it becomes easier to notice who's in charge of your world at any given time.
+
+A friend of mine owns a coffee shop. His passion is making perfect espressos. When he describes his day to me, he does it in terms
+of selves.
 
 [wip]
 
 ### Later
 
-So who is really you? Here comes the disucssion of self. Meaning if it's not hte center you. Even the many yous, which one is it. The you!
+- So who is really you? Here comes the disucssion of self. Meaning if it's not hte center you. Even the many yous, which one is it. The you!
+- Maybe one of the benefits. Not viewing yourself, but viewing the world. This distinction will is important and will become clear later.
+- Modify example paragraph with the hats analogy
+- when learning self is in charge, then ego self has the least say.
+- Compatible selves. If someone is behing directed purely by ego self, then which self do you need to pull out? Definitely not your ego self.
 
-[^1]: I promise, as of today, 2021/10/21, I've never done mushrooms or any drugs for that matter. With the exceptions of a few joints under social pressure.
+[^1]: No, as of today, 2021/10/21, I've never done mushrooms or any psychadelics.
