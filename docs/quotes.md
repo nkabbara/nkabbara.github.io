@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.2.1
+version: 1.3.1
 categories: quotes
 ---
+
+> Teach thy tongue to say I do not know, and thou shalt progress.
+
+-- Rabbi Moses ben Maimon
+
+<br>
 
 > Tension is who you think you should be. Relaxation is who you are.
 
