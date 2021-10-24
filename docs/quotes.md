@@ -8,7 +8,7 @@ categories: quotes
 
 > I’m no genius. I’m smart in spots—but I stay around those spots.
 
--— Tom Watson Sr
+-- Tom Watson Sr
 
 <br>
 
