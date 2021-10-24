@@ -2,7 +2,7 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.4.1
+version: 1.4.2
 categories: quotes
 ---
 
