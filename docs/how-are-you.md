@@ -2,7 +2,7 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.3.0
+version: 0.4.0
 categories: philosophy
 ---
 
@@ -72,36 +72,65 @@ fact that her normal fun and loving self loves her job, but when she's in her ma
 
 Are there alternatives?
 
-Instead of the you-centric view, you may want consider viewing the world from the perspective of one of a multitude of selves.
-Each with its own wants, needs and disposition to the world [^1].
+Instead of the you-centric view, you may want consider viewing the world from
+the perspective of one of a multitude of selves. Each with its own wants,
+needs and disposition to the world [^1].
 
-One way to start adopting this view is to notice which set of behaviors constantly show themselves in your life and name them. For example:
+One way to start experimenting with this view is to notice which set of behaviors
+constantly show themselves in your life and name them. For example:
 
 - Father Self
-- Professional Self
-- Barista Self
 - Business Owner Self
+- Barista Self
+- Professional Self
 - Obsessive Self
 
 _(Maybe follow a pattern of story/explanation below as you go along)_
 
-Once you've named them, then it becomes easier to notice who's in charge of your world at any given time.
+Once you've named them, then it becomes easier to notice who's in charge of your world
+at any given time.
+
+When you're hanging out with your kids, it might be the Father Self that's occupying
+the leadership position. You're nurturing, protective, loving and playful. And
+when your kid accidentally punches you in the nose, your Fight-or-Flight Self takes
+over and suddently, you're angry, upset and aggressive. Until the Father Self takes
+over again.
+
+Note, in this model, there is no You Self and no single self in charge at all times. There are just
+these different groups of behaviors that you've named.
+
+After playing with this for a while and being able to easily tell which self is charge, you can take
+things a step further and start summoning the optimal self for the given
+situation. The goal is always to make all your selves content in the long run.
+
+A friend of mine is one of those perfectionist baristas that makes coffee at a specialty
+coffee shop. He happens to be the owner as well. Whenever a customer complains about his
+'perfect' espresso, he removes the barista hat (Barista Self) and puts on the
+professional hat (Professional Self) and remakes the shot, imperfectly, for the
+customer's enjoyment. With a smile.
+
+Although his passion is making coffee, he's able to summon the
+right self at the right time in order to satisfy all his selves: His Father Self to be
+able to provide for his kids. His Business Owner Self to maintain and solid P&L. His
+Porfessional Self and Barista Self will compromise: make the perfect espresso for
+the connasoeurs, and make the regular ones for everyone else.
+
+---
 
 A friend of mine owns a coffee shop. His passion is making perfect espressos. He
 sources his coffee from a mountain in Mexico where the height and conditions are
-exactly like he thinks they should be. His store is decked with La Marzocco apartus
-think Ferarri of cars.
+perfect. His store is decked with La Marzocco equipment, think the Ferarri of coffee machines.
 
-One surprising thing about him though, is when a customer complains about his product,
-he responds in a way where you wouldn't think that that is the same person that can
-identify a coffee bean's type just by smelling it. He responds with complete agreement
+When a customer complains about his coffee, he responds in a way where
+you wouldn't think that that is the same person that can
+identify a coffee bean just by smelling it. He responds with complete agreement
 and asks the clueless customer how he'd like his espresso. And when the customer says,
-more like Starbucks please, he doesn't throw the coffee at the custoemrs's face and kick
-him out of the store. Instead, he makes him a bad espresso.
+he wants it more like Starbucks' cofee, he doesn't ask the customer to leave the store.
+Instead, he happily makes him a bad espresso.
 
-When I asked about this he said when a customer complains about his drinks, he does not
-encourage the Barista Self to take charge, instead, he encourages the Profession Self.
-Otherwise the situation would turn into an espressor snobery debate and the customer
+When I asked him about this he said when a customer complains about his drinks, he does not
+encourage the Barista Self to take charge, instead, he encourages the Professional Self.
+Otherwise the situation would turn into an espresso snobery debate and the customer
 into a one timer. But when he's actually making the espresso, he invokes his passion
 by summoning the Barista Self. The same self that stays at the shop late into
 the night experimenting with different beans, grind levels and temperatures.
