@@ -2,7 +2,7 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.4.0
+version: 0.5.0
 categories: philosophy
 ---
 
@@ -80,15 +80,15 @@ One way to start experimenting with this view is to notice which set of behavior
 constantly show themselves in your life and name them. For example:
 
 - Father Self
-- Business Owner Self
-- Barista Self
+- Husband Self
 - Professional Self
+- Business Owner Self
 - Obsessive Self
 
 _(Maybe follow a pattern of story/explanation below as you go along)_
 
 Once you've named them, then it becomes easier to notice who's in charge of your world
-at any given time.
+at different times.
 
 When you're hanging out with your kids, it might be the Father Self that's occupying
 the leadership position. You're nurturing, protective, loving and playful. And
@@ -96,63 +96,54 @@ when your kid accidentally punches you in the nose, your Fight-or-Flight Self ta
 over and suddently, you're angry, upset and aggressive. Until the Father Self takes
 over again.
 
-Note, in this model, there is no You Self and no single self in charge at all times. There are just
-these different groups of behaviors that you've named.
+In this model, there is no You Self and no single self in charge at all times. There are just
+these different selves that you've named and each is in charge at different times.
 
 After playing with this for a while and being able to easily tell which self is charge, you can take
 things a step further and start summoning the optimal self for the given
-situation. The goal is always to make all your selves content in the long run.
+situation. The ultimate goal is making sure that all your selves are fulfilled because
+they're doing what they're good at for the given situation.
 
-A friend of mine is one of those perfectionist baristas that makes coffee at a specialty
-coffee shop. He happens to be the owner as well. Whenever a customer complains about his
-'perfect' espresso, he removes the barista hat (Barista Self) and puts on the
-professional hat (Professional Self) and remakes the shot, imperfectly, for the
-customer's enjoyment. With a smile.
+An aqaintance of mine is an engineer that works on projects that impact millions of users.
+At times, he has to perform mission ciritlca tasks while a dozen colleagues are
+watching every step he's taking. He said that these situations always start with the wrong
+self in charge. It's usually the Professional Self that wants to maintain a certain image,
+or the Over Cautions Self enumerating all the bad things that could happen. My friend said
+that he has to actively take a step back and invite the Engineer Self to take the floor.
+The calm, stoic and calculating self that can run the show with steady hands.
 
-Although his passion is making coffee, he's able to summon the
-right self at the right time in order to satisfy all his selves: His Father Self to be
-able to provide for his kids. His Business Owner Self to maintain and solid P&L. His
-Porfessional Self and Barista Self will compromise: make the perfect espresso for
-the connasoeurs, and make the regular ones for everyone else.
+As you can see from my friend's example, naming selves and learning how to summon
+them for their proper role, implies an interaction between the selves. It's a dynamic
+partnership, where when one is needed, they take charge, but they're not hugnry for power.
+They give the floor when they know another self is better suited for the role.
+
+You can develop a duo, or trio or a quartent of selves that are present at all times with
+one of them holding the fort at a time. They switch duty as needed and when needed.
+
+In my friend's example, at work, he has the Engineer Self to handle the technical tasks. When those
+are done, the Professional Self takes over to handle the results of the work. And finally the
+Social Self might take over to go out and celebrate. A trio that occupies his space while at work.
+When he arrives home, another set of selves take over: The Father Self, The Husband Self, The Writer Self
+and the Leisure Self. The afterwork quartet interchaning leadership.
+
+It's always a good idea to take a breath and ask: which self is in charge now?
+Especially when things aren't going your way. When you're writing and your
+daughter is nagging at you to get dinner ready you may respond as the annoyed Writer
+Self or the nurturing Father Self. Which one will make all of your selves more content?
+
+This framing of selves removes the center you so there's no an overwhelming feeling
+of pressure to do a million things. Instead, it's different selves doing what's best
+for them at the right time.
+
+The conflict that my doctor friend felt with her patients can resolve itself in this
+framework. As a Doctor Self, she can assume the proper attitude and do what's best
+for her patients. The Doctor Self might grow and learn how to show love and be fun
+without losing jeapordising her mission. When she leaves the hospital she summons
+her Social Self and does what's best for that self. In reality everything is the same
+for the exception of how she feels about it all. This release of energy that
+was occupying her mind, makes room for growth.
 
 ---
-
-A friend of mine owns a coffee shop. His passion is making perfect espressos. He
-sources his coffee from a mountain in Mexico where the height and conditions are
-perfect. His store is decked with La Marzocco equipment, think the Ferarri of coffee machines.
-
-When a customer complains about his coffee, he responds in a way where
-you wouldn't think that that is the same person that can
-identify a coffee bean just by smelling it. He responds with complete agreement
-and asks the clueless customer how he'd like his espresso. And when the customer says,
-he wants it more like Starbucks' cofee, he doesn't ask the customer to leave the store.
-Instead, he happily makes him a bad espresso.
-
-When I asked him about this he said when a customer complains about his drinks, he does not
-encourage the Barista Self to take charge, instead, he encourages the Professional Self.
-Otherwise the situation would turn into an espresso snobery debate and the customer
-into a one timer. But when he's actually making the espresso, he invokes his passion
-by summoning the Barista Self. The same self that stays at the shop late into
-the night experimenting with different beans, grind levels and temperatures.
-
-The Professional self is, in a way, a completely different creature from the Barista Self.
-The first is charming and serves at the pleasure of the customer. The Barista Self is focused,
-scientific and obsessive.
-
-When a customer complains, he summons the Professional Self and as professionals do, actualize the purpose
-of their profession. In this case, to give the customer their caffein in any way the customer wants it. The Professional
-Self is the one that also opens the store on time, and stays later if there are customers still around.
-The Teacher Self shows up when an employee is having a hard time and needs help improving.
-
-This becomes interesting when conflicts arise between selves.
-
-My friend again: when he wears his business hat (Business Self), he clearly sees that he can order beans from another farmer that
-is 20% cheaper, increasing his profits substantially. But then he wears his Barista Hat (Barista Self) and he knows that this is
-going to make less than perfect espressos. What shall he do? Which self should he listen to?
-
-When conflicts arise between selves, the only solution is collaboration in solving problems.
-You will never get rid of yourselves. They're always going to be in you. So you must resolve
-conflicts for everyone to get their fair share of the floor.
 
 [wip]
 
