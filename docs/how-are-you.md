@@ -2,7 +2,7 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.6.0
+version: 0.6.1
 categories: philosophy
 ---
 
@@ -134,8 +134,6 @@ Meaning the rest of the band is going to be sub-optimal the next day. Afterall, 
 Which brings us to the fact that in the beginning, you might not get to pick all the band members.
 They're just there. You can learn how to summon each for a solo, or discourage some from taking big parts.
 But acceptance of each self as it is essential for this to work.
-
-- Resolution of you, overwhelming and no match with reality
 
 My doctor friend at the beginning of this article viewed the world from a you-centric angle. Her
 You in the middle was a doctor that is supposed to behave and act in certain ways. Anytime she veered
