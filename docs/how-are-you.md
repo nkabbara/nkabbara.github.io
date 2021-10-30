@@ -2,7 +2,7 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.5.0
+version: 0.6.0
 categories: philosophy
 ---
 
@@ -77,15 +77,13 @@ the perspective of one of a multitude of selves. Each with its own wants,
 needs and disposition to the world [^1].
 
 One way to start experimenting with this view is to notice which set of behaviors
-constantly show themselves in your life and name them. For example:
+cohesive constantly show themselves in your life and name them. For example:
 
 - Father Self
 - Husband Self
 - Professional Self
 - Business Owner Self
 - Obsessive Self
-
-_(Maybe follow a pattern of story/explanation below as you go along)_
 
 Once you've named them, then it becomes easier to notice who's in charge of your world
 at different times.
@@ -96,52 +94,89 @@ when your kid accidentally punches you in the nose, your Fight-or-Flight Self ta
 over and suddently, you're angry, upset and aggressive. Until the Father Self takes
 over again.
 
-In this model, there is no You Self and no single self in charge at all times. There are just
-these different selves that you've named and each is in charge at different times.
+In this model, there is no a center You Self. And there's no single self in charge at all times.
+There are just these different selves that you've named and each is in charge at different times.
+It's very dynamic.
 
 After playing with this for a while and being able to easily tell which self is charge, you can take
-things a step further and start summoning the optimal self for the given
-situation. The ultimate goal is making sure that all your selves are fulfilled because
-they're doing what they're good at for the given situation.
+things a step further and start playing with summoning the optimal self for some
+situation you're in.
 
 An aqaintance of mine is an engineer that works on projects that impact millions of users.
 At times, he has to perform mission ciritlca tasks while a dozen colleagues are
 watching every step he's taking. He said that these situations always start with the wrong
 self in charge. It's usually the Professional Self that wants to maintain a certain image,
-or the Over Cautions Self enumerating all the bad things that could happen. My friend said
+or the Over Cautions Self enumerating in his ear all the bad things that could happen. He said
 that he has to actively take a step back and invite the Engineer Self to take the floor.
 The calm, stoic and calculating self that can run the show with steady hands.
 
 As you can see from my friend's example, naming selves and learning how to summon
 them for their proper role, implies an interaction between the selves. It's a dynamic
 partnership, where when one is needed, they take charge, but they're not hugnry for power.
-They give the floor when they know another self is better suited for the role.
+They give up the floor when they know another self is better suited for the role.
 
-You can develop a duo, or trio or a quartent of selves that are present at all times with
-one of them holding the fort at a time. They switch duty as needed and when needed.
+When you're able to clearly observe the interaction between different selves and which
+work well together, you may start grouping them into duos, trios or quartets of selves.
+Each member of the band holds the fort when they're needed and gracefully gives it up
+when the next member's abilities are more suitable to the change that is taking place.
 
-In my friend's example, at work, he has the Engineer Self to handle the technical tasks. When those
-are done, the Professional Self takes over to handle the results of the work. And finally the
-Social Self might take over to go out and celebrate. A trio that occupies his space while at work.
-When he arrives home, another set of selves take over: The Father Self, The Husband Self, The Writer Self
-and the Leisure Self. The afterwork quartet interchaning leadership.
+In my friend's example, at work, he has a quartet that he calls the Work Quartet.
 
-It's always a good idea to take a breath and ask: which self is in charge now?
-Especially when things aren't going your way. When you're writing and your
-daughter is nagging at you to get dinner ready you may respond as the annoyed Writer
-Self or the nurturing Father Self. Which one will make all of your selves more content?
+Its members are the Engineer Self to handle the technical tasks. When those
+are done, the Professional Self takes over to handle the results of the work. The Learner
+Self almost always shows up to observer what lessons can be taken from what was done and if
+there's room for improvements for next time.
 
-This framing of selves removes the center you so there's no an overwhelming feeling
-of pressure to do a million things. Instead, it's different selves doing what's best
-for them at the right time.
+The last member of the Pro Quartet is the Obsessive Self. He's the one that stays up late at night trying
+to solve a problem when it's well past his bedtime, and things have become unproductive for everyone.
+Meaning the rest of the band is going to be sub-optimal the next day. Afterall, all the selves share the same body.
 
-The conflict that my doctor friend felt with her patients can resolve itself in this
-framework. As a Doctor Self, she can assume the proper attitude and do what's best
-for her patients. The Doctor Self might grow and learn how to show love and be fun
-without losing jeapordising her mission. When she leaves the hospital she summons
-her Social Self and does what's best for that self. In reality everything is the same
-for the exception of how she feels about it all. This release of energy that
-was occupying her mind, makes room for growth.
+Which brings us to the fact that in the beginning, you might not get to pick all the band members.
+They're just there. You can learn how to summon each for a solo, or discourage some from taking big parts.
+But acceptance of each self as it is essential for this to work.
+
+- Resolution of you, overwhelming and no match with reality
+
+My doctor friend at the beginning of this article viewed the world from a you-centric angle. Her
+You in the middle was a doctor that is supposed to behave and act in certain ways. Anytime she veered
+from that, she felt like she's not herself.
+
+With a multi-self model, she might observe a Work Trio. The Doctor Self might take the leadership
+when emergiencies, analysese & prognosese are called for. The Ampethy Self could take over when a patient is
+describing his pain and how his condition is disrupting his life. The Playful self might take over when
+the patient is in recovery and things are looking good.
+
+And when she gets home, her Home Trio might take over. The Pet Mother self plays with the dogs and walks them.
+The Writer Self continues working on her article. And the Fitness Self focuses on the body to improve
+its strength and nimbleness for the rest of her selves and bands.
+
+There's no a centered doctor who's image drives her whole being anymore. She might not feel overhelmed
+that she has to do a million things in order for things to be fine. And her view of the world matches
+perfectly based on which role or situation she's in.
+
+If this is making sense to you and you can experientially observe it, then a very curious
+question comes up. **Whos is really you?**
+
+## Miscellatnea
+
+- The ultamate goal of each self is to increase the well being and happiness of all selves
+  in the long run.
+- Naming selves is mainly an exercise in creativity, but with one important rule: the name
+  cannot have any negative connotations. At best, it should describe how things actually are like
+  and not use an overloaded term. Examples: I Want it Too Self vs. Jealous Self. The former doesn't
+  have a negative connotation, while the last could mean many things. Being gentle with each self
+  is imporant for its growth. Otherwise, it'll cry for attention and try to take over the band.
+- There are times when it feels like there's nothing you can do to summon a self. A
+  dictator-like sub-optimal self is in control. Maybe this self is lacking something? Can you give
+  them what they need and learn more about them?
+- A instructive exercise is one where you pause at every liminal moment and you ask, which self is
+  in charge now?
+- Realize that most people are viewing the world from a you-centric lense. If the multi-selves
+  view clicks for you, you'll notice that, actually, different selves are present base on the
+  interaction. When you're alone with a friend he might be one way, but when your with them
+  in a group, he could be 'like a completely different person'. It's a good practive to match
+  one of your optimal self with the present self of the person you're with. If they're worth
+  the effort.
 
 ---
 
