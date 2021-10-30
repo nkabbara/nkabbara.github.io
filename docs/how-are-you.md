@@ -178,16 +178,6 @@ question comes up. **Whos is really you?**
 
 ---
 
-[wip]
-
-### Later
-
-- So who is really you? Here comes the disucssion of self. Meaning if it's not hte center you. Even the many yous, which one is it. The you!
-- Maybe one of the benefits. Not viewing yourself, but viewing the world. This distinction will is important and will become clear later.
-- Modify example paragraph with the hats analogy
-- when learning self is in charge, then ego self has the least say.
-- Compatible selves. If someone is behing directed purely by ego self, then which self do you need to pull out? Definitely not your ego self.
-- Read this out loud when done. Re-edit.
-- This can become detrimental if you think about it too much
-
-[^1]: No, as of today, 2021/10/21, I've never done mushrooms or any psychadelics.
+[^1]:
+    No, as of today, 2021/10/21, I've never done mushrooms or any psychadelics. But a lot of people that
+    have [describe the world this way](https://amzn.to/3BuJ1LS).
