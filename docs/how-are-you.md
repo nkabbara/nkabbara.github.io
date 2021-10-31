@@ -2,7 +2,7 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.6.1
+version: 0.7.1
 categories: philosophy
 ---
 
@@ -157,7 +157,7 @@ question comes up. **Whos is really you?**
 
 ## Miscellatnea
 
-- The ultamate goal of each self is to increase the well being and happiness of all selves
+- The ultamate goal of each self is to increase the well being and happiness of all the selves
   in the long run.
 - Naming selves is mainly an exercise in creativity, but with one important rule: the name
   cannot have any negative connotations. At best, it should describe how things actually are like
@@ -175,6 +175,10 @@ question comes up. **Whos is really you?**
   in a group, he could be 'like a completely different person'. It's a good practive to match
   one of your optimal self with the present self of the person you're with. If they're worth
   the effort.
+- You may notice that you're naming too many selves. I think this takes a lot of trial and error
+  to feel what is a self and what is a charactaristic of a self. How do you know that you're
+  naming a self and not a charactaristic of a self? I think this questions is worth exploring
+  if you're adopt this kind of view.
 
 ---
 
