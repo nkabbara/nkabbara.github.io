@@ -6,21 +6,15 @@ version: 0.7.1
 categories: philosophy
 ---
 
-_This is not an attempt at philosophy. It's purely subjective. The second person
-in my articles is not the conventional one. It’s referring to one of the me's described here._
+_This is purely subjective. It's not philosophy_
 
-When you think of yourself, you probably envision yourself at the bullseye of a circle with
-different parts. These parts are what make you who you are.
-Usually, these are: the physical part, the emotional part, the professional part, etc...
+When you think of yourself, you probably envision a You at the bullseye of a circle that's
+made up of different parts. Their totality is what makes you who you are now.
 
-Each of these parts will have some tasks for you to complete. And when you do, you're supposed
-to feel more fulfilled. More you.
+You might envision a phisical part that requires you to do some daily exercise, a spiritual
+part that has you meditate, a professional part that begs you to show up on time everyday. Etc...
 
-The physical part will have something like exercise three times a week, eat healthy
-meals on weekdays. The emotional part might have something like meditate for thirty minutes a day,
-tell the people that you love, that you love them.
-
-This view of yourself has problems.
+This is a very common view, but it has some problems.
 
 **First, it centers _you_ at the middle of it all.** As you workout and meditate and communicate your love
 consistently over the years, it will increase the resolution of the _you_ in the center. You _become_ the fit,
@@ -39,8 +33,6 @@ in detrimental ways starting from unproductive habits to depression.
 you have to tend to all the parts at all times under the pressure of your identity. Your center _you_.
 
 Not tending to one of the parts feels bad. Like a ding in your identity's armor.
-
-(maybe replace #2 with conflic resolution between parts. How can it be done if it's the same part?)
 
 **Finally, the you-centric model does not match with how things feel in reality.** Observe yourself in the following situations:
 
