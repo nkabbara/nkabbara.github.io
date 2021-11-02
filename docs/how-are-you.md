@@ -9,16 +9,19 @@ categories: philosophy
 _This is purely subjective. It's not philosophy_
 
 When you think of yourself, you probably envision a You at the bullseye of a circle that's
-made up of different parts. Their totality is what makes you who you are now.
+made up of different parts. You may think of their totality as what makes you who you are now.
 
-You might envision a phisical part that requires you to do some daily exercise, a spiritual
-part that has you meditate, a professional part that begs you to show up on time everyday. Etc...
+The most common representation of this view has a physical part with some health related
+activies that you must do. Like exercise three times a week and eat healthy. A spiritual
+part that advices you to meditate and take walks in nature. And several other parts
+with their corresponding tasks that are supposed to fullfill your existence and
+reinforce your purpose.
 
-This is a very common view, but it has some problems.
+This common view has some problems.
 
-**First, it centers _you_ at the middle of it all.** As you workout and meditate and communicate your love
-consistently over the years, it will increase the resolution of the _you_ in the center. You _become_ the fit,
-contemplative, loving person.
+**First, it centers _you_ in the middle of it all.** As you workout and meditate and do the rest
+of the activities consistently over the years, it will increase the resolution of the _you_ in the center.
+You _become_ the fit, contemplative person.
 
 <img src="/assets/hey-you-in-the-middle.png" height="400" style="float: right;">
 
@@ -26,33 +29,31 @@ The problem with that identification is that as soon as you can't do the things 
 _you_, your identity is shaken.
 
 Not being able to work out anymore due to a chronic injury will change _you_
-from fit, contemplative, loving to unfit, contemplative and loving. This blow to your identity could manifest
-in detrimental ways starting from unproductive habits to depression.
+from fit and contemplative to unfit and contemplative. This blow to your identity could manifest
+in detrimental ways.
 
-**Second, it is overwhelming to be the conductor in the center running the whole show.** Everyday of every year, until you the day you die,
-you have to tend to all the parts at all times under the pressure of your identity. Your center _you_.
-
-Not tending to one of the parts feels bad. Like a ding in your identity's armor.
+**Second, it is overwhelming to be the conductor in the center running the whole show.**
+You have to tend to all the tasks and activities that your parts demand.
+Not tending to them as planned feels bad. Almost like a ding in your identity's armor.
 
 **Finally, the you-centric model does not match with how things feel in reality.** Observe yourself in the following situations:
 
 - Hanging out with a close friend
 - Hanging out with your boss
-- Under extreme stress
 - Alone in your living room staring at the ceiling
+- Under extreme pressure
 - Very hungry
-- Making love
 
 Do these feel like the same _you_ in the center, but with a different mood? Or the do they feel more like a **completely different person?**
 
 How you think about things matters. If you think about them incorrectly, you'll end up spending a lot of energy
-on exceptions to make things fit into your thinking. Solar system math pre Galileo was littered with many
-complicated exceptions in order to justify the sun's orbit around the earth. All those exceptions became unnecessary
+on workarouds to make things fit into your model of the world.
+
+Solar system math pre Galileo was littered with many complicated exceptions in order to justify
+the sun's orbit around the earth. All those exceptions became unnecessary
 after his discoveries. Things naturally fell into place without the need for exceptions.
 
-Maybe in the same way, moving away from the you-centric model, might change the wind to your advantage in how you interact with the world.
-
-A friend, an infectologist, recently described to me a situation which encapsulates all the problems with the you-centric view.
+A friend of mine, a doctor, recently described to me a situation which encapsulates all the problems with the you-centric view.
 
 She said that whenever she's with a patient, she feels like a fraud. She has to abandon her true self, the fun and loving person that
 she knows and wear a mask. The mask hides _her_ and shows a matter-of-fact and an emotionally unconnected doctor. She can't show
