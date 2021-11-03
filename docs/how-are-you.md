@@ -2,22 +2,22 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.7.1
+version: 0.8.1
 categories: philosophy
 ---
 
-_This is purely subjective. It's not philosophy_
+_This is purely subjective. It's not philosophy._
 
 When you think of yourself, you probably envision a You at the bullseye of a circle that's
-made up of different parts. You may think of their totality as what makes you who you are now.
+made up of different parts.
 
 The most common representation of this view has a physical part with some health related
 activies that you must do. Like exercise three times a week and eat healthy. A spiritual
-part that advices you to meditate and take walks in nature. And several other parts
-with their corresponding tasks that are supposed to fullfill your existence and
+part that advices you to meditate and take long walks in nature. And several other parts
+with their corresponding tasks that are supposed to increase your potential and
 reinforce your purpose.
 
-This common view has some problems.
+This you-centric view is extremely common and variations of it are encouraged by popular books like [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519). But it has some potential problems.
 
 **First, it centers _you_ in the middle of it all.** As you workout and meditate and do the rest
 of the activities consistently over the years, it will increase the resolution of the _you_ in the center.
@@ -29,14 +29,14 @@ The problem with that identification is that as soon as you can't do the things 
 _you_, your identity is shaken.
 
 Not being able to work out anymore due to a chronic injury will change _you_
-from fit and contemplative to unfit and contemplative. This blow to your identity could manifest
-in detrimental ways.
+from the fit and contemplative person to the unfit and contemplative person.
+This blow to your identity could manifest in detrimental ways.
 
-**Second, it is overwhelming to be the conductor in the center running the whole show.**
+**Second, it is overwhelming to be the conductor in the center running the whole show at all times.**
 You have to tend to all the tasks and activities that your parts demand.
-Not tending to them as planned feels bad. Almost like a ding in your identity's armor.
+And not tending to them as planned feels bad. Almost like you are losing yourself.
 
-**Finally, the you-centric model does not match with how things feel in reality.** Observe yourself in the following situations:
+**Finally, the you-centric model does not match with how things really feel.** Observe yourself in the following situations:
 
 - Hanging out with a close friend
 - Hanging out with your boss
@@ -46,31 +46,31 @@ Not tending to them as planned feels bad. Almost like a ding in your identity's 
 
 Do these feel like the same _you_ in the center, but with a different mood? Or the do they feel more like a **completely different person?**
 
+A friend of mine, a doctor, recently described to me a situation which encapsulates all the problems with the you-centric view.
+
+She said that whenever she's with a patient, she feels like a fraud. She has to abandon her true self, the fun and loving person that
+she knows she is and wear a mask. The mask hides _her_ and shows a matter-of-fact and an emotionally disconnected doctor. She can't show
+her fun side because her patients are usally in very serious condtions. And she can't show her love because she said that it could
+affect her judgement.
+
+Her conflict arises not only from the fact that she's not being her normal self when she's with patients. But strangely,
+also from the fact that her normal fun and loving self loves her job, but when she's in her mask, she doesn't care for it much.
+
+**Are there alternatives?**
+
 How you think about things matters. If you think about them incorrectly, you'll end up spending a lot of energy
-on workarouds to make things fit into your model of the world.
+on exceptions to make things fit into your incorrect model of the world.
 
 Solar system math pre Galileo was littered with many complicated exceptions in order to justify
 the sun's orbit around the earth. All those exceptions became unnecessary
 after his discoveries. Things naturally fell into place without the need for exceptions.
 
-A friend of mine, a doctor, recently described to me a situation which encapsulates all the problems with the you-centric view.
-
-She said that whenever she's with a patient, she feels like a fraud. She has to abandon her true self, the fun and loving person that
-she knows and wear a mask. The mask hides _her_ and shows a matter-of-fact and an emotionally unconnected doctor. She can't show
-her fun side because her patients are usally in very serious condtions. And she can't show her love because she said that it could
-affect her judgement.
-
-Her conflict arises not only from the fact that she's not being her normal self when she's with patients. But strangely, it's from the
-fact that her normal fun and loving self loves her job, but when she's in her mask, she doesn't care for it at all.
-
-Are there alternatives?
-
 Instead of the you-centric view, you may want consider viewing the world from
 the perspective of one of a multitude of selves. Each with its own wants,
-needs and disposition to the world [^1].
+needs and disposition.
 
-One way to start experimenting with this view is to notice which set of behaviors
-cohesive constantly show themselves in your life and name them. For example:
+One way to start experimenting with this view is to **notice which set of cohesive behaviors
+constantly show themselves in your life and name them.** For example:
 
 - Father Self
 - Husband Self
@@ -82,18 +82,17 @@ Once you've named them, then it becomes easier to notice who's in charge of your
 at different times.
 
 When you're hanging out with your kids, it might be the Father Self that's occupying
-the leadership position. You're nurturing, protective, loving and playful. And
-when your kid accidentally punches you in the nose, your Fight-or-Flight Self takes
-over and suddently, you're angry, upset and aggressive. Until the Father Self takes
-over again.
+you. You're nurturing, protective, loving and playful. And when your kid accidentally (or not)
+punches you in the nose, your Fight-or-Flight Self takes over and suddently, you're angry,
+upset and aggressive. Until the Father Self takes over again.
 
-In this model, there is no a center You Self. And there's no single self in charge at all times.
+In this model, there is no a center You running the show. And there's no single self in charge at all times.
 There are just these different selves that you've named and each is in charge at different times.
 It's very dynamic.
 
-After playing with this for a while and being able to easily tell which self is charge, you can take
-things a step further and start playing with summoning the optimal self for some
-situation you're in.
+After playing with this for a while and being able to easily tell which self is in charge, you can take
+things a step further. **You may experiment with actively summoning a self that is suitable for
+a specific situation you're in.**
 
 An aqaintance of mine is an engineer that works on projects that impact millions of users.
 At times, he has to perform mission ciritlca tasks while a dozen colleagues are
@@ -109,10 +108,13 @@ partnership, where when one is needed, they take charge, but they're not hugnry 
 They give up the floor when they know another self is better suited for the role.
 
 When you're able to clearly observe the interaction between different selves and which
-work well together, you may start grouping them into duos, trios or quartets of selves.
+work well together, **you may start grouping them into duos, trios or quartets of selves.**
 Each member of the band holds the fort when they're needed and gracefully gives it up
-when the next member's abilities are more suitable to the change that is taking place.
+when the another member's abilities are more suitable to the task at hand. The band, the collection
+of selves, is how you interact with the world during extended contexts. For example, when you're at
+work, when you're at home with the famility or when you're playing soccer.
 
+<wip here>
 In my friend's example, at work, he has a quartet that he calls the Work Quartet.
 
 Its members are the Engineer Self to handle the technical tasks. When those
@@ -172,9 +174,3 @@ question comes up. **Whos is really you?**
   to feel what is a self and what is a charactaristic of a self. How do you know that you're
   naming a self and not a charactaristic of a self? I think this questions is worth exploring
   if you're adopt this kind of view.
-
----
-
-[^1]:
-    No, as of today, 2021/10/21, I've never done mushrooms or any psychadelics. But a lot of people that
-    have [describe the world this way](https://amzn.to/3BuJ1LS).
