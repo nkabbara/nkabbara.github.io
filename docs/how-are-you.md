@@ -2,7 +2,7 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.9.2
+version: 0.9.3
 categories: philosophy
 ---
 
@@ -12,7 +12,7 @@ When you think of yourself, you probably envision a You at the bullseye of a cir
 made up of different parts.
 
 The most common representation of this view has a physical part with some health related
-activies that you must do. Like exercise three times a week and eat healthy. A spiritual
+activities that you must do. Like exercise three times a week and eat healthy. A spiritual
 part that advices you to meditate and take long walks in nature. And several other parts
 with their corresponding tasks that are supposed to increase your potential and
 reinforce your purpose.
@@ -50,7 +50,7 @@ A friend of mine, a doctor, recently described to me a situation which encapsula
 
 She said that whenever she's with a patient, she feels like a fraud. She has to abandon her true self, the fun and loving person that
 she knows she is and wear a mask. The mask hides _her_ and shows a matter-of-fact and an emotionally disconnected doctor. She can't show
-her fun side because her patients are usally in very serious condtions. And she can't show her love because she said that it could
+her fun side because her patients are usually in very serious conditions. And she can't show her love because she said that it could
 affect her judgement.
 
 Her conflict arises not only from the fact that she's not being her normal self when she's with patients. But strangely,
@@ -83,7 +83,7 @@ at different times.
 
 When you're hanging out with your kids, it might be the Father Self that's occupying
 you. You're nurturing, protective, loving and playful. And when your kid accidentally (or not)
-punches you in the nose, your Fight-or-Flight Self takes over and suddently, you're angry,
+punches you in the nose, your Fight-or-Flight Self takes over and suddenly, you're angry,
 upset and aggressive. Until the Father Self takes over again.
 
 In this model, there is no a center You running the show. And there's no single self in charge at all times.
@@ -94,8 +94,8 @@ After playing with this for a while and being able to easily tell which self is 
 things a step further. **You may experiment with actively summoning a self that is suitable for
 a specific situation you're in.**
 
-An aqaintance of mine is an engineer that works on projects that impact millions of users.
-At times, he has to perform mission ciritlca tasks while a dozen colleagues are
+An acquaintance of mine is an engineer that works on projects that impact millions of users.
+At times, he has to perform mission critical tasks while a dozen colleagues are
 watching every step he's taking. He said that these situations always start with the wrong
 self in charge. It's usually the Professional Self that wants to maintain a certain image,
 or the Over Cautions Self enumerating in his ear all the bad things that could happen. He said
@@ -104,7 +104,7 @@ The calm, stoic and calculating self that can run the show with steady hands.
 
 As you can see from my friend's example, naming selves and learning how to summon
 them for their proper role, implies an interaction between the selves. It's a dynamic
-partnership, where when one is needed, they take charge, but they're not hugnry for power.
+partnership, where when one is needed, they take charge, but they're not hungry for power.
 They give up the floor when they know another self is better suited for the role.
 
 When you're able to clearly observe the interaction between different selves and which
@@ -132,7 +132,7 @@ from that image, she felt like she's not being herself. She felt overwhelmed wit
 of things she had to do to maintain that _you_.
 
 If she adopted a multi-self model, when at work, the Doctor Self might take leadership
-when emergiencies and prognosese are called for. The Ampethy Self takes the floor when a patient is
+when emergencies and prognoses are called for. The Empathy Self takes the floor when a patient is
 describing his pain. The Playful self might show up when the patient is in recovery and things are looking good.
 And when she gets home, the Pet Mother Self plays with the dogs and walks them and
 The Writer Self might continue working on her article.
