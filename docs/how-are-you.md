@@ -2,7 +2,7 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.8.1
+version: 0.9.1
 categories: philosophy
 ---
 
@@ -110,45 +110,37 @@ They give up the floor when they know another self is better suited for the role
 When you're able to clearly observe the interaction between different selves and which
 work well together, **you may start grouping them into duos, trios or quartets of selves.**
 Each member of the band holds the fort when they're needed and gracefully gives it up
-when the another member's abilities are more suitable to the task at hand. The band, the collection
-of selves, is how you interact with the world during extended contexts. For example, when you're at
-work, when you're at home with the famility or when you're playing soccer.
+when another member's abilities are more suitable to the task at hand. The band, the collection
+of selves, is how you interact with the world during extended contexts.
 
-<wip here>
-In my friend's example, at work, he has a quartet that he calls the Work Quartet.
+For example, if you're an engineer, when you're at work, your Work Quartet might
+include the Engineer Self that handles the technical tasks. The Professional Self
+that handles teamwork and career planning. The Learner Self that manages
+technical and general growth. And you might have an Obsessive Self, the one that stays up all
+night obsessing over solving a problem and annoying all the other selves. Ideally, each of
+these take control when it's their proper time, but sometimes, the wrong self
+is the one in charge and you might not be able to do much about that.
 
-Its members are the Engineer Self to handle the technical tasks. When those
-are done, the Professional Self takes over to handle the results of the work. The Learner
-Self almost always shows up to observer what lessons can be taken from what was done and if
-there's room for improvements for next time.
-
-The last member of the Pro Quartet is the Obsessive Self. He's the one that stays up late at night trying
-to solve a problem when it's well past his bedtime, and things have become unproductive for everyone.
-Meaning the rest of the band is going to be sub-optimal the next day. Afterall, all the selves share the same body.
-
-Which brings us to the fact that in the beginning, you might not get to pick all the band members.
-They're just there. You can learn how to summon each for a solo, or discourage some from taking big parts.
-But acceptance of each self as it is essential for this to work.
+Which brings us to the fact that, you might not be able to pick all the band members. Some are just there.
+And you might not be able to encourage or discourage them from taking control or ceding the floor.
+One of the best ways for optimal selves is to work at deeply understanding each self's needs
+and why they behave the way they do. Only then, you might be able to work with them.
 
 My doctor friend at the beginning of this article viewed the world from a you-centric angle. Her
-You in the middle was a doctor that is supposed to behave and act in certain ways. Anytime she veered
-from that, she felt like she's not herself.
+_you_ in the middle was a doctor that is supposed to behave and act in certain ways. Anytime she veered
+from that image, she felt like she's not being herself. She felt overwhelmed with the plethora
+of things she had to do to maintain that _you_.
 
-With a multi-self model, she might observe a Work Trio. The Doctor Self might take the leadership
-when emergiencies, analysese & prognosese are called for. The Ampethy Self could take over when a patient is
-describing his pain and how his condition is disrupting his life. The Playful self might take over when
-the patient is in recovery and things are looking good.
+If she adopted a multi-self model, when at work, the Doctor Self might take leadership
+when emergiencies and prognosese are called for. The Ampethy Self takes the floor when a patient is
+describing his pain. The Playful self might show up when the patient is in recovery and things are looking good.
+And when she gets home, the Pet Mother Self plays with the dogs and walks them and
+The Writer Self might continue working on her article.
 
-And when she gets home, her Home Trio might take over. The Pet Mother self plays with the dogs and walks them.
-The Writer Self continues working on her article. And the Fitness Self focuses on the body to improve
-its strength and nimbleness for the rest of her selves and bands.
-
-There's no a centered doctor who's image drives her whole being anymore. She might not feel overhelmed
-that she has to do a million things in order for things to be fine. And her view of the world matches
-perfectly based on which role or situation she's in.
+**The right self at the right place and right time.**
 
 If this is making sense to you and you can experientially observe it, then a very curious
-question comes up. **Whos is really you?**
+question comes up: **whos is really you?**
 
 ## Miscellatnea
 
