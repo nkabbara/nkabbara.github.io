@@ -2,25 +2,27 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.9.3
+version: 0.9.4
 categories: philosophy
 ---
 
 _This is purely subjective. It's not philosophy._
 
-When you think of yourself, you probably envision a You at the bullseye of a circle that's
+When you think of yourself, you probably envision a _you_ at the bullseye of a circle that's
 made up of different parts.
 
-The most common representation of this view has a physical part with some health related
-activities that you must do. Like exercise three times a week and eat healthy. A spiritual
-part that advices you to meditate and take long walks in nature. And several other parts
-with their corresponding tasks that are supposed to increase your potential and
-reinforce your purpose.
+The most common representation of this view has a spiritual part that advices
+you to meditate and take long walks in nature. A physical part with some health related
+activities that you must do. Like exercise three times a week and eat healthy.
+And several other parts with their corresponding tasks that are supposed to increase
+your potential and reinforce your purpose.
 
-This you-centric view is extremely common and variations of it are encouraged by popular books like [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519). But it has some potential problems.
+This you-centric view is extremely common and variations of it are encouraged by popular books like [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519).
+
+But this view has some potential problems.
 
 **First, it centers _you_ in the middle of it all.** As you workout and meditate and do the rest
-of the activities consistently over the years, it will increase the resolution of the _you_ in the center.
+of the activities consistently over years, it will increase the resolution of the _you_ in the center.
 You _become_ the fit, contemplative person.
 
 <img src="/assets/hey-you-in-the-middle.png" height="400" style="float: right;">
@@ -45,6 +47,7 @@ And not tending to them as planned feels bad. Almost like you are losing yoursel
 - Very hungry
 
 Do these feel like the same _you_ in the center, but with a different mood? Or the do they feel more like a **completely different person?**
+Different not only in thought and feeling, but also in behavior and body language.
 
 A friend of mine, a doctor, recently described to me a situation which encapsulates all the problems with the you-centric view.
 
@@ -65,7 +68,7 @@ Solar system math pre Galileo was littered with many complicated exceptions in o
 the sun's orbit around the earth. All those exceptions became unnecessary
 after his discoveries. Things naturally fell into place without the need for exceptions.
 
-Instead of the you-centric view, you may want consider viewing the world from
+Instead of the you-centric view, you may want to consider viewing the world from
 the perspective of one of a multitude of selves. Each with its own wants,
 needs and disposition.
 
@@ -86,8 +89,8 @@ you. You're nurturing, protective, loving and playful. And when your kid acciden
 punches you in the nose, your Fight-or-Flight Self takes over and suddenly, you're angry,
 upset and aggressive. Until the Father Self takes over again.
 
-In this model, there is no a center You running the show. And there's no single self in charge at all times.
-There are just these different selves that you've named and each is in charge at different times.
+In this model, there is no a center _you_ running the show. And there's no single self in charge at all times.
+There are just these different selves that you've named and each is in charge in different contexts.
 It's very dynamic.
 
 After playing with this for a while and being able to easily tell which self is in charge, you can take
