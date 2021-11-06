@@ -2,7 +2,7 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.9.4
+version: 0.10.4
 categories: philosophy
 ---
 
@@ -59,6 +59,8 @@ affect her judgement.
 Her conflict arises not only from the fact that she's not being her normal self when she's with patients. But strangely,
 also from the fact that her normal fun and loving self loves her job, but when she's in her mask, she doesn't care for it much.
 
+<img src="/assets/different-selves.png" height="200" style="float: auto;">
+
 **Are there alternatives?**
 
 How you think about things matters. If you think about them incorrectly, you'll end up spending a lot of energy
@@ -109,6 +111,8 @@ As you can see from my friend's example, naming selves and learning how to summo
 them for their proper role, implies an interaction between the selves. It's a dynamic
 partnership, where when one is needed, they take charge, but they're not hungry for power.
 They give up the floor when they know another self is better suited for the role.
+
+<img src="/assets/quartet-selves.png" height="175" style="float: right;">
 
 When you're able to clearly observe the interaction between different selves and which
 work well together, **you may start grouping them into duos, trios or quartets of selves.**
