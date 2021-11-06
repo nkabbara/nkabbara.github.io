@@ -2,7 +2,7 @@
 layout: page
 title: "How Are You?"
 date: 2021-10-09
-version: 0.10.4
+version: 0.10.5
 categories: philosophy
 ---
 
@@ -144,7 +144,7 @@ describing his pain. The Playful self might show up when the patient is in recov
 And when she gets home, the Pet Mother Self plays with the dogs and walks them and
 The Writer Self might continue working on her article.
 
-**The right self at the right place and right time.**
+**The right self in the right place at the right time.**
 
 If this is making sense to you and you can experientially observe it, then a very curious
 question comes up: **who is really you?**
