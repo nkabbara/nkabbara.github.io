@@ -147,4 +147,4 @@ The Writer Self might continue working on her article.
 **The right self in the right place at the right time.**
 
 If this is making sense to you and you can experientially observe it, then a very curious
-question comes up: **who is really you?**
+question comes up: **[who is really you?](/who-is-you)**
