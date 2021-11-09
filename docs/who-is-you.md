@@ -2,19 +2,23 @@
 layout: page
 title: "Who Is You?"
 date: 2021-10-10
-version: 0.0.1
+version: 0.0.2
 categories: philosophy
 ---
 
 # Conventionally
 
-You're a successfull businessman or a careerman with a good reputation. You have a solid circle of friends.
-Your family loves you and you love them back in kind. You worship your god and say your prayers every night.
+You enjoy your job and have the respect of your colleaugues at work. At home, your kids
+run to you right when you pull into the driveway. Your wife adores you. And so do your dogs.
+Your cat, not so much.
 
-You exercise, do your yearly checkups and all the chores around the house without flinching. You happily
-do what's needed for the task at hand without complaining.
+You have your poker nights with your best friends every Friday night. They have the best
+intentions towards you. And you towards them.
 
-_You_ are all those things combined.
+You've worked really hard so that you can retire comfortably. You're in good health for the
+most part and you do your yearly checkups when they're due.
+
+_You_ are all those things combined. **Really?**
 
 # Not(s)
 
@@ -24,7 +28,7 @@ _You_ are all those things combined.
 - You're not your religion. You may convert from Christian to Buddhist any day.
 - You're not your culture. You may move to another country and build a life there.
 - You're not your family. They may go live somewhere else.
-- You're not your character. Experiences changes it as you carry on.
+- You're not your character. Experiences change it as you carry on.
 - You're not your reputation. That changes with every action you take.
 - You're not your career. Your industry might be disrupted and you'll have to change careers.
 
@@ -52,4 +56,4 @@ observing that whole thing, then who is the observer? Who is the observer, watch
 And since you're able to again observer this whole scenario, then you're really observing the observer observing the thinker
 thinking thoughts about objects.
 
-**How many observers back can we go until we realize who is really you?**
+**How many observers back can we go until we get to you?**
