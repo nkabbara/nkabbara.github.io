@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.4.2
+version: 1.5.2
 categories: quotes
 ---
+
+> Expectation is the grandfather of disappointment. The world can never own a man who wants nothing.
+
+-- Aphorisms for Thirsty Fish
+
+<br>
 
 > I’m no genius. I’m smart in spots—but I stay around those spots.
 
