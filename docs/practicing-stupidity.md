@@ -2,17 +2,17 @@
 layout: page
 title: "Practicing Stupidity"
 date: 2021-11-21
-version: 0.0.6
+version: 0.0.7
 categories: philosophy
 ---
 
 You don't want to look stupid because you want others to think that you're smart [^1]. But doing so impedes your growth.
 
-For example, when you hesitate to ask a stupid question in order to maintain an image, you miss an opportunity to learn something new. Or when you avoid walking across the coffee shop to talk to the seemingly interesting person, you lose a possibility of a good friendship. There are many variations of this and they mostly result in missed opportunities.
+For example, when you hesitate to ask a stupid question in order to maintain an image, you miss an opportunity to learn something new. Or when you avoid walking across the coffee shop to talk to the seemingly interesting person, you lose a possibility of a good friendship. There are many variations of this **and they mostly result in missed opportunities.**
 
 But why would you avoid doing something that's good for you?
 
-Probably because looking smart could mean more money or more respect or popularity. So you do everything you can to look smart.
+Probably because looking smart could mean more money or more respect or popularity. **So you do everything you can to look smart.**
 
 Another possibility is your cultural norms in regards to stupidity and how you were raised in the context of those norms. You might have been chastised as a child for asking seemingly stupid questions or for doing seemingly stupid things. That child might be here with you now trying to avoid that old pain[^2].
 
@@ -30,9 +30,7 @@ You need to invoke the feeling repeatedly so you can work with it and mold it li
 
 A good example of something that meets these requirements is learning a new language. A foreign language will almost certainly be difficult to learn. You must speak it with native speakers in order to practice it and measure your progress. Constantly failing until you've improved sufficiently shouldn't cause you any harm if you're learning with the right people.
 
-The most beneficial characteristic of this is the sheer amount of trivial mistakes that you will make as you speak with a native speaker. Feeling stupid several times per conversation is great practice at discovering the shape of the feeling of stupidity. Then working at understanding it deeply in order to change how you react to it. After a thousand times of this, which shouldn't take more than a few months of daily practice, this feelings becomes nothing more than an artifact of the mind as it's growing.
-
-Also: notice as you’re learning a new language how people’s reactions to your speaking is different: a language expert might be impressed with you. While a non expert native speaker might judge your incompetent. The former knows what it takes while the latter might not. Similarly with gentle souls and assholes.
+The most beneficial characteristic of this is the sheer amount of trivial mistakes that you will make as you speak with a native speaker. Feeling stupid several times per conversation is great practice at discovering the shape of the feeling of stupidity. Then working at understanding it deeply in order to change how you react to it. After a thousand times of this, which shouldn't take more than a few months of daily practice, **this feelings becomes nothing more than an artifact of the mind as it's growing.**
 
 One thing you'll notice as you go through this is how people with deep knowledge and clear understanding of what you're learning will almost never make you feel stupid. Most likely because they've looked stupid as they've developed deep expertise and know that that's how it goes. On the other hand, the people that do make you feel or look stupid might be trying to camouflage some insecurity.
 
