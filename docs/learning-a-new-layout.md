@@ -65,3 +65,28 @@ it further, when you see a whole word, you fingers move to certain positions and
 - Some words you'll type faster than others. That's OK. Remember you need accuracy, so type
   words you know fast and once you don't know slow so you lower mistakes.
 - When you notice that your mind is faster than your fingers, go back to bigrams.
+
+## Practice Log
+
+### 2021/12/16
+
+KeyZen
+
+- Practice Duration: 23:00
+- WPM: 6.4
+- Accuracy: 92%
+- Intesity: 9
+
+Ngram Type
+
+- Duration 23:00
+- Avg WPM: 16
+- Top 50 Bigrams
+- Combination 2
+- Reptition 3
+- WPM 13
+- Accuracy 96
+
+### 2021/12/15
+
+Didn't write stuff down
