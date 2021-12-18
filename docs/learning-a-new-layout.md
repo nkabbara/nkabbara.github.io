@@ -66,7 +66,32 @@ it further, when you see a whole word, you fingers move to certain positions and
   words you know fast and once you don't know slow so you lower mistakes.
 - When you notice that your mind is faster than your fingers, go back to bigrams.
 
+## Notes
+
+- Sometimes closing yoru eyes and visualaizing while focusing on muscle moving helps.
+- Try to think of bigrams as one go and space. Pause, one go and space. So your fingers all on keyboard to type it instead of letter than another.
+
 ## Practice Log
+
+### 2021/12/17
+
+KeyZen
+
+- Practice Duration: 25
+- WPM: 5.2
+- Accuracy: 94%
+- Intesity: 9
+
+Ngram Type
+
+- Duration: 20
+- Avg WPM: 21
+  Config
+- Top 50 Bigrams
+- Combination 2
+- WPM: 13
+- Reptition 3
+- Accuracy 96
 
 ### 2021/12/16
 
