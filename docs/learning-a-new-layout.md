@@ -73,25 +73,45 @@ it further, when you see a whole word, you fingers move to certain positions and
 
 ## Practice Log
 
-### 2021/12/17
+### Stage 1 - Learn Key Locations with 96% accuracy
 
-KeyZen
+#### Internal Talk
 
-- Practice Duration: 25
-- WPM: 5.2
-- Accuracy: 94%
+- Allow everything to help (visual, etc..), but remember, muscle memory is key.
+- Loud voice OK? Test
+- Try to do letter from memory before typing. If no go, look at keymap & actively and slowly use muscle/finger to type it. Until memory works
+- Memory tricks seem to help like JB (Juan Bablo) for the bottom row outer keys
+
+#### Teachers
+
+[KeyZen](https://ranelpadon.github.io/keyzen-colemak-dh/) [KZ]
+Settings
+
 - Intesity: 9
 
-Ngram Type
+[Ngram Type](https://ranelpadon.github.io/ngram-type/) [NT]
+Settings
 
-- Duration: 20
-- Avg WPM: 21
-  Config
 - Top 50 Bigrams
 - Combination 2
 - WPM: 13
 - Reptition 3
 - Accuracy 96
+
+### 2021/12/19
+
+KeyZen: WPM: 5.6 Accuracy: 95% Duration: 24
+Ngram Type: WPM: 27 Duration: 21
+
+### 2021/12/18
+
+KeyZen: WPM: 6 Accuracy: 91% Duration: 27
+Ngram Type: WPM: 21 Duration: 20
+
+### 2021/12/17
+
+KeyZen WPM: 5.2 Accuracy: 94% Duration: 25
+Ngram Type Avg WPM: 21 Duration: 20
 
 ### 2021/12/16
 
