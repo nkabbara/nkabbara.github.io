@@ -98,6 +98,11 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2021/12/20
+
+KeyZen: WPM: 7.2 Accuracy: 96% Duration: 23
+Ngram Type: WPM: 25 Duration: 21
+
 ### 2021/12/19
 
 KeyZen: WPM: 5.6 Accuracy: 95% Duration: 24
