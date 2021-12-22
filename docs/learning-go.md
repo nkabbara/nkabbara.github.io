@@ -19,4 +19,14 @@ categories: learning
 
 - Every two days, review a section's note and mark it as completed in the review log
 
-## Review Log
+## Learning Log
+
+### 2021/12/21
+
+- Finished 4 sessions.
+  - Value and pointer semantics with pointer slices
+  - (forgetting name) putting a type inside another type without naming it so outer type can use its behavior (outer inner type)
+  - Exporting names from packages
+  - Grouping types
+- Wrote TDD for ints
+- Comments: you're concerned the vids might be forgotten after you go deeper in code. How not to? Are notes enough?
