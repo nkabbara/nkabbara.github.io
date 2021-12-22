@@ -73,6 +73,8 @@ it further, when you see a whole word, you fingers move to certain positions and
 
 ## Practice Log
 
+i`jjjjj
+
 ### Stage 1 - Learn Key Locations with 96% accuracy
 
 #### Internal Talk
@@ -97,6 +99,24 @@ Settings
 - WPM: 13
 - Reptition 3
 - Accuracy 96
+
+### 2021/12/21
+
+KeyZen: WPM: 7 Accuracy: 95% Duration: 40
+Ngram Type: WPM: xx Duration: xx
+Notes:
+
+- Visualizing keyboard different. With drawings. Only did left half.
+  I wonder how it will affect perfromance.
+- Also, divided keybiard into 4 columns from pinky on. Outer row out
+- Tried hard to get 96 in keyzen and you're sure you were hitting that, but for
+  some reason it wasn't updating.
+- Relaxing Keyzen since now you know key locations. Move to bigrams & [kyebr](https://www.keybr.com/).
+
+  ```
+  |   | |x| |   |
+  |   | |x| |   |
+  ```
 
 ### 2021/12/20
 
