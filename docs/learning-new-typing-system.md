@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Learning a New Layout"
+title: "Learning a New Typing System"
 date: 2021-12-14
 version: 0.0.1
 categories: learning
