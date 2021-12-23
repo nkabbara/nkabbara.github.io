@@ -66,16 +66,18 @@ it further, when you see a whole word, you fingers move to certain positions and
   words you know fast and once you don't know slow so you lower mistakes.
 - When you notice that your mind is faster than your fingers, go back to bigrams.
 
-## Notes
+## Notes & Questions
 
 - Sometimes closing yoru eyes and visualaizing while focusing on muscle moving helps.
 - Try to think of bigrams as one go and space. Pause, one go and space. So your fingers all on keyboard to type it instead of letter than another.
+- This keyboard is a starting point. So is ISRT. So modifications are going to take place. The question is, when should they be done? Now
+  or later? Let's aim for 40WPM for normal words. When we're there, we can make mods (2021/12/22).
 
 ## Practice Log
 
-i`jjjjj
+### [x] Stage 1 - Learn Key Locations with 96% accuracy
 
-### Stage 1 - Learn Key Locations with 96% accuracy
+### [ ] Stage 2 - Use Keybr & Ngrams. Decide goal as you go through it.
 
 #### Internal Talk
 
@@ -86,10 +88,7 @@ i`jjjjj
 
 #### Teachers
 
-[KeyZen](https://ranelpadon.github.io/keyzen-colemak-dh/) [KZ]
-Settings
-
-- Intesity: 9
+[Keybr](https://www.keybr.com/) [KBR]
 
 [Ngram Type](https://ranelpadon.github.io/ngram-type/) [NT]
 Settings
@@ -100,10 +99,15 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2021/12/22
+
+keybr: Speed: 15.2 (↑+1.28) Errors: 9 (↓+3.33) Score: 131 (↓-91)
+Ngram Type: WPM: 28 Duration: 12
+
 ### 2021/12/21
 
 KeyZen: WPM: 7 Accuracy: 95% Duration: 40
-Ngram Type: WPM: xx Duration: xx
+Ngram Type: WPM: xx Duration: xx (didnt' do)
 Notes:
 
 - Visualizing keyboard different. With drawings. Only did left half.
