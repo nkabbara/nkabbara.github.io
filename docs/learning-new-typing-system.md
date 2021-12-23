@@ -72,6 +72,9 @@ it further, when you see a whole word, you fingers move to certain positions and
 - Try to think of bigrams as one go and space. Pause, one go and space. So your fingers all on keyboard to type it instead of letter than another.
 - This keyboard is a starting point. So is ISRT. So modifications are going to take place. The question is, when should they be done? Now
   or later? Let's aim for 40WPM for normal words. When we're there, we can make mods (2021/12/22).
+- One of you holds you back by wanting to know where the letter is. Another one knows it without knowing it. Work with both
+  so a compromise that's productive for all of us is reached. Maybe when we're typing we should give more control to the one that
+  knows while outside of typing learn where the letters are by writing them or drawing them?
 
 ## Practice Log
 
