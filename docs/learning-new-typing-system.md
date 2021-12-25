@@ -102,6 +102,34 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2021/12/24
+
+keybr: Speed: 21.6 (↑+6.22) Errors: 5 (↑-1.98) Score: 302 (↑+108.5)
+ngram (trigrams): Raw WPM: 13 Accuracy: 87 % Average WPM: 22
+notes:
+
+- for trigrams no strategy yet.
+- instead of typing one char at at time, you're trying to type in bigrams. It's slower
+  and you're mkaing more errors, but it feels like there's an upside that could come with time.
+  Keep trying with this:
+  - When reading the word to type, attempt to type it in bigrams.
+  - Don't try to pre-break it down itno bigrams and type them, instead flow iwht the word.
+  - You noticed that you tend to hit space at the end of a bigram when you type it. I think your brain
+    things it's the end of the word because of the pause. Look at space as part of the bigram like char
+    and just pause there if you need to. Typing space allows for a pause, a pause doesn't invoke a space.
+  - For some reason your brain keeps thinking that e is on the left or that r is on the right. Could it be because
+    r is the first letter of right? or because your right had wants to type r for right?
+    Think r as isRt. E as end side.
+
+### 2021/12/23
+
+keybr Speed: 18 (↑+2.96) Errors: 10 (↓+3.61) Score: 141 (↓-66.9)
+ngram type verage WPM: 26 10 minutes
+notes:
+
+- Added combo keys for esc, enter, and backspace
+- Added tap dance key for :
+
 ### 2021/12/22
 
 keybr: Speed: 15.2 (↑+1.28) Errors: 9 (↓+3.33) Score: 131 (↓-91)
