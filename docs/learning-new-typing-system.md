@@ -80,7 +80,7 @@ it further, when you see a whole word, you fingers move to certain positions and
 
 ### [x] Stage 1 - Learn Key Locations with 96% accuracy
 
-### [ ] Stage 2 - Use Keybr & Ngrams. Decide goal as you go through it.
+### [ ] Stage 2 - Use MonkeyType, Keybr & Ngrams. Decide goal as you go through it.
 
 #### Internal Talk
 
@@ -101,6 +101,48 @@ Settings
 - WPM: 13
 - Reptition 3
 - Accuracy 96
+
+### 2021/12/28
+
+Monketype:
+Ngram Type:
+
+### 2021/12/27
+
+Monkeytype: 22 min @96% accuracy.
+keyrb:
+
+- Speed: 24.6 (↑+7.6) Errors: 6 (↑-1.68) Score: 315 (↑+116.3)
+- Current key: R Average typing speed:16wpmBest typing speed:16.6wpmConfidence level:0.38Learning rate:~7.808wpm/hour
+
+notes:
+
+- Trying the following today:
+
+  - MonkeyType 25 minutes
+  - Keybr 20 minutes
+  - On next run, do MonkeyType & ngrams. Try this kind of rotation
+
+  Reason is you don't want to just do ngrams and homerow stuff and end up not being productive in whole words.
+
+- Typing in bigrams doesn't seem effective. It seems like in whole word is better and let bigrams kick in if they're there.
+
+### 2021/12/26
+
+keybr: Speed: 19.4 (↑+3.37) Errors: 6 (↑-1.86) Score: 246 (↑+60.3)
+Current key: T Average typing speed:13.8wpmBest typing speed:16.1wpmConfidence level:0.2Learning rate:~2.334wpm/hour
+notes:
+
+- read the word before typing it.
+- Some words you'll type faster, some slower. Do the fast one fast and the slow ones without mistakes.
+- Include hard session in your daily practice. Or you'll just be good at the easy stuff. Maybe monkye type then jump back to keybr?
+  From reddit:
+
+> 94% is a bit too low and it's likely hinders your progress. Slow down and set the minimum accuracy to 96%. If a test fails, then don't skip to the next test, but repeat the test again. This is important because otherwise you are a "test skipper", who skips practicing weaknesses and not gonna fix them. After a successful test (with <100% accuracy) do the "missed words" test, this way you further practice your weaknesses. If you want to improve, then don't rush for speed, focus on weaknesses and increase your accuracy, speed follows automatically
+
+### 2021/12/25
+
+practice, but didn' log
 
 ### 2021/12/24
 
