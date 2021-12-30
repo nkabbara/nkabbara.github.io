@@ -6,6 +6,14 @@ version: 0.0.1
 categories: learning
 ---
 
+# How to Write This Article? Who is it for? What purpose will it serve?
+
+The purpose:
+
+1. So you learn go better. Documenting your learning and how you're changing things around so you better absorb the material.
+2. So you can learn future programming languages more effectively
+
+::date2021/12/27 you don't have a clear picture as of now on how to write this. Keep loggin daily observersions to see if this will amount to something.
 You've just finishe a spanking new project and the power's that be, decided to standardize
 the whole organization into one programming language: Go
 
@@ -42,6 +50,32 @@ Currently, this seems to be effective. Let's see.
 
 Go to https://quii.gitbook.io/learn-go-with-tests/ and finish a section
 
+### Plan V4
+
+1. Watch a whole section from start to finish. Very minimal notes if any.
+2. Do a section from Learg Go with tests
+
+Next day:
+
+1. Re-watch yesterday's sectoin, but with pauses and notes. Slower? Faster? Same speed?
+2. Do a section from learning go with tests.
+
+Currently, this seems to be effective. Let's see.
+
+Go to https://quii.gitbook.io/learn-go-with-tests/ and finish a section
+
+### Plan V5
+
+Watching a whole section is starting to exhaust you. You think it's because of watchign someone talk.
+
+Revised plan:
+
+1. Morning, finish section or two from tdd. Then
+1. Load sections code and material into remakable.
+1. Watch section while screen is turned off and follow on remarkable.
+1. Take nots on remarkable as you pause vid
+1. Write notes for consumption
+
 ## Spaced Repetition
 
 - Every two days, review a section's note and mark it as completed in the review log
@@ -57,6 +91,15 @@ Go to https://quii.gitbook.io/learn-go-with-tests/ and finish a section
 - You like how the emphasis is on the concrete.
 
 ## Learning Log
+
+#### 2021/12/29
+
+Followed more or less v5 for maps in tdd and packaging in ultamate go.
+
+#### 2021/12/27 - 52
+
+- Watched errors section from start to finish. Wrote some notes. You think that might work out better as you have the shape of the error section in your head. Diving into the details tomorrow might be more productive. Let's see tomorrow.
+- Finished pointer & erro section in tdd
 
 ### 2021/12/22
 
