@@ -107,6 +107,16 @@ Settings
 Monketype:
 Ngram Type:
 
+### 2021/12/29
+
+MonkyType
+Duration: 25min
+WPM: 8
+
+### 2021/12/28
+
+skipped
+
 ### 2021/12/27
 
 Monkeytype: 22 min @96% accuracy.
