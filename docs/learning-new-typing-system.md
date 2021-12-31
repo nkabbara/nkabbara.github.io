@@ -102,10 +102,10 @@ Settings
 - Reptition 3
 - Accuracy 96
 
-### 2021/12/28
+### 2021/12/30
 
-Monketype:
-Ngram Type:
+Monketype: 9WPM @ 96accuracy
+keybr: Speed: 19.6 (↑+2.51) Errors: 1 (↑-6.48) Score: 830 (↑+621.6)
 
 ### 2021/12/29
 
