@@ -102,10 +102,30 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/01/02
+
+keybr: Speed: 28.4 (↑+8.45) Errors: 3 (↑-3.94) Score: 601 (↑+333.1). About 20 minutes.
+monkey type: about 16 minutes
+
+note:
+
+- you are having issues confusing r with e. You noticed that if you stopped and visualized the symbol for row 3
+  (lrw) fish-hook, and then everytime you're about to hit the r, you visualized the fishhook and where the r is on it,
+  you made less mistakes. As for e, it's on the right side, so the end-side. e for end.
+
+  Point is, visualizing symbols for difficult chars seems to help your muscle memory
+
+### 2022/01/01
+
+today Monkeytype & keybr. Making good progress
+
 ### 2021/12/30
 
 Monketype: 9WPM @ 96accuracy
 keybr: Speed: 19.6 (↑+2.51) Errors: 1 (↑-6.48) Score: 830 (↑+621.6)
+notes:
+Found good progress when reading a few words ahead. It's like the brain subconciously prepares for them.
+Keep experimenting with this: read a few words and type, when you're get close to the end repeat
 
 ### 2021/12/29
 
