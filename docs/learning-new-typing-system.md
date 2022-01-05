@@ -102,7 +102,25 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/01/04
+
+monkeytype: seems like 4 minutes is a good time. Getting 13WPM right now.
+kebr: doing good.
+
+note:
+noticed on keybr that theh er re mistypes happen on bigrams where e follows or r follows e. Work on practicing these specifically.
+
+### 2022/01/03
+
+keybr: Speed: 44.2 (↑+21.74) Errors: 6 (↑-0.49) Score: 544 (↑+200.3)
+monkeytype: Couldn't finish 5 minutes. And very tired.
+
 ### 2022/01/02
+
+monkey type (finish two five-minute tests): You finished one, but had timer at 10m. You just updated it to 5 minutes.
+keybr:
+
+### 2022/01/02 (past midnight)
 
 keybr: Speed: 28.4 (↑+8.45) Errors: 3 (↑-3.94) Score: 601 (↑+333.1). About 20 minutes.
 monkey type: about 16 minutes
