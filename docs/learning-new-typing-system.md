@@ -102,6 +102,23 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/01/06
+
+monkey type: finished 13wpm.
+keybr: progressed to letter a!
+
+notes:
+
+- Actually pausing in front of a word seems more effective as far as accuracy then reading a few words ahead. Scratch note below about
+  reading a few words ahead.
+- Found a good mnemonic for r/e situation. R is on the left and E is on the right because REpeat. Als RE: . MAke sense for r to be on the left and
+  e on the right. You just tested this with keybr and seems to have worked. You progressed to two new letters.
+
+### 2022/01/05
+
+keybr: Speed: 35.2 (↑+10.94) Errors: 2 (↑-4.56) Score: 1002 (↑+638.7)
+monkey type: couldn't finish a test today
+
 ### 2022/01/04
 
 monkeytype: seems like 4 minutes is a good time. Getting 13WPM right now.
