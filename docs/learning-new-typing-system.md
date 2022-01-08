@@ -102,6 +102,16 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/01/07
+
+monkeytype: got to 16wpm today.
+keybr:
+
+notes:
+
+- confirmed reading word before typing it is more effective than reading several ahead like before.
+- When some letter locations are not clear, pause and think about your drawings so your brain can logically assign them a spacial location. Sometimes you keep forcing the typing, but it makes more sense to pause and visualize a few times then continue. It helps reduce thos mistypes.
+
 ### 2022/01/06
 
 monkey type: finished 13wpm.
