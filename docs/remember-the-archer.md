@@ -2,7 +2,7 @@
 layout: page
 title: "Remember The Archer"
 date: 2022-01-08
-version: 1.0.0
+version: 1.0.1
 categories: philosophy
 ---
 
@@ -20,4 +20,4 @@ Anthony de Mello recounting a saying by Zhuang Zhou and spicing it up a bit with
 >
 > And the need to win drains him of power.
 
-Imagine living your life for nothing. Will you have all your skill?
+Imagine living your life for no prize. Will you have all your skill?
