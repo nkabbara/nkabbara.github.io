@@ -102,6 +102,24 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/01/12 - 01
+
+monkey type: 17wpm!
+keybr: At letter A. Getting green.
+
+notes:
+
+- When you get sick of monketype swtich to keybr :). Repeat. You found this to be helpful.
+
+### 2022/01/10 - 01
+
+monkey type: You got 18wpm on a repeated test
+keybr: Letter A Speed: 28.6 (↑+3.34) Errors: 4 (↑-2.29) Score: 602 (↑+181.9)
+
+notes:
+
+- Tired. Time your practice.
+
 ### 2022/01/09 - 01
 
 monkey type: 15wpm
