@@ -102,10 +102,19 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/01/13 - 01
+
+mokey type: 18wpm!
+keybr: letter A. 35wpm.
+
+notes:
+
+- When pausing in front of a word, visualize how you'll type the first couple of letters before you actually start it. Some words just comes to, but others you might need to pause longer.
+
 ### 2022/01/12 - 01
 
 monkey type: 17wpm!
-keybr: At letter A. Getting green.
+keybr: At letter A. Getting green. Speed: 34.2 (↑+8.8) Errors: 2 (↑-4.24) Score: 1283 (↑+853.6)
 
 notes:
 
@@ -127,7 +136,7 @@ keybr: Current letter a. Speed: 30.8 (↑+5.61) Errors: 5 (↑-1.26) Score: 554 
 
 Notes:
 
-- When repeating a failed test on monkye type, you feel like you're waisting time because it's not recorded. Adopt the following attitude instead: you want to finish it as or above your current WPM max if possible. That's the motivation. Not recording it. Remember the archer.
+- When repeating a failed test on monkye type, you feel like you're wasting time because it's not recorded. Adopt the following attitude instead: you want to finish it as or above your current WPM max if possible. That's the motivation. Not recording it. Remember the archer.
 
 - When at pause before reading word, don't overstress it by overpausing there, keep a relaxed mind, but try to visualize how you'd type only the first few keys. The rest should follow.
 
