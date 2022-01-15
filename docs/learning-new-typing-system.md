@@ -102,6 +102,11 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/01/15 - 01
+
+Monkeytype: 18wpm passed!
+keybre: letter U! 30wpm
+
 ### 2022/01/13 - 01
 
 mokey type: 18wpm!
