@@ -2,7 +2,7 @@
 layout: page
 title: "Practicing Stupidity"
 date: 2021-11-21
-version: 0.0.7
+version: 0.0.8
 categories: philosophy
 ---
 
@@ -28,13 +28,12 @@ How can you practice being OK with feeling stupid?
 
 You need to invoke the feeling repeatedly so you can work with it and mold it like a clay. Three ingredients are necessary: you must learn something hard. Then, you must perform what you're learning with people that are already proficient in the subject matter. Finally, failing over and over with these people shouldn't cause you irreversible harm.
 
-A good example of something that meets these requirements is learning a new language. A foreign language will almost certainly be difficult to learn. You must speak it with native speakers in order to practice it and measure your progress. Constantly failing until you've improved sufficiently shouldn't cause you any harm if you're learning with the right people.
+A good example of something that meets these requirements is learning a new language. A foreign language will almost certainly be difficult to learn. You must speak it with native speakers in order to practice it and measure your progress. Constantly failing until you've improved sufficiently shouldn't cause you any harm if you're learning with the right people[^3].
 
 The most beneficial characteristic of this is the sheer amount of trivial mistakes that you will make as you speak with a native speaker. Feeling stupid several times per conversation is great practice at discovering the shape of the feeling of stupidity. Then working at understanding it deeply in order to change how you react to it. After a thousand times of this, which shouldn't take more than a few months of daily practice, **this feelings becomes nothing more than an artifact of the mind as it's growing.**
-
-One thing you'll notice as you go through this is how people with deep knowledge and clear understanding of what you're learning will almost never make you feel stupid. Most likely because they've looked stupid as they've developed deep expertise and know that that's how it goes. On the other hand, the people that do make you feel or look stupid might be trying to camouflage some insecurity.
 
 ---
 
 [^1]: Or to avoid the bad feeling of feeling stupid.
 [^2]: My middle school years and first year of high school were at a French school called Collège des Frères. There I was beaten, sometimes with a stick, for making the usual mistakes one makes in class. I hope they stopped this terrible practice.
+[^3]: One thing that you'll notice as you go through this is how people with deep knowledge and clear understanding of what you're learning will almost never make you feel stupid. Most likely because they've looked or felt stupid as they've developed deep expertise and know that that's how it goes. On the other hand, the people that do make you feel or look stupid might be trying to camouflage some of their insecurity.
