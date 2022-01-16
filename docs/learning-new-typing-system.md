@@ -102,6 +102,11 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/01/16 - 01
+
+monkeytype: 19wpm passed!
+keybre: letter u still @ green
+
 ### 2022/01/15 - 01
 
 Monkeytype: 18wpm passed!
