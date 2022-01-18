@@ -102,6 +102,15 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/01/17 - 01
+
+monkeytype: 22wpm passed!
+keybre: letter u still @ green
+
+notes:
+
+- You noticed that when starting the session, your accuracy is better than towards the end. You get tired as you spend more time.
+
 ### 2022/01/16 - 01
 
 monkeytype: 19wpm passed!
