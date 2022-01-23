@@ -102,6 +102,11 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/01/22 - 03
+
+mt: 17wpm, 97% repeated; Next twp 19.86 @ 97.36 logged.
+keybr: Still at U. Confidence level 94, so close to next letter.
+
 ### 2022/01/19 - 03
 
 monkeytype: 18wpm
