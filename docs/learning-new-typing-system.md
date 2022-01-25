@@ -102,6 +102,16 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### ::wdate2022/01/24 - 04
+
+mt: 19wpm, 97% repeated.
+keybr:
+
+note:
+
+- visualizing just a couple of keys before typing it seems to be enough. But you need to practice this more as you speed up and drop it.
+- Practice slow breating as you're typing. You get mentall rushed when close to fnishing.
+
 ### 2022/01/22 - 03
 
 mt: 17wpm, 97% repeated; Next twp 19.86 @ 97.36 logged.
