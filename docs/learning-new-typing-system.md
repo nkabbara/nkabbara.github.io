@@ -102,7 +102,12 @@ Settings
 - Reptition 3
 - Accuracy 96
 
-### ::wdate2022/01/24 - 04
+### 2022/01/27 - 04
+
+mt: finished 2 ag 21wpm
+keybr: unlocked a few keys
+
+### 2022/01/24 - 04
 
 mt: 19wpm, 97% repeated.
 keybr:
