@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.5.2
+version: 1.6.2
 categories: quotes
 ---
+
+> The most important step in becoming successful in anything is to first become interested in it.
+
+— Sir William Osler
+
+<br>
 
 > Expectation is the grandfather of disappointment. The world can never own a man who wants nothing.
 
