@@ -104,6 +104,11 @@ Settings
 
 ### 2022/01/27 - 04
 
+mt: finished a repeat at 19wpm
+keybr: at letter C.
+
+### 2022/01/27 - 04
+
 mt: finished 2 ag 21wpm
 keybr: unlocked a few keys
 
