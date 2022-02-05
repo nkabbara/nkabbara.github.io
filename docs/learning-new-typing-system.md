@@ -102,6 +102,21 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/02/04 - 05
+
+mt: 23 wpm!
+keybr: letter c.
+
+### 2022/02/03 - 05
+
+mt: 22 wpm!
+keybr: letter c.
+
+### 2022/01/31 - 05
+
+mt: 20wpm recorded
+keybr: at letter c. Getting green
+
 ### 2022/01/27 - 04
 
 mt: finished a repeat at 19wpm
