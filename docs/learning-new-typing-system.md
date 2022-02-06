@@ -102,6 +102,15 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/02/05 - 05
+
+mt: 22wpm
+keybr: letter c. Here attempting to finish at 96+ accuracy.
+
+notes;
+
+- In mt, when you look at time, it seems to help. It makes you slow down and focus on accuracy.
+
 ### 2022/02/04 - 05
 
 mt: 23 wpm!
