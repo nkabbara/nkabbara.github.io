@@ -102,6 +102,11 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/02/07 - 06
+
+mt: 24wpm! Broke record.
+keybr: finished 10 minutes.
+
 ### 2022/02/05 - 05
 
 mt: 22wpm
