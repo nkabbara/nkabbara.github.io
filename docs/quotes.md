@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.6.2
+version: 1.7.2
 categories: quotes
 ---
+
+> I'd rather learn than be right.
+
+— Diana Chapman
+
+<br>
 
 > The most important step in becoming successful in anything is to first become interested in it.
 
