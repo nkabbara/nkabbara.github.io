@@ -102,6 +102,11 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/02/18 - 07
+
+mt: 28wpm!!!! Logged
+keybr: 10 minutes
+
 ### 2022/02/17 - 07
 
 mt: 23wpm
