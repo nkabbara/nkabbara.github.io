@@ -102,6 +102,15 @@ Settings
 - Reptition 3
 - Accuracy 96
 
+### 2022/02/22 - 08
+
+mt: 20wpm. you forgot where z is
+keybr: 5m.
+
+notes:
+
+- tired today
+
 ### 2022/02/18 - 07
 
 mt: 28wpm!!!! Logged
