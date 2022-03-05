@@ -2,7 +2,7 @@
 layout: page
 title: "One Thing When Under Stress"
 date: 2022-02-06
-version: 0.0.2
+version: 0.0.3
 categories: health
 ---
 
@@ -12,14 +12,14 @@ First, take a full breath in, followed by another smaller breath to fill your
 lungs a little bit more. Then, breath out slowly letting the exhale take about
 four seconds. **Repeat a few times until [you](/how-are-you) feel a change in context.**
 
-The other thing: notice how your vision is narrow and focused now. Stressfull situations
+The other thing: notice how your vision is narrow and focused now. Stressful situations
 do that. Expand your vision by extending your arm in front of you drawing an oval
-which sides touch the periphery of your vision. Imagin yourself in the middle of this
+which sides touch the periphery of your vision. Imagine yourself in the middle of this
 oval. **Repeat a few times until you feel a change in perspective.**
 
 You can do both simultaneously.
 
-**Why?**
+#### Why?
 
 Your brain changes your breath and your vision when it's stressed. Breath is held and
 vision is narrowed. Amazingly, changing your breath and vision changes your brain's state too[^1].
@@ -27,7 +27,7 @@ vision is narrowed. Amazingly, changing your breath and vision changes your brai
 The next step is to decide what the next step is, but with a calm breath and wide vision.
 Re-focus without fear.
 
-**The Catch**
+#### The Catch
 
 When you're under stress, this is going to be the last thing you'll remember. To increase the
 chances of doing it, practice it daily when you're not stressed.
