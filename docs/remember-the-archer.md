@@ -2,11 +2,11 @@
 layout: page
 title: "Remember The Archer"
 date: 2022-01-08
-version: 1.0.1
+version: 1.0.2
 categories: philosophy
 ---
 
-Anthony de Mello recounting a saying by Zhuang Zhou and spicing it up a bit with his charm. Here goes:
+Anthony de Mello recounting a story by Zhuang Zhou and spicing it up a bit with his charm. Here goes:
 
 > When the archer shoots for nothing, he has all his skill.
 >
