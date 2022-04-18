@@ -6,13 +6,10 @@ version: 0.0.1
 categories: meditation
 ---
 
-_shitty first draft_
+There are concepts in meditation that are strongly ephemeral. You get an insight during practive,
+but in an instant, it could leave your mind and never return.
 
-There are concepts in meditation that are strongly ephemeral. You understand it at one point,
-but if you don't practice it contantly, it falls through your fingers like sand. And finding
-again might be a exercise in luck.
-
-Here, we're documenting these concepts as an aid to memory.
+Here, we're documenting these epiphanies.
 
 ## Finding The Meditator
 
@@ -20,23 +17,34 @@ A very useful insight when it comes to identity & self is that they don't truly 
 
 One way to experiment with that is to meditate in a traditional fashion: focus yoru attention on your breath,
 and as you get distracted, bring your attention back to the breath. Once you have some
-stability in keeping your attention at your there, turn your it back to see who is the meditator.
+stability in keeping your attention there, turn your your attention back to see who is meditation. Try
+to find the meditator.
 
-When you attempt this, your mind might react in many different ways. One common reaction is your
-mind visualizes you, as you usually perceive yourself, turning back to look back at you. After the
-turn is over, things get confused and you're back to paying attention to the breath. Another common reaction
-that usually happens after you've become aware of the first one is your mind skips that visual turn
-and looks at nothing. Your minds eye stars at blankness.
+One common reaction to this is your mind visualizes you, as you usually perceive yourself [1],
+turning back to look back at you. Right before the turn is over, things get confused. How can _you_ turn
+back to look back at _you_?
 
-This happens becuase after you've understood the implications of the first reaction: that you, your identity
+Another possible reaction that usually happens after you've become aware of the first one is your mind
+skips that visual turn. It realizes that there's no need to imaging a turn, since there's really nothing turning.
+So it looks back instantly and usually lands at nothing. Just blankness.
+
+The first reaction has an essential insight: imaging _you_ turning back to see _you_ plants the seed of realizing
+that how you think of _you_ might be flawd. How can I look back to see I. Did I make copies of me to do this?
+
+The second reaction, staring at blankness, brings us closer to home. It helps us realize that you, your identity
 and how you imaging yourself as an entitity is a visualisation of the mind. It's just a construct like
-the imagined turning back to look at you looking back at you. The blankness is a recognition that
-there's nothing there to find. There is no meditator to find. There is nothing.
+the imagined you turning back to look back at you [2]. The blankness is a recognition that
+there's nothing there to find. There is no meditator to find. There is no _you_ there as you've though about
+how _you_ is.
 
 So what?
 
-It's up to you to come up with what you'd like to do with this discovery. **One thing is for sure,
-you are not you.**
+It's up to you to come up with what you'd like to do with this discovery.
+
+One actionable thing you can do with it is reconstruct your imagined _you_ in different ways to better match the world.
+Since now you know that your mind built this _you_ and it has parts that don't seem congruent withhow things really are,
+you may start working on taking them out and replacing them with parts that fit. The "re-imagine yourself" cliche is more
+real than we thought.
 
 ## Changing Your Center
 
