@@ -2,14 +2,14 @@
 layout: page
 title: "Notes On Meditation"
 date: 2022-04-03
-version: 0.0.4
+version: 0.0.5
 categories: meditation
 ---
 
 There are concepts in meditation that are strongly ephemeral. You get an insight during practice,
 but in an instant, it could leave your mind and never return.
 
-Here, we're documenting these epiphanies.
+Here, [we're](/how-are-you.html) documenting these epiphanies.
 
 ## Finding The Meditator
 
