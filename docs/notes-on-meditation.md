@@ -2,7 +2,7 @@
 layout: page
 title: "Notes On Meditation"
 date: 2022-04-03
-version: 0.0.5
+version: 0.0.6
 categories: meditation
 ---
 
@@ -22,27 +22,20 @@ to find the meditator.
 
 One common reaction to this is your mind visualizes you, as you usually perceive yourself,
 turning back to look back at you. Right before the turn is over, things get confused. How can _you_ turn
-back to look back at _you_ [^1]?
+back to look back at _you_?
 
 Another possible reaction that usually happens after you've become aware of the first one is your mind
-skips that visual turn. It realizes that there's no need to imaging a turn, since there's really nothing turning.
-So it looks back instantly and usually lands at nothing. Just blankness.
+skips that visual turn. It realizes that there's no need to imagine a turn, since there's really nothing turning.
+So it looks back instantly and usually lands on nothing. Just blankness[^1].
 
-These reaction have an essential insight: imaging _you_ turning back to see _you_ plants the seed of realizing
-that how you think of _you_ might be flawed. How can I look back to see I. Did I make copies of me to do this?
-
-Then, staring at blankness, brings us closer to a deeper realization. It helps us realize that you, your identity
-and how you imaging yourself as an entity is a visualisation of the mind. It's just a construct like
-the imagined you turning back to look back at you. The blankness is a recognition that
-there's nothing there to find. There is no meditator to find. There is no _you_ there as you've though about
-how _you_ is.
+These reactions have an essential insight: imagining _you_ turning back to see _you_ plants the seed of realizing
+that how you think of _you_ is a construct of the mind. How can I look back to see I? The blankness you see
+when you look hard enough is a signal that there's no _I_ to find.
 
 **So what?**
 
-One thing you can do with it is reconstruct your imagined _you_ in different ways to better match the world.
-Since now you know that your mind built this _you_ and it has parts that don't seem congruent with how things really are,
-you may start working on taking them out and replacing them with parts that fit better. The "re-imagine yourself" cliche is more
-real than we thought.
+Now that you know your mind built this [_you_](/how-are-you) and it has parts that don't seem congruent with how things really are,
+you may start working on taking them out and replacing them with parts that fit better.
 
 ## Shifting Your Center
 
@@ -56,7 +49,7 @@ not making your awareness move, nor are you focusing from your previous center d
 request for awareness to be in your jaw. The feeling here is not a directional awareness from previous center to jaw,
 but rather, feeling your jaw from within your jaw, as your jaw.
 
-**This subtle shift of center is what we're after.**
+**This subtle shift of center is what we're after.**[^3]
 
 You'll succeed for a bit, but as if by gravitational force, your awareness will go back up to the head region. Just repeat
 the process of asking your awareness to live in your jaw again so your jaw is your new center.
@@ -92,5 +85,6 @@ awareness mind centered at all times.
 
 ---
 
-[^1]: If you succeed, will you see yourself looking back at you?
+[^1]: The posture of mind here is not one of going out to find the meditator. Rather, it's a receptive posture. Mode is receive, not seek.
 [^2]: The mind might have different centers as well. Think focused center and diffused center.
+[^3]: In order to feel this shift more clearly, you need to distinguish between attention and consciousness. They are not the same thing. Attention is the feeling in your mind that it's focused on something. Consciousness is an all encompassing awareness that includes attention.
