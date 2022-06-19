@@ -2,7 +2,7 @@
 layout: page
 title: "Notes On Meditation"
 date: 2022-04-03
-version: 0.0.6
+version: 0.0.7
 categories: meditation
 ---
 
@@ -83,8 +83,14 @@ to a friend, to your heart. When you're solving a problem, to your mind [^2]. Wh
 your body is making with the bed. You may observe that what you do or say next, might be very different than when you had your
 awareness mind centered at all times.
 
+## Zen Koan
+
+- How did your face look like before even your parents were born?
+- The wind is not moving. The flag is not moving. Your mind is moving[^4].
+
 ---
 
 [^1]: The posture of mind here is not one of going out to find the meditator. Rather, it's a receptive posture. Mode is receive, not seek.
 [^2]: The mind might have different centers as well. Think focused center and diffused center.
 [^3]: In order to feel this shift more clearly, you need to distinguish between attention and consciousness. They are not the same thing. Attention is the feeling in your mind that it's focused on something. Consciousness is an all encompassing awareness that includes attention.
+[^4]: After a 10 year retreat in the jungles, a well known Zen monk was walking back into his monastery to find two monks arguing under a flag pole. One was insisting that the flag is not moving, but the wind is. The other, was insisting the opposite, that the wind is not moving, but the flag is. The famous monk came up to them and said this.
