@@ -263,3 +263,11 @@ When you range over a string, you're ranging over runes.
 ```
 
 Constants only exist to compile time. They never find themselves on a stack or on the heap. ie `const foo = 333`
+
+# Misc
+
+Loop on cli (bash):
+
+```
+for i in `seq 10`; do echo "myserver_$i"; done
+```
