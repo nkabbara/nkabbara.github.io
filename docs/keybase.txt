@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nkabbara
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nashkabbara.com
+  * I am nkabbara (https://keybase.io/nkabbara) on keybase.
+  * I have a public key ASC0R2xk1M6Jf68GxdKOg9U2eBjwZZiwzsrsCZts_UeeYAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b4476c64d4ce897faf06c5d28e83d5367818f06598b0cecaec099b6cfd479e600a",
+      "host": "keybase.io",
+      "kid": "0120b4476c64d4ce897faf06c5d28e83d5367818f06598b0cecaec099b6cfd479e600a",
+      "uid": "e3b66518d938fc99f8ceecc466214d19",
+      "username": "nkabbara"
+    },
+    "merkle_root": {
+      "ctime": 1658896015,
+      "hash": "1befb1842abf50d82d7cd006fd8130400f3d5bb7f941a27f26c22501142856d762572a21b6a13a24e4cce1f0a3d91872d5c3daa63ff876fb6bcb48853dead764",
+      "hash_meta": "c3459e60bb7ab43ab161f747f49330b1bca2b79159572948fce5dfb7cb576ff6",
+      "seqno": 22917982
+    },
+    "service": {
+      "entropy": "IN2B13PvpH/2CGMHtgFDsxA+",
+      "hostname": "nashkabbara.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1658896070,
+  "expire_in": 504576000,
+  "prev": "e25722e9eee96ed76e253f32a7ef1f422d250da9b6684b6fdbf4af4088205ef1",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtEdsZNTOiX+vBsXSjoPVNngY8GWYsM7K7AmbbP1HnmAKp3BheWxvYWTESpcCCcQg4lci6e7pbtduJT8yp+8fQi0lDam2aEtv2/SvQIggXvHEIJ+3w+KoOU2gK1tjuYnUqHMz33BxOl/J4tkEHGPbeGbZAgHCo3NpZ8RAbTXYkGhXSksl2pB8vkoWr7KxYNNiELC7Rqo/5Ql2WwPzQI6e2qUsfBEKE+RFCd0tK/SAZxoYE39KbWrfIqipAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHEMfJQ135A1xwOBmWsivYNPDFRwhBsO7gnraN17Out7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nkabbara
+
+==================================================================
