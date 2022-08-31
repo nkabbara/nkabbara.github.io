@@ -2,7 +2,7 @@
 layout: page
 title: "Tech Notes"
 date: 2022-07-11
-version: 0.3.0
+version: 0.4.0
 categories: tech
 ---
 
@@ -263,6 +263,14 @@ When you range over a string, you're ranging over runes.
 ```
 
 Constants only exist to compile time. They never find themselves on a stack or on the heap. ie `const foo = 333`
+
+# Screen
+
+Detach from a session: ctrl-a, ctrl-d
+
+# Docker
+
+Detach from a container ctrl-p, ctrl-q
 
 # Misc
 
