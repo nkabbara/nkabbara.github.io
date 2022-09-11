@@ -2,13 +2,13 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.8.2
+version: 1.8.3
 categories: quotes
 ---
 
 > Winning does not tempt that man, this is how he grows, by being defeated decisevely by greater and greater beings.
 
-- Rilke
+— Rilke
 
 <br>
 
