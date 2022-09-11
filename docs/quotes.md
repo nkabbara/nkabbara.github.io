@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.7.2
+version: 1.8.2
 categories: quotes
 ---
+
+> Winning does not tempt that man, this is how he grows, by being defeated decisevely by greater and greater beings.
+
+- Rilke
+
+<br>
 
 > I'd rather learn than be right.
 
