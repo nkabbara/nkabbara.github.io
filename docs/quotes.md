@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.9.3
+version: 1.9.4
 categories: quotes
 ---
+
+> The problem, often not discovered until late in life, is that when you look for things in life like love, meaning, motivation, it implies they are sitting behind a tree or under a rock. The most successful people in life recognize, that in life they create their own love, they manufacture their own meaning, they generate their own motivation.
+
+— Neil DeGrass Taison
+
+<br>
 
 > It is inevitable if you enter into relations with people on a regular basis…that you will grow to be like them. Place an extinguished piece of coal next to a live one, and either it will cause the other one to die out, or the live one will make the other reignite. … If you consort with someone covered in dirt you can hardly avoid getting a little grimy yourself.
 
