@@ -2,7 +2,7 @@
 layout: page
 title: "Deathbed"
 date: 2022-10-30
-version: 0.1.0
+version: 0.2.0
 categories: life
 ---
 
@@ -34,8 +34,12 @@ _What if I don't have the time to be available for non financial contribution?_
 Depending on the type of help, I will either find a friend that can help me out until my time is regained or
 I will pay for professional help to keep participants on their path.
 
+_What if I don't get to 40 people before I die?_
+
+I feel like this kind of pressure is generally positive. It gives me a bigger reason than myself to attempt to increase my income in order to be able to help out more people in more ways.
+
 ## Status
 
-|**Name**| **How is life better?** | **What am I doing?**|
-|nxxx| Learning a new language at a very young age that is proven to open doors for people in her environment.| I'm paying for English school & following up on their progress regularly|
-|kxxx| Started their own business by leveraging a skill giving them more control over their life & increased income.| I make myself available to them for advice and guidance on regular basis.|
+|**No**|**Name**| **How is life better?** | **What am I doing?**|
+|1| nxxx| Learning a new language at a very young age that is proven to open doors for people in her environment.| I'm paying for English school & following up on their progress regularly|
+|2| kxxx| Started their own business by leveraging a skill giving them more control over their life & increased income.| I make myself available to them for advice and guidance on regular basis.|
