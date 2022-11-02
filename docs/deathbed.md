@@ -38,8 +38,4 @@ _What if I don't get to 40 people before I die?_
 
 I feel like this kind of pressure is generally positive. It gives me a bigger reason than myself to attempt to increase my income in order to be able to help out more people in more ways.
 
-## Status
-
-|**No**|**Name**| **How is life better?** | **What am I doing?**|
-|1| nxxx| They're learning a new language at a very young age that is proven to open doors for people in their environment.| I'm paying for English school & following up on their progress regularly|
-|2| kxxx| Started their own business by leveraging a skill giving them more control over their life & increased income.| I make myself available to them for advice and guidance on regular basis.|
+## Status: 2/40
