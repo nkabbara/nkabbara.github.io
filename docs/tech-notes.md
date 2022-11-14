@@ -2,7 +2,7 @@
 layout: page
 title: "Tech Notes"
 date: 2022-07-11
-version: 0.4.0
+version: 0.5.0
 categories: tech
 ---
 
@@ -278,4 +278,16 @@ Loop on cli (bash):
 
 ```
 for i in `seq 10`; do echo "myserver_$i"; done
+```
+
+List tcp listeners with their pids on Mac (nestat -nato equiv on linux):
+
+```
+sudo lsof -iTCP -sTCP:LISTEN -n -P
+```
+
+Bring background process to foreground
+
+```
+fg
 ```
