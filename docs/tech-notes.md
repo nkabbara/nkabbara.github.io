@@ -291,3 +291,11 @@ Bring background process to foreground
 ```
 fg
 ```
+
+Copy/Paste in cli
+
+```
+> pwd | pbcopy
+
+> pbpaste
+```
