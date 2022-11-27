@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.10.4
+version: 1.11.4
 categories: quotes
 ---
+
+> A good [relationship] is one in which each [person] secretly thinks he or she got the better deal, and this is true also of our friendships.
+
+— Anne Lamont
+
+<br>
 
 > If you wish to build a ship, do not divide the men into teams and send them to the forest to cut wood. Instead, teach them to long for the vast and endless sea.
 
