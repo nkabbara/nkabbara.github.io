@@ -88,6 +88,12 @@ awareness mind centered at all times.
 - How did your face look like before even your parents were born?
 - The wind is not moving. The flag is not moving. Your mind is moving[^4][^5].
 
+## States of Mind
+
+Your mind is contracted. All your energy, attention and consciousness seems to be living in your head.
+
+Your mind is diffused. It seems like your attention is outside your body completely and you are not in control of your actions and your words.
+
 <br>
 
 ---
