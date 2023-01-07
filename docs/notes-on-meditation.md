@@ -2,7 +2,7 @@
 layout: page
 title: "Notes On Meditation"
 date: 2022-04-03
-version: 0.0.8
+version: 0.0.9
 categories: meditation
 ---
 
@@ -10,6 +10,18 @@ There are concepts in meditation that are strongly ephemeral. You get an insight
 but in an instant, it could leave your mind and never return.
 
 Here, [we're](/how-are-you.html) documenting these epiphanies.
+
+## The Three Pillars of Meditation
+
+The first, is stillness. You must commit to be still. Not only stillness in your body, but also
+in your face. When there's a contraction anywhere in your body or your face, it's an indication
+that your mind has been captured by a thought. When you commit to be still, any mind induced
+movement will immediately alert you to this fact.
+
+Committing to be still is not a forced action. It's more like surrendering to stillness. Or being
+stillness.
+
+The other two are coming soon...
 
 ## Finding The Meditator
 
@@ -90,9 +102,9 @@ awareness mind centered at all times.
 
 ## States of Mind
 
-Your mind is contracted. All your energy, attention and consciousness seems to be living in your head.
+Contracted: all your energy, attention and consciousness seems to be living in your head. You can't get out of your head.
 
-Your mind is diffused. It seems like your attention is outside your body completely and you are not in control of your actions and your words.
+Diffused: it seems like your attention is completely outside you and you are not in control of your actions and your words.
 
 <br>
 
