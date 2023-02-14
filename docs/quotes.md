@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.11.4
+version: 1.12.4
 categories: quotes
 ---
+
+> 90% of your thoughts are repeats.
+
+- Jack Kornfield
+
+<br>
 
 > A good [relationship] is one in which each [person] secretly thinks he or she got the better deal, and this is true also of our friendships.
 
