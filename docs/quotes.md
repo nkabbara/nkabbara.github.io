@@ -8,7 +8,7 @@ categories: quotes
 
 > 90% of your thoughts are repeats.
 
-- Jack Kornfield
+— Jack Kornfield
 
 <br>
 
