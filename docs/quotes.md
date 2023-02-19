@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.12.4
+version: 1.13.4
 categories: quotes
 ---
+
+> There are only two things in this world: love & hate. [Whenever you're about to do something, ask yourself: which one of these two things are you coming from.]
+
+— Anthony de Mello
+
+<br>
 
 > 90% of your thoughts are repeats.
 
