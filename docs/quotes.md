@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.13.4
+version: 1.14.4
 categories: quotes
 ---
+
+> Plunge into the heat of battle and keep you heart at the lotus feet of the lord.
+
+— Lord Krishna, Bhagavad Gita
+
+<br>
 
 > There are only two things in this world: love & hate. [Whenever you're about to do something, ask yourself: which one of these two things are you coming from.]
 
