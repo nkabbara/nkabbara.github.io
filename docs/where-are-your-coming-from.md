@@ -2,7 +2,7 @@
 layout: page
 title: "Where Are You Coming From?"
 date: 2023-04-08
-version: 1.0.0
+version: 1.0.1
 categories: philosophy
 ---
 
@@ -10,7 +10,7 @@ If you distill humanity down until you can't distill anymore you'll end up with 
 
 When you're about to do something, ask yourself: is this coming from love or from fear? If it's from fear, then hold off and see if the same thing can be done from a place of love.
 
-Where you come from makes all the difference; even if the action is the same.
+Where you come from makes all the difference; **even if the action is the same.**
 
 A story of Ali from The 40 Rules Of Love:
 
