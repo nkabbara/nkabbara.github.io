@@ -20,6 +20,6 @@ A story of Ali from The 40 Rules Of Love:
 >
 > So Ali set the man free. The infidel was so touched that he became Ali’s friend and follower...
 
-Lord Krishna in Bhagavad Gita says more or less the same thing
+Lord Krishna in Bhagavad Gita says more or less the same thing:
 
 > Plunge into the heat of battle and keep your heart at the lotus feet of the Lord.
