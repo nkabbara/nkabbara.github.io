@@ -2,9 +2,21 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.14.4
+version: 1.15.4
 categories: quotes
 ---
+
+> It’s not that hard work necessarily makes you luckier. It’s that putting in a lot of work positions you so that you will see more opportunities and be prepared to pounce on those opportunities because you’re prepared ...This spoke to me so strongly as a metaphor for life.
+
+— Jason Karp
+
+<br>
+
+> This awful catastrophe is not the end but the beginning. History does not end so. It is the way its chapters open.
+
+— St. Augustine
+
+<br>
 
 > Plunge into the heat of battle and keep you heart at the lotus feet of the lord.
 
