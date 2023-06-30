@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.15.4
+version: 1.16.4
 categories: quotes
 ---
+
+> It’s easier to act your way into a new way of thinking than to think your way into a new way of acting.
+
+— Richard Bandler
+
+<br>
 
 > It’s not that hard work necessarily makes you luckier. It’s that putting in a lot of work positions you so that you will see more opportunities and be prepared to pounce on those opportunities because you’re prepared ...This spoke to me so strongly as a metaphor for life.
 
