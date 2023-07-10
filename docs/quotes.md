@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.16.4
+version: 1.17.4
 categories: quotes
 ---
+
+> If you want things to stay as they are, things will have to change.
+
+— Giuseppe Tomasi di Lampedusa
+
+<br>
 
 > It’s easier to act your way into a new way of thinking than to think your way into a new way of acting.
 
