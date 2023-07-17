@@ -2,9 +2,21 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.17.4
+version: 1.18.4
 categories: quotes
 ---
+
+> [For] unpleasant tasks, you should imagine what you would have someone else do if you were delegating it. Then do that.
+
+— Rob Fitzpatrick
+
+<br>
+
+> The ass that you mount and that you use to travel to a house is not the means by which you enter the house. You use the concept to get there; then you dismount, you go beyond it.
+
+— Anthony de Mello
+
+<br>
 
 > If you want things to stay as they are, things will have to change.
 
