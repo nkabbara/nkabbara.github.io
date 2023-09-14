@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.18.4
+version: 1.19.4
 categories: quotes
 ---
+
+> Our life's experience will equal what we have paid attention to whether by choice or default.
+
+— William Joyce
+
+<br>
 
 > [For] unpleasant tasks, you should imagine what you would have someone else do if you were delegating it. Then do that.
 
