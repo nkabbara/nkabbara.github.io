@@ -2,7 +2,7 @@
 layout: page
 title: "Where is Home?"
 date: 2023-10-30
-version: 0.0.1
+version: 0.0.2
 categories: philosophy
 ---
 
@@ -10,7 +10,7 @@ _Home is not where you were born; home is where all your attempts to escape ceas
 
 I've lived extensively in the following places throughout my life: Accra, Ghana. Tripoli, Lebanon. Houston, TX. Puerto Vallarta, Mexico. Guadalajara, Mexico. And now in the process of leaving Guadalajara. Where is home for me? None of these places.
 
-I think to call a place home, at least a couple of things must come together: the place must be conducive to deep friendships and it must feel comfortable for enduring hearbreaks.
+I think to call a place home, at least a couple of things must come together: the place must be conducive to deep friendships and it must feel comfortable for enduring hearbreaks [^1].
 
 ### Deep Friendships
 
@@ -22,27 +22,23 @@ When you have a deep interest in a subject and do the hard work of attaining a d
 
 The shape of conversation with these folks tend to branch off into sub topics which in turn branch off into more sub topics, by the end of the night you will have several unresolved threads leading into many more evenings of conversation. This process keeps repeating and as it does, you start to sense a deepening in your friendship. It feels like you and your friend are like trees on the surface and your roots below the surface are crossing, deepening and intertwining.
 
-Find a place with a lot of resilient people[^1] with deep interests and you've found a place closer to home.
-
-[^1]: a caveat is that the culture of this place must be open receiving foreigners. Many culters that don't have strong immigrant roots tend to make it hard for non natives to feel at home.
+Find a place with a lot of resilient people[^2] with deep interests and you've found a place closer to home.
 
 ### Enduring Heartbreaks
 
 Learning how to let your heart heal after a heartbreak is a skill that will free you from the shackles of comfort and familiarity. One thing that I realized that makes heartbreak not only bearable, but also sprinkled with glimpses of joix-de-vivre is being in a place that is full of heartbreak. I think a place with a deep history full of people that identify and share that history is such a place.
 
-I was on a walk in an ancient city with a good friend and he pointed to a corner and recounted the story that his grandfather told him about his first heartbreak that took place right at that corner. Walking that city feels like you're constantly stepping in places where heartbreak happened because of how old it is and how deeply rooted in its history its people are.
-
-Walking the streets of that city with a broken heart, you feel hopeful because many grandfathers recorvered form their borken hearts. And lived long enought to recount those stories to their grandchildren who are now your friends.
+I was on a walk in an ancient city with a good friend and he pointed to a corner and recounted the story that his grandfather told him about his first heartbreak that took place right at that corner. Walking that city feels like you're constantly stepping on someones's heartbreak. Walking its streets with a broken heart, you feel hopeful because many grandfathers recorvered from their borken hearts. They lived long enough to recount their stories to their grandchildren who are now your friends.
 
 Find a place with infinite heartbreaks and you're closer to home.
-
-### The Must Haves
-
-- [ ] Walkability
-- [ ] Strong, non-segragated network of public transportation
 
 ### Questions About Places
 
 - Would you want to grow old in this place?
 - Would you be ok being poor in this place? How about rich?
 - Would you be OK being stuck in this place and never be able to leave ever again?
+
+---
+
+[^1]: a caveat is that the culture of this place must be open receiving foreigners. Many culters that don't have strong immigrant roots tend to make it hard for non natives to feel at home.
+[^2]: the assumption here is that the basics are covered: walkability, strong public transport, mild winters & summers, parks & nature and good food.
