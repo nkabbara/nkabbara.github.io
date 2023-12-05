@@ -12,7 +12,7 @@ layout: default
   {%- if site.pages.size > 0 -%}
     <ul class="post-list">
       {%- for page in site.pages -%}
-        {% if page.layout != 'page'%}
+        {% if page.layout != 'page'% or page.tags contains 'hidden' %}
           {% continue %}
         {% endif %}
         <li style="margin-bottom: 10px;">
