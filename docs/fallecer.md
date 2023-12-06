@@ -12,7 +12,7 @@ Fallecer significa morir o pasar de la vida a la muerte. Se refiere al acto de p
 # Present
 
 Yo fallezco  
-Tu falleces  
+Tú falleces  
 Vos fallecés  
 El/Ella/Usted fallece  
 Nosotros fallecemos  
@@ -20,4 +20,27 @@ Ellos/Ellas/Ustedes fallecen
 
 # Preterite
 
-# Progressive
+Yo fallecí
+Tú falleciste
+Vos falleciste
+El/Ella/Usted falleció
+Nosotros fallecimos
+Ellos/Ellas/Ustedes fallecieron
+
+# Imperfect
+
+Yo fallecía
+Tú fallecías
+Vos fallecías
+El/Ella/Usted fallecía
+Nosotros fallecíamos
+Ellos/Ellas/Ustedes fallecían
+
+# Future
+
+Yo falleceré
+Tú fallecerás
+Vos fallecerás
+El/Ella/Usted fallecerá
+Nosotros falleceramos
+Ellos/Ellas/Ustedes fallecerán
