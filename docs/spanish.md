@@ -8,10 +8,11 @@ categories: language
 
 # Words
 
-[Fallecer](fallecer)
+[Fallecer](fallecer)  
+[Brindar](brindar)
 
 # Expressions & Phrases
 
 # WTF
 
-[El alma, pero las almas. WTF.](alma_wtf)
+[El alma, pero las almas.](alma_wtf)

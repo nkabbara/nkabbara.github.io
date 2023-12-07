@@ -9,4 +9,4 @@ tags: hidden
 
 Se refiere a la parte inmaterial, espiritual o emocional de un ser, considerada como inmortal o esencial para el indentidad y el carácter de uno.
 
-WTF: es 'el alma' aunque es alma es una palabra feminina. Usa el articulo masculino 'el' para evitar el choque de sonidos entre la 'a' inicial acentuada de 'alma' y el 'la' del artículo feminino. Es una excepcíon común en español para palabras femininas que comienzan con una 'a' acentuada.
+**WTF:** es 'el alma' aunque es alma es una palabra feminina. Usa el articulo masculino 'el' para evitar el choque de sonidos entre la 'a' inicial acentuada de 'alma' y el 'la' del artículo feminino. Es una excepcíon común en español para palabras femininas que comienzan con una 'a' acentuada.
