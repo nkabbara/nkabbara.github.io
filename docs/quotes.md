@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.19.4
+version: 1.20.4
 categories: quotes
 ---
+
+> Not judging is another way of letting go of fear and experiencing love. When we learn not to judge others – and totally accept them, and not want to change them – we can simultaneously learn to accept ourselves.
+
+— Gerald G. Jampolsky
+
+<br>
 
 > Our life's experience will equal what we have paid attention to whether by choice or default.
 
