@@ -28,15 +28,36 @@ _Note como su significado es similar a 'dar' y su sufijo también es 'dar'._
 
 # Presente
 
-Yo brindo
-Tu brindas
-Vos brindás
-El/Ella/Usted brinda
-Nosotros brindamos
+Yo brindo  
+Tu brindas  
+Vos brindás  
+El/Ella/Usted brinda  
+Nosotros brindamos  
 Ello/Ellas/Ustedes brindan
 
 # Pretérito
 
+Yo brindé  
+Tu brindaste  
+Vos brindaste  
+El/Ella/Usted brindó  
+Nosotros brindamos  
+Ella/Ellos/Ustedes brindaron
+
 # Imperfecto
 
+Yo brindaba
+Tu brindabas
+Vos brindabas
+El/Ella/Usted brindaba
+Nosotros brindábamos
+Ellas/Ellos/Ustedes brindaban
+
 # Futuro
+
+Yo brindaré
+Tu brindarás
+Vos brindarás
+El/Ella/Usted brindará
+Nosotros brindaremos
+Ellos/Ellas/Ustedes brindarán

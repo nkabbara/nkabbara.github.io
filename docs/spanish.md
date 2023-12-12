@@ -10,6 +10,7 @@ categories: language
 
 [Fallecer](fallecer)  
 [Brindar](brindar)
+[Ofrecer](ofrecer)
 
 # Expressions & Phrases
 
