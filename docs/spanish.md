@@ -11,7 +11,11 @@ categories: language
 [Fallecer](fallecer)  
 [Brindar](brindar)  
 [Ofrecer](ofrecer)  
-[Alcanzar](spanish/alcanzar)
+[Alcanzar](spanish/alcanzar)  
+[Aun](spanish/aun)  
+[De repente](spanish/de-repente)  
+[Sepa](spanish/sepa)  
+[Enojar](spanish/enojar)
 
 # Expressions & Phrases
 

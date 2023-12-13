@@ -13,11 +13,41 @@ algo o se ha llegado a la altura de algien or algo. Ejemplos:
 
 - Ella alcanzó la cima de la montaña.
 - Al final, alcanzó sus sueños.
+- Ella alcanzó a pasar la calificación para manetener la beca.
+- Acabo de llegar si alcanzas Fredo.
 
 ## Presente
 
+Yo alcanzo
+Tú alcanzas
+Vos alcanzás
+Él/Ella/Usted alcanza
+Nosotros alcanzamos
+Ellos/Ellas/Ustedes alcanzan
+
 ## Preterito
+
+Yo alcancé
+Tú alcanzaste
+Vos alcanzaste
+Él/Ella/Usted alcanzó
+Nosotros alcanzamos
+Ellos/Ellas/Ustedes alcanzaron
 
 ## Imperfecto
 
+Yo alcanzaba
+Tú alcanzabas
+Vos alcanzabás
+Él/Ella/Ustedes alcanzaba
+Nosotros alcanzábamos
+Ellos/Ellas/Ustededs alcanzaban
+
 ## Futuro
+
+Yo alcanzaré
+Tú alcanzarás
+Vos alcanzarás
+Él/Ella/Usted alcanzará
+Nosotros alcanzaremos
+Ellos/Ellas/Ustedes alcanzarán
