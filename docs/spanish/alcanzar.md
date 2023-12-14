@@ -2,7 +2,7 @@
 layout: page
 title: "Alcanzar"
 date: 2023-12-12
-version: 0.0.1
+version: 0.0.2
 categories: language
 tags: hidden
 ---
@@ -18,36 +18,36 @@ algo o se ha llegado a la altura de algien or algo. Ejemplos:
 
 ## Presente
 
-Yo alcanzo
-Tú alcanzas
-Vos alcanzás
-Él/Ella/Usted alcanza
-Nosotros alcanzamos
+Yo alcanzo  
+Tú alcanzas  
+Vos alcanzás  
+Él/Ella/Usted alcanza  
+Nosotros alcanzamos  
 Ellos/Ellas/Ustedes alcanzan
 
 ## Preterito
 
-Yo alcancé
-Tú alcanzaste
-Vos alcanzaste
-Él/Ella/Usted alcanzó
-Nosotros alcanzamos
+Yo alcancé  
+Tú alcanzaste  
+Vos alcanzaste  
+Él/Ella/Usted alcanzó  
+Nosotros alcanzamos  
 Ellos/Ellas/Ustedes alcanzaron
 
 ## Imperfecto
 
-Yo alcanzaba
-Tú alcanzabas
-Vos alcanzabás
-Él/Ella/Ustedes alcanzaba
-Nosotros alcanzábamos
+Yo alcanzaba  
+Tú alcanzabas  
+Vos alcanzabás  
+Él/Ella/Ustedes alcanzaba  
+Nosotros alcanzábamos  
 Ellos/Ellas/Ustededs alcanzaban
 
 ## Futuro
 
-Yo alcanzaré
-Tú alcanzarás
-Vos alcanzarás
-Él/Ella/Usted alcanzará
-Nosotros alcanzaremos
+Yo alcanzaré  
+Tú alcanzarás  
+Vos alcanzarás  
+Él/Ella/Usted alcanzará  
+Nosotros alcanzaremos  
 Ellos/Ellas/Ustedes alcanzarán
