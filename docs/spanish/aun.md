@@ -2,12 +2,12 @@
 layout: page
 title: "Aun"
 date: 2023-12-14
-version: 0.0.1
+version: 0.0.2
 categories: language
 tags: hidden
 ---
 
-Aún (con tilde): se utiliza para indicar tiempo equivalente a 'todavía' o 'hasta ahora'
+Aún (con tilde): se utiliza para indicar tiempo equivalente a 'todavía' o 'hasta ahora'.
 
 - Aún no he terminado
 - ?Aún viven tus abuelos?
