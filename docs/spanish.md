@@ -13,11 +13,12 @@ categories: language
 [Ofrecer](ofrecer)  
 [Alcanzar](spanish/alcanzar)  
 [Aun](spanish/aun)  
-[De repente](spanish/de-repente)  
 [Sepa](spanish/sepa)  
 [Enojar](spanish/enojar)
 
 # Expressions & Phrases
+
+[De repente](spanish/de-repente)
 
 # WTF
 
