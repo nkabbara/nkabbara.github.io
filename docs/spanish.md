@@ -13,7 +13,7 @@ categories: language
 [Ofrecer](spanish/ofrecer)  
 [Alcanzar](spanish/alcanzar)  
 [Aun](spanish/aun)  
-[Saber](spanish/sepa)  
+[Saber](spanish/saber.md)  
 [Enojar](spanish/enojar)
 
 # Expressions & Phrases
