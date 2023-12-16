@@ -10,6 +10,7 @@ tags: hidden
 Verbos reflexivo se utilizan cuando el sujeto se realiza una accíon
 sobre sí mismo. Estos verbos van acompañados de pronombres reflexivos
 que corresponden al sujeto. Son comunes en acciones de la rutina diaria.
+Los pronombres reflexivos:
 
 - me (yo)
 - te (tu, vos)
@@ -25,3 +26,34 @@ Ejemplos:
 - El se lava
 - Nosotros nos lavamos
 - Ellos se lavan
+- Yo me cepillo los dientes todas las mañanas.
+- Tú te vistes rápidamente para la escuela.
+- Vos te acostás temprano los domingos.
+- Ella se mira en el espejo antes de salir.
+- Nosotros nos levantamos a las siete cada dia.
+
+Verbos mas comunes:
+
+1. Levantarse
+2. Bañarse
+3. Vestirse
+4. Acostarse
+5. Peinarse
+6. Sentarse
+7. Ducharse
+8. Maquillarse
+9. Despertarse
+10. Afeitarse
+
+## No Confundir Con
+
+### Me interesa algo del catálogo
+
+Interesar no es reflexivo. Aquí, 'interesar' functiona de manera
+similar a los verbos como [gustar](spanish/gustar). Ver gustar para
+más informacíon.
+
+### Se apagaron las luces
+
+Apagaron no es reflexivo sino de una construccíon llamada "voz pasiva con se".
+Ver [voz pasiva con se](spanish/voz-pasiva-con-se) para más informaccíon.
