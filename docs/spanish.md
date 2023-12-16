@@ -8,9 +8,9 @@ categories: language
 
 # Words
 
-[Fallecer](fallecer)  
-[Brindar](brindar)  
-[Ofrecer](ofrecer)  
+[Fallecer](spanish/fallecer)  
+[Brindar](spanish/brindar)  
+[Ofrecer](spanish/ofrecer)  
 [Alcanzar](spanish/alcanzar)  
 [Aun](spanish/aun)  
 [Sepa](spanish/sepa)  
@@ -22,7 +22,7 @@ categories: language
 
 # WTF
 
-[El alma, pero las almas.](alma_wtf)
+[El alma, pero las almas.](spanish/alma_wtf)
 
 # Grammar
 
