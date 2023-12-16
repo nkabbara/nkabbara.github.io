@@ -2,7 +2,7 @@
 layout: page
 title: "Brindar"
 date: 2023-12-06
-version: 0.0.1
+version: 0.0.2
 categories: language
 tags: hidden
 ---
@@ -46,18 +46,18 @@ Ella/Ellos/Ustedes brindaron
 
 # Imperfecto
 
-Yo brindaba
-Tu brindabas
-Vos brindabas
-El/Ella/Usted brindaba
-Nosotros brindábamos
+Yo brindaba  
+Tu brindabas  
+Vos brindabas  
+El/Ella/Usted brindaba  
+Nosotros brindábamos  
 Ellas/Ellos/Ustedes brindaban
 
 # Futuro
 
-Yo brindaré
-Tu brindarás
-Vos brindarás
-El/Ella/Usted brindará
-Nosotros brindaremos
+Yo brindaré  
+Tu brindarás  
+Vos brindarás  
+El/Ella/Usted brindará  
+Nosotros brindaremos  
 Ellos/Ellas/Ustedes brindarán
