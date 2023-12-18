@@ -15,10 +15,15 @@ categories: language
 [Aun](spanish/aun)  
 [Saber](spanish/saber.md)  
 [Enojar](spanish/enojar)
+[Flojar](spanish/flojar)
+[Tonto](spanish/tonto)
+[Agotado](spanish/agotado)
 
 # Expressions & Phrases
 
 [De repente](spanish/de-repente)
+[No se escucha & similar](spanish/voz-pasiva-con-se.md)
+[Desfase de horarios](spanish/desfase-de-horarios)
 
 # WTF
 
