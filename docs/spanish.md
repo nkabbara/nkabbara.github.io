@@ -13,11 +13,13 @@ categories: language
 [Ofrecer](spanish/ofrecer)  
 [Alcanzar](spanish/alcanzar)  
 [Aun](spanish/aun)  
-[Saber](spanish/saber.md)  
-[Enojar](spanish/enojar)
-[Flojar](spanish/flojar)
-[Tonto](spanish/tonto)
-[Agotado](spanish/agotado)
+[Tonto](spanish/tonto)  
+[Demás](spanish/demas)  
+[Chiste](spanish/chiste)  
+[Agotado](spanish/agotado)  
+[Flojar](spanish/flojar)  
+[Enojar](spanish/enojar)  
+[Saber](spanish/saber)
 
 # Expressions & Phrases
 
