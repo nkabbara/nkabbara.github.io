@@ -6,6 +6,12 @@ version: 1.20.4
 categories: quotes
 ---
 
+> If you're going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. You will ride life straight to perfect laughter. It's the only good fight there is.
+
+-- Charles Bukowski, Factotum
+
+<br>
+
 > Not judging is another way of letting go of fear and experiencing love. When we learn not to judge others – and totally accept them, and not want to change them – we can simultaneously learn to accept ourselves.
 
 — Gerald G. Jampolsky
