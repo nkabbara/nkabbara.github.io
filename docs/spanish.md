@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.0.3
+version: 0.0.4
 categories: language
 ---
 
@@ -23,9 +23,9 @@ categories: language
 
 # Expressions & Phrases
 
-[De repente](spanish/de-repente)
-[No se escucha & similar](spanish/voz-pasiva-con-se)
-[Desfase de horarios](spanish/desfase-de-horarios)
+[De repente](spanish/de-repente)  
+[No se escucha & similar](spanish/voz-pasiva-con-se)  
+[Desfase de horarios](spanish/desfase-de-horarios)  
 [Sin embargo](spanish/sin-embargo)
 
 # WTF
