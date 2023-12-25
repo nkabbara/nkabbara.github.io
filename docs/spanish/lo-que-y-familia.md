@@ -2,12 +2,12 @@
 layout: page
 title: "Lo que"
 date: 2023-12-20
-version: 0.0.1
+version: 0.0.2
 categories: language
 tags: hidden
 ---
 
-Los pronombres relativos se utilizan por conectar oraciones, evitar la repiticíon, proporcionar
+Los pronombres relativos se utilizan por conectar oraciones, evitar la repeticíon, proporcionar
 detalles adicionales, claridad y precisión.
 
 Sin: Vi a María. María estaba en la tienda.
@@ -42,9 +42,12 @@ Con: Juan tiene un perro, el cual es muy amigable.
    - Ella es la profesora con quien quiero hablar sobre mi proyecto.
    - Robert es el colega para quien escribí la recomendacíon.
    - Juan es algien por quien tengo mucho admiracíon.
-4. el cual, la cual, los cuales, las cuales: necesitan articulos a deferencia de que, que no necista articulo.
+4. el cual, la cual, los cuales, las cuales: necesitan articulos a deferencia de que, que no necista articulo. Pero mira #8.
 5. Se usa los versiones interogativos para preguntas: qué, cuál, quién, etc...
 6. Lo que: se usa para referirse a una idea, situación, o concepto entero, no a un sustantivo especifico.
 7. A diferencia del inglés, no se puede omitir esos: La película que vi. No la película vi.
-
-WIP see discussion in gpt for more
+8. Que, y otros pronombres reflexivos necesita un articulo (el, la, los, las), cuando las usas después de una [prepocision](spanish/prepocisiones) y te refiere a un sustantivo especifico.
+   - El libro del que hablas.
+   - La silla el la que estás sentado.
+   - Los documentos con los que trabajamos.
+   - Las historias sobre las que leí.

@@ -9,6 +9,9 @@ tags: hidden
 
 Fallecer significa morir o pasar de la vida a la muerte. Se refiere al acto de perder la vida.
 
+Sustantivo: fallecimiento.
+Adjectivo: fallecido/a.
+
 # Present
 
 Yo fallezco  
