@@ -2,10 +2,20 @@
 layout: page
 title: "Saber"
 date: 2023-12-15
-version: 0.0.3
+version: 0.0.4
 categories: language
 tags: hidden
 ---
+
+1. Conocimiento o informacíon
+   - Yo sé tu nombre
+2. Habilidades
+3. Conciencia
+
+- Sé que deficil...
+
+Sustantivo: sabiduría
+Adjectivo: sabio/a
 
 ## Presente
 
