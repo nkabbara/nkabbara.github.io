@@ -2,7 +2,7 @@
 layout: page
 title: "Lo que"
 date: 2023-12-20
-version: 0.0.2
+version: 0.0.4
 categories: language
 tags: hidden
 ---
@@ -38,6 +38,8 @@ Con: Juan tiene un perro, el cual es muy amigable.
 
 1. El que/la que/los que/las que, cuyo, cuya, cuyos, cuyas: deben concordar en género con el sustantivo al que hacen referencía.
 2. que: se puede usar para personas y cosas en sujeto o objeto.
+   - El libro que esta en la mesa es interesante. (sujeto)
+   - Vi a la persona que buscabas. (objeto)
 3. quien/quienes: se usa para personas especialmente después de prepocisiones como a, con, de, para, por, entre, sin.
    - Ella es la profesora con quien quiero hablar sobre mi proyecto.
    - Robert es el colega para quien escribí la recomendacíon.
@@ -48,6 +50,6 @@ Con: Juan tiene un perro, el cual es muy amigable.
 7. A diferencia del inglés, no se puede omitir esos: La película que vi. No la película vi.
 8. Que, y otros pronombres reflexivos necesita un articulo (el, la, los, las), cuando las usas después de una [prepocision](spanish/prepocisiones) y te refiere a un sustantivo especifico.
    - El libro del que hablas.
-   - La silla el la que estás sentado.
+   - La silla en la que estás sentado.
    - Los documentos con los que trabajamos.
    - Las historias sobre las que leí.
