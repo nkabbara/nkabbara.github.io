@@ -18,47 +18,47 @@ Sustantivo: el ser. p. ej. el ser humano o el ser y la nada
 
 ## Presente
 
-Yo soy
-Tú eres
-Vos sos
-El/Ella/Ud. es
-Nosotros somos
+Yo soy  
+Tú eres  
+Vos sos  
+El/Ella/Ud. es  
+Nosotros somos  
 Ellos/Ellas/Uds. son
 
 ## Preterito
 
-Yo fui
-Tú fuiste
-Vos fuiste
-Él/Ella/Ud. fue
-Nosotros fuimos
+Yo fui  
+Tú fuiste  
+Vos fuiste  
+Él/Ella/Ud. fue  
+Nosotros fuimos  
 Ellos/Ellas/Uds. fueron
 
 ## Imperfecto
 
-Yo era
-Tú eras
-Vos eras
-El/Ella/Ud. era
-Nosotros éramos
+Yo era  
+Tú eras  
+Vos eras  
+El/Ella/Ud. era  
+Nosotros éramos  
 Ellos/Ellas/Uds. eran
 
 ## Futuro
 
-Yo seré
-Tú serás
-Vos serás
-El/Ella/Ud. será
-Nosotros seremos
+Yo seré  
+Tú serás  
+Vos serás  
+El/Ella/Ud. será  
+Nosotros seremos  
 Ellos/Ellas/Uds. serán
 
 # Subjutivo
 
 ## Presente
 
-Yo sea
-Tú seas
-Vos seas
-El/Ella/Ud. sea
-Nosotros seamos
+Yo sea  
+Tú seas  
+Vos seas  
+El/Ella/Ud. sea  
+Nosotros seamos  
 Ello/Ellas/Uds. sean
