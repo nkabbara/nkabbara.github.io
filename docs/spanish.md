@@ -11,6 +11,7 @@ categories: language
 [Ser](spanish/ser)  
 [Estar](spanish/ser)  
 [Haber](spanish/haber)  
+[Ir](spanish/ir)  
 [Fallecer](spanish/fallecer)  
 [Brindar](spanish/brindar)  
 [Ofrecer](spanish/ofrecer)  
