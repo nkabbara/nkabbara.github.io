@@ -2,12 +2,15 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.0.4
+version: 0.0.5
 categories: language
 ---
 
 # Words
 
+[Ser](spanish/ser)  
+[Estar](spanish/ser)  
+[Haber](spanish/haber)  
 [Fallecer](spanish/fallecer)  
 [Brindar](spanish/brindar)  
 [Ofrecer](spanish/ofrecer)  
@@ -20,6 +23,7 @@ categories: language
 [Flojar](spanish/flojar)  
 [Enojar](spanish/enojar)  
 [Saber](spanish/saber)
+[Actuá](spanish/actuá)
 
 # Expressions & Phrases
 

@@ -2,7 +2,7 @@
 layout: page
 title: "Verbos Reflexivos"
 date: 2023-12-12
-version: 0.0.1
+version: 0.0.2
 categories: language
 tags: hidden
 ---
@@ -57,3 +57,10 @@ más informacíon.
 
 Apagaron no es reflexivo sino de una construccíon llamada "voz pasiva con se".
 Ver [voz pasiva con se](spanish/voz-pasiva-con-se) para más informaccíon.
+
+### Me dieron un regalo
+
+"Me" indica a quién se dirige la acción del verbo (quién recibe la acción). Pronombre de objeto indirecto.
+En ambos casos, "me" se refiere a la primera persona del singular,
+pero le contexto determina si está funcionando como parte de un verbo
+reflexivo o como un objeto indrecto.
