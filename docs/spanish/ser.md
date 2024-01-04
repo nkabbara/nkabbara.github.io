@@ -62,3 +62,9 @@ Vos seas
 El/Ella/Ud. sea  
 Nosotros seamos  
 Ello/Ellas/Uds. sean
+
+### Oraciones similares pero con significados diferentes
+
+- Soy aburrido (por naturaleza) vs. Estoy aburrido (en este momento)
+- Eres callado (generalment silenciosa) vs. Estás callado (no siempre, solo ahora).
+- Donde es la fiesta (el lugar del evento, como en el hotel o mi casa, etc...) vs. Donde esta la fiesta (p.ej como llego alla).
