@@ -8,23 +8,24 @@ categories: language
 
 # Words
 
-[Ser](spanish/ser)  
-[Estar](spanish/ser)  
-[Haber](spanish/haber)  
-[Ir](spanish/ir)  
-[Fallecer](spanish/fallecer)  
-[Brindar](spanish/brindar)  
-[Ofrecer](spanish/ofrecer)  
+[Actuá](spanish/actuá)
+[Agotado](spanish/agotado)  
 [Alcanzar](spanish/alcanzar)  
 [Aun](spanish/aun)  
-[Tonto](spanish/tonto)  
-[Demás](spanish/demas)  
+[Brindar](spanish/brindar)  
 [Chiste](spanish/chiste)  
-[Agotado](spanish/agotado)  
-[Flojar](spanish/flojar)  
+[Demás](spanish/demas)  
 [Enojar](spanish/enojar)  
+[Estar](spanish/ser)  
+[Fallecer](spanish/fallecer)  
+[Flojar](spanish/flojar)  
+[Haber](spanish/haber)  
+[Ir](spanish/ir)  
+[Ofrecer](spanish/ofrecer)  
+[Probar](spanish/probar)
 [Saber](spanish/saber)
-[Actuá](spanish/actuá)
+[Ser](spanish/ser)  
+[Tonto](spanish/tonto)  
 
 # Expressions & Phrases
 
