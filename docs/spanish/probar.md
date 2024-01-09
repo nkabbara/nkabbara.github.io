@@ -5,6 +5,7 @@ date: 2024-01-08
 version: 0.0.1
 categories: language
 tags: hidden
+study_count: 0
 ---
 
 - Probar comida o bebida

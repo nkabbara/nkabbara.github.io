@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.0.5
+version: 0.0.6
 categories: language
 ---
 
@@ -25,7 +25,7 @@ categories: language
 [Probar](spanish/probar)
 [Saber](spanish/saber)
 [Ser](spanish/ser)  
-[Tonto](spanish/tonto)  
+[Tonto](spanish/tonto)
 
 # Expressions & Phrases
 
