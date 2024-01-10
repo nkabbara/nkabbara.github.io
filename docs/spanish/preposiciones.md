@@ -5,6 +5,7 @@ date: 2023-12-25
 version: 0.0.1
 categories: language
 tags: hidden
+study_count: 1
 ---
 
 Son una categoría propia en gramatica de palabras cortas que se usan para conectar elementos en una oración y mostrar
