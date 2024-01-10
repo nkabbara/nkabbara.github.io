@@ -8,7 +8,7 @@ categories: language
 
 # Words
 
-[Actuá](spanish/actuá)
+[Actuá](spanish/actuá)  
 [Agotado](spanish/agotado)  
 [Alcanzar](spanish/alcanzar)  
 [Aun](spanish/aun)  
@@ -22,8 +22,8 @@ categories: language
 [Haber](spanish/haber)  
 [Ir](spanish/ir)  
 [Ofrecer](spanish/ofrecer)  
-[Probar](spanish/probar)
-[Saber](spanish/saber)
+[Probar](spanish/probar)  
+[Saber](spanish/saber)  
 [Ser](spanish/ser)  
 [Tonto](spanish/tonto)
 
