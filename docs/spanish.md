@@ -2,13 +2,13 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.0.6
+version: 0.0.7
 categories: language
 ---
 
 # Words
 
-[Actuá](spanish/actuá)  
+[Actuar](spanish/actuar)  
 [Agotado](spanish/agotado)  
 [Alcanzar](spanish/alcanzar)  
 [Aun](spanish/aun)  
@@ -16,7 +16,7 @@ categories: language
 [Chiste](spanish/chiste)  
 [Demás](spanish/demas)  
 [Enojar](spanish/enojar)  
-[Estar](spanish/ser)  
+[Estar](spanish/estar)  
 [Fallecer](spanish/fallecer)  
 [Flojar](spanish/flojar)  
 [Haber](spanish/haber)  

@@ -5,6 +5,7 @@ date: 2024-01-03
 version: 0.0.1
 categories: language
 tags: hidden
+study_count: 1
 ---
 
 Estar es un verbo irregular que se usa para indicar la ubicación, el estado o la
