@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.0.7
+version: 0.0.8
 categories: language
 ---
 
@@ -21,8 +21,10 @@ categories: language
 [Flojar](spanish/flojar)  
 [Haber](spanish/haber)  
 [Ir](spanish/ir)  
+[Meter](spanish/meter)  
 [Ofrecer](spanish/ofrecer)  
 [Probar](spanish/probar)  
+[Rodar](spanish/rodar)  
 [Saber](spanish/saber)  
 [Ser](spanish/ser)  
 [Tonto](spanish/tonto)

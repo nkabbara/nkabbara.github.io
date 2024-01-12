@@ -2,7 +2,7 @@
 layout: page
 title: "Verbos Reflexivos"
 date: 2023-12-12
-version: 0.0.2
+version: 0.0.3
 categories: language
 tags: hidden
 ---
@@ -64,3 +64,7 @@ Ver [voz pasiva con se](spanish/voz-pasiva-con-se) para más informaccíon.
 En ambos casos, "me" se refiere a la primera persona del singular,
 pero le contexto determina si está funcionando como parte de un verbo
 reflexivo o como un objeto indrecto.
+
+## TODO
+
+Deconstruct: "También puede usarse en un sentido más amplio, como "meterse en problemas". Usarse es reflexivo?
