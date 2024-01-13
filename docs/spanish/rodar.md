@@ -2,14 +2,14 @@
 layout: page
 title: "Rodar"
 date: 2024-01-11
-version: 0.0.1
+version: 0.0.2
 categories: language
 tags: hidden
 study_count: 1
 ---
 
 1. Girar sobre un eje or alrededor de sí mismo.
-   - La pelota ruedo por el suelo
+   - La pelota rueda por el suelo
 2. Hacer que algo gire.
    - Rodé la botella en la mesa
 3. Caer dando vueltas.
