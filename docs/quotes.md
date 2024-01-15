@@ -6,9 +6,17 @@ version: 1.20.4
 categories: quotes
 ---
 
+> “There are two cardinal sins from which all others spring: Impatience and Laziness.”
+
+— Franz Kafka
+
+<br>
+
 > If you're going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. You will ride life straight to perfect laughter. It's the only good fight there is.
 
--- Charles Bukowski, Factotum
+— Charles Bukowski, Factotum
+
+Franz Kafka
 
 <br>
 

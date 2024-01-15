@@ -2,7 +2,7 @@
 layout: page
 title: "Rodar"
 date: 2024-01-11
-version: 0.0.2
+version: 0.0.3
 categories: language
 tags: hidden
 study_count: 1
@@ -15,11 +15,11 @@ study_count: 1
 3. Caer dando vueltas.
    - Rodé por las escaleras
 4. Filmar o grabar una pelicula or una escena.
-   - Estan rodando un nueva película en la ciudad.
+   - Estan rodando una nueva película en la ciudad.
 5. Circular o moverse habitualmente.
    - Ese rumor rueda por todo el barrio
    - Me enseño que mi destino era rodar y rodar (simboliza un viaje continuo o una vida de constante movimento y cambio)
-6. Desrrollarse or suceder (especialmenta referido a eventos o situatciones)
+6. Desrrolarse or suceder (especialmenta referido a eventos o situatciones)
    - La reunion rodó sin problemas
 
 # Indicativo
