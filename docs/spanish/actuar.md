@@ -2,7 +2,7 @@
 layout: page
 title: "Actuar"
 date: 2024-01-10
-version: 0.0.2
+version: 0.0.3
 categories: language
 tags: hidden
 study_count: 1
