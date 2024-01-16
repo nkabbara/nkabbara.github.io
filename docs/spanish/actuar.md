@@ -21,47 +21,47 @@ cinematográfica o televisiva.
 
 ## Presente
 
-Yo actúo
-Tú actúas
-Vos actuás
-El/Ella/Ud. actúa
-Nosotros actuamos
+Yo actúo  
+Tú actúas  
+Vos actuás  
+El/Ella/Ud. actúa  
+Nosotros actuamos  
 Ellos/Ellas/Uds. actúan
 
 ## Preterito
 
-Yo actué
-Tú actuaste
-Vos actuaste
-El/Ella/Ud. actuó
-Nosotros actuamos
+Yo actué  
+Tú actuaste  
+Vos actuaste  
+El/Ella/Ud. actuó  
+Nosotros actuamos  
 Ellos/Ellas/Uds. actuaron
 
 ## Imperfecto
 
-Yo actuaba
-Tú actuabas
-Vos actuabas
-El/Ella/Ud. actuaba
-Nosotros actuábamos
+Yo actuaba  
+Tú actuabas  
+Vos actuabas  
+El/Ella/Ud. actuaba  
+Nosotros actuábamos  
 Ellos/Ellas/Uds. acutaban
 
 ## Futuro
 
-Yo actuaré
-Tú actuarás
-Vos actuarás
-El/Ella/Ud. actuará
-Nosotros actuaremos
+Yo actuaré  
+Tú actuarás  
+Vos actuarás  
+El/Ella/Ud. actuará  
+Nosotros actuaremos  
 Ellos/Ellas/Uds. actuarán
 
 # Subjuntivo
 
 ## Presente
 
-Yo actúe
-Tú actúes
-Vos actúes
-El/Ella/Ud. actúe
-Nosotros actúemos
+Yo actúe  
+Tú actúes  
+Vos actúes  
+El/Ella/Ud. actúe  
+Nosotros actúemos  
 Ellos/Ellas/Uds. actúen
