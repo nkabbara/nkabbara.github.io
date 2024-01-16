@@ -45,3 +45,4 @@ categories: language
 [Verbos Reflexivos](spanish/verbos-reflexivos)  
 [Lo que y familia](spanish/lo-que-y-familia)  
 [Prepocisiones](spanish/preposiciones)
+[Reglas de Conjugacion](spanish/conjugacion)
