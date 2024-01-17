@@ -21,7 +21,7 @@ categories: language
 [Flojar](spanish/flojar)  
 [Haber](spanish/haber)  
 [Ir](spanish/ir)  
-[Jalar](spanish/jalar)
+[Jalar](spanish/jalar)  
 [Meter](spanish/meter)  
 [Ofrecer](spanish/ofrecer)  
 [Probar](spanish/probar)  

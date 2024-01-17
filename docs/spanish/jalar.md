@@ -2,7 +2,7 @@
 layout: page
 title: "Jalar"
 date: 2024-01-16
-version: 0.0.1
+version: 0.0.2
 categories: language
 tags: hidden
 study_count: 1
@@ -58,6 +58,8 @@ Nosotros jalaremos
 Ellos/Ellas/Uds. jalarán
 
 # Subjuntivo
+
+## Presente
 
 Yo jale  
 Tú jales  
