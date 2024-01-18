@@ -21,12 +21,55 @@ study_count: 0
 
 ## Presente
 
+Yo pruebo  
+Tú pruebas  
+Vos probás  
+El/Ella/Ud. prueba  
+Nosotros probamos  
+Ellos/Ellas/Uds. prueban
+
 ## Preterito
+
+Yo probé  
+Tú probaste  
+Vos probaste  
+El/Ella/Ud. probó  
+Nosotros probamos  
+Ellos/Ellas/Uds. probaron
 
 ## Imperfecto
 
+Yo probaba  
+Tú probabas  
+Vos probabas  
+El/Ella/Ud. probaba  
+Nosotros probábamos  
+Ellos/Ellas/Uds. probaban
+
 ## Futuro
+
+Yo probaré  
+Tú probarás  
+Vos probarás  
+El/Ella/Ud. probará  
+Nosotros probaremos  
+Ellos/Ellas/Uds. probarán
 
 # Subjuntivo
 
 ## Presente
+
+Yo pruebe  
+Tú pruebes  
+Vos pruebes  
+El/Ella/Ud. pruebe  
+Nosotros pruebemos  
+Ellos/Ellas/Uds. prueben
+
+Ejemplos:
+
+- Espero que tú pruebes la comida típica de mi país.
+- Es importante que vos pruebes estudiar más para el examen.
+- Es posible que ellos prueben ir a la playa en lugar de la montaña.
+
+Notas: usas el subjuntivo despues de 'es importante que', 'es necesario que', 'recomiendo que' ie. recomendaciones y consejos. Tambien despues. TODO: buscan otras palabras cuando usamos el subjuntivo
