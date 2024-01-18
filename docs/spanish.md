@@ -22,6 +22,7 @@ categories: language
 [Haber](spanish/haber)  
 [Ir](spanish/ir)  
 [Jalar](spanish/jalar)  
+[Jamás](spanish/jamas)
 [Meter](spanish/meter)  
 [Ofrecer](spanish/ofrecer)  
 [Probar](spanish/probar)  
