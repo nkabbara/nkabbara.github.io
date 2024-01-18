@@ -2,9 +2,10 @@
 layout: page
 title: "Tonto"
 date: 2023-12-18
-version: 0.0.1
+version: 0.0.2
 categories: language
 tags: hidden
+study_count: 1
 ---
 
 Se usa para describir a alguien que no actúa con inteligencia o sentido común.
