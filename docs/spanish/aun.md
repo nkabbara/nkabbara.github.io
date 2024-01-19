@@ -5,6 +5,7 @@ date: 2023-12-14
 version: 0.0.2
 categories: language
 tags: hidden
+study_count: 1
 ---
 
 Aún (con tilde): se utiliza para indicar tiempo equivalente a 'todavía' o 'hasta ahora'.

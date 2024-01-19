@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.0.9
+version: 0.0.10
 categories: language
 ---
 
@@ -22,7 +22,7 @@ categories: language
 [Haber](spanish/haber)  
 [Ir](spanish/ir)  
 [Jalar](spanish/jalar)  
-[Jamás](spanish/jamas)
+[Jamás](spanish/jamas)  
 [Meter](spanish/meter)  
 [Ofrecer](spanish/ofrecer)  
 [Probar](spanish/probar)  
