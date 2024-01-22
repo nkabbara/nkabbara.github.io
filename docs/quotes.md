@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.20.4
+version: 1.21.4
 categories: quotes
 ---
+
+> You’re only as good as you’re willing to be bad…The fact that you’re not going to be good at something or that you’re going to fail at something—that’s OK. Because you’re never going to get good unless you’re willing to be bad.
+
+— Randall Stutman
+
+<br>
 
 > “There are two cardinal sins from which all others spring: Impatience and Laziness.”
 
