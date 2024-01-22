@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.0.10
+version: 0.0.11
 categories: language
 ---
 
@@ -12,6 +12,7 @@ categories: language
 [Agotado](spanish/agotado)  
 [Alcanzar](spanish/alcanzar)  
 [Aun](spanish/aun)  
+[Asustir](spanish/asustir.md)
 [Brindar](spanish/brindar)  
 [Chiste](spanish/chiste)  
 [Demás](spanish/demas)  

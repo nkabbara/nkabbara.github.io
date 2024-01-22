@@ -2,9 +2,10 @@
 layout: page
 title: "Brindar"
 date: 2023-12-06
-version: 0.0.2
+version: 0.0.3
 categories: language
 tags: hidden
+study_count: 1
 ---
 
 **Ofrecer algo a algien:**
@@ -26,7 +27,9 @@ _Note como su significado es similar a 'dar' y su sufijo también es 'dar'._
 
 ---
 
-# Presente
+# Indicativo
+
+## Presente
 
 Yo brindo  
 Tu brindas  
@@ -35,7 +38,7 @@ El/Ella/Usted brinda
 Nosotros brindamos  
 Ello/Ellas/Ustedes brindan
 
-# Pretérito
+## Pretérito
 
 Yo brindé  
 Tu brindaste  
@@ -44,7 +47,7 @@ El/Ella/Usted brindó
 Nosotros brindamos  
 Ella/Ellos/Ustedes brindaron
 
-# Imperfecto
+## Imperfecto
 
 Yo brindaba  
 Tu brindabas  
@@ -53,7 +56,7 @@ El/Ella/Usted brindaba
 Nosotros brindábamos  
 Ellas/Ellos/Ustedes brindaban
 
-# Futuro
+## Futuro
 
 Yo brindaré  
 Tu brindarás  
@@ -61,3 +64,16 @@ Vos brindarás
 El/Ella/Usted brindará  
 Nosotros brindaremos  
 Ellos/Ellas/Ustedes brindarán
+
+# Subjuntivo
+
+## Presente
+
+Yo brinde
+Tú brindes
+Vos brindés
+El/Ella/Ud. brinde
+Nosotros brindemos
+Ellos/Ellas/Uds. brinden
+
+- Espero que vos brindés apoyo a tus amigos estos momentos difíciles.
