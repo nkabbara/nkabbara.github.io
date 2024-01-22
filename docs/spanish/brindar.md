@@ -2,7 +2,7 @@
 layout: page
 title: "Brindar"
 date: 2023-12-06
-version: 0.0.3
+version: 0.0.4
 categories: language
 tags: hidden
 study_count: 1
@@ -69,11 +69,11 @@ Ellos/Ellas/Ustedes brindarán
 
 ## Presente
 
-Yo brinde
-Tú brindes
-Vos brindés
-El/Ella/Ud. brinde
-Nosotros brindemos
+Yo brinde  
+Tú brindes  
+Vos brindés  
+El/Ella/Ud. brinde  
+Nosotros brindemos  
 Ellos/Ellas/Uds. brinden
 
 - Espero que vos brindés apoyo a tus amigos estos momentos difíciles.
