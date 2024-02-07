@@ -5,6 +5,7 @@ date: 2024-01-02
 version: 0.0.1
 categories: language
 tags: hidden
+study_count: 2
 ---
 
 Ser es un verbo irregular en español que significa existir. Se utiliza para describir características esenciales, identidades, profesiones y la hora. A diferencia de estar, que tambien se traduce como ser, pero se utiliza para estados o condiciones, "ser" se refiere a atributos más permanentes o duraderos.

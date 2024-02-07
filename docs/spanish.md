@@ -12,7 +12,7 @@ categories: language
 [Agotado](spanish/agotado)  
 [Alcanzar](spanish/alcanzar)  
 [Aun](spanish/aun)  
-[Asustir](spanish/asustir.md)
+[Asustir](spanish/asustir.md)  
 [Brindar](spanish/brindar)  
 [Chiste](spanish/chiste)  
 [Demás](spanish/demas)  

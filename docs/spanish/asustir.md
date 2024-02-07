@@ -13,5 +13,5 @@ study_count: 0
 2. Sobresaltar a algien (startle someone).
    - Me asusté cuando mi hermano saltó de repente detrás de la puerta.
 
-Sustantivo: susto (miedo)
+Sustantivo: susto (miedo)  
 Adjectivo: asustado/a
