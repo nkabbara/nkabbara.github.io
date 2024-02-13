@@ -16,3 +16,17 @@ más amplio o figurado.
 - No te metas en conversaciones ajenas (stranger's).
 - El metió los documentos en el sobre.
 - Me metí en la cama temprano anoche.
+
+## Indicativo
+
+### Presente
+
+### Preterito
+
+### Imperfecto
+
+### Futuro
+
+## Subjuntivo
+
+### Presente

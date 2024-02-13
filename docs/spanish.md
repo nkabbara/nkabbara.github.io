@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.0.11
+version: 0.0.12
 categories: language
 ---
 
@@ -19,7 +19,7 @@ categories: language
 [Enojar](spanish/enojar)  
 [Estar](spanish/estar)  
 [Fallecer](spanish/fallecer)  
-[Flojar](spanish/flojar)  
+[Aflojar](spanish/flojar)  
 [Haber](spanish/haber)  
 [Ir](spanish/ir)  
 [Jalar](spanish/jalar)  
