@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.0.12
+version: 0.1.12
 categories: language
 ---
 
@@ -27,6 +27,7 @@ categories: language
 [Meter](spanish/meter)  
 [Ofrecer](spanish/ofrecer)  
 [Probar](spanish/probar)  
+[Poner](spanish/poner)  
 [Rodar](spanish/rodar)  
 [Saber](spanish/saber)  
 [Ser](spanish/ser)  
@@ -35,6 +36,7 @@ categories: language
 # Expressions & Phrases
 
 [De repente](spanish/de-repente)  
+[Por casulidad](spanish/por-casualidad.md)  
 [No se escucha & similar](spanish/voz-pasiva-con-se)  
 [Desfase de horarios](spanish/desfase-de-horarios)  
 [Sin embargo](spanish/sin-embargo)

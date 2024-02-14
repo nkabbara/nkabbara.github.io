@@ -21,11 +21,39 @@ más amplio o figurado.
 
 ### Presente
 
+Yo meto  
+Tú metes  
+Vos metés  
+El/Ella/Ud. mete  
+Nosotros metemos  
+Ellos/Ellas/Uds. meten
+
 ### Preterito
+
+Yo metí  
+Tú metiste  
+Vos metiste  
+El/Ella/Ud. metío  
+Nosotros metimos  
+Ellos/Ellas/Uds. metieron
 
 ### Imperfecto
 
+Yo metía  
+Tú metías  
+Vos metías  
+El/Ella/Ud. metía  
+Nosotros metíamos  
+Ellos/Ellas/Uds. metían
+
 ### Futuro
+
+Yo meteré  
+Tú meterás  
+Vos meterás  
+El/Ella/Ud. meterá  
+Nosotros meteremos  
+Ellos/Ellas/Uds. meterán
 
 ## Subjuntivo
 
