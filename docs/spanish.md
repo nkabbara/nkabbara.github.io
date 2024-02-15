@@ -2,13 +2,14 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.1.12
+version: 0.2.12
 categories: language
 ---
 
 # Words
 
 [Actuar](spanish/actuar)  
+[Apenas](spanish/apenas)  
 [Agotado](spanish/agotado)  
 [Alcanzar](spanish/alcanzar)  
 [Aun](spanish/aun)  

@@ -5,7 +5,7 @@ date: 2024-01-11
 version: 0.0.1
 categories: language
 tags: hidden
-study_count: 0
+study_count: 1
 ---
 
 Se utiliza para expresar la acción de colocar algo
