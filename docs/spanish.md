@@ -52,3 +52,5 @@ categories: language
 [Lo que y familia](spanish/lo-que-y-familia)  
 [Prepocisiones](spanish/preposiciones)  
 [Reglas de Conjugacion](spanish/conjugacion)
+[Preterito Prefecto Simple](spanish/preterito-perfecto-simple)
+[Preterito Imperfecto](spanish/preterito-imperfecto)
