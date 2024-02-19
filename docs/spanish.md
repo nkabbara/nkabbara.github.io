@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.2.12
+version: 0.3.13
 categories: language
 ---
 
@@ -51,6 +51,6 @@ categories: language
 [Verbos Reflexivos](spanish/verbos-reflexivos)  
 [Lo que y familia](spanish/lo-que-y-familia)  
 [Prepocisiones](spanish/preposiciones)  
-[Reglas de Conjugacion](spanish/conjugacion)
-[Preterito Prefecto Simple](spanish/preterito-perfecto-simple)
+[Reglas de Conjugacion](spanish/conjugacion)  
+[Preterito Prefecto Simple](spanish/preterito-perfecto-simple)  
 [Preterito Imperfecto](spanish/preterito-imperfecto)
