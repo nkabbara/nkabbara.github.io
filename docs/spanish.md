@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.3.13
+version: 0.4.13
 categories: language
 ---
 
@@ -54,3 +54,4 @@ categories: language
 [Reglas de Conjugacion](spanish/conjugacion)  
 [Preterito Prefecto Simple](spanish/preterito-perfecto-simple)  
 [Preterito Imperfecto](spanish/preterito-imperfecto)
+[Tiempo Conditional](spanish/conditional)
