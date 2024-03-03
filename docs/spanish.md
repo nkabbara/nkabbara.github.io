@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.4.13
+version: 0.5.13
 categories: language
 ---
 
@@ -55,3 +55,4 @@ categories: language
 [Preterito Prefecto Simple](spanish/preterito-perfecto-simple)  
 [Preterito Imperfecto](spanish/preterito-imperfecto)
 [Tiempo Conditional](spanish/conditional)
+[Objectos Directos (OD) e Indirectos (OI)](spanish/objectos-od-oi)

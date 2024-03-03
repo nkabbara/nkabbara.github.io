@@ -5,6 +5,7 @@ date: 2023-12-11
 version: 0.0.2
 categories: language
 tags: hidden
+stydy_count: 0
 ---
 
 Proporcionar o dar algo a algien.
