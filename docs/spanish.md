@@ -2,33 +2,34 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.5.13
+version: 0.6.13
 categories: language
 ---
 
 # Words
 
 [Actuar](spanish/actuar)  
-[Apenas](spanish/apenas)  
+[Aflojar](spanish/flojar)  
 [Agotado](spanish/agotado)  
 [Alcanzar](spanish/alcanzar)  
-[Aun](spanish/aun)  
+[Apenas](spanish/apenas)  
 [Asustir](spanish/asustir.md)  
+[Aun](spanish/aun)  
 [Brindar](spanish/brindar)  
+[Cabeer](spanish/caber)  
 [Chiste](spanish/chiste)  
 [Demás](spanish/demas)  
 [Enojar](spanish/enojar)  
 [Estar](spanish/estar)  
 [Fallecer](spanish/fallecer)  
-[Aflojar](spanish/flojar)  
 [Haber](spanish/haber)  
 [Ir](spanish/ir)  
 [Jalar](spanish/jalar)  
 [Jamás](spanish/jamas)  
 [Meter](spanish/meter)  
 [Ofrecer](spanish/ofrecer)  
-[Probar](spanish/probar)  
 [Poner](spanish/poner)  
+[Probar](spanish/probar)  
 [Rodar](spanish/rodar)  
 [Saber](spanish/saber)  
 [Ser](spanish/ser)  
