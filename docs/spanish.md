@@ -2,7 +2,7 @@
 layout: page
 title: "Spanish"
 date: 2023-12-04
-version: 0.6.13
+version: 0.7.13
 categories: language
 ---
 
@@ -28,7 +28,7 @@ categories: language
 [Jamás](spanish/jamas)  
 [Meter](spanish/meter)  
 [Ofrecer](spanish/ofrecer)  
-[Poner](spanish/poner)  
+[Poner y sus compuestos](spanish/poner)  
 [Probar](spanish/probar)  
 [Rodar](spanish/rodar)  
 [Saber](spanish/saber)  
