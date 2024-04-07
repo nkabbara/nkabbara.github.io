@@ -2,12 +2,15 @@
 layout: page
 title: "Principles"
 date: 2022-10-30
-version: 0.2.0
+version: 0.3.0
 categories: life
 ---
 
-### Always try to leave things better than you found them.
+### Always try to leave things better than you found. them.
 
-### Default to leaving most conversations with your interlocutors feeling better.
+### Default to being kind with people[1], but not nice.
 
 ### Do things as slowly as possible, but not slower.
+
+
+[1]: nice is not telling someome that they have a piece of lettuce in their teeth so you don't emberrase them. Kind is telling them. 
