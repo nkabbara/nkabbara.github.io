@@ -2,7 +2,7 @@
 layout: page
 title: "One Thing When Under Stress"
 date: 2022-02-06
-version: 0.0.3
+version: 0.1.3
 categories: health
 ---
 
@@ -31,6 +31,16 @@ Re-focus without fear.
 
 When you're under stress, this is going to be the last thing you'll remember. To increase the
 chances of doing it, practice it daily when you're not stressed.
+
+## Related
+
+### Anxiety
+
+> Mindfulness and meditation won't help prevent an accident or prevent it from being uploaded to social media, just as it won't prevent old age, sickness, and death. What it can help with, though, is the suffering caused by it both before and after. The promise of the path is that, while you may still experience old age, sickness, and death, these need not additionally cause the suffering born of our reactions to these.
+
+> Anxiety also isn't an enemy; in fact, I would go so far as to suggest becoming friends with it. Welcome it, become curious about how it is you know you're anxious, what it feels like in the moment. I realize this may sound impossible or even counterproductive, but with practice, it becomes easier to understand when it's there to tell you something useful and when it has overstayed its welcome. In the latter case, simply paying attention to it carefully, at the level of raw sensation, and not pushing back against it can do wonders. At least, with practice.
+
+-- From Waking Up forum.
 
 ---
 
