@@ -2,7 +2,7 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.21.4
+version: 1.21.5
 categories: quotes
 ---
 
@@ -21,8 +21,6 @@ categories: quotes
 > If you're going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. You will ride life straight to perfect laughter. It's the only good fight there is.
 
 — Charles Bukowski, Factotum
-
-Franz Kafka
 
 <br>
 
