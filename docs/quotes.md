@@ -2,9 +2,21 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.22.5
+version: 1.23.5
 categories: quotes
 ---
+
+> Ever since happiness heard your name, it has been running through the streets trying to find you.
+
+— Hafez
+
+<br>
+
+> Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself.
+
+— Glennon Doyle
+
+<br>
 
 > Perfection is impossible. In the 1526 singles matches I played in my career, I won almost 80% of those matches. Now, I have a question for you.
 >
