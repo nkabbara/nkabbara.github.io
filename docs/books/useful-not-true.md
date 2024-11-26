@@ -102,6 +102,8 @@ An annoying girl crying at the park ruining your relaxation time. You are full o
 
 Understanding incentives and motives helps you understand the person and change how you feel about them. It helps understand why they're holding a not-true purpose as their driving force. Once their incentive changes, so will their actions. So the person and the actions are not the same. It's a temporary state that they're in until motives change.
 
+If you want to know how a person will most likely behave towards you, try and get a good sense of how they act. Not what they say or what you think their motives are.
+
 But their actions are the only true facts. It's what's currently happening whether it changes in the future or not. Their incentives that might change are not known even to them sometimes. And if they are know to them, they could have invented them to have a purpose. Non-truths.
 
 Remember the split brain experiments: who asked you to walk? Why did you close the window? The brain invented those reasons whereas the facts are different. The brain invents explanations.
