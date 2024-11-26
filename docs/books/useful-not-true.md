@@ -82,8 +82,20 @@ Thinking of rules as fact will do you a disservice. They're created by us to set
 
 Always be negotiating rules, especially if they're codified, especially if the other person thinks they're the bible. Think of them as the starting point to what someone thought was a good idea x years ago.
 
-* The people saying it’s your obligation really just want you to do something. But instead of saying “I want,” they blame a higher legitimacy. It’s manipulative.
-* But if they didn’t personally want you to do it, they would have said, “Don’t worry about it.”
-* Everyone has their own problems. To know whose problem it is, think who benefits most from solving it.
-* Parents say, “You need to take care of us when we’re old.” But maybe we all need to prepare for our own future care instead of burdening others with it.
-* They might say you’re a bad person for not doing what they want you to do. But that’s not true. Maybe they’re just disappointed that you’re not taking their wish as your command.
+Obligations follow the same spirit of rules, but they're more cultural: You must take care of your aging parents (why didn't they plan for their retirement?). You must always open the car door to your girlfriend (am I less of a gentlerman if I don't?). You should always return someone's invite (isn't that the opposite of giving?). As a man, you should always pay the bill (isn't this an outdated notion before women worked?).
+
+As I'm writing those, I'm vicerally reacting to them because they're imprinted in my psychy yet I know they're not true. They're perspecitves that certain cultures imprinted in me. And I know this because I've lived in several culture and each of these gets a different kind of reaction. From expectation to surprise.
+
+> They might say you’re a bad person for not doing what they want you to do. But that’s not true. Maybe they’re just disappointed that you’re not taking their wish as your command.
+
+What people are really saying when they invoke obligation: I don't want to risk hurting my ego and say "I want you to..." and then you refusing it. I'll invoke obligation or a higher power: "you must...". They're manipulating you to do something they want, but using a higher power.
+
+Rules are clearly benefiting the creator of the rule, but obligations are trickier. You need to ask whose problem complying with the obligation solves and you'll know what you need to know to decide if you should comply.
+
+Have you experienced a "don't worry about it!" when you didn't meet an obligation? It's because the person didn't care about the problem enough to manipulate you into complying with it.
+
+Cultural meanings affect rules and obligations, which are all not-true. What's polie here is impolite there. Listen carefully when someone says things similar to:
+* don't make a sound when eating your soup
+* don't ask someone to dance without a cabaceo
+* don't chew gum in public
+* don't say please and thank you to family members at dinner table.
