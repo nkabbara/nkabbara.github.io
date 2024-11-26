@@ -2,7 +2,7 @@
 layout: page
 title: "Useful Not True"
 date: 2024-11-24
-version: 0.0.1
+version: 0.0.4
 categories: books
 tags: hidden
 ---
@@ -138,3 +138,5 @@ I, Nash,
 - My thoughts are theories, open for improvement.
 
 What incentives made my beliefs useful?
+
+TBC
