@@ -17,7 +17,7 @@ What does it be to be true? Any creature or machine could observe it and agree t
 
 So 'not true' is not necessarily false or wrong. It's just saying that this is one option of the possibilities or perspectives. It's saying that the paragraph above does not apply.
 
-So what? Well, this is a powerful notion because now you may assume a point of view that you know is not objectively and absolutely true, but you also know that it is not false or wrong. It's just the option that serves you best right now.
+So what? Well, this is a powerful notion because now you may assume a point of view that you know is not objectively and absolutely true, but you also know that it is not false nor wrong. It's just the option that serves you best right now.
 
 > People speak as if they’re stating facts. They say things like “You can’t do that” and “Here’s what women want”. But it’s just their current perspective. It’s their metaphorical time zone, which is probably different from yours.
 
@@ -57,8 +57,6 @@ Why can't we bond over facts:
 
 In other words, almost everything everyone is telling you is not true. It's useful to them. They think it's useful to them. It might not be. We sometimes don't know what's best for us.
 
-Feelings matter. To address them, we have to distinguish them. Get the dry facts, with no interpretation. What’s left are the feelings and meanings.
-
 My brothers and I always accuse our mom of abandoning us when we were young. Half jokingly. That's how we feel since our grandparents did the hard work of watching after us. Our mom was almost never there and when she was she had a bad mood.
 
 We're saying that we felt abandoned regardless of the facts. We're saying that we had an expectation that our mom should have been more present and more loving and that that expectation was not met.
@@ -69,7 +67,7 @@ Her response to us? I was out trying to make a living for all four of us and pay
 
 Someone hearing my story of abandonment will look down at my mom. Someone hearing her story of struggle will look up to her.
 
-Feelings are important, but we need to be able to separate the emotion from the dry facts. What's left after the dry facts are taken out are the perspectives and meanings.
+Feelings are important, but we need to be able to separate the emotion from the dry facts. What's left after the dry facts are taken out are the perspectives and meanings. Now we know what's true and what's not true and can respond accordingly.
 
 When someone is speaking to us, they are usually doing it through two channels, an emotional channel and a factual channel. We need to listen for both.
 
@@ -77,7 +75,7 @@ Thinking of rules as fact will do you a disservice. They're created by us to set
 
 > Rules can be ignored. Breaking a rule can be rational and moral, if you understand the rule’s purpose, and no one is harmed.
 
-Always be negotiating rules, especially if they're codified, especially if the other person thinks they're the bible. Think of them as the starting point to what someone thought was a good idea x years ago while in some mood or mindset.
+Always be negotiating rules, especially if they're codified, especially if the other person thinks they're the true. Think of them as the starting point to what someone thought was a good idea x years ago while in some mood or mindset.
 
 Obligations follow the same spirit of rules, but they're more cultural: You must take care of your aging parents (why didn't they plan for their retirement?). You must always open the car door to your girlfriend (am I less of a gentleman if I don't?). You should always return someone's invite (isn't that the opposite of true giving?). As a man, you should always pay the bill (isn't this an outdated notion before women worked?).
 
@@ -98,13 +96,13 @@ Cultural meanings affect rules and obligations, which are all mostly not-true. W
 - don't chew gum in public
 - don't say please and thank you to family members at dinner table.
 
-An annoying girl crying at the park ruining your relaxation time. You are full of anger assuming that she's spoiled and one of her wants is not being. Then you learn that she fell from a tree and broke her wrist. You are full of sympathy and love for her. Same situation, different motives. _The nature of the rain is the same, but it makes thorns grow in the marshes and flowers in the gardens._
+An annoying girl crying at the park ruining your relaxation time. You are full of anger assuming that she's spoiled and one of her wants is not being met. Then you learn that she fell from a tree and broke her wrist. You are full of sympathy and love for her. Same situation, different motives for crying. _The nature of the rain is the same, but it makes thorns grow in the marshes and flowers in the gardens._
 
-Understanding incentives and motives helps you understand the person and change how you feel about them. It helps understand why they're holding a not-true purpose as their driving force. Once their incentive changes, so will their actions. So the person and the actions are not the same. It's a temporary state that they're in until motives change.
+Understanding incentives and motives helps you understand the person and change how you feel about them. It helps understand why they're holding a not-true purpose as their driving force. Once their incentive changes, so will their actions. So the person and the actions are not the same. It's a temporary state that they're in until motives change. _They might not change though for the lifetime of the person._
 
-If you want to know how a person will most likely behave towards you, try and get a good sense of how they act. Not what they say or what you think their motives are.
+If you want to know how a person will most likely behave towards you, try and get a good sense of how they currently act. Not what they say or what you think their motives are.
 
-But their actions are the only true facts. It's what's currently happening whether it changes in the future or not. Their incentives that might change are not known even to them sometimes. And if they are know to them, they could have invented them to have a purpose. Non-truths.
+Their actions are the only true thing. It's what's currently happening whether it changes in the future or not. Their incentives that might change are not known even to them sometimes. And if they are know to them, they could have invented them to have a purpose. Non-truths. Use recurring or regular actions as truths with people.
 
 Remember the split brain experiments: who asked you to walk? Why did you close the window? The brain invented those reasons whereas the facts are different. The brain invents explanations.
 
@@ -116,11 +114,11 @@ Do you notice how a little anger a few months or years ago could morph into hate
 
 Memories and past are mostly not true.
 
-How about the future. It's predictions. Probably based on some not-true past. Even if you're feeling tire now and thinking that you need to relax to recover is not a guarantee. Maybe relaxing is not the answer. Even if it feels 100% real.
+How about the future. It's predictions. Probably based on some not-true past. Even if you're feeling tired now and thinking that you need to relax to recover is not a guarantee. Maybe relaxing is not the answer. Even if it feels 100% real.
 
 It's always a probability when thinking about the future. Always ask, how much am I willing to bet on this from $100 to $10,000. It's almost never $10,000, which will give room for other possibilities.
 
-You think science is true? Think again. It's just better versions of past **proposals**. Every discovery is a proposal that is expected to be improved by others. It's giant shoulders all the way down.
+You think science is true? Think again. It's just better versions of past **proposals**. Every discovery is a proposal that is expected to be improved by others. It's giants' shoulders all the way down.
 
 > The most accurate theory is not always the most useful. And a rule of thumb can be far from true, but good enough to get you where you need to go.
 
