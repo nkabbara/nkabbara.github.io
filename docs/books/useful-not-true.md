@@ -13,11 +13,22 @@ tags: hidden
 
 ## Notes
 
-What does it be to be true? Any creature or machine could observe it and agree that what they're seeing is true. Objectively true. 0 doubt. Even democrats and republicans could agree on it.
+What does it mean be to be true? Any creature or machine could observe it and agree that what they're seeing is true. Objectively true. 0 doubt. Even democrats and republicans could agree on it.
 
-So 'not true' is not necessarily false or wrong. It's just saying that this is one option of the possibilities or perspectives. It's saying that the paragraph above does not apply.
+So not-true is not necessarily false or wrong. It's just saying that this is one option of the possibilities or perspectives. It's saying that the paragraph above does not apply.
 
 So what? Well, this is a powerful notion because now you may assume a point of view that you know is not objectively and absolutely true, but you also know that it is not false nor wrong. It's just the option that serves you best right now.
+
+I, Nash,
+- Almost nothing I say is true.
+- I focus on one angle of the whole picture.
+- My brain makes up explanations.
+- My perspective feels like a fact.
+- My certain future is just a prediction.
+- My thoughts are theories, open for improvement.
+
+**What incentives made my beliefs useful?**
+
 
 > People speak as if they’re stating facts. They say things like “You can’t do that” and “Here’s what women want”. But it’s just their current perspective. It’s their metaphorical time zone, which is probably different from yours.
 
@@ -126,15 +137,5 @@ It feels like almost nothing is true or can't be known absolutely. Shit. Should 
 
 > That’s what this part of the book was about. Distrust limitations. Strip away interpretations to see the few actual facts. We’re held back not by raw facts, but by the meanings we give them.
 
-I, Nash,
-
-- Almost nothing I say is true.
-- I focus on one angle of the whole picture.
-- My brain makes up explanations.
-- My perspective feels like a fact.
-- My certain future is just a prediction.
-- My thoughts are theories, open for improvement.
-
-What incentives made my beliefs useful?
 
 TBC
