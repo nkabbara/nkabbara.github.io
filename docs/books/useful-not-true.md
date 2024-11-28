@@ -100,7 +100,12 @@ My thoughts are not true:
   * Whenever I defend a belief emotionally, I'm probably saying that my identiety depends on this. It doesn't mean it's true, otherwise, there would be no reason to get emotional because all I have to do is look at the fact.
   * **Remember Galileo**
 
-
 > Your first thought is an obstacle. You need to get past it. Outsmart it.
 
 > Your instinct never goes away. But let your wisdom have the final say.
+
+Remember how the congruent lines look incongruent? Our instinct is right sometimes, but we need to bring in wisdom when the situation calls for it.
+
+When out in nature, deep in a forest, we're surrounding our senses with reality. My not-true thoughts, rules, norms, obligations, money, past, future, expectations, fears, stories, all disappear into the background. We're faced with what's real and distanced away from what's not. They all disappear.
+
+*Go into nature regularly to gain distance and perspective, then come back into the constructed world to play.*
