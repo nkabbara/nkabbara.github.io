@@ -76,5 +76,4 @@ It feels like almost nothing is true or can't be known absolutely. Shit. Should 
 
 > That’s what [the above] part of the book was about. Distrust limitations. Strip away interpretations to see the few actual facts. We’re held back not by raw facts, but by the meanings we give them.
 
-TBC
 ---
