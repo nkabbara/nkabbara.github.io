@@ -10,6 +10,7 @@ tags: hidden
 [Buy it here](https://sive.rs/u)
 
 ## Summary
+I've decided to take notes in the first person here to see how I'm reacting to the ideas in this book.
 
 ## Notes
 
@@ -76,5 +77,35 @@ It feels like almost nothing is true or can't be known absolutely. Shit. Should 
 
 > That’s what [the above] part of the book was about. Distrust limitations. Strip away interpretations to see the few actual facts. We’re held back not by raw facts, but by the meanings we give them.
 
-TBC
----
+My thoughts are not true:
+* I am the one who is strange.
+  * Whenever I see streotypes, I look with scorn at them. A lazy friend barely doing anything productive. A workaholic friend never having time for himself. But then, the look at people's faces when I tell them how I lead my own life is evidence of my limited perspective.
+  * *How do I get to your side of the river?*
+  * *I like your accent.*
+* I can't trust my own mind.
+  * When you find out that your mind is tricking you, you can accept it, change your view and move on with more humility and less confidence.
+  * Alternatively, you can defend your current view and double down on it.
+  * *Remember Neo in the Matrix.
+* I can re-edit my mind's movies.
+  * Replay your own past, but use different angles so the re-edit gives you the lesson you need or closure. Your memory and history are not-true anyway. So re-edit them to your advantage.
+  * **500 Days of Summer**
+* I inherited normalized habits & beliefs.
+  * Many of my behaviors are due to inherited beleifs. Many of which are not-true. Some are serving me well while others are limiting.
+  * How can I take a behavior or beleif or habit out to be reframed then re-adopt or throw out?
+  * *Upside down painting.*
+* I think of my beliefs as fact.
+  * They help me create an identity or perspective which allow me to take action. They also make it easier to belong to groups that have similar beliefs. They're very utilitarian.
+  * They become a problem when I start to see them as reality. Almost all beleifs are not-true (remember definition of true above). I can't assume a belief is true because I believe in it.
+  * An easy way to tell that what I'm saying (or someone else) is a beleif and not a fact (yet) is when I preamble it with "I beleive..." Otherwise, I wouldn't need to because it's objectively true.
+  * Whenever I defend a belief emotionally, I'm probably saying that my identiety depends on this. It doesn't mean it's true, otherwise, there would be no reason to get emotional because all I have to do is look at the fact.
+  * **Remember Galileo**
+
+> Your first thought is an obstacle. You need to get past it. Outsmart it.
+
+> Your instinct never goes away. But let your wisdom have the final say.
+
+Remember how the congruent lines look incongruent? Our instinct is right sometimes, but we need to bring in wisdom when the situation calls for it.
+
+When out in nature, deep in a forest, we're surrounding our senses with reality. My not-true thoughts, rules, norms, obligations, money, past, future, expectations, fears, stories, all disappear into the background. We're faced with what's real and distanced away from what's not. They all disappear.
+
+*Go into nature regularly to gain distance and perspective, then come back into the constructed world to play.*
