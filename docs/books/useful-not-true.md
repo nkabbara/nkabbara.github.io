@@ -120,6 +120,51 @@ When out in nature, deep in a forest, we're surrounding our senses with reality.
 
 **Go into nature regularly to gain distance and perspective, then come back into the constructed world to play.**
 
+Third part of the book is how useful no-true ideas can serve us.
+
+> Useful? Let’s define “useful” as whatever ultimately helps you do what you need to do, be who you want to be, or feel at peace. The word “ultimately” is there as a reminder of long-term consequences. ...
+
+There's a balance here. A useful belief now might be hurtful in the future.
+
+Useful not true ideas:
+- Beware of truth, use it carefully (my favorite chapter page 70)
+  - Ask yourself why you want the truth. What do you plan to do with it? What’s the real outcome?
+  - You might be better off with a not true meaning that serves your current quest.
+  - Most emotions can't be persuaded with facts.
+  - You can gather raw facts, but there are infinite facts, so you select and filter and interpret them. Like cotton plants or sheep’s wool, facts are processed before they’re used. Is that seeking the truth? Or just material for a story?
+  - Maybe you’re making a big decision. You want to feel well-informed and certain. But that’s an emotional state unrelated to the facts. You’ll ignore a mountain of evidence if you hear one good story against it or just feel yourself leaning the other way. Most emotions can’t be persuaded.
+  - You need to feel good about your choices. Emotion decides. Facts rationalize. You’ll find whatever truth is useful.
+- Curve into the target
+  - When a belief or behavior is not serving your quest, correcting it might not be enough. You might need to over-correct in order to acheive what you want.
+  - The overcorrected thought is not necessarily true, but it's useful
+  - Are you shy around new people? Assume the belief that you're an extreme extrovert and you want to try and tone it down. How would you behave around new people? Maybe just say hi so you don't overtake the discussion?
+  - *Bowling example. Aim left to hit center when center is curving left.*
+- Ideas and beliefs are tools. Choose them for the desired effect
+  - Wrong question: which belief is true or right?
+  - Right question: Which belief leads to the action I need now.
+  - Beliefs create emotion. Emtion creates action. Choose a belief for the right action.
+  - Run faster? Imagine lion behind you. Run motivated? Imagine pot of gold ahead. Run correctly? Imagine hot coals under your feet.
+  - Make your own cocktail: You don’t need to decide which one is right. You can use one meaning to get you out of bed, and another to sleep well at night. Which meaning leads to the actions you need now?
+  - Remeber Igor Stravinsky's, time metaphor. He uses it to separate and combine different philosophies.
+- True is the enemy of useful (Perfect is the enemy of good)
+  - Choose ideas that serve you. Forget the messenger. They're probably flawed or are batshit crazy politically. (don't throw the baby with bathwater)
+  - Examples of different ways of thinking of things:
+    - Are you more inspired to think you've arrived? Or you're more excited to think that you have a long way to go?
+    - Can people be trusted by default? Or everyone should be distrusted by default?
+    - Do you like to think your life is shaped by destiny or by chance?
+  - Which of the above and all other stories you choose to believe help you do what you need to do or be who you want to be or feel at peace? Use them.
+  - Although these ideas and beliefs are not true, their effect on you is. Belief -> Emotion -> Action. Which means I must drop beliefs that don't serve me anymore.
+
+Always rember that meaning is coming from you. It's your projection. It's almost never true. Even obvious ones like a ceiling is to stop the rain. A ceiling is to provide shelter. These are your meanings. A ceiling is a ceiling. It has no meaning on its own. The meaning is internal not external. Choose the ones that serve you.
+
+*Beliefs exist to guide your actions. If you’re not acting in alignment with your beliefs, you’ve missed the point of beliefs.*
+
+Some people want one perfect solution that solves every problem. They need everything to fit — consistent and congruent. The rest of us use whatever tool helps us do what we need to do. When someone refuses to use a tool because it’s not perfect, they’re probably not actually doing the work.
+
+
+
+(to incorporate: Almost everyone re-edits their stories. If you get stuck on the true facts while folks around you are using useful re-edits, who wins? I think they do because...)
+
 Questions:
 
 - How do we test what are learning here? In tango, we have a milonga to test our skills and beliefs and points of view. Where can we test these re-wirings in here?
