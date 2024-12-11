@@ -2,7 +2,7 @@
 layout: page
 title: "Useful Not True"
 date: 2024-11-24
-version: 1.3.7
+version: 1.4.7
 categories: books
 tags: hidden
 ---
@@ -21,7 +21,7 @@ So not-true is not necessarily false or wrong. It's just saying that this is one
 
 So what? Well, this is a powerful notion because now you may assume a point of view that you know is not objectively and absolutely true, but you also know that it is not false nor wrong. It's just the option that serves you best right now. You can assume things that are not true without any guilt or reservation. This is powerfully pragmatic.
 
-I, Nash,
+First part of the book...almost nothing anyone says, including myself is true.
 
 - Almost nothing I say is true.
   - I'm not wrong, it's just not the only answer or view.
@@ -37,9 +37,10 @@ I, Nash,
   - Think of all the major life decisions I've made. Were all the explanations made up? Yikes. But that means, I can pick explanations that serve me.
   - _She said no because she doesn't like this song._
   - _Split brain experiments. Why did you open the window?_
-- My perspective feels like a fact.
+- My perspectives feel like a fact.
   - _A cat is a pet. Your friends agree so must be true. A mouse disagrees. Neither can see it any other way._
   - My dad had no love for me.
+  - Sibling fights. I'm right. They're wrong. I can prove it.
 - My certain future is just a prediction.
   - Even if it feels 100% real.
   - From $100 to $(all my savings), how much am I willing to bet that this future will become true?
@@ -48,10 +49,10 @@ I, Nash,
 - My thoughts are theories, open for improvement.
   - Proposal to be proved and to be improved upon as I move forward.
   - _A scientist laughed really hard when I said science is true. Newton -> Einstein -> Quantum physics._
-- My memories are a mostly lies. My past is mostly constructed.
+- My memories are mostly lies. My past is mostly constructed.
   - Space shuttle explosion experiment. 3 years later.
   - A false memory over time grows into a hard fact in my mind. And it feels more real and more serious. And most memories are false.
-- Got used to thinking of rules, obligations and cultural norms are true[^1].
+- Got used to thinking of rules, obligations and cultural norms as true[^1].
   - Rules were most likely set right before lunch break so people can leave. Or probably as a knee jerk reaction after a disaster.
   - Rules are not true, they're a starting point of how the game looks like now.
   - Always ask, who's this obligation or norm serving? Who's problem is it solving? Who is getting disappointed that I'm not taking their wish as my command?
@@ -71,7 +72,7 @@ All of the above also apply to everyone I know. I wrote them in the first person
 
 When someone is speaking to us, they are usually doing it through two channels, an emotional channel and a factual channel. We need to listen for both.
 
-Feelings are important, but we need to be able to separate the emotion from the dry facts. What's left after the dry facts are taken out are the perspectives and meanings. Now we know what's true and what's not-true and can respond accordingly.
+Feelings are important, but we need to be able to separate the emotion from the dry facts. What's left after the dry facts are taken out, are the perspectives and meanings. Now we know what's true and what's not-true and can respond accordingly.
 
 I and others bond over meanings and perspectives. Not over facts. You can see the power of meanings and perspectives even if they're not-true, which they're most likely not.
 
@@ -81,9 +82,7 @@ It feels like almost nothing is true or can't be known absolutely. Shit. Should 
 
 Held back is one of the possibilities. We also bond and flourish with not-true beliefs.
 
-Second part of the book...
-
-My thoughts are not true:
+Second part of the book...My thoughts are not true:
 
 - I am the one who is strange.
   - Whenever I see stereotypes, I look with scorn at them. A lazy friend barely doing anything productive. A workaholic friend never having time for himself. But then, the look at people's faces when I tell them how I lead my own life is evidence of my limited perspective.
@@ -92,11 +91,11 @@ My thoughts are not true:
 - I can't trust my own mind.
   - When you find out that your mind is tricking you, you can accept it, change your view and move on with more humility and less confidence.
   - Alternatively, you can defend your current view and double down on it and dismiss the facts.
-  - \*Remember Neo in the Matrix.
+  - *Remember Neo in the Matrix.*
 - I can re-edit my mind's movies.
   - Replay your own past, but use different angles so the re-edit gives you the lesson you need or closure. Your memory and history are not-true anyway. So re-edit them to your advantage.
   - Watch out, re-edits could be harmful: I know someone that caused me harm by not keeping their word. Some time after we've reconciled, he brought up the past events completely re-edited to sound like we both were complicit in what took place. I pointed out the facts to him and he was taken aback and agreed with me. He subconsciously re-edited the past so he could cope with it. But he lost the lesson in doing so. Maybe he wasn't ready to deal with it yet?
-  - But also, almost everyone re-edits their stories. If you get stuck on the true facts while folks around you are using useful re-edits, who's benefiting more? Probably them. Don't be a hater sticking to facts just because they are true.
+  - But also, almost everyone re-edits their stories. If you get stuck on the true facts while folks around you are using useful re-edits, who's benefiting more? Probably them. *Don't be a hater sticking to facts just because they are true.*
   - _500 Days of Summer_
 - I inherited normalized habits & beliefs.
   - Many of my behaviors are due to inherited beliefs. Many of which are not-true. Some are serving me well while others are limiting.
@@ -109,7 +108,7 @@ My thoughts are not true:
   - Whenever I defend a belief emotionally, I'm probably saying that my identity depends on this. It doesn't mean it's true, otherwise, there would be no reason to get emotional because all I have to do is look at the fact.
   - _Remember Galileo_
 
-> Your first thought is an obstacle. You need to get past it. Outsmart it.
+> Your first thought is an obstacle. You need to get past it. Outsmart it. Try to get to third thought.
 
 > Your instinct never goes away. But let your wisdom have the final say.
 
@@ -154,8 +153,8 @@ Useful not true ideas:
     - Can people be trusted by default? Or everyone should be distrusted by default?
     - Do you like to think your life is shaped by destiny or by chance?
   - Which of the above and all other stories you choose to believe help you do what you need to do or be who you want to be or feel at peace? Use them.
-  - Although these ideas and beliefs are not true, their effect on you is. Belief -> Emotion -> Action. Which means I must drop beliefs that don't serve me anymore.
-  - The perfect tool/belief/perspective is not useful. Use a pragmatic one. i.e. this reframe doesn't solve all my problems well. It just solves this problem and only temporarily.
+  - Although these ideas and beliefs are not true, their effect on you is. Belief -> Emotion -> Action. Which means I must drop beliefs that don't serve me anymore. And adopt others that generate required emotion for the desired action.
+  - The perfect tool or belief or perspective is not useful. Use a pragmatic one. e.g. this reframe doesn't solve all my problems well. It just solves this problem and only temporarily and that's perfectly ok. For now.
 
 Always rember that meaning is coming from you. It's your projection. It's almost never true. Even obvious ones like a ceiling is to stop the rain. A ceiling is to provide shelter. These are your meanings. A ceiling is a ceiling. It has no meaning on its own. The meaning is internal not external. Choose the ones that serve you.
 
