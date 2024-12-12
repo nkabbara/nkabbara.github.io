@@ -162,7 +162,7 @@ Always rember that meaning is coming from you. It's your projection. It's almost
 
 How do we reframe? Especially deeply held beliefs?
 
-Well, before you even reframe, you need to create a quest that you've picked to guide your current north star. Or already be in a challenge that life has picked for you. Otherwise, there's nothing to reframe. Just go with the flow. Assuming you're in a quest...anything that hinders your path is an challenge.
+Well, before you even reframe, you need to create a quest that you've picked to guide your current behavior. Or to already be in a challenge that life has picked for you. Otherwise, there's nothing to reframe. Just go with the flow. Assuming you're in a quest...anything that hinders your path is an challenge.
 
 When faced with a challenge...
 
