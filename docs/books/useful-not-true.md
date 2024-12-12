@@ -124,7 +124,7 @@ Third part of the book is how useful no-true ideas can serve us.
 
 > Useful? Let’s define “useful” as whatever ultimately helps you do what you need to do, be who you want to be, or feel at peace. The word “ultimately” is there as a reminder of long-term consequences. ...
 
-There's a balance here. A useful belief now might be hurtful in the future.
+There's a balance here. A useful belief now might be hurtful in the future. *Also useful does not mean pain free or comfortable. It could be the opposite, a useful belief might be proper to be painful in order to prevent you from repeating a certain behavior. e.g you overpaid on taxes due to a technicality that could have easily been avoided.*
 
 Useful not true ideas:
 - Beware of truth, use it carefully (my favorite chapter page 70)
@@ -135,7 +135,7 @@ Useful not true ideas:
   - Maybe you’re making a big decision. You want to feel well-informed and certain. But that’s an emotional state unrelated to the facts. You’ll ignore a mountain of evidence if you hear one good story against it or just feel yourself leaning the other way. Most emotions can’t be persuaded.
   - You need to feel good about your choices. Emotion decides. Facts rationalize. You’ll find whatever truth is useful.
 - Curve into the target
-  - When a belief or behavior is not serving your quest, correcting it might not be enough. You might need to over-correct in order to acheive what you want.
+  - When a belief or behavior is not serving your quest, correcting it might not be enough. You might need to over-correct in order to achieve what you want.
   - The overcorrected thought is most likely not-true, but it's useful. Or fine tune it until it is useful.
   - Are you shy around new people? Assume the belief that you're an extreme extrovert and you want to try and tone it down. How would you behave around new people? Maybe just say hi so you don't overtake the discussion?
   - *Bowling example. Aim left to hit center when aiming center is curving left.*
@@ -145,7 +145,7 @@ Useful not true ideas:
   - Beliefs create emotion. Emotion creates action. Choose a belief for the right action.
   - Run faster? Imagine lion behind you. Run motivated? Imagine pot of gold ahead. Run correctly? Imagine hot coals under your feet.
   - Make your own belief cocktail: You don’t need to decide which one is right. You can use one meaning to get you out of bed, and another to sleep well at night. Which meaning leads to the actions you need now?
-  - Remeber Igor Stravinsky's, time metaphor. He uses it to separate and combine different philosophies (perspectives).
+  - Remember Igor Stravinsky's, time metaphor. He uses it to separate and combine different philosophies (perspectives).
 - True is the enemy of useful (Perfect is the enemy of good)
   - Choose ideas that serve you. Forget the messenger. They're probably flawed or are batshit crazy politically. (don't throw the baby with bathwater)
   - Examples of useful ways of thinking of things:
@@ -154,60 +154,62 @@ Useful not true ideas:
     - Do you like to think your life is shaped by destiny or by chance?
   - Which of the above and all other stories you choose to believe help you do what you need to do or be who you want to be or feel at peace? Use them.
   - Although these ideas and beliefs are not true, their effect on you is. Belief -> Emotion -> Action. Which means I must drop beliefs that don't serve me anymore. And adopt others that generate required emotion for the desired action.
-  - The perfect tool or belief or perspective is not useful. Use a pragmatic one. e.g. this reframe doesn't solve all my problems well. It just solves this problem and only temporarily and that's perfectly ok. For now.
+  - The perfect tool or belief or perspective is not useful. Use a pragmatic one. e.g. This reframe doesn't solve all my problems well. It just solves this problem and only temporarily and that's perfectly ok. For now.
 
-Always rember that meaning is coming from you. It's your projection. It's almost never true. Even obvious ones like a ceiling is to stop the rain. A ceiling is to provide shelter. These are your meanings. A ceiling is a ceiling. It has no meaning on its own. The meaning is internal not external. Choose the ones that serve you.
+Always remember that meaning is coming from you. It's your projection. It's almost never true. Even obvious ones like a ceiling is to stop the rain. A ceiling is to provide shelter. These are your meanings. A ceiling is a ceiling. It has no meaning on its own. The meaning is internal not external. Choose the ones that serve you.
 
 *Beliefs exist to guide your actions. If you’re not acting in alignment with your beliefs, you’ve missed the point of beliefs.*
 
-How do we reframe? Especially deeply held beliefs?
+*Beliefs -> Emotions -> Action.*
 
-Well, before you even reframe, you need to create a quest that you've picked to guide your current behavior. Or to already be in a challenge that life has picked for you. Otherwise, there's nothing to reframe. Just go with the flow. Assuming you're in a quest...anything that hinders your path is an challenge.
+How do we reframe beliefs that are not useful anymore? Especially deeply held beliefs that are hindering our [chosen](https://sive.rs/hsu) quest?
 
 When faced with a challenge...
 
-Explore many different ways of looking at your situation — finding perspectives you’d never considered before.
+Explore many different ways of looking at your situation — finding perspectives you’d never considered before. If you don’t choose your perspectives then you leave them up to mood, manipulation, or your worst impulses. Control your thoughts or be controlled.
 
 This is not easy, but...
-
-If you don’t choose your perspectives then you leave them up to mood, manipulation, or your worst impulses. Control your thoughts or be controlled.
 
 First understand the structure of challenges
 
 1. Something happens. The challenge is revealed.
-2. Get past your first emotional reaction. (hardest part)
+2. Get past your first emotional reaction, your default belief. (hardest part)
 3. Consider other ways of looking at it.
 4. Pick one that feels empowering or useful.
 5. It shapes how you feel and what you’ll do.
 
 In #2 think a different way and you’ll feel a different way. You choose your reaction. Not the first one, but the next. This is hard because it's usually your default. It's what you've trained your brain to do for ages. But now you're reframing. So you need to wait for your brain to process the default. Your default include other people's judgements, values, and meanings which are also inside of you, but you can replace these with your own.
 
-To change, reach past what comes naturally. Avoid your defaults. Get guidance outside of yourself. Use a different tool. How To Live is oblique strategies.
+To change, reach past what comes naturally. Avoid your defaults. Get guidance outside of yourself. Use a different tool. [How To Live](https://sive.rs/h) book is oblique strategies.
 
 In #3 Your mind has a lot of trash, and often tells you there’s no way out of your situation — there’s nothing great about this. But if you decide that there is, you’ll keep looking until you find it. Keep looking until you find something useful. For example:
 *  You seem to be locked in a jail cell. But if you know there’s actually a secret exit, you’ll look harder, pushing and pulling everything until you find
 * You know there's  diamond in the humongous trash bag that you're holding. You'll sift through the disgusting stuff until you find it.
 * Use what you learned from jigsaw puzzles. Start with the edges. Come up with extreme and ridiculous ideas that you’d never actually do, but are good for inspiration and finding the middle.
 
-Traits of useful perspectives:
-* Direct: Go directly for what I really want, instead of using other means to get there. What do I really want? And what’s the point of that? Am I keeping a job just to feel secure? Getting a university degree for the status? Starting a business for the freedom? Instead, find a more efficient path to the real end result.
-* Energizing: Inspires to get immediate action.
-* Self-reliant: It’s about the process, not the outcome.
-* Balancing: Prioritize what’s been neglected.
-* Selfless: “Useful” means for them and the greater good.
-* Selfish: Protect the goose.
-* Lucid & lasting: Coming from a good state of mind, not angry, hurt, envious, or upset — not even ecstatically happy. Is it good in a few weeks as it is now?
-* Test first: then commit after a few tests.
-* Healthy: Ask my idealized highest self how to think of this.
-* Long-term: In the big picture of my whole life, this is just a phase. Keep my eyes on the horizon. Short-term discomfort or pain can bring a deeply fulfilling reward. Serve the future.
-* Compensating for bias and prejudice: curved bowling
+In #4, it makes you get up of your chair and excited. Remember, fear is a form of excitement.
 
-Examples:
+Traits of useful perspectives:
+* *Direct*: Go directly for what I really want, instead of using other means to get there. What do I really want? And what’s the point of that? Am I keeping a job just to feel secure? Getting a university degree for the status? Starting a business for the freedom? Instead, find a more efficient path to the real end result.
+* *Energizing*: Inspires to get immediate action.
+* *Self-reliant*: It’s about the process, not the outcome.
+* *Balancing*: Prioritize what’s been neglected.
+* *Selfless*: “Useful” means for them and the greater good.
+* *Selfish*: Protect the goose.
+* *Lucid* & lasting: Coming from a good state of mind, not angry, hurt, envious, or upset — not even ecstatically happy. Is it good in a few weeks as it is now?
+* *Test* first: then commit after a few tests.
+* *Healthy*: Ask my idealized highest self how to think of this.
+* *Long-term*: In the big picture of my whole life, this is just a phase. Keep my eyes on the horizon. Short-term discomfort or pain can bring a deeply fulfilling reward. Serve the future.
+* *Compensating* for bias and prejudice: curved bowling
+
+Oblique thinking stories:
 * Silver medalist vs. bronze medalist
 * Guess my secret number between 1 and 100
 * Two Japanese people in Brazil
 * No one leaves a bad relationship
 * NOLA's funerals
+
+_WIP_
 
 Questions:
 
