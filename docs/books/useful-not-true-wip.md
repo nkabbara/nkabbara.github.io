@@ -71,3 +71,55 @@ Almost nothing people say is true. My thoughts aren’t true. Norms, obligations
 Questions:
 
 * How do we test what are learning here? In tango, we have a milonga to test our skills and beleifs and points of view. Where can we test these rewirings in here?
+
+---
+
+
+### Reframe
+
+Explore many different ways of looking at your situation — finding perspectives you’d never considered before.
+
+Think a different way and you’ll feel a different way. You choose your reaction. Not the first one, but the next.
+
+1. Something happens.
+2. Get past your first emotional reaction.
+3. Consider other ways of looking at it.
+4. Pick one that feels empowering or useful.
+5. It shapes how you feel and what you’ll do.
+
+Other people’s judgements, values, and meanings are also inside of you, but you can replace these with your own.
+
+If you don’t choose your perspectives then you leave them up to mood, manipulation, or your worst impulses. Control your thoughts or be controlled.
+
+“What’s great about this?”,
+Don’t be so sure. Push past that first thought. Keep asking. You can always find something useful.
+
+Use what you learned from jigsaw puzzles. Start with the edges. Come up with extreme and ridiculous ideas that you’d never actually do, but are good for inspiration and finding the middle.
+
+You seem to be locked in a jail cell. But if you know there’s actually a secret exit, you’ll look harder, pushing and pulling everything until you find
+
+Your mind has a lot of trash, and often tells you there’s no way out of your situation — there’s nothing great about this. But if you decide that there is, you’ll keep looking until you find it.
+
+Trash bag with diamon inside.
+
+To change, reach past what comes naturally. Avoid your defaults. Get guidance outside of yourself. Use a different tool. How To Live is oblique strategies.
+
+Trails of useful perspectives:
+* Direct: Go directly for what I really want, instead of using other means to get there. What do I really want? And what’s the point of that? Am I keeping a job just to feel secure? Getting a university degree for the status? Starting a business for the freedom? Instead, find a more efficient path to the real end result.
+* Energizing: Inspires to get immediate action.
+* Self-reliant: It’s about the process, not the outcome.
+* Balancing: Prioritize what’s been neglected.
+* Selfless: “Useful” means for them and the greater good.
+* Selfish: Protect the goose
+* Lucid & lastting: Coming from a good state of mind, not angry, hurt, envious, or upset — not even ecstatically happy. Good in a few weeks as it is now?
+* Test first: then commit after a few tests
+* Healthy: Ask my idealized highest self how to think of this.
+* Long-term: In the big picture of my whole life, this is just a phase. Keep my eyes on the horizon. Short-term discomfort or pain can bring a deeply fulfilling reward. Serve the future.
+* Compensating for bias and prejudice: curved bowling
+
+Examples:
+* Silver medalist vs. bronze medalist
+* Guess my secret number between 1 and 100
+* Two Japanese in Brazil
+* No one leaves a bad relationship
+* NOLA's funerals

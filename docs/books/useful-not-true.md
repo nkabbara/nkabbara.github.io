@@ -2,7 +2,7 @@
 layout: page
 title: "Useful Not True"
 date: 2024-11-24
-version: 1.4.8
+version: 1.5.8
 categories: books
 tags: hidden
 ---
@@ -160,6 +160,55 @@ Always rember that meaning is coming from you. It's your projection. It's almost
 
 *Beliefs exist to guide your actions. If you’re not acting in alignment with your beliefs, you’ve missed the point of beliefs.*
 
+How do we reframe? Especially deeply held beliefs?
+
+Well, before you even reframe, you need to create a quest that you've picked to guide your current north star. Or already be in a challenge that life has picked for you. Otherwise, there's nothing to reframe. Just go with the flow. Assuming you're in a quest...anything that hinders your path is an challenge.
+
+When faced with a challenge...
+
+Explore many different ways of looking at your situation — finding perspectives you’d never considered before.
+
+This is not easy, but...
+
+If you don’t choose your perspectives then you leave them up to mood, manipulation, or your worst impulses. Control your thoughts or be controlled.
+
+First understand the structure of challenges
+
+1. Something happens. The challenge is revealed.
+2. Get past your first emotional reaction. (hardest part)
+3. Consider other ways of looking at it.
+4. Pick one that feels empowering or useful.
+5. It shapes how you feel and what you’ll do.
+
+In #2 think a different way and you’ll feel a different way. You choose your reaction. Not the first one, but the next. This is hard because it's usually your default. It's what you've trained your brain to do for ages. But now you're reframing. So you need to wait for your brain to process the default. Your default include other people's judgements, values, and meanings which are also inside of you, but you can replace these with your own.
+
+To change, reach past what comes naturally. Avoid your defaults. Get guidance outside of yourself. Use a different tool. How To Live is oblique strategies.
+
+In #3 Your mind has a lot of trash, and often tells you there’s no way out of your situation — there’s nothing great about this. But if you decide that there is, you’ll keep looking until you find it. Keep looking until you find something useful. For example:
+*  You seem to be locked in a jail cell. But if you know there’s actually a secret exit, you’ll look harder, pushing and pulling everything until you find
+* You know there's  diamond in the humongous trash bag that you're holding. You'll sift through the disgusting stuff until you find it.
+* Use what you learned from jigsaw puzzles. Start with the edges. Come up with extreme and ridiculous ideas that you’d never actually do, but are good for inspiration and finding the middle.
+
+Traits of useful perspectives:
+* Direct: Go directly for what I really want, instead of using other means to get there. What do I really want? And what’s the point of that? Am I keeping a job just to feel secure? Getting a university degree for the status? Starting a business for the freedom? Instead, find a more efficient path to the real end result.
+* Energizing: Inspires to get immediate action.
+* Self-reliant: It’s about the process, not the outcome.
+* Balancing: Prioritize what’s been neglected.
+* Selfless: “Useful” means for them and the greater good.
+* Selfish: Protect the goose.
+* Lucid & lasting: Coming from a good state of mind, not angry, hurt, envious, or upset — not even ecstatically happy. Is it good in a few weeks as it is now?
+* Test first: then commit after a few tests.
+* Healthy: Ask my idealized highest self how to think of this.
+* Long-term: In the big picture of my whole life, this is just a phase. Keep my eyes on the horizon. Short-term discomfort or pain can bring a deeply fulfilling reward. Serve the future.
+* Compensating for bias and prejudice: curved bowling
+
+Examples:
+* Silver medalist vs. bronze medalist
+* Guess my secret number between 1 and 100
+* Two Japanese people in Brazil
+* No one leaves a bad relationship
+* NOLA's funerals
+
 Questions:
 
-- How do we test what are learning here? In tango, we have a milonga to test our skills and beliefs and points of view. Where can we test these re-wirings in here?
+- How do we test what are learning here? In dance, we have a social to test our skills and beliefs and points of view. Where can we test these re-wirings in here?
