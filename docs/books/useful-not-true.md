@@ -160,7 +160,9 @@ Always remember that meaning is coming from you. It's your projection. It's almo
 
 *Beliefs exist to guide your actions. If you’re not acting in alignment with your beliefs, you’ve missed the point of beliefs.*
 
-*Beliefs -> Emotions -> Action.*
+**Beliefs -> Emotions -> Action.**
+
+Fourth part is about reframing...
 
 How do we reframe beliefs that are not useful anymore? Especially deeply held beliefs that are hindering our [chosen](https://sive.rs/hsu) quest?
 
@@ -190,17 +192,17 @@ In #3 Your mind has a lot of trash, and often tells you there’s no way out of 
 In #4, it makes you get up of your chair and excited. Remember, fear is a form of excitement.
 
 Traits of useful perspectives:
-* *Direct*: Go directly for what I really want, instead of using other means to get there. What do I really want? And what’s the point of that? Am I keeping a job just to feel secure? Getting a university degree for the status? Starting a business for the freedom? Instead, find a more efficient path to the real end result.
-* *Energizing*: Inspires to get immediate action.
-* *Self-reliant*: It’s about the process, not the outcome.
-* *Balancing*: Prioritize what’s been neglected.
-* *Selfless*: “Useful” means for them and the greater good.
-* *Selfish*: Protect the goose.
-* *Lucid* & lasting: Coming from a good state of mind, not angry, hurt, envious, or upset — not even ecstatically happy. Is it good in a few weeks as it is now?
-* *Test* first: then commit after a few tests.
-* *Healthy*: Ask my idealized highest self how to think of this.
-* *Long-term*: In the big picture of my whole life, this is just a phase. Keep my eyes on the horizon. Short-term discomfort or pain can bring a deeply fulfilling reward. Serve the future.
-* *Compensating* for bias and prejudice: curved bowling
+* **Direct**: Go directly for what I really want, instead of using other means to get there. What do I really want? And what’s the point of that? Am I keeping a job just to feel secure? Getting a university degree for the status? Starting a business for the freedom? Instead, find a more efficient path to the real end result.
+* **Energizing**: Inspires to get immediate action.
+* **Self-reliant**: It’s about the process, not the outcome.
+* **Balancing**: Prioritize what’s been neglected.
+* **Selfless**: “Useful” means for them and the greater good.
+* **Selfish**: Protect the goose.
+* **Lucid** & lasting: Coming from a good state of mind, not angry, hurt, envious, or upset — not even ecstatically happy. Is it good in a few weeks as it is now?
+* **Test** first: then commit after a few tests.
+* **Healthy**: Ask my idealized highest self how to think of this.
+* **Long-term**: In the big picture of my whole life, this is just a phase. Keep my eyes on the horizon. Short-term discomfort or pain can bring a deeply fulfilling reward. Serve the future.
+* **Compensating** for bias and prejudice: curved bowling
 
 Oblique thinking stories:
 * Silver medalist vs. bronze medalist
@@ -209,7 +211,30 @@ Oblique thinking stories:
 * No one leaves a bad relationship
 * NOLA's funerals
 
-_WIP_
+Next section is about adopting what works for you now...Read this in its entirety when you need it. Notes don't do it justice.
+
+There are infinite choices. You don't even know what they all are. A good choice is one that you actively chose. It's always going to be wrong. It’s not for them, or anyone else. It’s not even for your future or past. It’s only for you, and only for now. So commit once you've chosen.
+
+Remember the queen's explorer and the her leader. After you've spent time in explorer mode, taking in information, dabling and ending up with a some good options, you need to decide which option to take and then switch to leader mode. There's a point where you need to stop taking in information. And switch to leading yourself.
+
+In leader more you stop considering other viewpoints. Stop changing the course. Pick a destination and cut off other options. “Here’s where I’m going. Here’s why. Here’s how. Let’s go.” If you keep switching, you'll have to start over like the computer whose parameters you just changed. Instead, you need to be like the queen's leader, on course, no matter what. Headgehog, not fox.
+
+> People who tell me they are lost and running in circles have one thing in common: They say they keep listening to podcasts, reading books, watching videos, doing courses — taking in more and more information — and still don’t know what to do.
+
+Private journal to:
+* Strengthen the idea. Here's how this will help me now. Here's how it will help me in the future.
+* Clarify it. Here's how I'd explain it to others.
+* Plan it. Here's how I'm going about it.
+* Picture it. Here's how I'll look like when I've made progress. Here's how my identity will change.
+* Prepare for setbacks. This are the obstacles that will probably come up.
+
+Talk to your friends to solidify your choice. We know ourselves through others. If a lot of people say you have nice eyes, then you must have nice eyes.
+
+Once you decide, act right away. Take the first step. Especially for non descructive decisions. For descructive ones, sleep on them for a while. Start the momentum and then build it up. Look at your **Plan it** section in your journal for steps if you're confused. Make sure there's an accounting aspect to your actions. If you're in a vaccuum how will you know real progress is made and not imaginary progress. People need to be involved. Involve the right people in your work.
+
+You have to tune the guitar everytime your play it. Otherwise it'll sound bad and discourages you from playing. You will get off course, when you do go back to your journal, update the Prepare for setbacks section and fine tune to get back on course.
+
+Doing is being. Your internal dialogue and self image might not match what you are doing. But what you are doing is what's real. Your actions are what's real. Remember, your thoughts are not true. Almost all what people say is not true. Ideas can be reframed to serve you. Once you've picked your choice, don't be a dabler. Go all in with the assumption that you are. Don't place imaginary milestones that earn you the title.
 
 Questions:
 
