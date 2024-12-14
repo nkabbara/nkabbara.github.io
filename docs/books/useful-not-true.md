@@ -11,7 +11,7 @@ tags: hidden
 
 ## Summary
 
-I've decided to take notes in the first person here to see how I'm reacting to the ideas in this book.
+**Belief** generates **emotion** which generates **action**, but what you believe is not true. Change into a useful belief that generates the emotion which impels the action that you need now to reach your ultimate destination.
 
 ## Notes
 
