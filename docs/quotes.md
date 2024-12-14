@@ -2,9 +2,17 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.23.5
+version: 1.24.5
 categories: quotes
 ---
+
+> Kind people will tell you things a nice person will not. A kind person will tell you that you have spinach on your teeth. A nice person won’t because it’s uncomfortable.
+>
+> A kind person will tell us what holds us back, even when it’s uncomfortable. A nice person avoids giving us critical feedback because they’re worried about hurting our feelings.
+
+— Shane Perrish
+
+<br>
 
 > Ever since happiness heard your name, it has been running through the streets trying to find you.
 
