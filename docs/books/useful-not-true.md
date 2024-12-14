@@ -2,7 +2,7 @@
 layout: page
 title: "Useful Not True"
 date: 2024-11-24
-version: 1.5.9
+version: 1.5.10
 categories: books
 tags: hidden
 ---
@@ -216,9 +216,9 @@ Next section is about adopting what works for you now...Read this in its entiret
 There are infinite choices. You don't even know what they all are. A good choice is one that you actively choose. It's always going to be wrong. It’s not for your friends or family or anyone else. It’s not even for your future or past. It’s only for you, and only for now. So commit once you've chosen.
 (not for future?)
 
-Remember the queen's explorer and the her leader. After you've spent time in explorer mode, taking in information, dabling and ending up with a some good options, you need to decide which option to choose and then switch to leader mode. There's a point where you need to stop taking in information and switch to leading yourself.
+Remember the queen's explorer and the her leader. After you've spent time in explorer mode, taking in information, dabbling and ending up with a some good options, you need to decide which option to choose and then switch to leader mode. There's a point where you need to stop taking in information and switch to leading yourself.
 
-In leader mode you stop considering other viewpoints. Stop changing the course. Pick a destination and cut off other options. “Here’s where I’m going. Here’s why. Here’s how. Let’s go.” If you keep switching, you'll have to start over like the computer whose parameters you just changed. Instead, you need to be like the queen's leader, on course, no matter what. Headgehog, not fox.
+In leader mode you stop considering other viewpoints. Stop changing the course. Pick a destination and cut off other options. “Here’s where I’m going. Here’s why. Here’s how. Let’s go.” If you keep switching, you'll have to start over like the computer whose parameters you just changed. Instead, you need to be like the queen's leader, on course, no matter what. Hedgehog, not fox.
 
 > People who tell me they are lost and running in circles have one thing in common: They say they keep listening to podcasts, reading books, watching videos, doing courses — taking in more and more information — and still don’t know what to do.
 
@@ -231,8 +231,8 @@ Private journal to:
 
 Talk to your friends to solidify your choice. We know ourselves through others. If a lot of people say you have nice eyes, then you must have nice eyes. _Useful not true._
 
-Once you decide, act right away. Take the first step. Especially for non descructive decisions. For descructive ones, sleep on them for a while. Start the momentum and then build it up. Look at your **Plan it** section in your journal for steps if you're confused. Make sure there's an accounting aspect to your actions. If you're in a vaccuum how will you know real progress is made and not imaginary progress. People need to be involved. Involve the right people in your work and ask them to hold you accountable. This could be in the form of regular calls, competitions or group gathering to show your work. Look for [kind, not nice](https://x.com/ShaneAParrish/status/1717869790230991131?lang=en) feedback.
+Once you decide, act right away. Take the first step. Especially for non destructive decisions. For destructive ones, sleep on them for a while. Start the momentum and then build it up. Look at your **Plan it** section in your journal for steps if you're confused. Make sure there's an accounting aspect to your actions. If you're in a vacuum how will you know real progress is made and not imaginary progress. People need to be involved. Involve the right people in your work and ask them to hold you accountable. This could be in the form of regular calls, competitions or group gathering to show your work. Look for [kind, not nice](https://x.com/ShaneAParrish/status/1717869790230991131?lang=en) feedback.
 
-You have to tune the guitar everytime your play it. Otherwise it'll sound bad and discourages you from playing. You will get off course when leading your quest and when you do, go back to your journal, update the Prepare for Setbacks section and fine tune to get back on course.
+You have to tune the guitar every time your play it. Otherwise it'll sound bad and discourages you from playing. You will get off course when leading your quest and when you do, go back to your journal, update the Prepare for Setbacks section and fine tune to get back on course.
 
-Doing is being. Your internal dialogue and self image might not match what you are doing. But what you are doing is what's real. Your actions are what's real. Remember, your thoughts are not true. Almost all what people say is not true. Ideas can be reframed to serve you. Once you've picked your choice, don't be a dabler. Go all in with the assumption that you are. Don't place imaginary milestones that earn you the title.
+Doing is being. Your internal dialogue and self image might not match what you are doing. But what you are doing is what's real. Your actions are what's real. Remember, your thoughts are not true. Almost all what people say is not true. Ideas can be reframed to serve you. Once you've picked your choice, don't be a dabbler. Go all in with the assumption that you are. Don't place imaginary milestones that earn you the title.
