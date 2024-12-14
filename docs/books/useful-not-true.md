@@ -2,7 +2,7 @@
 layout: page
 title: "Useful Not True"
 date: 2024-11-24
-version: 1.5.8
+version: 1.5.9
 categories: books
 tags: hidden
 ---
