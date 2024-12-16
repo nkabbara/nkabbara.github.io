@@ -2,7 +2,7 @@
 layout: page
 title: "now"
 date: 2024-12-14
-version: 1.0.0
+version: 1.0.1
 categories: now
 ---
 <small>_(This is a now page, and if you have your own site, [you should check it out](https://nownownow.com/about).)_</small>
@@ -10,7 +10,7 @@ categories: now
 <small>_Last updated on Dec 14, 2024 from Buenos Aires._</small>
 
 ## Analytically Reading & Camping
-I just paused a long chapter of working as a Software Engineer for I'm not sure how long. I'm excited to go deep into a few books that I've already read a few times, but haven't completely internalized yet. List below will turn into links once my notes are up.
+I just paused a long chapter of working as a Software Engineer for a while. I'm excited to go deep into a few books that I've already read a few times, but haven't completely internalized yet. List below will turn into links once my notes are up.
 * [Useful Not True](/books/useful-not-true)
 * Atomic Habits
 * How To Live
