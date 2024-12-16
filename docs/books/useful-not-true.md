@@ -2,7 +2,7 @@
 layout: page
 title: "Useful Not True"
 date: 2024-11-24
-version: 1.5.10
+version: 1.6.10
 categories: books
 tags: hidden
 ---
@@ -236,3 +236,5 @@ Once you decide, act right away. Take the first step. Especially for non destruc
 You have to tune the guitar every time your play it. Otherwise it'll sound bad and discourages you from playing. You will get off course when leading your quest and when you do, go back to your journal, update the Prepare for Setbacks section and fine tune to get back on course.
 
 Doing is being. Your internal dialogue and self image might not match what you are doing. But what you are doing is what's real. Your actions are what's real. Remember, your thoughts are not true. Almost all what people say is not true. Ideas can be reframed to serve you. Once you've picked your choice, don't be a dabbler. Go all in with the assumption that you are. Don't place imaginary milestones that earn you the title.
+
+Heaven is probably the original reframing and maybe the first of useful no-true thoughts because death is the earliest of terrifying true facts. Death of a person, a relationship or a pet; some people avoid these connections in order to avoid the pain. But what if we were to reframe these into she went to heaven, no one leaves a bad relationship or they're at peace?

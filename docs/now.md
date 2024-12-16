@@ -10,15 +10,15 @@ categories: now
 
 <small>_Last updated on Dec 14, 2024 from Buenos Aires._</small>
 
-## Analytically Reading & Camping
+## Reading & Camping
 
-I just paused a long chapter of working as a Software Engineer for a while. I'm excited to go deep into a few books that I've already read a few times, but haven't completely internalized yet. List below will turn into links once my notes are up.
+I just paused a long chapter of working as a Software Engineer for a while. I have a good idea of what my next project is, but I'm creating some liminal space in which I get to shift some perspectives before diving into my next quest. I'm excited to go deep into a few books that I've already read a few times, but haven't completely internalized _(See analytical reading in this [awesome book](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095).)_. List below will turn into links once my notes are up.
 
 - [Useful Not True](/books/useful-not-true)
 - Atomic Habits
 - How To Live
 
-I plan to backpack and camp around Argentina while in this analytical reading stage. Analytical reading comes from this [awesome book](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095).
+I'm backpacking and camping around Argentina while in this liminal space. Reach out if you'd like to join in!
 
 ## Bikram Yoga
 
