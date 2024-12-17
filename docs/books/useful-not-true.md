@@ -7,7 +7,7 @@ categories: books
 tags: hidden
 ---
 
-[Buy it here](https://sive.rs/u)
+by Derek Sivers, [Buy it here](https://sive.rs/u)
 
 ## Summary
 
