@@ -2,7 +2,7 @@
 layout: page
 title: "now"
 date: 2024-12-14
-version: 1.0.3
+version: 1.0.4
 categories: now
 ---
 
@@ -18,7 +18,7 @@ I just paused a long chapter of working as a Software Engineer for a while. I ha
 - Atomic Habits
 - How To Live
 
-I'm backpacking and camping around Argentina while in this liminal space. Reach out if you'd like to join in!
+I'm backpacking and camping around Argentina while in this liminal stage. Reach out if you'd like to join in!
 
 ## Bikram Yoga
 

@@ -2,7 +2,7 @@
 layout: page
 title: "Useful Not True"
 date: 2024-11-24
-version: 1.6.10
+version: 1.8.10
 categories: books
 tags: hidden
 ---
@@ -11,7 +11,17 @@ tags: hidden
 
 ## Summary
 
-**Belief** generates **emotion** which generates **action**, but what you believe is not true. Change into a useful belief that generates the emotion which impels the action that you need now to reach your ultimate destination.
+**Belief** generates **emotion** which generates **action**, but what you believe is not true. Adopt a useful belief that generates the emotion which impels the action that you need now to reach your ultimate destination.
+
+Your actions are what define you. **Nothing else does**. Not what you think about yourself or your actions. Not what you think others think about you or your actions. Not what others tell you that they think about you or your actions.
+
+Your emotions are what generated those actions. You act based on emotions and rarely on facts. Emotions are key. They are born from thoughts you've inherited and from ones you've adopted over the years. Beliefs.
+
+Reframe your inherited thoughts and adopted thoughts so you produce emotions that generate actions you need right now. Produce new thoughts if your current ones are not useful.
+
+Reframe, generate usefully, not factually.
+
+Your thoughts are not true, and mostly what people say is not true, so look for thoughts that can become useful beliefs that generate useful emotions which generate useful actions for your current quest.
 
 ## Notes
 
@@ -23,36 +33,36 @@ So what? Well, this is a powerful notion because now you may assume a point of v
 
 First part of the book...almost nothing anyone says, including myself is true.
 
-- Almost nothing I say is true.
-  - I'm not wrong, it's just not the only answer or view.
+- Almost nothing you say is true.
+  - You're not wrong, it's just not the only answer or view.
   - _What time is it? Remember time zones._
   - _Christmas is in winter._
   - _Water swirls clockwise._
   - _I love dancing with her._
-- I focus on one angle of the whole picture.
-  - I have a narrow window through which I see the world. I work with that information.
+- You focus on one angle of the whole picture.
+  - You have a narrow window through which you see the world. You work with that information.
   - _My mom abandoned me in childhood (my expectation was that she be present). She says she was working hard to pay my tuition._
   - _A photo of a smiling group. Another one of same group, but frowning. Are these people happy? Which fact do I want to use for my purpose?_
-- My brain makes up explanations.
-  - Think of all the major life decisions I've made. Were all the explanations made up? Yikes. But that means, I can pick explanations that serve me.
+- Your brain makes up explanations.
+  - Think of all the major life decisions you've made. Were all the explanations made up? Yikes. But that means, you can pick explanations that serve you.
   - _She said no because she doesn't like this song._
   - _Split brain experiments. Why did you open the window?_
-- My perspectives feel like a fact.
+- You perspectives feel like a fact.
   - _A cat is a pet. Your friends agree so must be true. A mouse disagrees. Neither can see it any other way._
   - My dad had no love for me.
   - Sibling fights. I'm right. They're wrong. I can prove it.
-- My certain future is just a prediction.
+- Your certain future is just a prediction.
   - Even if it feels 100% real.
-  - From $100 to $(all my savings), how much am I willing to bet that this future will become true?
+  - From $100 to $(all your savings & investments), how much are you willing to bet that this future will become true?
   - _If I quit my job and start my own company, I'll be happier._ How much to bet?
   - _I'm feeling tired now and thinking that I need to relax to recover is not a guarantee. Maybe relaxing is not the answer._ How much to bet?
-- My thoughts are theories, open for improvement.
-  - Proposal to be proved and to be improved upon as I move forward.
+- Your thoughts are theories, open for improvement.
+  - Proposal to be proved and to be improved upon as you move forward.
   - _A scientist laughed really hard when I said science is true. Newton -> Einstein -> Quantum physics._
-- My memories are mostly lies. My past is mostly constructed.
+- Your memories are mostly lies. Your past is mostly constructed.
   - Space shuttle explosion experiment. 3 years later.
   - A false memory over time grows into a hard fact in my mind. And it feels more real and more serious. And most memories are false.
-- Got used to thinking of rules, obligations and cultural norms as true[^1].
+- You got used to thinking of rules, obligations and cultural norms as true.
   - Rules were most likely set right before lunch break so people can leave. Or probably as a knee jerk reaction after a disaster.
   - Rules are not true, they're a starting point of how the game looks like now.
   - Always ask, who's this obligation or norm serving? Who's problem is it solving? Who is getting disappointed that I'm not taking their wish as my command?
@@ -60,9 +70,7 @@ First part of the book...almost nothing anyone says, including myself is true.
   - _You must always open the door for your date._
   - _As a man, you should always pay the bill._
 
-All of the above also apply to everyone I know. I wrote them in the first person to see how I react, but author wrote them in the third person.
-
-[^1]: As I'm writing those, I'm viscerally reacting to them because they're imprinted in my psyche yet I know they're not true. There are perspective that certain cultures imprinted in me. And I know this because I've lived in several cultures and each of these behaviors gets a different kind of reaction. From expectation to surprise.
+All of the above applies to you and to me. It's just easier to believe when it's about other people.
 
 **What incentives made my beliefs useful?** Or are making my current beliefs useful. Watch out for belonging, laziness and impatience.
 
@@ -91,11 +99,11 @@ Second part of the book...My thoughts are not true:
 - I can't trust my own mind.
   - When you find out that your mind is tricking you, you can accept it, change your view and move on with more humility and less confidence.
   - Alternatively, you can defend your current view and double down on it and dismiss the facts.
-  - *Remember Neo in the Matrix.*
+  - _Remember Neo in the Matrix._
 - I can re-edit my mind's movies.
   - Replay your own past, but use different angles so the re-edit gives you the lesson you need or closure. Your memory and history are not-true anyway. So re-edit them to your advantage.
   - Watch out, re-edits could be harmful: I know someone that caused me harm by not keeping their word. Some time after we've reconciled, he brought up the past events completely re-edited to sound like we both were complicit in what took place. I pointed out the facts to him and he was taken aback and agreed with me. He subconsciously re-edited the past so he could cope with it. But he lost the lesson in doing so. Maybe he wasn't ready to deal with it yet?
-  - But also, almost everyone re-edits their stories. If you get stuck on the true facts while folks around you are using useful re-edits, who's benefiting more? Probably them. *Don't be a hater sticking to facts just because they are true.*
+  - But also, almost everyone re-edits their stories. If you get stuck on the true facts while folks around you are using useful re-edits, who's benefiting more? Probably them. _Don't be a hater sticking to facts just because they are true._
   - _500 Days of Summer_
 - I inherited normalized habits & beliefs.
   - Many of my behaviors are due to inherited beliefs. Many of which are not-true. Some are serving me well while others are limiting.
@@ -124,9 +132,10 @@ Third part of the book is how useful no-true ideas can serve us.
 
 > Useful? Let’s define “useful” as whatever ultimately helps you do what you need to do, be who you want to be, or feel at peace. The word “ultimately” is there as a reminder of long-term consequences. ...
 
-There's a balance here. A useful belief now might be hurtful in the future. *Also useful does not mean pain free or comfortable. It could be the opposite, a useful belief might be proper to be painful in order to prevent you from repeating a certain behavior. e.g you overpaid on taxes due to a technicality that could have easily been avoided.*
+There's a balance here. A useful belief now might be hurtful in the future. _Also useful does not mean pain free or comfortable. It could be the opposite, a useful belief might be proper to be painful in order to prevent you from repeating a certain behavior. e.g you overpaid on taxes due to a technicality that could have easily been avoided._
 
 Useful not true ideas:
+
 - Beware of truth, use it carefully (my favorite chapter page 70)
   - Ask yourself why you want the truth. What do you plan to do with it? What’s the real outcome?
   - You might be better off with a not-true meaning that serves your current quest.
@@ -138,10 +147,10 @@ Useful not true ideas:
   - When a belief or behavior is not serving your quest, correcting it might not be enough. You might need to over-correct in order to achieve what you want.
   - The overcorrected thought is most likely not-true, but it's useful. Or fine tune it until it is useful.
   - Are you shy around new people? Assume the belief that you're an extreme extrovert and you want to try and tone it down. How would you behave around new people? Maybe just say hi so you don't overtake the discussion?
-  - *Bowling example. Aim left to hit center when aiming center is curving left.*
+  - _Bowling example. Aim left to hit center when aiming center is curving left._
 - Ideas and beliefs are tools. Choose them for the desired effect
   - Wrong question: which belief is true or right?
-  - Right question: Which belief leads to the *action* I need now.
+  - Right question: Which belief leads to the _action_ I need now.
   - Beliefs create emotion. Emotion creates action. Choose a belief for the right action.
   - Run faster? Imagine lion behind you. Run motivated? Imagine pot of gold ahead. Run correctly? Imagine hot coals under your feet.
   - Make your own belief cocktail: You don’t need to decide which one is right. You can use one meaning to get you out of bed, and another to sleep well at night. Which meaning leads to the actions you need now?
@@ -158,7 +167,7 @@ Useful not true ideas:
 
 Always remember that meaning is coming from you. It's your projection. It's almost never true. Even obvious ones like a ceiling is to stop the rain. A ceiling is to provide shelter. These are your meanings. A ceiling is a ceiling. It has no meaning on its own. The meaning is internal not external. Choose the ones that serve you.
 
-*Beliefs exist to guide your actions. If you’re not acting in alignment with your beliefs, you’ve missed the point of beliefs.*
+_Beliefs exist to guide your actions. If you’re not acting in alignment with your beliefs, you’ve missed the point of beliefs._
 
 **Beliefs -> Emotions -> Action.**
 
@@ -185,36 +194,38 @@ In #2 think a different way and you’ll feel a different way. You choose your r
 To change, reach past what comes naturally. Avoid your defaults. Get guidance outside of yourself. Use a different tool. [How To Live](https://sive.rs/h) book is oblique strategies.
 
 In #3 Your mind has a lot of trash, and often tells you there’s no way out of your situation — there’s nothing great about this. But if you decide that there is, you’ll keep looking until you find it. Keep looking until you find something useful. For example:
-*  You seem to be locked in a jail cell. But if you know there’s actually a secret exit, you’ll look harder, pushing and pulling everything until you find
-* You know there's  diamond in the humongous trash bag that you're holding. You'll sift through the disgusting stuff until you find it.
-* Use what you learned from jigsaw puzzles. Start with the edges. Come up with extreme and ridiculous ideas that you’d never actually do, but are good for inspiration and finding the middle.
+
+- You seem to be locked in a jail cell. But if you know there’s actually a secret exit, you’ll look harder, pushing and pulling everything until you find
+- You know there's diamond in the humongous trash bag that you're holding. You'll sift through the disgusting stuff until you find it.
+- Use what you learned from jigsaw puzzles. Start with the edges. Come up with extreme and ridiculous ideas that you’d never actually do, but are good for inspiration and finding the middle.
 
 In #4, it makes you get up of your chair and excited. Remember, fear is a form of excitement.
 
 Traits of useful perspectives:
-* **Direct**: Go directly for what I really want, instead of using other means to get there. What do I really want? And what’s the point of that? Am I keeping a job just to feel secure? Getting a university degree for the status? Starting a business for the freedom? Instead, find a more efficient path to the real end result.
-* **Energizing**: Inspires to get immediate action.
-* **Self-reliant**: It’s about the process, not the outcome.
-* **Balancing**: Prioritize what’s been neglected.
-* **Selfless**: “Useful” means for them and the greater good.
-* **Selfish**: Protect the goose.
-* **Lucid** & lasting: Coming from a good state of mind, not angry, hurt, envious, or upset — not even ecstatically happy. Is it good in a few weeks as it is now?
-* **Test** first: then commit after a few tests.
-* **Healthy**: Ask my idealized highest self how to think of this.
-* **Long-term**: In the big picture of my whole life, this is just a phase. Keep my eyes on the horizon. Short-term discomfort or pain can bring a deeply fulfilling reward. Serve the future.
-* **Compensating** for bias and prejudice: curved bowling
+
+- **Direct**: Go directly for what I really want, instead of using other means to get there. What do I really want? And what’s the point of that? Am I keeping a job just to feel secure? Getting a university degree for the status? Starting a business for the freedom? Instead, find a more efficient path to the real end result.
+- **Energizing**: Inspires to get immediate action.
+- **Self-reliant**: It’s about the process, not the outcome.
+- **Balancing**: Prioritize what’s been neglected.
+- **Selfless**: “Useful” means for them and the greater good.
+- **Selfish**: Protect the goose.
+- **Lucid** & lasting: Coming from a good state of mind, not angry, hurt, envious, or upset — not even ecstatically happy. Is it good in a few weeks as it is now?
+- **Test** first: then commit after a few tests.
+- **Healthy**: Ask my idealized highest self how to think of this.
+- **Long-term**: In the big picture of my whole life, this is just a phase. Keep my eyes on the horizon. Short-term discomfort or pain can bring a deeply fulfilling reward. Serve the future.
+- **Compensating** for bias and prejudice: curved bowling
 
 Oblique thinking stories:
-* Silver medalist vs. bronze medalist
-* Guess my secret number between 1 and 100
-* Two Japanese people in Brazil
-* No one leaves a bad relationship
-* NOLA's funerals
+
+- Silver medalist vs. bronze medalist
+- Guess my secret number between 1 and 100
+- Two Japanese people in Brazil
+- No one leaves a bad relationship
+- NOLA's funerals
 
 Next section is about adopting what works for you now...Read this in its entirety when you need it. Notes don't do it justice.
 
-There are infinite choices. You don't even know what they all are. A good choice is one that you actively choose. It's always going to be wrong. It’s not for your friends or family or anyone else. It’s not even for your future or past. It’s only for you, and only for now. So commit once you've chosen.
-(not for future?)
+There are infinite choices. You don't even know what they all are. A good choice is one that you actively choose. It's always going to be wrong. It’s not for your friends or family or anyone else. It’s not even for your future or past. It’s only for you, and only for now. So commit once you've chosen. _Not for future self in the sense that future self will have another choice, but this choice should benefit future self in some capacity, otherwise, we wouldn't have chosen it_.
 
 Remember the queen's explorer and the her leader. After you've spent time in explorer mode, taking in information, dabbling and ending up with a some good options, you need to decide which option to choose and then switch to leader mode. There's a point where you need to stop taking in information and switch to leading yourself.
 
@@ -223,18 +234,19 @@ In leader mode you stop considering other viewpoints. Stop changing the course. 
 > People who tell me they are lost and running in circles have one thing in common: They say they keep listening to podcasts, reading books, watching videos, doing courses — taking in more and more information — and still don’t know what to do.
 
 Private journal to:
-* Strengthen the idea. Here's how this will help me now. Here's how it will help me in the future.
-* Clarify it. Here's how I'd explain it to others.
-* Plan it. Here's how I'm going about it.
-* Picture it. Here's how I'll look like when I've made progress. Here's how my identity will change.
-* Prepare for setbacks. This are the obstacles that will probably come up.
+
+- Strengthen the idea. Here's how this will help me now. Here's how it will help me in the future.
+- Clarify it. Here's how I'd explain it to others.
+- Plan it. Here's how I'm going about it.
+- Picture it. Here's how I'll look like when I've made progress. Here's how my identity will change.
+- Prepare for setbacks. This are the obstacles that will probably come up.
 
 Talk to your friends to solidify your choice. We know ourselves through others. If a lot of people say you have nice eyes, then you must have nice eyes. _Useful not true._
 
 Once you decide, act right away. Take the first step. Especially for non destructive decisions. For destructive ones, sleep on them for a while. Start the momentum and then build it up. Look at your **Plan it** section in your journal for steps if you're confused. Make sure there's an accounting aspect to your actions. If you're in a vacuum how will you know real progress is made and not imaginary progress. People need to be involved. Involve the right people in your work and ask them to hold you accountable. This could be in the form of regular calls, competitions or group gathering to show your work. Look for [kind, not nice](https://x.com/ShaneAParrish/status/1717869790230991131?lang=en) feedback.
 
-You have to tune the guitar every time your play it. Otherwise it'll sound bad and discourages you from playing. You will get off course when leading your quest and when you do, go back to your journal, update the Prepare for Setbacks section and fine tune to get back on course.
+You have to tune the guitar every time your play it. Otherwise it'll sound bad and discourages you from playing. You will get off course when leading your quest and when you do, go back to your journal, update the **Prepare** for Setbacks section and fine tune to get back on course.
 
-Doing is being. Your internal dialogue and self image might not match what you are doing. But what you are doing is what's real. Your actions are what's real. Remember, your thoughts are not true. Almost all what people say is not true. Ideas can be reframed to serve you. Once you've picked your choice, don't be a dabbler. Go all in with the assumption that you are. Don't place imaginary milestones that earn you the title.
+Doing is being. Your internal dialogue and self image might not match what you are doing. But what you are doing is what's real. Your actions are what's real. Remember, your thoughts are not true. Almost all what people say is not true. Ideas can be reframed to serve you. Once you've picked your choice, don't be a dabbler. Go all in with the assumption that you _are_. Don't place imaginary milestones that create an illusion of progress. i.e. Don't buy your won bullshit with fake progress.
 
-Heaven is probably the original reframing and maybe the first of useful no-true thoughts because death is the earliest of terrifying true facts. Death of a person, a relationship or a pet; some people avoid these connections in order to avoid the pain. But what if we were to reframe these into she went to heaven, no one leaves a bad relationship or they're at peace?
+Heaven is probably the original reframing and maybe the first of useful no-true thoughts because death is the earliest of terrifying true facts. Death of a person, a relationship or a pet; some people avoid these connections in order to avoid the pain. But what if we were to reframe these into she went to heaven, no one leaves a bad relationship or they're at peace? Reframe death as the source of fire under your feet that pushes you forward to get shit done before you're in the grave.
