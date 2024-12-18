@@ -2,7 +2,7 @@
 layout: page
 title: "now"
 date: 2024-12-14
-version: 1.0.4
+version: 1.1.5
 categories: now
 ---
 
@@ -12,13 +12,11 @@ categories: now
 
 ## Reading & Camping
 
-I just paused a long chapter of working as a Software Engineer for a while. I have a good idea of what my next project is, but I'm creating some liminal space in which I get to shift some perspectives before diving into my next quest. I'm excited to go deep into a few books that I've already read a few times, but haven't completely internalized _(See analytical reading in this [awesome book](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095).)_. List below will turn into links once my notes are up.
+I just paused a long chapter of working as a Software Engineer indefinitely. I have a good idea of what my next project is, but I'm creating some liminal space in which I get to think things through before jumping in. During this time I'll be backpacking around Argentina and reading some books that I had been wanting to [internalize](/books/how-to-read-a-book) for a while. I'll update my notes below as I go through them.
 
 - [Useful Not True](/books/useful-not-true)
-- Atomic Habits
-- How To Live
-
-I'm backpacking and camping around Argentina while in this liminal stage. Reach out if you'd like to join in!
+- [Atomic Habits](/books/atomic-habits)
+- [How To Live](/books/how-to-live)
 
 ## Bikram Yoga
 
