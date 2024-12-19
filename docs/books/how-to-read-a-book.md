@@ -239,3 +239,30 @@ THE FIRST STAGE OF ANALYTICAL READING, OR RULES FOR FINDING WHAT A BOOK IS ABOUT
 2.State what the whole book is about with the utmost brevity.
 3.Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole.
 4.Define the problem or problems the author is trying to solve.
+
+Coming to terms.
+
+Stage II in analytical reading. Remember stages are not chronological, you may do all stages in one analytical reading.
+
+RULE 5. FIND THE IMPORTANT WORDS AND THROUGH THEM COME TO TERMS WITH THE AUTHOR.
+
+Rule 5 & stage II, the aim of which is not the outlining of a book’s structure but the interpretation of its contents or message. The other rules for this stage, to be discussed in the next chapter, are like this one in an important respect. They also require you to take two steps: a step dealing with the language as such, and a step beyond the language to the thought that lies behind it.
+
+The main point [of words & terms distinction] is that one word can be the vehicle for many terms, and one term can be expressed by many words. Let us illustrate this schematically in the following manner. The word “reading” has been used in many senses in the course of our discussion. Let us take three of these senses: By the word “reading” we may mean (1) reading to be entertained, (2) reading to get information, and (3) reading to achieve understanding. Now let us symbolize the word “reading” by the letter X, and the three meanings by the letters a, b, and c. What is symbolized in this scheme by Xa, Xb, and Xc, are not three words, for X remains the same throughout. But they are three terms, on the condition, of course, that you, as reader, and we, as writers know when X is being used in one sense and not another.
+
+Not all the words an author uses are important. Better than that, you can be sure that most of his words are not. Only those words that he uses in a special way are important for him, and for us as readers. This is not an absolute matter, of course, but one of degree. Words may be more or less important.
+
+From your point of view as a reader, therefore, the most important words are those that give you trouble. It is likely that these words are important for the author as well. However, they may not be. It is also possible that words that are important for the author do not bother you, and precisely because you understand them. In that case, you have already come to terms with the author. Only where you fail to come to terms have you work still to do.
+
+You cannot locate the key words without making an effort to understand the passage in which they occur. This situation is somewhat paradoxical. If you do understand the passage, you will, of course, know which words in it are the most important. If you do not fully understand the passage, it is probably because you do not know the way the author is using certain words. If you mark the words that trouble you, you may hit the very ones the author is using specially.
+
+
+You discover some of the important words by the fact that they are not ordinary for you. That is why they bother you. But is there any other way
+
+The first and most obvious sign is the explicit stress an author places upon certain words and not others. He may do this in many ways. He may use such typographical devices as quotation marks or italics to mark the word for you. He may call your attention to the word by explicitly discussing its various senses and indicating the way he is going to use it here and there. Or he may emphasize the word by defining the thing that the word is used to name.
+
+When you find an author telling you how a particular word has been used by others, and why he chooses to use it otherwise, you can be sure that word makes a great difference to him.
+
+A word may have many meanings.
+
+The answer (to: How does one find out what the meanings are?) is that you have to discover the meaning of a word you do not understand by using the meanings of all the other words in the context that you do understand. This must be the way, no matter how merry-go-roundish it may seem at first.
