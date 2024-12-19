@@ -136,3 +136,106 @@ _If only all my tango teachers read understood this_
 you cannot coalesce a lot of different acts into one complex, harmonious performance until you become expert at each of them.
 
 **The person who has had one experience in acquiring a complex skill knows that he need not fear the array of rules that present themselves at the beginning of something new to be learned. He knows that he does not have to worry about how all the separate acts in which he must become separately proficient are going to work together.**
+
+The multiplicity of the rules indicates the complexity of the one habit to be formed, not a plurality of distinct habits. The parts coalesce and telescope as each reaches the stage of automatic execution. When all the subordinate acts can be done more or less automatically, you have formed the habit of the whole performance. Then you can think about tackling an expert run you have never skied before, or reading a book that you once thought was too difficult for you.
+
+At the beginning, the learner pays attention to himself and his skill in the separate acts. When the acts have lost their separateness in the skill of the whole performance, the learner can at last pay attention to the goal that the technique he has acquired enables him to reach.
+
+_Memorize the last few paragraphs!_
+
+The first rule of analytical reading can be expressed as follows: RULE 1. YOU MUST KNOW WHAT KIND OF BOOK YOU ARE READING, AND YOU SHOULD KNOW THIS AS EARLY IN THE PROCESS AS POSSIBLE, PREFERABLY BEFORE YOU BEGIN TO READ. You do so by first inspecting the book—giving it an inspectional reading.
+
+The problems dealt with by a book on physics and one on morals are not the same, nor are the methods the writers employ in solving such different problems.
+
+Thus this first rule of analytical reading, though it is applicable to all books, applies particularly to nonfictional, expository works.
+
+Important as reading titles is, it is not enough. The clearest titles in the world, the most explicit front matter, will not help you to classify a book unless you have the broad lines of classification already in your mind.
+
+The title will not tell you, nor all the rest of the front matter, nor even the whole book itself sometimes, unless you have some categories you can apply to classify books intelligently.
+
+Theoratical vs. Practical
+
+The practical has to do with what works in some way, at once or in the long run. The theoretical concerns something to be seen or understood. If we polish the rough truth that is here being grasped, we come to the distinction between knowledge and action as the two ends a writer may have in mind.
+
+What we have in mind here is exemplified by the distinction between pure and applied science, or, as it is sometimes very inaccurately expressed, between science and technology.
+
+Some books or teachers are interested only in the knowledge itself that they have to communicate. This does not mean that they deny its utility, or that they insist that knowledge is good only for its own sake. They simply limit themselves to one kind of communication or teaching, and leave the other kind to other men. These others have an interest beyond knowledge for its own sake. They are concerned with the problems of human life that knowledge can help to solve. They communicate knowledge, too, but always with a view to and an emphasis upon its application.
+
+To make knowledge practical we must convert it into rules of operation. We must pass from knowing what is the case to knowing what to do about it if we wish to get somewhere. This can be summarized in the distinction between knowing that and knowing how. Theoretical books teach you that something is the case. Practical books teach you how to do something you want to do or think you should do. This book is practical, not theoretical. Any guidebook is a practical book. Any book that tells you either what you should do or how to do it is practical. Thus you see that the class of practical books includes all expositions of arts to be learned, all manuals of practice in any field, such as engineering or medicine or cooking, and all treatises that are conveniently classified as moral, such as books on economic, ethical, or political problems. We will later explain why this last group of books, properly called “normative,” constitutes a very special category of practical books.
+
+In describing the art of inspectional reading, we noted that you should not ordinarily stop after reading the front matter of a book and perhaps its index. You should read passages in the book that appear to be of a summary nature. You should also read the beginning and end of the book and of its major parts. This becomes necessary when, as is sometimes the case, it is impossible to classify a book from its title and other front matter. In that case, you have to depend on signs to be found in the main body of the text.
+
+practical book will soon betray its character by the frequent occurrence of such words as “should” and “ought,” “good” and “bad,” “ends” and “means.” The characteristic statement in a practical book is one that says that something should be done (or made); or that this is the right way of doing (or making) something; or that one thing is better than another as an end to be sought, or a means to be chosen. In contrast, a theoretical book keeps saying “is,” not “should” or “ought.” It tries to show that something is true, that these are the facts; not that things would be better if they were otherwise, and here is the way to make them better.
+
+Kinds of theoratical books,
+
+The traditional subdivision of theoretical books classifies them as history, science, and philosophy.
+
+History back. Science forward. Philosophy now.
+
+The essence of history is narration. History is knowledge of particular events or things that not only existed in the past but also underwent a series of changes in the course of time. The historian narrates these happenings and often colors his narrative with comment on, or insight into, the significance of the events.
+
+History is chronotopic. Chronos is the Greek word for time, topos the Greek word for place. History always deals with things that existed or events that occurred on a particular date and in a particular place. The word “chronotopic”
+
+whether a book is philosophical or scientific, how can we tell? There is one criterion that we think always works, although you may have to read a certain amount of the book before you can apply it. If a theoretical book emphasizes things that lie outside the scope of your normal, routine, daily experience, it is a scientific work. If not, it is philosophical.
+
+
+This does not mean that the philosopher is a pure thinker and the scientist merely an observer. Both have to observe and think, but they think about different sorts of observations. And however they may have arrived at the conclusions that they want to prove, they prove them in different ways, the scientist by pointing to the results of his special experiences, the philosopher by pointing to experiences that are common to all. This difference in method always reveals itself in philosophical and scientific books, and that is how you can tell which sort of book you are reading. If you note the sort of experience that is being referred to as a condition of understanding what is being said, you will know whether the book is scientific or philosophical.
+
+The same is true of history. Historical statements are different from scientific and philosophical ones. A historian argues differently and interprets facts differently. Furthermore, the typical history book is narrative in form. A narrative is a narrative, whether it be fact or fiction. The historian must write poetically, which means he must obey the rules for telling a good story. Whatever other excellences Locke’s Essay on Human Understanding or Newton’s Principia may have, neither is a good story.
+
+
+Now, just as there is a difference in the art of teaching in different fields, so there is a reciprocal difference in the art of being taught. The activity of the student must somehow be responsive to the activity of the instructor. The relation between books and their readers is the same as that between teachers and their students. Hence, as books differ in the kinds of knowledge they have to communicate, they proceed to instruct us differently; and, if we are to follow them, we must learn to read each kind in an appropriate manner.
+
+X-raying a book
+
+It is an essential part of your apprehension of any book to grasp its structure.
+
+The second rule of analytical reading can be expressed as follows: RULE 2. STATE THE UNITY OF THE WHOLE BOOK IN A SINGLE SENTENCE, OR AT MOST A FEW SENTENCES (A SHORT PARAGRAPH).
+
+Homer’s Odyssey: A certain man is absent from home for many years; he is jealously watched by Poseidon, and left desolate. Meanwhile his home is in a wretched plight; suitors are wasting his substance and plotting against his son. At length, tempest-tossed, he himself arrives; he makes certain persons acquainted with him; he attacks the suitors with his own hand, and is himself preserved while he destroys them.
+
+The plot of Tom Jones: Boy meets girl, boy loses girl, boy gets girl.
+
+That, indeed, is the plot of every romance. To recognize this is to learn what it means to say that there are only a small number of plots in the world. The difference between good and bad stories having the same essential plot lies in what the author does with it, how he dresses up the bare bones.
+
+You do not always have to find out the unity of a book all by yourself. The author often helps you. Sometimes, the title is all you have to read. Or the stuff in inspectional reading.
+
+The third rule can be expressed as follows: RULE 3. SET FORTH THE MAJOR PARTS OF THE BOOK, AND SHOW HOW THESE ARE ORGANIZED INTO A WHOLE, BY BEING ORDERED TO ONE ANOTHER AND TO THE UNITY OF THE WHOLE.
+
+This third rule is closely related to the second. A well-stated unity indicates the major parts that compose the whole; you cannot comprehend a whole without somehow seeing its parts. But it is also true that unless you grasp the organization of its parts, you cannot know the whole comprehensively.
+
+The second rule directs your attention toward the unity, the third toward the complexity, of a book.
+
+But these parts are themselves usually complex and have an interior structure you must see. Hence the third rule involves more than just an enumeration of the parts. It means outlining them, that is, treating the parts as if they were subordinate wholes, each with a unity and complexity of its own.
+
+
+(1) The author accomplished this plan (referring to what we found in rule 2, unity in a short paragraph) in five major parts, of which the first part is about so and so, the second part is about such and such, the third part is about this, the fourth part about that, and the fifth part about still another thing. (2) The first of these major parts is divided into three sections, of which the first considers X, the second considers Y, and the third considers Z. (3) In the first section of the first part, the author makes four points, of which the first is A, the second B, the third C, and the fourth D. And so on and so forth.
+
+You may object to this much outlining. It would take a lifetime to read a book that way. But of course this is only a formula. The rule looks as if it required an impossible amount of work from you. In fact, the good reader does this sort of thing habitually, and hence easily and naturally. He may not write it all out. He may not even at the time of reading have made it all verbally explicit. But if he were called upon to give an account of the structure of the book, he would do something that approximated the formula we have described.
+
+Even when you become more skilled, you will not want to read every book with the same degree of effort. You will not find it profitable to expend all your skill on some books. Even the best readers try to make a fairly close approximation to the requirements of this rule for only a relatively few books. For the most part, they are satisfied with a rough notion of the book’s structure. The degree of approximation varies with the character of the book and your purpose in reading it.
+
+In general, the two rules of reading that we have been discussing look as if they were rules of writing also. Of course they are. Writing and reading are reciprocal, as are teaching and being taught.
+
+We can summarize all of this by recalling the old-fashioned maxim that a piece of writing should have unity, clarity, and coherence. That is, indeed, a basic maxim of good writing. The two rules we have been discussing in this chapter relate to writing that follows that maxim. These two rules, therefore, can be used to distinguish well made books from badly made ones.
+
+RULE 4. FIND OUT WHAT THE AUTHOR’S PROBLEMS WERE.
+
+This rule really repeats in another form what you have already done if you have applied the second and third rules. But it is a useful repetition because it throws the whole and its parts into another light.
+
+You should be able to state the main question that the book tries to answer, and you should be able to state the subordinate questions if the main question is complex and has many parts. You should not only have a fairly adequate grasp of all the questions involved but should also be able to put the questions in an intelligible order. Which are primary and which secondary and in which order to they should be answered.
+
+If you know the kinds of questions anyone can ask about anything, you will become adept in detecting an author’s problems. They can be formulated briefly: Does something exist? What kind of thing is it? What caused it to exist, or under what conditions can it exist, or why does it exist? What purpose does it serve? What are the consequences of its existence? What are its characteristic properties, its typical traits? What are its relations to other things of a similar sort, or of a different sort? How does it behave? These are all theoretical questions. What ends should be sought? What means should be chosen to a given end? What things must one do to gain a certain objective, and in what order? Under these conditions, what is the right thing to do, or the better rather than the worse? Under what conditions would it be better to do this rather than that? These are all practical questions.
+
+4 rules completions is sage I of analytical reading: It is important at this point to recognize that these first four rules are connected and form a group of rules having a single aim. Together, they provide the reader who applies them with a knowledge of a book’s structure. When you have applied them to a book, or indeed to anything fairly lengthy and difficult that you may be reading, you will have accomplished the first stage of reading it analytically.
+
+You should not take the term “stage” in a chronological sense...rules. The practiced reader accomplishes all of these stages at once.
+
+Another way to say this is that applying these first four rules helps you to answer the first basic question about a book. You will recall that that first question is: What is the book about as a whole?
+
+THE FIRST STAGE OF ANALYTICAL READING, OR RULES FOR FINDING WHAT A BOOK IS ABOUT
+1.Classify the book according to kind and subject matter.
+2.State what the whole book is about with the utmost brevity.
+3.Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole.
+4.Define the problem or problems the author is trying to solve.
