@@ -90,3 +90,49 @@ But speed diminishes comprehension. Instead, A better formula is this: Every boo
 Finally, do not try to understand every word or page of a difficult book the first time through. **This is the most important rule of all; it is the essence of inspectional reading.** Do not be afraid to be, or to seem to be, superficial. Race through even the hardest book. You will then be prepared to read it well the second time.
 
 The two stages of inspectional reading can both be thought of as anticipations of steps that the reader takes when he reads analytically. The first stage of inspectional reading—the stage we have called systematic skimming—serves to prepare the analytical reader to answer the questions that must be asked during the first stage of that level. Systematic skimming, in other words, anticipates the comprehension of a book’s structure. And the second stage of inspectional reading—the stage we have called superficial reading— serves the reader when he comes to the second stage of reading at the analytical level. Superficial reading is the first necessary step in the interpretation of a book’s contents. Both substages must be completed before we go to analytical reading.
+
+
+**Inspectional reading is always active. It is an effortful, not an effortless, undertaking.**
+
+Ask questions while you read—questions that you yourself must try to answer in the course of reading. Any questions? No. The art of reading on any level above the elementary consists in the habit of asking the right questions in the right order. There are four main questions you must ask about any book.
+
+1. WHAT IS THE BOOK ABOUT AS A WHOLE? You must try to discover the leading theme of the book, and how the author develops this theme in an orderly way by subdividing it into its essential subordinate themes or topics.
+2. WHAT IS BEING SAID IN DETAIL, AND HOW? You must try to discover the main ideas, assertions, and arguments that constitute the author’s particular message.
+3. IS THE BOOK TRUE, IN WHOLE OR PART? You cannot answer this question until you have answered the first two. You have to know what is being said before you can decide whether it is true or not. When you understand a book, however, you are obligated, if you are reading seriously, to make up your own mind. Knowing the author’s mind is not enough.
+4. WHAT OF IT? If the book has given you information, you must ask about its significance. Why does the author think it is important to know these things? Is it important to you to know them? And if the book has not only informed you, but also enlightened you, it is necessary to seek further enlightenment by asking what else follows, what is further implied or suggested.
+
+Reading a book on any level beyond the elementary is essentially an effort on your part to ask it questions (and to answer them to the best of your ability). That should never be forgotten. And that is why there is all the difference in the world between the demanding and the undemanding reader. The latter asks no questions—and gets no answers.
+
+You [ must ] have some idea of the book’s truth, in whole or part, and of its significance, **if only in your own scheme of things**.
+
+ **Knowing what the four questions are is not enough. You must remember to ask them as you read. The habit of doing that is the mark of a demanding reader.** More than that, you must know how to answer them precisely and accurately. The trained ability to do that is the art of reading.
+
+And books that are over your head weary you unless you can reach up to them and pull yourself up to their level.
+
+The person who says he knows what he thinks but cannot express it usually does not know what he thinks.
+
+**;the learner has to question himself and question the teacher. He even has to be willing to argue with the teacher, once he understands what the teacher is saying.**
+
+The front endpapers are better reserved for a record of your thinking. After finishing the book and making your personal index on the back endpapers, turn to the front and try to outline the book, not page by page or point by point **(you have already done that at the back) [in inspection reading]**, but as an integrated structure, with basic outline and an order of parts. That outline will be the measure of your understanding of the work; unlike a bookplate, it will express your intellectual ownership of the book.
+
+Nevertheless, you are asking important questions about a book when you read it at this level, and it would be desirable, even if it is not always possible, to record your answers when they are fresh in your mind. The questions answered by inspectional reading are: first, what kind of book is it? second, what is it about as a whole? and third, what is the structural order of the work whereby the author develops his conception or understanding of that general subject matter? You may and probably should make notes concerning your answers to these questions, **especially if you know that it may be days or months before you will be able to return to the book to give it an analytical reading.**
+
+On taking notes at inspectional level: The point to recognize is that these notes primarily concern the structure of the book, and not its substance—at least not in detail. We therefore call this kind of note-making structural.
+
+during an analytical reading, you will need to give answers to questions about the truth and significance of the book. The notes you make at this level of reading are, therefore, not structural but conceptual. They concern the author’s concepts, and also your own, as they have been deepened or broadened by your reading of the book.
+
+There is an obvious difference between structural and conceptual note-making. What kind of notes do you make when you are giving several books a syntopical reading—when you are reading more than one book on a single subject? Again, such notes will tend to be conceptual; and the notes on a page may refer you not only to other pages in that book, but also to pages in other books.
+
+That is to make notes about the shape of the discussion—the discussion that is engaged in by all of the authors, even if unbeknownst to them. For reasons that will become clear in Part Four, we prefer to call such notes dialectical.
+
+This is truly amazing. Imagine you are reading a few books about the same subject and having a discussion with the authors and shaping the material.
+
+**Any art or skill is possessed by those who have formed the habit of operating according to its rules.** Incidentally, not everyone understands that being an artist consists in operating according to rules.
+
+In other words, you must learn to forget the separate acts in order to perform all of them, and indeed any of them, well. **But in order to forget them as separate acts, you have to learn them first as separate acts**. Only then can you put them together to become a good skier.
+
+_If only all my tango teachers read understood this_
+
+you cannot coalesce a lot of different acts into one complex, harmonious performance until you become expert at each of them.
+
+**The person who has had one experience in acquiring a complex skill knows that he need not fear the array of rules that present themselves at the beginning of something new to be learned. He knows that he does not have to worry about how all the separate acts in which he must become separately proficient are going to work together.**
