@@ -10,6 +10,6 @@ categories: books
 
 **Belief** generates **emotion** which generates **action**, but what you believe is not true. Adopt a useful belief that generates the emotion which impels the action that you need now to reach your ultimate destination.
 
-## [How to Read a Book](/books/how-to-read-a-book) <small style="font-size: 0.4em">by Mortimer J. Adler</small>
+## [How to Read a Book](/books/how-to-read-a-book) <small style="font-size: 0.4em">by Mortimer J. Adler</smal
 
-WIP: copying over my notes
+WIP:  Still formulating summary, but holy shit. I've been reading books wrong for years.
