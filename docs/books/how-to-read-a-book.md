@@ -9,6 +9,12 @@ tags: hidden
 
 by Mortimer J. Adler, [Buy it here](https://a.co/d/4GnNNF0)
 
+## Summary
+
+Still formulating summary, but holy shit. I've been reading books wrong for years.
+
+## Notes
+
 As Pascal observed three hundred years ago, “When we read too fast or too slowly, we understand nothing.”
 
 But the packaging is often done so effectively that the viewer, listener, or reader does not make up his own mind at all. Instead, he inserts a packaged opinion into his mind, somewhat like inserting a cassette into a cassette player. He then pushes a button and “plays back” the opinion whenever it seems appropriate to do so. He has performed acceptably without having had to think.
@@ -92,13 +98,15 @@ Finally, do not try to understand every word or page of a difficult book the fir
 The two stages of inspectional reading can both be thought of as anticipations of steps that the reader takes when he reads analytically. The first stage of inspectional reading—the stage we have called systematic skimming—serves to prepare the analytical reader to answer the questions that must be asked during the first stage of that level. Systematic skimming, in other words, anticipates the comprehension of a book’s structure. And the second stage of inspectional reading—the stage we have called superficial reading— serves the reader when he comes to the second stage of reading at the analytical level. Superficial reading is the first necessary step in the interpretation of a book’s contents. Both substages must be completed before we go to analytical reading.
 
 
+Be a Demanding Reader
+
 **Inspectional reading is always active. It is an effortful, not an effortless, undertaking.**
 
 Ask questions while you read—questions that you yourself must try to answer in the course of reading. Any questions? No. The art of reading on any level above the elementary consists in the habit of asking the right questions in the right order. There are four main questions you must ask about any book.
 
 1. WHAT IS THE BOOK ABOUT AS A WHOLE? You must try to discover the leading theme of the book, and how the author develops this theme in an orderly way by subdividing it into its essential subordinate themes or topics.
 2. WHAT IS BEING SAID IN DETAIL, AND HOW? You must try to discover the main ideas, assertions, and arguments that constitute the author’s particular message.
-3. IS THE BOOK TRUE, IN WHOLE OR PART? You cannot answer this question until you have answered the first two. You have to know what is being said before you can decide whether it is true or not. When you understand a book, however, you are obligated, if you are reading seriously, to make up your own mind. Knowing the author’s mind is not enough.
+3. IS THE BOOK TRUE, IN WHOLE OR PART? You cannot answer this question until you have answered the first two. You have to know what is being said before you can decide whether it is true or not. When you understand a book, however, you are obligated, if you are reading seriously, **to make up your own mind**. Knowing the author’s mind is not enough.
 4. WHAT OF IT? If the book has given you information, you must ask about its significance. Why does the author think it is important to know these things? Is it important to you to know them? And if the book has not only informed you, but also enlightened you, it is necessary to seek further enlightenment by asking what else follows, what is further implied or suggested.
 
 Reading a book on any level beyond the elementary is essentially an effort on your part to ask it questions (and to answer them to the best of your ability). That should never be forgotten. And that is why there is all the difference in the world between the demanding and the undemanding reader. The latter asks no questions—and gets no answers.
@@ -113,9 +121,20 @@ The person who says he knows what he thinks but cannot express it usually does n
 
 **;the learner has to question himself and question the teacher. He even has to be willing to argue with the teacher, once he understands what the teacher is saying.**
 
-The front endpapers are better reserved for a record of your thinking. After finishing the book and making your personal index on the back endpapers, turn to the front and try to outline the book, not page by page or point by point **(you have already done that at the back) [in inspection reading]**, but as an integrated structure, with basic outline and an order of parts. That outline will be the measure of your understanding of the work; unlike a bookplate, it will express your intellectual ownership of the book.
+Notetaking on steroids:
 
-Nevertheless, you are asking important questions about a book when you read it at this level, and it would be desirable, even if it is not always possible, to record your answers when they are fresh in your mind. The questions answered by inspectional reading are: first, what kind of book is it? second, what is it about as a whole? and third, what is the structural order of the work whereby the author develops his conception or understanding of that general subject matter? You may and probably should make notes concerning your answers to these questions, **especially if you know that it may be days or months before you will be able to return to the book to give it an analytical reading.**
+1. UNDERLINING—of major points; of important or forceful statements.
+2. VERTICAL LINES AT THE MARGIN—to emphasize a statement already underlined or to point to a passage too long to be underlined.
+3. STAR, ASTERISK, OR OTHER DOODAD AT THE MARGIN—to be used sparingly, to emphasize the ten or dozen most important statements or passages in the book. You may want to fold a corner of each page on which you make such marks or place a slip of paper between the pages. In either case, you will be able to take the book off the shelf at any time and, by opening it to the indicated page, refresh your recollection.
+4. NUMBERS IN THE MARGIN—to indicate a sequence of points made by the author in developing an argument.
+5. NUMBERS OF OTHER PAGES IN THE MARGIN—to indicate where else in the book the author makes the same points, or points relevant to or in contradiction of those here marked; to tie up the ideas in a book, which, though they may be separated by many pages, belong together. Many readers use the symbol “Cf ” to indicate the other page numbers; it means “compare” or “refer to.”
+6. CIRCLING OF KEY WORDS OR PHRASES—This serves much the same function as underlining.
+7. WRITING IN THE MARGIN, OR AT THE TOP OR BOTTOM OF THE PAGE—to record questions (and perhaps answers) which a passage raises in your mind; to reduce a complicated discussion to a simple statement; to record the sequence of major points right through the book. The endpapers at the back of the book can be used to make a personal index of the author’s points in the order of their appearance.
+
+
+The front endpapers are better reserved for a record of your thinking. After finishing the book and making your personal index on the back endpapers, turn to the front and try to outline the book, not page by page or point by point **(you have already done that at the back)**, but as an integrated structure, with basic outline and an order of parts. That outline will be the measure of your understanding of the work; unlike a bookplate, it will express your intellectual ownership of the book.
+
+Nevertheless, you are asking important questions about a book when you read it at this level, and it would be desirable, even if it is not always possible, to record your answers when they are fresh in your mind. The questions answered by inspectional reading are: **first**, what kind of book is it? **second**, what is it about as a whole? and **third**, what is the structural order of the work whereby the author develops his conception or understanding of that general subject matter? You may and probably should make notes concerning your answers to these questions, **especially if you know that it may be days or months before you will be able to return to the book to give it an analytical reading.**
 
 On taking notes at inspectional level: The point to recognize is that these notes primarily concern the structure of the book, and not its substance—at least not in detail. We therefore call this kind of note-making structural.
 
@@ -142,6 +161,8 @@ The multiplicity of the rules indicates the complexity of the one habit to be fo
 At the beginning, the learner pays attention to himself and his skill in the separate acts. When the acts have lost their separateness in the skill of the whole performance, the learner can at last pay attention to the goal that the technique he has acquired enables him to reach.
 
 _Memorize the last few paragraphs!_
+
+Part Two: Third Level of Reading: Analytical Reading
 
 The first rule of analytical reading can be expressed as follows: RULE 1. YOU MUST KNOW WHAT KIND OF BOOK YOU ARE READING, AND YOU SHOULD KNOW THIS AS EARLY IN THE PROCESS AS POSSIBLE, PREFERABLY BEFORE YOU BEGIN TO READ. You do so by first inspecting the book—giving it an inspectional reading.
 
