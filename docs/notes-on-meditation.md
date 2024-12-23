@@ -2,7 +2,7 @@
 layout: page
 title: "Notes On Meditation"
 date: 2022-04-03
-version: 0.0.9
+version: 0.1.9
 categories: meditation
 ---
 
@@ -13,24 +13,24 @@ Here, [we're](/how-are-you.html) documenting these epiphanies.
 
 ## The Three Pillars of Meditation
 
-The first, is stillness. You must commit to be still. Not only stillness in your body, but also
+The first is stillness. You must commit to be still. Not only stillness in your body, but also
 in your face. When there's a contraction anywhere in your body or your face, it's an indication
 that your mind has been captured by a thought. When you commit to be still, any mind induced
 movement will immediately alert you to this fact.
 
-Committing to be still is not a forced action. It's more like surrendering to stillness. Or being
-stillness.
+Committing to be still is not a forced action. It's more like surrendering to stillness to being.
 
-The other two are coming soon...
+The second is let everything be. You must commit to allowing all thoughts to live out their lifetimes. This includes thoughts of annoyance at not being still and thoughts about how you're not letting everything be and especially thoughts about thoughts. Letting everything be and stillness go hand in hand because if you are letting everything be, then you'll be still.
+
+The third is meditate as awareness. Not as an image of a meditator sitting there being still and allowing thoughts. You are not that image. When that image dissolves you'll be without a center. It's ok being here as everything is just happening.
+
+_Reworded from Adyashanti's The Three Commitments meditation_
 
 ## Finding The Meditator
 
 A very useful insight when it comes to identity & self is that they don't truly exist.
 
-One way to experiment with that is to meditate in a traditional fashion: focus your attention on your breath,
-and as you get distracted, bring your attention back to the breath. Once you have some
-stability in keeping your attention there, turn your attention back to see who is meditating. ie. Try
-to find the meditator.
+One way to experiment with that is to meditate in a traditional fashion: focus your attention on your breath, and as you get distracted, bring your attention back to the breath. Once you have some stability in keeping your attention there, turn your attention back to see who is meditating. ie. Try to find the meditator. _This instruction is not to yourself. It's to awareness._
 
 One common reaction to this is your mind visualizes you, as you usually perceive yourself,
 turning back to look back at you. Right before the turn is over, things get confused. How can _you_ turn
