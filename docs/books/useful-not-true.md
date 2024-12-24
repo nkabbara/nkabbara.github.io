@@ -2,7 +2,7 @@
 layout: page
 title: "Useful Not True"
 date: 2024-11-24
-version: 1.9.10
+version: 1.10.10
 categories: books
 tags: hidden
 ---
@@ -25,7 +25,9 @@ Your thoughts are not true, and mostly what people say is not true, so look for 
 
 ## Questions
 
-How about if we want to reframe a harmful belief, but as we try to do so, we react negatively? e.g. psychological suffering or negative psychosomatic responses. What if we want to adopt a new useful belief, but we also react this way?
+How about if we want to reframe a harmful belief or generate a new one, but as we try to do so, we react negatively? e.g. psychological suffering or negative psychosomatic responses. What if we want to adopt a new useful belief, but we also react this way?
+
+Can someone use this to reframe harmful beliefs to they stay valid within their mind? This might be easy to debunk because we're seeking ultimate peace. Harming self or others doesn't yield ultimate peace unless one is sick.
 
 ## Notes
 
@@ -254,6 +256,5 @@ You have to tune the guitar every time your play it. Otherwise it'll sound bad a
 Doing is being. Your internal dialogue and self image might not match what you are doing. But what you are doing is what's real. Your actions are what's real. Remember, your thoughts are not true. Almost all what people say is not true. Ideas can be reframed to serve you. Once you've picked your choice, don't be a dabbler. Go all in with the assumption that you _are_. Don't place imaginary milestones that create an illusion of progress. i.e. Don't buy your won bullshit with fake progress.
 
 Heaven is probably the original reframing and maybe the first of useful no-true thoughts because death is the earliest of terrifying true facts. Death of a person, a relationship or a pet; some people avoid these connections in order to avoid the pain. But what if we were to reframe these into she went to heaven, no one leaves a bad relationship or they're at peace? Reframe death as the source of fire under your feet that pushes you forward to get shit done before you're in the grave.
-
 
 [^1]: in addition to actions, they generate psychosomatic responses, like general body pain, noxiousness, stomach tightness, lowers immune response. So improving beliefs through reframing has additional effects to the desired actions.
