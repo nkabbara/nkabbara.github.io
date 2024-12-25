@@ -13,6 +13,7 @@ tags: hidden
 I just paused a long chapter of working as a Software Engineer indefinitely. I have a good idea of what my next project is, but I'm creating some liminal space in which I get to think things through before jumping in. During this time I'll be backpacking around Argentina and reading some books that I had been wanting to [internalize](/books/how-to-read-a-book) for a while. I'll update my notes below as I go through them.
 
 - [Useful Not True](/books/useful-not-true)
+- [How to Read a Book](/books/how-to-read-a-book)
 - [Atomic Habits](/books/atomic-habits)
 - [How To Live](/books/how-to-live)
 
