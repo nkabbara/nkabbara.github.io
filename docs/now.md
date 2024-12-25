@@ -4,6 +4,7 @@ title: "now"
 date: 2024-12-14
 version: 1.1.5
 categories: now
+tags: hidden
 ---
 
 <small>_(This is a now page, and if you have your own site, [you should check it out](https://nownownow.com/about).)_</small>

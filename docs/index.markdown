@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+Hey there! Here's what [I'm up to now](/now).
+
+#### All posts, unfiltered, unsorted:
