@@ -18,7 +18,6 @@ WIP. Still formulating summary, but holy shit. I've been reading books wrong for
 1. When pigeonholing a book, are there set categories tha I have to think about?
 
 ## Notes
-## Raw Notes
 
 As Pascal observed three hundred years ago, “When we read too fast or too slowly, we understand nothing.”
 
