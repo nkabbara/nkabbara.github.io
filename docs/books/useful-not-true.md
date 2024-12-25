@@ -23,6 +23,8 @@ Reframe, generate usefully, not factually.
 
 Your thoughts are not true, and mostly what people say is not true, so look for thoughts that can become useful beliefs that generate useful emotions which generate useful actions for your current quest.
 
+Seeking fact is superfluous in most cases. Seek useful instead. Even in physics we use Newton's science in most cases even though we know it's not true.
+
 ## Questions
 
 How about if we want to reframe a harmful belief or generate a new one, but as we try to do so, we react negatively? e.g. psychological suffering or negative psychosomatic responses. What if we want to adopt a new useful belief, but we also react this way?
