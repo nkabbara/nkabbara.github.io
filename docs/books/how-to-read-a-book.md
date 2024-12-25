@@ -11,7 +11,7 @@ by Mortimer J. Adler, [Buy it here](https://a.co/d/4GnNNF0)
 
 ## Summary
 
-Still formulating summary, but holy shit. I've been reading books wrong for years.
+WIP. Still formulating summary, but holy shit. I've been reading books wrong for years.
 
 ## Questions
 
