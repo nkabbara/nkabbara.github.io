@@ -6,9 +6,6 @@ version: 1.1.5
 categories: now
 tags: hidden
 ---
-
-<small>_(This is a now page, and if you have your own site, [you should check it out](https://nownownow.com/about).)_</small>
-
 <small>_Last updated on Dec 14, 2024 from Buenos Aires._</small>
 
 ## Reading & Camping
@@ -32,3 +29,5 @@ I've been dabbling in tango for several years now, but now that I live in Buenos
 I moved to Latin America in May 2019 after living most of my life in Houston,TX and I'm still learning Spanish! As soon as my level reached order-food level, complaining-about-slow-internet level, and dating-level I stopped learning and surfed that plateau for a few years. But life in Buenos Aires is very different than the cities I've lived in in Mexico. People here are very friendly and more inclusive than Mexico, so I keep finding myself in Spanish only groups and events. This has generated a renewed motivation to take my Spanish to the next level.
 
 My current daily routine is 30 minutes divided between Ankiing new words and going through [Language Transfer's](https://www.languagetransfer.org/) awesome Spanish course. As soon as that comes to an end I'm switching to conversational in person classes. I'm also considering an alternative where I deep dive for a couple of months dropping all other activities and put it behind me.
+
+<small>_(This is a now page, and if you have your own site, [you should check it out](https://nownownow.com/about).)_</small>
