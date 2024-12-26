@@ -11,7 +11,7 @@ by Mortimer J. Adler, [Buy it here](https://a.co/d/4GnNNF0)
 
 ## Summary
 
-WIP. Still formulating summary, but holy shit. I've been reading books wrong for years.
+WIP: still formulating my summary and transfering my notes. I read this book many years ago, but after going through my highlights, I realized that it deserves a fresh read. The way I read books changed a lot after reading it the first time, but I completely forgot that it's the reason for that.
 
 ## Notes
 
@@ -33,19 +33,18 @@ Getting more information is learning, and so is coming to understand what you di
 
 This distinction is familiar in terms of the differences between being able to remember something and being able to explain it.
 
-
 Enlightenment is achieved only when, in addition to knowing what an author says, you know what he means and why he says it.
-
 
 If, however, you ask a book a question, you must answer it yourself. In this respect a book is like nature or the world. When you question it, it answers you only to the extent that you do the work of thinking and analysis yourself.
 
 The four levels of reading:
+
 1. Elementary Reading
 2. Inspectional Reading
-  1. Part 1: Systematic Skimming or Pre-reading
-  2. Part 2: Superficial Reading
-3. Analytical Reading
-4. Syntopical Reading
+3. Part 1: Systematic Skimming or Pre-reading
+4. Part 2: Superficial Reading
+5. Analytical Reading
+6. Syntopical Reading
 
 Each higher level includes the one before it. Syntopical includes all three and goes beyond them.
 
@@ -72,9 +71,7 @@ The habit of skimming should not take much time to acquire. Here are some sugges
 
 Think of yourself as a detective looking for clues to a book’s general theme or idea, alert for anything that will make it clearer. Heeding the suggestions we have made will help you sustain this attitude. You will be surprised to find out how much time you will save, pleased to see how much more you will grasp, and relieved to discover how much easier it all can be than you supposed.
 
-
 Inspectional Reading II: Superficial Reading: [The] rule is simply this: In tackling a difficult book for the first time, read it through without ever stopping to look up or ponder the things you do not understand right away. You will have a much better chance of understanding it on a second reading, but that requires you to have read the book through at least once.
-
 
 But when these things are done prematurely, they only impede our reading, instead of helping it. they should have been encouraged to read the play at one sitting and discuss what they got out of that first quick reading. Only then would they have been ready to study the play carefully and closely **because then they would have understood enough of it to learn more**.
 
@@ -86,7 +83,6 @@ Inspectional reading is accomplished quickly, but that is not only because you r
 
 Analytical reading is ordinarily much slower than inspectional reading, but even when you are giving a book an analytical reading, you should not read all of it at the same rate of speed. Every book, no matter how difficult, contains interstitial material that can be and should be read quickly; and every good book also contains matter that is difficult and should be read very slowly.
 
-
 Fixation and regression habits are wasteful and obviously cut down reading speed. They are wasteful because the mind, unlike the eye, does not need to “read” only a word or short phrase at a time. The mind, that astounding instrument, can grasp a sentence or even a paragraph at a “glance”— if only the eyes will provide it with the information it needs.
 
 Once one learns to stop these habits, one can read as fast as his mind will let him, not as slow as his eyes make him. To do so: Place your thumb and first two fingers together. Sweep this “pointer” across a line of type, a little faster than it is comfortable for your eyes to move. Force yourself to keep up with your hand. You will very soon be able to read the words as you follow your hand. Keep practicing this, and keep increasing the speed at which your hand moves, and before you know it you will have doubled or trebled your reading speed.
@@ -96,7 +92,6 @@ But speed diminishes comprehension. Instead, A better formula is this: Every boo
 Finally, do not try to understand every word or page of a difficult book the first time through. **This is the most important rule of all; it is the essence of inspectional reading.** Do not be afraid to be, or to seem to be, superficial. Race through even the hardest book. You will then be prepared to read it well the second time.
 
 The two stages of inspectional reading can both be thought of as anticipations of steps that the reader takes when he reads analytically. The first stage of inspectional reading—the stage we have called systematic skimming—serves to prepare the analytical reader to answer the questions that must be asked during the first stage of that level. Systematic skimming, in other words, anticipates the comprehension of a book’s structure. And the second stage of inspectional reading—the stage we have called superficial reading— serves the reader when he comes to the second stage of reading at the analytical level. Superficial reading is the first necessary step in the interpretation of a book’s contents. Both substages must be completed before we go to analytical reading.
-
 
 Be a Demanding Reader
 
@@ -113,7 +108,7 @@ Reading a book on any level beyond the elementary is essentially an effort on yo
 
 You [ must ] have some idea of the book’s truth, in whole or part, and of its significance, **if only in your own scheme of things**.
 
- **Knowing what the four questions are is not enough. You must remember to ask them as you read. The habit of doing that is the mark of a demanding reader.** More than that, you must know how to answer them precisely and accurately. The trained ability to do that is the art of reading.
+**Knowing what the four questions are is not enough. You must remember to ask them as you read. The habit of doing that is the mark of a demanding reader.** More than that, you must know how to answer them precisely and accurately. The trained ability to do that is the art of reading.
 
 And books that are over your head weary you unless you can reach up to them and pull yourself up to their level.
 
@@ -130,7 +125,6 @@ Notetaking on steroids:
 5. NUMBERS OF OTHER PAGES IN THE MARGIN—to indicate where else in the book the author makes the same points, or points relevant to or in contradiction of those here marked; to tie up the ideas in a book, which, though they may be separated by many pages, belong together. Many readers use the symbol “Cf ” to indicate the other page numbers; it means “compare” or “refer to.”
 6. CIRCLING OF KEY WORDS OR PHRASES—This serves much the same function as underlining.
 7. WRITING IN THE MARGIN, OR AT THE TOP OR BOTTOM OF THE PAGE—to record questions (and perhaps answers) which a passage raises in your mind; to reduce a complicated discussion to a simple statement; to record the sequence of major points right through the book. The endpapers at the back of the book can be used to make a personal index of the author’s points in the order of their appearance.
-
 
 The front endpapers are better reserved for a record of your thinking. After finishing the book and making your personal index on the back endpapers, turn to the front and try to outline the book, not page by page or point by point **(you have already done that at the back)**, but as an integrated structure, with basic outline and an order of parts. That outline will be the measure of your understanding of the work; unlike a bookplate, it will express your intellectual ownership of the book.
 
@@ -200,11 +194,9 @@ History is chronotopic. Chronos is the Greek word for time, topos the Greek word
 
 whether a book is philosophical or scientific, how can we tell? There is one criterion that we think always works, although you may have to read a certain amount of the book before you can apply it. If a theoretical book emphasizes things that lie outside the scope of your normal, routine, daily experience, it is a scientific work. If not, it is philosophical.
 
-
 This does not mean that the philosopher is a pure thinker and the scientist merely an observer. Both have to observe and think, but they think about different sorts of observations. And however they may have arrived at the conclusions that they want to prove, they prove them in different ways, the scientist by pointing to the results of his special experiences, the philosopher by pointing to experiences that are common to all. This difference in method always reveals itself in philosophical and scientific books, and that is how you can tell which sort of book you are reading. If you note the sort of experience that is being referred to as a condition of understanding what is being said, you will know whether the book is scientific or philosophical.
 
 The same is true of history. Historical statements are different from scientific and philosophical ones. A historian argues differently and interprets facts differently. Furthermore, the typical history book is narrative in form. A narrative is a narrative, whether it be fact or fiction. The historian must write poetically, which means he must obey the rules for telling a good story. Whatever other excellences Locke’s Essay on Human Understanding or Newton’s Principia may have, neither is a good story.
-
 
 Now, just as there is a difference in the art of teaching in different fields, so there is a reciprocal difference in the art of being taught. The activity of the student must somehow be responsive to the activity of the instructor. The relation between books and their readers is the same as that between teachers and their students. Hence, as books differ in the kinds of knowledge they have to communicate, they proceed to instruct us differently; and, if we are to follow them, we must learn to read each kind in an appropriate manner.
 
@@ -229,7 +221,6 @@ This third rule is closely related to the second. A well-stated unity indicates 
 The second rule directs your attention toward the unity, the third toward the complexity, of a book.
 
 But these parts are themselves usually complex and have an interior structure you must see. Hence the third rule involves more than just an enumeration of the parts. It means outlining them, that is, treating the parts as if they were subordinate wholes, each with a unity and complexity of its own.
-
 
 (1) The author accomplished this plan (referring to what we found in rule 2, unity in a short paragraph) in five major parts, of which the first part is about so and so, the second part is about such and such, the third part is about this, the fourth part about that, and the fifth part about still another thing. (2) The first of these major parts is divided into three sections, of which the first considers X, the second considers Y, and the third considers Z. (3) In the first section of the first part, the author makes four points, of which the first is A, the second B, the third C, and the fourth D. And so on and so forth.
 
@@ -276,7 +267,6 @@ Not all the words an author uses are important. Better than that, you can be sur
 From your point of view as a reader, therefore, the most important words are those that give you trouble. It is likely that these words are important for the author as well. However, they may not be. It is also possible that words that are important for the author do not bother you, and precisely because you understand them. In that case, you have already come to terms with the author. Only where you fail to come to terms have you work still to do.
 
 You cannot locate the key words without making an effort to understand the passage in which they occur. This situation is somewhat paradoxical. If you do understand the passage, you will, of course, know which words in it are the most important. If you do not fully understand the passage, it is probably because you do not know the way the author is using certain words. If you mark the words that trouble you, you may hit the very ones the author is using specially.
-
 
 You discover some of the important words by the fact that they are not ordinary for you. That is why they bother you. But is there any other way
 

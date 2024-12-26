@@ -2,7 +2,7 @@
 layout: page
 title: "Books"
 date: 2024-11-24
-version: 0.0.2
+version: 0.0.3
 categories: books
 ---
 
@@ -12,4 +12,4 @@ categories: books
 
 ## [How to Read a Book](/books/how-to-read-a-book) <small style="font-size: 0.4em">by Mortimer J. Adler</small>
 
-WIP:  Still formulating summary, but holy shit. I've been reading books wrong for years.
+WIP: still formulating my summary and transfering my notes. I read this book many years ago, but after going through my highlights, I realized that it deserves a fresh read. The way I read books changed a lot after reading it the first time, but I completely forgot that it's the reason for that.
