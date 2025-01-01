@@ -2,10 +2,11 @@
 layout: page
 title: "now"
 date: 2024-12-14
-version: 1.1.5
+version: 1.2.5
 categories: now
 tags: hidden
 ---
+
 <small>_Last updated on Dec 14, 2024 from Buenos Aires._</small>
 
 ## Reading & Camping
@@ -14,8 +15,8 @@ I just paused a long chapter of working as a Software Engineer indefinitely. I h
 
 - [Useful Not True](/books/useful-not-true)
 - [How to Read a Book](/books/how-to-read-a-book)
-- [Atomic Habits](/books/atomic-habits)
-- [How To Live](/books/how-to-live)
+- [Atomic Habits](/books/atomic-habits) (tentative)
+- [How To Live](/books/how-to-live) (tentative)
 
 ## Bikram Yoga
 
