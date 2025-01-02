@@ -2,7 +2,7 @@
 layout: page
 title: "Movies"
 date: 2023-08-26
-version: 1.1.0
+version: 1.2.0
 categories: life
 ---
 
@@ -17,3 +17,4 @@ These are movies that changed the way I think or left an impression. I watch the
 7. [Limelight](<https://en.wikipedia.org/wiki/Limelight_(1952_film)>)
 8. [Beau Travail](https://en.wikipedia.org/wiki/Beau_Travail)
 9. [The Blue Caftan](https://en.wikipedia.org/wiki/The_Blue_Caftan)
+10. [Blaze](<https://en.wikipedia.org/wiki/Blaze_(2018_film)>)
