@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.24.5
+version: 1.25.5
 categories: quotes
 ---
+
+> It isn’t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+
+— Dale Carnegie
+
+<br>
 
 > Kind people will tell you things a nice person will not. A kind person will tell you that you have spinach on your teeth. A nice person won’t because it’s uncomfortable.
 >
