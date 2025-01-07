@@ -2,9 +2,15 @@
 layout: page
 title: "Quotes"
 date: 2021-10-10
-version: 1.25.5
+version: 1.26.5
 categories: quotes
 ---
+
+> The real value in setting goals is not in their achievement. The acquisition of the things you want is strictly secondary. The major reason for setting goals is to compel you to become the person it takes to achieve them.
+
+— Jim Rohn
+
+<br>
 
 > It isn’t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
 
