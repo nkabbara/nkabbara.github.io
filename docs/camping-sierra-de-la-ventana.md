@@ -12,6 +12,7 @@ I'm currently reading [Wilderness Navigation](https://www.amazon.com/Wilderness-
 
 Notes for next trip:
 * My [pack weight](sierra-de-la-ventana-pack) kicked my butt during my 5 hour hike to my destination. I need to figure out ways to lighten it up. Food items seem to be the heaviest. Look into high calorie to weight ratio foods.
+* Finish Wilderness Navigation, find a topographic map of Sierra de la Ventana and practice orientation and navigation there.
 * I realized that I don't know how to properly tie guy lines to stakes. I faked it, but I want to learn a bit of knotcraft to cover the basics.
 * Stay a minimum of two nights camping.
 * Water is scarce there during the summer. I used my filter, but didn't have time to boil it due to pot size and the time it would take to do so. I would like to be able to prep water a day in advance for the following day. Explore options.
