@@ -2,7 +2,7 @@
 layout: page
 title: "Sierra de la Ventana Pack"
 date: 2025-01-19
-version: 0.0.1
+version: 1.3.1
 categories: camping
 tags: hidden
 ---
