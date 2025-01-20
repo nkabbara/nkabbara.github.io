@@ -11,7 +11,7 @@ tags: hidden
 
 ## Reading & Camping
 
-I just paused a long chapter of working as a Software Engineer indefinitely. I have a good idea of what my next project is, but I'm creating some liminal space in which I get to think things through before jumping in. During this time I'll be backpacking around Argentina and reading some books that I had been wanting to [internalize](/books/how-to-read-a-book) for a while. I'll update my notes below as I go through them. _Currently working on [How to Read a Book](/books/how-to-read-a-book) while hosting some friends and family that came to visit me in Buenos Aires_.
+I just paused a long chapter of working as a Software Engineer indefinitely. I have a good idea of what my next project is, but I'm creating some liminal space in which I get to think things through before jumping in. During this time I'll be [backpacking](/camping-sierra-de-la-ventana.html) around Argentina and reading some books that I had been wanting to [internalize](/books/how-to-read-a-book) for a while. I'll update my notes below as I go through them. _Currently working on [How to Read a Book](/books/how-to-read-a-book) while hosting some friends and family that came to visit me in Buenos Aires_.
 
 - [Useful Not True](/books/useful-not-true) (done)
 - [How to Read a Book](/books/how-to-read-a-book) (wip)
