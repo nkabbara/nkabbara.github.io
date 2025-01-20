@@ -14,6 +14,7 @@ _Items 1 through 7 are packed in that order where Tent goes in first. This seeme
 Some modifications I would do:
 * Pack a sponge to wash stuff
 * Replace hand soap with dish soap since dish soap is stronger and can be used for both.
+* Add chapstick. It's very windy there.
 
 7.  Tent
 6.  Tent footprint
