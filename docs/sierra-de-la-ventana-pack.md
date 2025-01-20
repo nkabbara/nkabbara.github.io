@@ -15,6 +15,7 @@ Some modifications I would do:
 * Pack a sponge to wash stuff
 * Replace hand soap with dish soap since dish soap is stronger and can be used for both.
 * Add chapstick. It's very windy there.
+* Condiments like onion pouder should be sealed better. My pack smells like onions now.
 
 7.  Tent
 6.  Tent footprint
