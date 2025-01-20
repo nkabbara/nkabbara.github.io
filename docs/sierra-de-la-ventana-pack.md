@@ -19,6 +19,7 @@ _Items 1 through 7 are packed in that order where Tent goes in first. This seeme
     * 1 t-shirt
     * 1 shorts
     * pajama t-shirt [^2]
+    * Lightweight jacket
 13. Food bag with food & snacks for 1 night and two days [^1]
     * 3 Ramen
     * 2 tuna
