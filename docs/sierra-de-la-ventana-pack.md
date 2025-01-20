@@ -11,6 +11,10 @@ _I couldn't get access to a scale in time before leaving, so I have no idea how 
 
 _Items 1 through 7 are packed in that order where Tent goes in first. This seemed like the most comfortable setup. At first I tried sleeping bag first, but that created a bottom bulge that made it very uncomfortable. I should experiment with this some more._
 
+Some modifications I would do:
+* Pack a sponge to wash stuff
+* Replace hand soap with dish soap since dish soap is stronger and can be used for both.
+
 7.  Tent
 6.  Tent footprint
 3.  Clothes not wearing
@@ -34,7 +38,7 @@ _Items 1 through 7 are packed in that order where Tent goes in first. This seeme
     * 3 bags of trail mix
 9.  Cooking pot and inside it: stove & lighters
 2.  Sleeping pad
-1.  Sleeping bag
+1.  Sleeping bag[^5]
 4.  Inflatable pillow
 5.  Day pack for day hiking
 10. Stove fuel
@@ -68,3 +72,4 @@ _Items 1 through 7 are packed in that order where Tent goes in first. This seeme
 [^2]: I slept in my underwear and extra t-shirt. Didn't need pajama t-shirt.
 [^3]: I should not have taken knife since I had the Morakniv anyway.
 [^4]: I can read without them. Shouldn't have taken them.
+[^5]: Study its features. Body was warm, but feet felt cold had to wear socks. Temp wasn't below 0 and this is 20F certified.

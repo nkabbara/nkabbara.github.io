@@ -11,12 +11,11 @@ I went on my first solo camping trip in Argentina to the Sierra de La Ventana mo
 I'm currently reading [Wilderness Navigation](https://www.amazon.com/Wilderness-Navigation-Finding-Altimeter-Mountaineers/dp/1594859450) to pickup orientation and navigation skills because I want to go back there and explore the less visited caves and grottoes that I spotted during my hikes.
 
 Notes for next trip:
-* My [pack](sierra-de-la-ventana-pack) weight kicked my butt during my 5 hour hike to my destination. I need to figure out ways to lighten it up. Food items seem to be the heaviest. Look into high calorie to weight ratio foods.
+* My [pack weight](sierra-de-la-ventana-pack) kicked my butt during my 5 hour hike to my destination. I need to figure out ways to lighten it up. Food items seem to be the heaviest. Look into high calorie to weight ratio foods.
 * I realized that I don't know how to properly tie guy lines to stakes. I faked it, but I want to learn a bit of knotcraft to cover the basics.
 * Stay a minimum of two nights camping.
-* Pack a sponge to wash stuff
-* Replace hand soap with dish soap
 * Water is scarce there during the summer. I used my filter, but didn't have time to boil it due to pot size and the time it would take to do so. I would like to be able to prep water a day in advance for the following day. Explore options.
+* Check weather variation for the time when you're going. I packed a jacket at the last minute when I checked weather at night. I could have used base layer pants.
 
 <figure>
     <img src="assets/la-ventana-walk-to-mountains.JPG">
