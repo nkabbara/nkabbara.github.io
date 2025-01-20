@@ -2,7 +2,7 @@
 layout: page
 title: "Sierra de la Ventana Pack"
 date: 2025-01-19
-version: 1.4.1
+version: 1.5.1
 categories: camping
 tags: hidden
 ---
@@ -16,6 +16,11 @@ Some modifications I would do:
 * Replace hand soap with dish soap since dish soap is stronger and can be used for both.
 * Add chapstick. It's very windy there.
 * Condiments like onion pouder should be sealed better. My pack smells like onions now.
+* Buy:
+  * Another collapsibile water bottle, probably 2L
+  * Convertible, lightweight pants
+  * Lightweight binoculars
+  * Big Agnes footprint. I'm using a heavier alternative currently.
 
 1.  Tent
 2.  Tent footprint
@@ -42,7 +47,7 @@ Some modifications I would do:
     * stove
     * lighters
     * aluminum shields
-6.  Sleeping pad
+6.  Sleeping pad[^6]
 7.  Sleeping bag[^5]
 8.  Inflatable pillow
 9.  Day pack
@@ -95,3 +100,4 @@ Some modifications I would do:
 [^3]: I should not have taken knife since I had the Morakniv anyway.
 [^4]: I can read without them. Shouldn't have taken them.
 [^5]: Study its features. Body was warm, but feet felt cold had to wear socks. Temp wasn't below 0 and this is 20F certified.
+[^6]: Learn how to fix this pad in case of punctures. It came with tools to fix. It's curcial in rought terrain.
