@@ -7,7 +7,7 @@ categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Jan 14 , 2025 from Buenos Aires._</small>
+<small>_Last updated on Jan 19 , 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 

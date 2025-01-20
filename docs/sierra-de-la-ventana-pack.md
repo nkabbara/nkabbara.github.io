@@ -17,8 +17,8 @@ Some modifications I would do:
 * Add chapstick. It's very windy there.
 * Condiments like onion pouder should be sealed better. My pack smells like onions now.
 
-7.  Tent
-6.  Tent footprint
+1.  Tent
+2.  Tent footprint
 3.  Clothes not wearing
     * 1p socks
     * 1p underwear
@@ -26,7 +26,7 @@ Some modifications I would do:
     * 1 shorts
     * pajama t-shirt [^2]
     * Lightweight jacket
-13. Food bag with food & snacks for 1 night and two days [^1]
+4. Food bag with food & snacks for 1 night and two days [^1]
     * 3 Ramen
     * 2 tuna
     * 1 cup of pasta
@@ -38,37 +38,41 @@ Some modifications I would do:
     * Utensils [^3]
     * Olive oil
     * 3 bags of trail mix
-9.  Cooking pot and inside it: stove & lighters
-2.  Sleeping pad
-1.  Sleeping bag[^5]
-4.  Inflatable pillow
-5.  Day pack for day hiking
+5.  Cooking pot contains:
+    * stove
+    * lighters
+    * aluminum shields
+6.  Sleeping pad
+7.  Sleeping bag[^5]
+8.  Inflatable pillow
+9.  Day pack
 10. Stove fuel
 11. Water filter system
 12. Toiletries:
    * Toothpaste
-   * Brush
+   * Tooth brush
    * Toilet paper
    * Trash bag for rain and one for trash
    * Deodorant
    * Sunscreen
    * Bug spray
-19. 2 Water bottles
-22. Light weight towel
-23. Lantern
-25. Headlamp
-26. Compass
-27. Whistle
-28. Morakniv knife
-30. Bug net
-31. Sunglasses
-32. iPhone and cables for phone, headlight and lamp
-33. first aid kit
-34. Battery pack
-35. Reading glasses [^4]
-37. Hat
-38. Trekking poles
-39. Chair
+13. 2 1.5L water bottles
+14. Light weight towel
+15. Lantern
+16. Headlamp
+17. Compass
+18. Whistle
+19. Morakniv knife
+20. Bug net
+21. Sunglasses
+22. iPhone and cables for phone, headlight and lamp
+23. first aid kit
+24. Battery pack
+25. Reading glasses [^4]
+26. Hat
+27. Trekking poles
+28. Chair
+29. Kindle
 
 [^1]:  On the first day, I ate breakfast at the gas station, trail mix on the trek, and 1 Ramen for dinner at camp. The next day, I had cornflakes for breakfast and trail mix on the way down to camp (I left at 9am). If I had done a hike that morning, I would have probably ate a cup of pasta or tuna or another Ramen. I overpacked a lot of food because I assumed on the first day that I would have 3 meals and on the following day as well. But the staff informed me that I should leave camp early to make it and checkout before they close to note me as "safely returned". Plan food better next time because it adds a lot of weight.
 [^2]: I slept in my underwear and extra t-shirt. Didn't need pajama t-shirt.
