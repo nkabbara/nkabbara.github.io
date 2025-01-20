@@ -2,7 +2,7 @@
 layout: page
 title: "Sierra de la Ventana Pack"
 date: 2025-01-19
-version: 1.3.1
+version: 1.4.1
 categories: camping
 tags: hidden
 ---
@@ -73,6 +73,22 @@ Some modifications I would do:
 27. Trekking poles
 28. Chair
 29. Kindle
+
+<figure>
+    <img src="assets/la-ventana-pack-items.JPG">
+    <figcaption>Everything</figcaption>
+</figure>
+
+<figure>
+    <img src="assets/la-ventana-pack-packed.JPG">
+    <figcaption>Packed</figcaption>
+</figure>
+
+<figure>
+    <img src="assets/la-ventana-pack-trip.JPG">
+    <figcaption>On the way back</figcaption>
+</figure>
+
 
 [^1]:  On the first day, I ate breakfast at the gas station, trail mix on the trek, and 1 Ramen for dinner at camp. The next day, I had cornflakes for breakfast and trail mix on the way down to camp (I left at 9am). If I had done a hike that morning, I would have probably ate a cup of pasta or tuna or another Ramen. I overpacked a lot of food because I assumed on the first day that I would have 3 meals and on the following day as well. But the staff informed me that I should leave camp early to make it and checkout before they close to note me as "safely returned". Plan food better next time because it adds a lot of weight.
 [^2]: I slept in my underwear and extra t-shirt. Didn't need pajama t-shirt.
