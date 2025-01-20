@@ -38,7 +38,7 @@ Notes for next trip:
     <figcaption>I had to hold that pose for 30 minutes to fill 1.5L of water from the only source around. <i>Weird right foot due to cropping out a person.</i></figcaption>
 </figure>
 
-<video width="100%" controls muted>
+<video width="100%" controls muted poster="assets/la-ventana-vid-poster.png">
     <source src="assets/la-ventana-vid.mp4" type="video/mp4;">
 </video>
 
