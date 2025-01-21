@@ -13,8 +13,81 @@ by Mortimer J. Adler, [Buy it here](https://a.co/d/4GnNNF0)
 
 WIP: still formulating my summary and transfering my notes. I read this book many years ago, but after going through my highlights, I realized that it deserves a fresh read. The way I read books changed a lot after reading it the first time, but I completely forgot that it's the reason for that.
 
-## Notes
+## My Processed Notes To Be Categorized
+(put as a note on one of hte entries) Francis Bacon once remarked that “some books are to be tasted, others to be swallowed, and some few to be chewed and digested.” Reading a book analytically is chewing and digesting it.
 
+### Basic Rules
+* Most books should only be read inspectionally (you want information or to be entertained). Analytical and syntopical reading only apply to books that are over your head[^1] and worth reading (you want understanding).
+
+[^1]: you must distinguish between a bad book and one that is over your head. They're both hard to read.
+
+### Levels of Reading
+1. Elementary
+2. Inspectional
+  1. Part 1: Inspect
+  2. Part 2: Skim
+3. Analytical
+4. Syntopical
+
+### Categories of Books
+* Expository
+* Imaginative
+
+### Inspectional Reading
+
+Many quite good readers, are unaware of the value of inspectional reading. They start a book on page one and plow steadily through it, without even reading the table of contents. They are thus faced with the task of achieving a superficial knowledge of the book at the same time that they are trying to understand it. That compounds the difficulty.
+
+Inspectional Reading Part I: Systematic Skimming
+Inspectional Reading Part II: Superficial Reading
+
+Part I & Part II could be done simultaneously by the skilled reader, but until you become a skilled inspectional reader, do them as separate tasks.
+
+#### Part I: Systematic Skimming
+
+After this reading, you may decide that the book is not worth Part II (Superficial Reading) and put it away. You will at least have known what kind of book it is and what the author's main contention is.
+
+Here's how to do it:
+
+1. LOOK AT THE TITLE PAGE AND, IF THE BOOK HAS ONE, AT ITS PREFACE. Read each quickly. Get a feel for what the angle the author is taking and what his aim is. Categorize the book in your head with similar books you've read.
+2. STUDY THE TABLE OF CONTENTS to obtain a general sense of the book’s structure; use it as you would a road map before taking a trip. It'll give a sense of how the author is planning to address his main contention.
+3. CHECK THE INDEX look for topics, works and authors that are referenced many times and read some of those passages, they may contain the crux of the author's argument.
+4. READ THE PUBLISHER’S BLURB. Many times it summarizes and lists the author's main points in the book. 1-4 are pre-skimming: you may now decide to not read the book, or read it later or continue with skimming proper.
+5. From your general and still rather vague knowledge of the book’s contents, LOOK NOW AT THE CHAPTERS THAT SEEM TO BE PIVOTAL TO ITS ARGUMENT. If these chapters have summary statements in their opening or closing pages, as they often do, read these statements carefully.
+6. Finally, TURN THE PAGES, DIPPING IN HERE AND THERE, READING A PARAGRAPH OR TWO, SOMETIMES SEVERAL PAGES IN SEQUENCE, NEVER MORE THAN THAT. Thumb through the book in this way, always looking for signs of the main contention, listening for the basic pulsebeat of the matter. Above all, do not fail to read the last two or three pages, or, if these are an epilogue, the last few pages of the main part of the book. Few authors are able to resist the temptation to sum up what they think is new and important about their work in these pages. You do not want to miss this, even though, as sometimes happens, the author himself may be wrong in his judgment. You have now skimmed the book systematically;
+
+Think of yourself as a detective looking for clues to a book’s general theme or idea, alert for anything that will make it clearer. Heeding the suggestions we have made will help you sustain this attitude. You will be surprised to find out how much time you will save, pleased to see how much more you will grasp, and relieved to discover how much easier it all can be than you supposed.
+
+
+
+### How Not to Lose what we've learned here
+### Basic Questions that must be always asked
+
+### Inspectional Reading Guide
+#### Issues observed
+   - Impatiently going throug the book not knowing what's going on just to complete it
+### Analytical Reading Guide
+#### Real World Difficulties in applying these rules.
+  - Discuss how hard it was for you to do this
+  - Then how you did it.
+    -
+### Sytopical Reading Guide
+
+### Words of Wisdom & Insights
+* Classes of books[^2]:
+    * [one chapter books] 99% of all books ever written can be satisfied with an inspectional reading.
+    * [hard books] 0.01% of books make severe demands on you, but you may reach their level after your first analytical read. You only return to them to refresh your memory.
+    * [desert island books] 0.001% of all books will never be grasped by you. Each analytical read will stretch you more. Seek them out!
+* Only books that are beyond you will improve your analytical reading skill and will expand your wisdom.
+* Informative books cause a quantitative change in information in you, but no improvement in reading skill nor wisdom.
+* They body is limited and declines after 30. The mind keeps groing indefinitely. But it can atrophy like the muscles if it is not constantly growing intellectually, morally and spiritually. When it ceases to grow, we begine to die.
+* Beware of the illusion that you're using your mind when you're just reacting to stimuli and hording information: documentaries, amusement, online courses, media, etc...
+* To be informed is to know simply that something is the case. To be enlightened is to know, in addition, what it is all about: why it is the case, what its connections are with other facts, in what respects it is the same, in what respects it is different, and so forth.
+
+[^2]: 'one chapter books' refers to books that could have been written in one chapter. 'desert island books' are one of the ten books that you'd take with you to a desert island.
+
+### Raw Notes From Book
+
+---
 As Pascal observed three hundred years ago, “When we read too fast or too slowly, we understand nothing.”
 
 But the packaging is often done so effectively that the viewer, listener, or reader does not make up his own mind at all. Instead, he inserts a packaged opinion into his mind, somewhat like inserting a cassette into a cassette player. He then pushes a button and “plays back” the opinion whenever it seems appropriate to do so. He has performed acceptably without having had to think.
