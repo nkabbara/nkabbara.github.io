@@ -2,7 +2,7 @@
 layout: page
 title: "Camping in Sierra de la Ventana"
 date: 2025-01-19
-version: 1.6.2
+version: 1.7.2
 categories: camping
 ---
 
@@ -14,10 +14,11 @@ Notes for next trip:
 * I met some great folks, but didn't take fotos with them! Next time, take selfies with cool people you meet:
   * Hernan: gave me a ride back saving me part of a 6KM walk! Introduced me to his son who teaches mountain climbing in El Chalten in Patagonia to help me plan a camping trip there. We talked about gear, tango and parillas.
   * Sebastian: helped me find the water source, practically saving me hours of scouting. On his way out transfered all his water to my reservoirs. Thank you Seba!
+* It's super windy out here. Make sure to tie down every single guyline on the tent. Later that night around midnight, the wind got crazy - woke up to the tent wall basically kissing my face before it popped back into shape once the gust passed. Big Agnes build solid tents.
 * My [pack weight](sierra-de-la-ventana-pack) kicked my butt during my 5 hour hike to my destination. I need to figure out ways to lighten it up. Food items seem to be the heaviest. Look into high calorie to weight ratio foods.
 * Finish Wilderness Navigation, find a topographic map of Sierra de la Ventana and practice orientation and navigation there.
 * Look into Guanaco tracking.
-* I realized that I don't know how to properly tie guy lines to stakes. I faked it, but I want to learn a bit of knotcraft to cover the basics.
+* I realized that I don't know how to properly tie guylines to stakes. I faked it, but I want to learn a bit of knotcraft to cover the basics.
 * Stay a minimum of two nights camping there.
 * Water is scarce there during the summer. I used my filter, but didn't have time to boil it due to pot size and the time it would take to do so. I would like to be able to prep water a day in advance for the following day. Explore options.
 * Check weather variation for the time when you're going. I packed a jacket at the last minute when I checked weather at night. I could have used base layer pants. My assumping was it's summer so it's hot. That is true, but only during the day. At night, temperature drops down to 5c.
