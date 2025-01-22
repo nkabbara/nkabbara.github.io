@@ -14,12 +14,23 @@ by Mortimer J. Adler, [Buy it here](https://a.co/d/4GnNNF0)
 WIP: still formulating my summary and transfering my notes. I read this book many years ago, but after going through my highlights, I realized that it deserves a fresh read. The way I read books changed a lot after reading it the first time, but I completely forgot that it's the reason for that.
 
 ## My Processed Notes To Be Categorized
-(put as a note on one of hte entries) Francis Bacon once remarked that “some books are to be tasted, others to be swallowed, and some few to be chewed and digested.” Reading a book analytically is chewing and digesting it.
+(put as a note on one of the entries) Francis Bacon once remarked that “some books are to be tasted, others to be swallowed, and some few to be chewed and digested.” Reading a book analytically is chewing and digesting it.
 
-### Basic Rules
-* Most books should only be read inspectionally (you want information or to be entertained). Analytical and syntopical reading only apply to books that are over your head[^1] and worth reading (you want understanding).
+During analytical reading, your notes will be mostly about author's concepts and yours. They're conceptual notes.
+
+During syntopical reading, your notes will be mostly about many authors' concepts and the shape the discussion (unbeknownst to them). These are dialectical notes.
+
+Any art or skill is possessed by those who have formed the habit of operating according to its rules.
+
+Eeach of inspectional, analytical and syntopical reading are complex acts. You must master each step of each level before attempting to do them as a whole. For example, first master how to find keywords separately from how to find key sentences, from how to find arguments. This will take time as you'll have to read each section multiple times. But as you do that over and over, you'll start noticing that in one read, you're able to ids all three in one reading. You'll also be able to combine stages together, not just steps of a stage. See note below about learning complex tasks.
+
+ ### Basic Rules of Reading
+* Most books should only be read inspectionally. Analytical and syntopical reading only apply to books that are over your head[^1] and worth reading.
+* Every page and passage in a book should be read no more slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension. Applies to inspectional[^2] & analytical reading.
+* A demanding reader is one who has formed the habit of asking the four basic questions and knows how to answer them precisely and accurrately.
 
 [^1]: you must distinguish between a bad book and one that is over your head. They're both hard to read.
+[^2]: you'll naturally be faster than in analytical here, because you keep going even if you didn't understand much at a slower rate of reading.
 
 ### Levels of Reading
 1. Elementary
@@ -29,38 +40,101 @@ WIP: still formulating my summary and transfering my notes. I read this book man
 3. Analytical
 4. Syntopical
 
-### Categories of Books
-* Expository
-* Imaginative
+### The Four Basic Questions
+
+The goal of reading actively for inspectional, analytical and syntopical reading is to constaly ask and try to answer the following four quetions:
+
+1. WHAT IS THE BOOK ABOUT AS A WHOLE? You must try to discover the leading theme of the book, and how the author develops this theme in an orderly way by subdividing it into its essential subordinate themes or topics.
+2. WHAT IS BEING SAID IN DETAIL, AND HOW? You must try to discover the main ideas, assertions, and arguments that constitute the author’s particular message.
+3. IS THE BOOK TRUE, IN WHOLE OR PART? After you've answered 1 & 2, you must decide if you agree or disagree or are agnostic. Don't take the author's argument as true. Make up your own mind.
+4. SO WHAT? How does this affect my way of thinking of my way of living? Has my perspective shifted? Will I behave differently? Do I need to read more on the subject?
+
+The last two questions are the most significant and our work in the first two is to find their answers.
+
+Question: how can we do this in inspectional reading if we are not supposed to stop to understand? Can we stop to take notes? Otherwise, we'd forget.
 
 ### Inspectional Reading
 
 Many quite good readers, are unaware of the value of inspectional reading. They start a book on page one and plow steadily through it, without even reading the table of contents. They are thus faced with the task of achieving a superficial knowledge of the book at the same time that they are trying to understand it. That compounds the difficulty.
 
-Inspectional Reading Part I: Systematic Skimming
-Inspectional Reading Part II: Superficial Reading
+1. Inspectional Reading Part I: Systematic Skimming
+2. Inspectional Reading Part II: Superficial Reading
 
-Part I & Part II could be done simultaneously by the skilled reader, but until you become a skilled inspectional reader, do them as separate tasks.
+Part I, skimming, prepares us to to tackle the first stage of analytical reading: comprehension of the book's structure. Whereas, Part II, superficial reading, prepares us for the second stage of analytical reading, namely interpretation of the book's content. We cannot interpret a book's content well unless we have read it a first time.
+
+The two parts could be done simultaneously by the skilled reader, but until you become a skilled inspectional reader, do them as separate tasks.
+
+Inspectional reading is active (you're not leaning on a wall flipping through a book): as you read, you're always looking to answer the four basic questions all active readers must answer. Constantly keep asking with the purpose of tring to find the answers.
+
+Although you wont't have time to take extensive notes in inspectional reading, when you start getting answers to the following questions, you should note them anyway for when you come back to the book for an analytical read whether in a week or in months.
+1. What kind of book is it?
+2. What is it about as a whole? and
+3. What is the structural order of the work whereby the author develops his conception or understanding of that general subject matter?
+
+They're called structural notes because they're mostly concernced with the structure of the book. Make them in the contents or title page.
 
 #### Part I: Systematic Skimming
 
 After this reading, you may decide that the book is not worth Part II (Superficial Reading) and put it away. You will at least have known what kind of book it is and what the author's main contention is.
 
-Here's how to do it:
+Assume the following attitude before you begin part I: Think of yourself as a detective looking for clues to a book’s general theme or idea, alert for anything that will make it clearer.
+
+Steps to complete Part I:
 
 1. LOOK AT THE TITLE PAGE AND, IF THE BOOK HAS ONE, AT ITS PREFACE. Read each quickly. Get a feel for what the angle the author is taking and what his aim is. Categorize the book in your head with similar books you've read.
 2. STUDY THE TABLE OF CONTENTS to obtain a general sense of the book’s structure; use it as you would a road map before taking a trip. It'll give a sense of how the author is planning to address his main contention.
 3. CHECK THE INDEX look for topics, works and authors that are referenced many times and read some of those passages, they may contain the crux of the author's argument.
 4. READ THE PUBLISHER’S BLURB. Many times it summarizes and lists the author's main points in the book. 1-4 are pre-skimming: you may now decide to not read the book, or read it later or continue with skimming proper.
-5. From your general and still rather vague knowledge of the book’s contents, LOOK NOW AT THE CHAPTERS THAT SEEM TO BE PIVOTAL TO ITS ARGUMENT. If these chapters have summary statements in their opening or closing pages, as they often do, read these statements carefully.
-6. Finally, TURN THE PAGES, DIPPING IN HERE AND THERE, READING A PARAGRAPH OR TWO, SOMETIMES SEVERAL PAGES IN SEQUENCE, NEVER MORE THAN THAT. Thumb through the book in this way, always looking for signs of the main contention, listening for the basic pulsebeat of the matter. Above all, do not fail to read the last two or three pages, or, if these are an epilogue, the last few pages of the main part of the book. Few authors are able to resist the temptation to sum up what they think is new and important about their work in these pages. You do not want to miss this, even though, as sometimes happens, the author himself may be wrong in his judgment. You have now skimmed the book systematically;
-
-Think of yourself as a detective looking for clues to a book’s general theme or idea, alert for anything that will make it clearer. Heeding the suggestions we have made will help you sustain this attitude. You will be surprised to find out how much time you will save, pleased to see how much more you will grasp, and relieved to discover how much easier it all can be than you supposed.
+5. LOOK NOW AT THE CHAPTERS THAT SEEM TO BE PIVOTAL TO ITS ARGUMENT. Read their opening and closing paragraphs, espcially the summary kinds. Your still vague understanding of the book should be gaining some resolution.
+6. Finally, TURN THE PAGES, DIPPING IN HERE AND THERE, READING A PARAGRAPH OR TWO, SOMETIMES SEVERAL PAGES IN SEQUENCE, NEVER MORE THAN THAT. Only do this at the important paragraphs to get a pulse for the book. For sure, read the last few pages of the main part of the book (not epilogue). It'll most likely contain a summary of the whole book.
 
 
+Outcomes:
+1. You stopped at step 4 and decided to stop reading.
+2. You complete Part I and decided to stop reading.
+3. You completed Part I and decide it's worth a superficial reading.
+
+In all cases, you know what kind of book it is and you know what its main arguments are.
+
+#### Part II: Superficial Reading
+
+One rule only: In tackling a difficult book for the first time, read it through without ever stopping to look up or ponder the things you do not understand right away. You will have a much better chance of understanding it on a second reading, but that requires you to have read the book through at least once. This is the definition of superficial reading.
+
+We are incorrectly trained to pay the most attention to things that we don't understand. If we use this habit in superficial reading, then we will miss the forest for the trees. We will not get very far in our reading. And most importantly:
+  * We won't be reading well on any level. Nether superficial nor analytical.
+  * We will miss out the chance of reading the whole book and at least benefiting from the what we DO understand.
+
+_Remember how we read Smith's The Wealth of Nations. We underlined, looked things up, and were never able to complete it. We put it aside. If we had known how to read superficially, we would have completed it and benefitted much more from it._
+
+Note: this does not mean read quickly and uncomprehensibly. No, it's an activity with a goal of answering the four basic questions.
+
+### Note Taking
+
+Using Kindle Oasis, we can simulate author's suggestion of taking notes.
+
+UNDERLINING—of major points; of important or forceful statements.
+
+BOOKMARK PAGE & WRITE "MP" NEXT TO A MAJOR POINT—to be used sparingly, to emphasize the ten or dozen most important statements or passages in the book. You will be able to take the book off the shelf at any time and, by opening it to the bookmarked pages, refresh your recollection. Do not bookmark pages for other purposes.
+
+NUMBERS IN THE MARGIN & HIGHLIGHT SENTENCE—to indicate a sequence of points made by the author in developing an argument. Maybe an argument's keyword to remember which argument the propositions are referring to. e.g. "Love is life argument", you'd note "LIL p3" for love is life proposition 3.
+
+HIGHLIGHT KEYWORDS- to inditicate a keyword (term). So highlighting is used for keywords and key sentences that lead to arguments. Keyword -> Key sentence -> Argument.
+
+HIGHLIGHTED SENTENCES WITHOUT NUMBERS- are key sentences, but not necessarly part of a larger argument. They might be the complete argument.
+
+WRITING IN THE MARGIN, OR AT THE TOP OR BOTTOM OF THE PAGE—
+  * to record questions (and perhaps answers) which a passage raises in your mind;
+  * to reduce a complicated discussion to a simple statement;
+  * to record the sequence of major points right through the book.
+
+PERSONAL INDEX- Add a canvas on the endpapers at the back of the book and use it to make a personal index of the author’s points in the order of their appearance. You can extract those from highlighted sentences in the book. With and without numbers in the margin.
+
+WEB PAGE FOR THE BOOK- After finishing the book and making your personal index on the back endpapers, create a webpage on your site, nashkabbara.com, and try to outline the book, not page by page or point by point (you have already done that at the back), but as an integrated structure, with a basic outline and an order of parts. That outline will be the measure of your understanding of the work; It will express your intellectual ownership of the book.
+
+Questions:
+* We're not using non canvas notes. Could we take advantage of them to improve on this?
 
 ### How Not to Lose what we've learned here
-### Basic Questions that must be always asked
 
 ### Inspectional Reading Guide
 #### Issues observed
@@ -82,8 +156,13 @@ Think of yourself as a detective looking for clues to a book’s general theme o
 * They body is limited and declines after 30. The mind keeps groing indefinitely. But it can atrophy like the muscles if it is not constantly growing intellectually, morally and spiritually. When it ceases to grow, we begine to die.
 * Beware of the illusion that you're using your mind when you're just reacting to stimuli and hording information: documentaries, amusement, online courses, media, etc...
 * To be informed is to know simply that something is the case. To be enlightened is to know, in addition, what it is all about: why it is the case, what its connections are with other facts, in what respects it is the same, in what respects it is different, and so forth.
+* The person who has had one experience in acquiring a complex skill knows that he need not fear the array of rules that present themselves at the beginning of something new to be learned. He knows that he does not have to worry about how all the separate acts in which he must become separately proficient are going to work together. The multiplicity of the rules indicates the complexity of the one habit to be formed, not a plurality of distinct habits. The parts coalesce and telescope as each reaches the stage of automatic execution. When all the subordinate acts can be done more or less automatically, you have formed the habit of the whole performance. Then you can think about tackling an expert run you have never skied before, or reading a book that you once thought was too difficult for you. At the beginning, the learner pays attention to himself and his skill in the separate acts. When the acts have lost their separateness in the skill of the whole performance, the learner can at last pay attention to the goal that the technique he has acquired enables him to reach.
 
 [^2]: 'one chapter books' refers to books that could have been written in one chapter. 'desert island books' are one of the ten books that you'd take with you to a desert island.
+
+### Categories of Books
+* Expository
+* Imaginative
 
 ### Raw Notes From Book
 
