@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Camping in Sierra de la Ventana"
-date: 2025-01-19
-version: 1.7.2
+created: 2025-01-19
+updated: 2025-01-22
+version: 1.8.2
 categories: camping
 ---
 
@@ -37,7 +38,7 @@ Notes for next trip:
 </figure>
 <figure>
     <img src="assets/la-ventana-akward-pose.JPG">
-    <figcaption>I had to hold that pose for 30 minutes to fill 1.5L of water from the only source around. <i>Weird right foot due to cropping out a person.</i></figcaption>
+    <figcaption>I had to hold that pose for 30 minutes to fill 1.5L of water from the only source around.</figcaption>
 </figure>
 <figure>
     <img src="assets/la-ventana-night-tent.JPG">
