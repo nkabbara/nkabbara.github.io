@@ -3,7 +3,7 @@
 * Impatience. You want to finish it quickly. You do not want to take your time. Be here in the moment.
 
 ## What's my goal in taking notes here?
-I want to read books better so that I become more wise and a better reader. Put a book in my lap, give me the required time and I'll get to its level.
+I want to read books better so that I become more wise and a better reader and therefore a better person. Put a book in my lap, give me the required time and I'll get to its level.
 
 ## How To Take Notes for this Book?
 
