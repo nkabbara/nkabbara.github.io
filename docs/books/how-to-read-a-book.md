@@ -111,6 +111,10 @@ Note: this does not mean read quickly and uncomprehensibly. No, it's an activity
 
 You cannot begin this type of reading unless you've already completed an inspectional reading. Question: is there a skill level that would actually allow for merging the two types into one reading?
 
+You should not take the term “stage” in a chronological sense, **unless perhaps at the very beginning of your exercise as an analytical reader**[^7]. That is, it is not necessary to read a book through in order to apply the first four rules, then to read it again and again in order to apply the other rules. The practiced reader accomplishes all of these stages at once.
+
+[^7]: See learning under insights section. At first, you maybe to to reread and apply different sections, but that should stop as  you get more skilled.
+
 ## Stage I:  Rules for finding what a book is about
 
 1. Classify the book according to kind and subject matter.
@@ -121,9 +125,6 @@ You cannot begin this type of reading unless you've already completed an inspect
 * These rules will help you answer the first basic question. _See 4 basic questions section_. Though your answer will improve in accuracy as you proceed to apply the other rules and to answer the other questions from the next stages of analytical reading.
 * The inspectional reading you've done before will help you apply these rules.
 * Their aim is to provide the reader who applies them with a knowledge of a book’s structure.
-* You should not take the term “stage” in a chronological sense, **unless perhaps at the very beginning of your exercise as an analytical reader**[^7]. That is, it is not necessary to read a book through in order to apply the first four rules, then to read it again and again in order to apply the other rules. The practiced reader accomplishes all of these stages at once.
-
-[^7]: See learning under insights section. At first, you maybe to to reread and apply different sections, but that should stop as  you get more skilled.
 
 ### Classifying the Book
 
@@ -201,11 +202,105 @@ Some pratical ones:
 
 You'd have to adapt them for imaginative literature.
 
+## Stage II: Rules for interpreting a book’s contents
+
+In Stage I we outlined the book strucutre, here we'll interpret its contents or message.
+
+You cannot begin to deal with terms, propositions, and arguments (logical units or units of thought and knowledge) until you can penetrate beneath the surface of language. So long as words, sentences, and paragraphs (grammatical units) are opaque and unanalyzed, they are a barrier to, rather than a medium of, communication. You will read words but not receive knowledge.
+
+5. Come to terms with the author by interpreting his key words.
+6. Grasp the author’s leading propositions by dealing with his most important sentences.
+7. Know the author’s arguments, by finding them in, or constructing them out of, sequences ofsentences.
+8. Determine which of his problems the author has solved, and which he has not; and of the latter, decide which the author knew he had failed to solve.
+
+### Come to Terms
+
+You will find that your comprehension of any book will be enormously increased if you only go to the trouble of finding its important words, identifying their shifting meanings, and coming to terms. Seldom does such a small change in a habit have such a large effect.
+
+So we have two parts,
+
+1. Locate the important words, the words that make a difference.
+2. The second part is to determine the meaning of these words, as used, with precision.
+
+#### Locate Keywords
+
+Here are some ways to help you find keywords:
+
+* Words you don't understand: These could be technical words or obscure words or words that seem not to make sense in a passage. If you find yourself not understanding a passage, it's because there are words in there that haven't come to terms with them. These could be your keywords. After you understand the passage (see below Fiding Their Terms), you can identify the keywords. _This sounds cyclical, but it works_.
+* You know the word is a keyword and important to the author from pervious experience. Just mark it, no more work to do.
+* Author underlines, bolds, itilizes or marks the word for you.
+* He may call your attention to the word by explicitly discussing its various senses and indicating the way he is going to use it here and there. Or he may emphasize the word by defining the thing that the word is used to name.
+* Stage I could help here: If you know what kind of book it is, what it is about as a whole, and what its major parts are, you are greatly aided in separating the technical vocabulary from the ordinary words. The author’s title, chapter headings, and preface may be useful in this connection.
+
+Mark these words. Using oases, highlight them.
+
+#### Finding Keyword Terms
+
+Once you found the terms, now it's time to find their meaning. How? you have to discover the meaning of a word you do not understand by using the meanings of all the other words in the context that you do understand. The process is something like the trial-and-error method of putting a jigsaw puzzle together. Think of a definition in a dictionary, the word is explained by other words which you do understand.
+
+Now that you know how to extract a meaning, you can follow this methodology; first, try to determine whether the word has one or many meanings. If it has many, try to see how they are related. Finally, note the places where the word is used in one sense or another, and see if the context gives you any clue to the reason for the shift in meaning. This last will enable you to follow the word in its change of meanings with the same flexibility that characterizes the author’s usage. Distinguish between the author’s vocabulary and his terminology. If you make a list in one column of the important words, and in another of their important meanings, you will see the relation between the vocabulary and the terminology.
+
+Example of how one word can be the vehicle for many terms, and one term can be expressed by many words. For example by "reading" we may mean (1) reading to be entertained, (2) reading to get information, and (3) reading to achieve understanding. Now let us symbolize the word "reading" by the letter X, and the three meanings by the letters a, b, and c. If author wrote Xa, but you understood Xb, then you have not come to terms. Only when he wrote Xb and you understood it to mean Xb have come to terms. i.e. One to many. See synonyms below to see how we get into many to many.
+
+Some things to keep in mind and watch out for:
+
+1. In the one to many paragraph above, we noted that the term could be Xa, or Xb or Xc. But it could also be Xabc to mean reading to be informed, entertained and enlightned and the other combos, e.g. Xac, Xa, etc...
+2. There is the issue of synonyms. The author might use to avoid repetition and boring the reader. So now we could have two word X and Y with terms a, b, and c. We now have a many to many relationship. So Xa and Ya are different words representing the same term.
+3. Phrases might be used in place of words and like words, a phrase may refer to multiple terms. e.g. "reading for enlightenment" for the single word "reading." and also "the process of passing from understanding less to understanding more by the operation of your mind upon a book." All representing the term "analytical reading". So we have a word, a short phrase and a larger phrase assoicated with one term.
+
+You will end up here with two columns, one with key words (their synonyms and phrases) and the other with terms.
+
+### Grasp The Leading Propositions
+
+Mark the most important sentences in a book and discover the propositions they contain.
+
+Propositions are the answers to questions. They are declarations of knowledge or opinion. That is why we call sentences that express them declarative, and distinguish sentences that ask questions as interrogative. Other sentences express wishes or intentions.
+
+Unless you recognize the distinct propositions in a complicated[^8] sentence, you cannot make a discriminating judgment on what the writer is saying.
+
+[^8]: A compound sentence for example which is a collection of sentences, connected by such words as “and,” or “if . . . then,” or “not only . . . but also.”
+
+Sentences and propositions, like words and terms also have a many to many relationship.
+
+_Note: The rules about propositions and arguments are quite different when you are reading a poetical work—a novel, play, or poem._
+
+### Locating Key Sentences
+
+Clues to important sentences:
+
+1. Hard to understand sentences are likely to be key sentences. These are sentences that you have to read slowly and over again.
+2. Major affirmations and denials author is making and the reasons he gives for doing so.
+3. Authors help when they underline the sentences for you. They either tell you that this is an important point when they make it, or they use one or another typographical device to make their leading sentences stand out
+4. The terms you highlighted in rule 5 are probably in key sentences (that step prepares for this one). Note that sometimes finding a key sentence helps you locate keywords. Both steps support each other.
+5. They usually belong to the main argument of the book. They must be either premises or conclusions. Hence, if you can detect those sentences that seem to form a sequence, a sequence in which there is a beginning and an end, you probably have put your finger on the sentences that are important.
+
+(this should go into reading speed sections of each type of reading): Many persons believe that they know how to read because they read at different speeds. But they pause and go slow over the wrong sentences. They pause over the sentences that interest them rather than the ones that puzzle them. Indeed, this is one of the greatest obstacles to reading a book that is not completely contemporary. Any old book contains facts that are somewhat surprising because they are different from what we know. But when you are reading for understanding it is not that kind of novelty that you are seeking.
+
+### Finding Key Sentences Propositions
+
+There are only two differences between finding the terms that words express and the propositions that sentences express. One is that you employ a larger context in the latter case. You bring all the surrounding sentences to bear on the sentence in question, just as you used the surrounding words to interpret a particular word. In both cases, you proceed from what you do understand to the gradual elucidation of what is at first relatively unintelligible.
+
+The other difference lies in the fact that complicated sentences usually express more than one proposition. You have not completed your interpretation of an important sentence until you have separated out of it all the different, though perhaps related, propositions. Example:
+
+> A prince ought to inspire fear in such a way that, if he does not win love, he avoids hatred; because he can endure very well being feared whilst he is not hated, which will always be as long as he abstains from the property of his citizens and from their women.
+
+This sentence expresses two propositions at least: (1) the reason why the prince ought to inspire fear in a certain way is that he can endure being feared so long as he is not hated; (2) he can avoid being hated only by keeping his hands off the property of his citizens and their women.
+
+You need to verify that you undertand the author's propostion. A couple of ways to do so:
+
+1. State the proposition(s) in a sentence in your own words. If you cannot get away from using his words, then you know his words, but not his mind. He was trying to communicate knowledge, and all you received was words.
+2. Can you point to some experience you have had that the proposition describes or to which the proposition is in any way relevant? Can you exemplify the general truth that has been enunciated by referring to a particular instance of it? To imagine a possible case is often as good as citing an actual one. If you cannot you should suspect that you do not know what is being said. Propositions do not exist in a vacuum. They refer to the world in which we live. Unless you can show some acquaintance with actual or possible facts to which the proposition refers or is relevant somehow, you are playing with words, not dealing with thought and knowledge.
+
+## Arguments
+_Go back to pages 113-115 and capture highlights from there_
+
+
+(Note: when doing syntopical notes, go back to page 125 for a relevant highlight.)
 # Note Taking
 
 Using Kindle Oasis, we can adapt author's suggestion of taking notes.
 
-#### Inspectional/Structural
+## Inspectional/Structural
 
 For this reading take non-canvas notes. This will allow you to distingquish between structural notes and conceptual notes.
 
@@ -264,6 +359,8 @@ In addition to the conceptual notes, you'll need an external notebook to index d
 * The person who has had one experience in acquiring a complex skill knows that he need not fear the array of rules that present themselves at the beginning of something new to be learned. He knows that he does not have to worry about how all the separate acts in which he must become separately proficient are going to work together. The multiplicity of the rules indicates the complexity of the one habit to be formed, not a plurality of distinct habits. The parts coalesce and telescope as each reaches the stage of automatic execution. When all the subordinate acts can be done more or less automatically, you have formed the habit of the whole performance. Then you can think about tackling an expert run you have never skied before, or reading a book that you once thought was too difficult for you. At the beginning, the learner pays attention to himself and his skill in the separate acts. When the acts have lost their separateness in the skill of the whole performance, the learner can at last pay attention to the goal that the technique he has acquired enables him to reach.
 * Any art or skill is possessed by those who have formed the habit of operating according to its rules.
 * The reader tries to uncover the skeleton that the book conceals. The author starts with the skeleton and tries to cover it up.
+* Perhaps you are beginning to see how essential a part of reading it is to be perplexed and know it. Wonder is the beginning of wisdom in learning from books as well as from nature. If you never ask yourself any questions about the meaning of a passage, you cannot expect the book to give you any insight you do not already possess.
+
 
 
 [^2]: 'one chapter books' refers to books that could have been written in one chapter. 'desert island books' are one of the ten books that you'd take with you to a desert island.
