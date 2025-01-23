@@ -22,15 +22,18 @@ During syntopical reading, your notes will be mostly about many authors' concept
 
 Eeach of inspectional, analytical and syntopical reading are complex acts. You must master each step of each level before attempting to do them as a whole. For example, first master how to find keywords separately from how to find key sentences, from how to find arguments. This will take time as you'll have to read each section multiple times. But as you do that over and over, you'll start noticing that in one read, you're able to ids all three in one reading. You'll also be able to combine stages together, not just steps of a stage. See note below about learning complex tasks.
 
+(Note: when doing syntopical notes, go back to page 125 for a relevant highlight.)
+
 
 
 # Basic Rules of Reading
 * Most books should only be read inspectionally. Analytical and syntopical reading only apply to books that are over your head[^1] and worth reading.
-* Every page and passage in a book should be read no more slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension. Applies to inspectional[^2], analytical and syntopical reading.
+* Every page and passage in a book should be read no more slowly[^3] than it deserves, and no more quickly than you can read it with satisfaction and comprehension. Applies to inspectional[^2], analytical and syntopical reading.
 * A demanding reader is one who has formed the habit of asking the four basic questions and knows how to answer them precisely and accurrately.
 
 [^1]: you must distinguish between a bad book and one that is over your head. They're both hard to read.
 [^2]: you'll naturally be faster than in analytical here, because you keep going even if you didn't understand much at a slower rate of reading.
+[^3]: Many persons believe that they know how to read because they read at different speeds. But they pause and go slow over the wrong sentences. They pause over the sentences that interest them rather than the ones that puzzle them. Indeed, this is one of the greatest obstacles to reading a book that is not completely contemporary. Any old book contains facts that are somewhat surprising because they are different from what we know. But when you are reading for understanding it is not that kind of novelty that you are seeking.
 
 # Levels of Reading
 1. Elementary
@@ -136,6 +139,8 @@ How do you do so? By applying the rules in inspectional reading part I.
 
 ### What the Whole Book is About
 
+_Note that the unity of a book is highly corelated with how well you enumerate its major parts (see next section), the two rules go hand in hand._
+
 State the unity of the whole book in a single sentence, or at most a few sentences. Basically the theme or the main point.
 
 There is only one way to know that you have succeeded. You must be able to tell yourself or anybody else what the unity is, and in a few words. (If it requires too many words, you have not seen the unity but a multiplicity.) Do not be satisfied with “feeling the unity” that you cannot express. The reader who says, “I know what it is, but I just can’t say it,” probably does not even fool himself.
@@ -204,7 +209,8 @@ You'd have to adapt them for imaginative literature.
 
 ## Stage II: Rules for interpreting a book’s contents
 
-In Stage I we outlined the book strucutre, here we'll interpret its contents or message.
+
+In Stage I we outlined the book strucutre, here we'll interpret its contents or message. This stage will help us answer the second basic question (see basic questions section above) What is being said in detail, and how?.
 
 You cannot begin to deal with terms, propositions, and arguments (logical units or units of thought and knowledge) until you can penetrate beneath the surface of language. So long as words, sentences, and paragraphs (grammatical units) are opaque and unanalyzed, they are a barrier to, rather than a medium of, communication. You will read words but not receive knowledge.
 
@@ -264,7 +270,7 @@ Sentences and propositions, like words and terms also have a many to many relati
 
 _Note: The rules about propositions and arguments are quite different when you are reading a poetical work—a novel, play, or poem._
 
-### Locating Key Sentences
+#### Locating Key Sentences
 
 Clues to important sentences:
 
@@ -274,9 +280,8 @@ Clues to important sentences:
 4. The terms you highlighted in rule 5 are probably in key sentences (that step prepares for this one). Note that sometimes finding a key sentence helps you locate keywords. Both steps support each other.
 5. They usually belong to the main argument of the book. They must be either premises or conclusions. Hence, if you can detect those sentences that seem to form a sequence, a sequence in which there is a beginning and an end, you probably have put your finger on the sentences that are important.
 
-(this should go into reading speed sections of each type of reading): Many persons believe that they know how to read because they read at different speeds. But they pause and go slow over the wrong sentences. They pause over the sentences that interest them rather than the ones that puzzle them. Indeed, this is one of the greatest obstacles to reading a book that is not completely contemporary. Any old book contains facts that are somewhat surprising because they are different from what we know. But when you are reading for understanding it is not that kind of novelty that you are seeking.
 
-### Finding Key Sentences Propositions
+#### Finding Key Sentences' Propositions
 
 There are only two differences between finding the terms that words express and the propositions that sentences express. One is that you employ a larger context in the latter case. You bring all the surrounding sentences to bear on the sentence in question, just as you used the surrounding words to interpret a particular word. In both cases, you proceed from what you do understand to the gradual elucidation of what is at first relatively unintelligible.
 
@@ -289,21 +294,52 @@ This sentence expresses two propositions at least: (1) the reason why the prince
 You need to verify that you undertand the author's propostion. A couple of ways to do so:
 
 1. State the proposition(s) in a sentence in your own words. If you cannot get away from using his words, then you know his words, but not his mind. He was trying to communicate knowledge, and all you received was words.
-2. Can you point to some experience you have had that the proposition describes or to which the proposition is in any way relevant? Can you exemplify the general truth that has been enunciated by referring to a particular instance of it? To imagine a possible case is often as good as citing an actual one. If you cannot you should suspect that you do not know what is being said. Propositions do not exist in a vacuum. They refer to the world in which we live. Unless you can show some acquaintance with actual or possible facts to which the proposition refers or is relevant somehow, you are playing with words, not dealing with thought and knowledge.
+2. Can you point to some experience you have had that the proposition describes or to which the proposition is in any way relevant? Can you exemplify the general truth that has been enunciated by referring to a particular instance of it? To imagine a possible case is often as good as citing an actual one. If you cannot you should suspect that you do not know what is being said. Propositions do not exist in a vacuum. They refer to the world in which we live. Unless you can show some acquaintance with actual or possible facts to which the propositio refers or is relevant somehow, you are playing with words, not dealing with thought and knowledge.
 
-## Arguments
-_Go back to pages 113-115 and capture highlights from there_
+### Finding or Constructing Arguments
 
+If the book contains arguments, you must know what they are, and be able to put them into a nutshell. Any good argument can be put into a nutshell.
 
-(Note: when doing syntopical notes, go back to page 125 for a relevant highlight.)
+Find if you can the paragraphs in a book that state its important arguments; but if the arguments are not thus expressed, your task is to construct them, by taking a sentence from this paragraph, and one from that, until you have gathered together the sequence of sentences that state the propositions that compose the argument. _See Note taking section for how to note sentences of an argument that don't happen to follow one another._
+
+This logical unit is not uniquely related to any recognizable unit of writing, as terms are related to words and phrases, and propositions to sentences. An argument may be expressed in a single complicated sentence. Or it may be expressed in a number of sentences that are only part of one paragraph. Sometimes an argument may coincide with a paragraph, but it may also happen that an argument runs through several or many paragraphs.
+
+Every line of argument, in other words, must start somewhere. Basically, there are two ways or places in which it can start: with assumptions agreed on between writer and reader, or with what are called self-evident propositions, which neither the writer nor reader can deny. In the first case, the assumptions can be anything, so long as agreement exists. In the second case, examples like "The whole is greater than its parts".
+
+There are many paragraphs in any book that do not express an argument at all—perhaps not even part of one. It hardly needs to be said that they should be read rather quickly.
+
+Helpful things to keep in mind for this rule:
+
+1. Remember that every argument must involve a number of statements. Of these, some give the reasons why you should accept a conclusion the author is proposing. If you find the conclusion first, then look for the reasons. If you find the reasons first, see where they lead.
+2. In the second place, discriminate between the kind of argument that points to one or more particular facts as evidence for some generalization and the kind that offers a series of general statements to prove some further generalizations. The former kind of reasoning is usually referred to as inductive, the latter as deductive; but the names are not what is important. What is important is the ability to discriminate between the two. [^9]
+3. Observe what things the author says he must assume, what he says can be proved or otherwise evidenced, and what need not be proved because it is self-evident.
+
+[^9]: Deductive reasoning moves from general principles to specific conclusions. It starts with a general rule and applies it to a specific case to reach a logically certain conclusion (assuming the premises are true): General rule: All mammals give birth to live young -> Specific case: Dogs are mammals -> Conclusion: Therefore, dogs give birth to live young. Inductive reasoning works in the opposite direction - it moves from specific observations to general conclusions. It uses patterns in specific cases to form broader generalizations, though these conclusions are probable rather than certain: Observation 1: My dog Spot wags his tail when he's happy -> Observation 2: My neighbor's dog Rex wags his tail when he's happy -> Observation 3: The dogs at the park wag their tails when they're happy -> General conclusion: Dogs probably wag their tails when they're happy. Key distinction: Deductive reasoning, if valid and based on true premises, leads to conclusions that must be true. Inductive reasoning leads to conclusions that are probably true but could potentially be false even if all the observations are accurate.
+
+### Determine Solved & Unsolved Questions
+
+Find out what the author’s solutions are. When you have applied this rule, and the three that precede it in interpretive reading, you can feel reasonably sure that you have managed to understand the book. This rule, #8, ties together the first stage of analytical reading (outlining the structure) and the second stage (interpreting the contents).
+
+In Rule 4, we stated the questions and problems the author has attempted to answer and solve. Here, in rule 8 we're concerned with which of them did he succeed in solving? In the course of solving these, did he raise any new ones? Of the problems that he failed to solve, old or new, which did the author himself know he had failed on?
+
+_Note, I'm getting this sense that in growing and reaching the author's level, we might have answered things. Maybe learned more, but not reached any type of closure in regards to the problem and if we do, we might have opened up a whole slew of other problems._
+
+Update the question and problems in Rule 4 with your findings.
+
+The two processes in Stage I and Stage II that we have done thus far, outlining and interpretation, meet at the level of propositions and arguments. You work down to propositions and arguments by dividing the book into its parts. You work up to arguments by seeing how they are composed of propositions and ultimately of terms. When you have completed the two processes, you can really say that you know the contents of a book.
+
+_INSERT DRAWING HERE_
+
 # Note Taking
 
-Using Kindle Oasis, we can adapt author's suggestion of taking notes.
+_All that follows are suggestions._
+
+* Using Kindle Oasis, we can adapt author's suggestion of taking notes.
+* When you want to read a book again, it's preferable to save all previous notes, delete them and start taking notes over again. Otherwise, former notes will be in your way and distraction from your next reading.
 
 ## Inspectional/Structural
 
-For this reading take non-canvas notes. This will allow you to distingquish between structural notes and conceptual notes.
-
+Take notes that help answer the first 3 questions in Analytical Stage I.
 
 #### Analytical/Conceptual
 
