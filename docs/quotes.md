@@ -1,10 +1,17 @@
 ---
 layout: page
 title: "Quotes"
-date: 2021-10-10
-version: 1.26.5
+created: 2021-10-10
+updated: 2025-01-23
+version: 1.27.5
 categories: quotes
 ---
+
+> Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; **but to weigh and consider**.
+
+— Bacon
+
+<br>
 
 > The real value in setting goals is not in their achievement. The acquisition of the things you want is strictly secondary. The major reason for setting goals is to compel you to become the person it takes to achieve them.
 
