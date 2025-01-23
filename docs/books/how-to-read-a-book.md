@@ -31,7 +31,7 @@ Eeach of inspectional, analytical and syntopical reading are complex acts. You m
 * Every page and passage in a book should be read no more slowly[^3] than it deserves, and no more quickly than you can read it with satisfaction and comprehension. Applies to inspectional[^2], analytical and syntopical reading.
 * A demanding reader is one who has formed the habit of asking the four basic questions and knows how to answer them precisely and accurrately.
 
-[^1]: you must distinguish between a bad book and one that is over your head. They're both hard to read.
+[^1]: you must distinguish between a bad book and one that is over your head. They're both hard to read. There are, of course, many books worth reading well. There is a much larger number that should be only inspected. To become well-read, in every sense of the word, one must know how to use whatever skill one possesses with discrimination—by reading every book according to its merits.
 [^2]: you'll naturally be faster than in analytical here, because you keep going even if you didn't understand much at a slower rate of reading.
 [^3]: Many persons believe that they know how to read because they read at different speeds. But they pause and go slow over the wrong sentences. They pause over the sentences that interest them rather than the ones that puzzle them. Indeed, this is one of the greatest obstacles to reading a book that is not completely contemporary. Any old book contains facts that are somewhat surprising because they are different from what we know. But when you are reading for understanding it is not that kind of novelty that you are seeking.
 
@@ -112,9 +112,25 @@ Note: this does not mean read quickly and uncomprehensibly. No, it's an activity
 
 # Analytical Reading
 
+This part (analytical reading) describes an ideal performance. Few people have ever read any book in this ideal manner, and those who have, probably read very few books this way. The ideal remains, however, the measure of achievement. You are a good reader to the degree in which you approximate it. When we speak of someone as “well-read,” we should have this ideal in mind. Too often, we use that phrase to mean the quantity rather than the quality of reading.
+
 You cannot begin this type of reading unless you've already completed an inspectional reading. Question: is there a skill level that would actually allow for merging the two types into one reading?
 
 You should not take the term “stage” in a chronological sense, **unless perhaps at the very beginning of your exercise as an analytical reader**[^7]. That is, it is not necessary to read a book through in order to apply the first four rules, then to read it again and again in order to apply the other rules. The practiced reader accomplishes all of these stages at once.
+
+## Stage I:  Rules for finding what a book is about (rules 1-4): Structural outlining
+## Stage II: Rules for interpreting a book’s contents (rules 5-8): Interpretation
+## Stage III: Rules for criticizing a book as a communication of knowledge (rules 9-15): Criticism
+
+Applying the first four rules of analytical reading help you to answer the first basic question you must ask about a book, namely, What is the book about as a whole? Similarly, applying the four rules for interpretation (rules 5 - 8) help you to answer the second question you must ask, namely, What is being said in detail, and how? The last seven rules (rules 9 - 15) of reading—the maxims of intellectual etiquette and the criteria for points of criticism—help you to answer the third and fourth basic questions you must ask. You will recall that those questions are: Is it true? and What of it?
+
+You may also see how the fourth critical remark ties together the three stages of analytical reading of any book. The last step of structural outlining is to know the problems that the author is trying to solve. The last step of interpretation is to know which of these problems the author solved and which he did not. The final step of criticism is the point about completeness. It touches structural outlining insofar as it considers how adequately the author has stated his problems, and interpretation insofar as it measures how satisfactorily he has solved them.
+
+"What of it?", "So what?": Unless what you have read is true in some sense, you need go no further. But if it is, you must face the last question. You cannot read for information intelligently without determining what significance is, or should be, attached to the facts presented.
+
+And if you are reading for enlightenment, there is really no end to the inquiry that, at every stage of learning, is renewed by the question, What of it? These four questions, as we have already pointed out, summarize all the obligations of a reader. The first three, moreover, correspond to something in the very nature of human discourse. If communications were not complex, structural outlining would be unnecessary. If language were a perfect medium instead of a relatively opaque one, there would be no need for interpretation. If error and ignorance did not circumscribe truth and knowledge, we should not have to be critical. The fourth question turns on the distinction between information and understanding.
+
+
 
 [^7]: See learning under insights section. At first, you maybe to to reread and apply different sections, but that should stop as  you get more skilled.
 
@@ -330,6 +346,140 @@ The two processes in Stage I and Stage II that we have done thus far, outlining 
 
 _INSERT DRAWING HERE_
 
+## Stage III: Rules for criticizing a book as a communication of knowledge
+
+Here you will reap the reward of all your previous efforts.
+
+Reading a book is a kind of conversation. You may think it is not conversation at all, because the author does all the talking and you have nothing to say. If you think that, you do not realize your full obligation as a reader—and you are not grasping your opportunities.
+
+A good book deserves an active reading. The activity of reading does not stop with the work of understanding what a book says. It must be completed by the work of criticism, the work of judging. The undemanding reader fails to satisfy this requirement, probably even more than he fails to analyze and interpret. He not only makes no effort to understand; he also dismisses a book simply by putting it aside and forgetting it. Worse than faintly praising it, he damns it by giving it no critical consideration whatever.
+
+The reader must know how to judge a book, just as he must know how to arrive at an understanding of its contents.
+
+But you also have the responsibility of taking a position. When you take it, it is yours, not the author’s. To regard anyone except yourself as responsible for your judgment is to be a slave, not a free man.
+
+Thus you see how the three arts of grammar, logic, and rhetoric cooperate in regulating the elaborate processes of writing and reading. Skill in the first two stages of analytical reading comes from a mastery of grammar and logic. Skill in the third stage depends on the remaining art. The rules of this stage of reading rest on the principles of rhetoric, conceived in the broadest sense.
+
+
+On the part of the speaker or writer, rhetorical[^9] skill is knowing how to convince or persuade. Since this is the ultimate end in view, all the other aspects of communication must serve it. Grammatical and logical skill in writing clearly and intelligibly has merit in itself, but it is also a means to an end. Reciprocally, on the part of the reader or listener, rhetorical skill is knowing how to react to anyone who tries to convince or persuade us. Here, too, grammatical and logical skill, which enables us to understand what is being said, prepares the way for a critical reaction.
+
+This means, in effect, that the third stage of analytical reading must always follow the other two in time. The first two stages interpenetrate each other. Even the beginning reader can combine them somewhat, and the expert combines them almost completely. He can discover the contents of a book by breaking down the whole into its parts and at the same time constructing the whole out of its elements of thought and knowledge, its terms, propositions, and arguments. Furthermore, even for the beginner, a certain amount of the work required at those two stages can be performed during a good inspectional reading. But the expert no less than the beginner must wait until he understands before he starts to criticize.
+
+Van Doren, Charles; Mortimer J. Adler. How to Read a Book (p. 141). (Function). Kindle Edition.
+
+[^9]: define rhetoric.
+
+
+(But in insights section) We are discussing here the virtue of teachability—a virtue that is almost always misunderstood. Teachability is often confused with subservience. A person is wrongly thought to be teachable if he is passive and pliable. On the contrary, teachability is an extremely active virtue. No one is really teachable who does not freely exercise his power of independent judgment. He can be trained, perhaps, but not taught. The most teachable reader is, therefore, the most critical. He is the reader who finally responds to a book by the greatest effort to make up his own mind on the matters the author has discussed.
+
+
+### A. General Maxims of Intellectual Etiquette
+
+The first requires the reader to complete the task of understanding before rushing in. The second adjures him not to be disputatious or contentious. The third asks him to view disagreement about matters of knowledge as being generally remediable. This rule goes further: It also commands him to give reasons for his disagreements so that issues are not merely stated but also defined. In that lies all hope for resolution.
+
+9. Do not begin criticism until you have completed your outline and your interpretation of the book. (Do not say you agree, disagree, or suspend judgment, until you can say “I understand.”)
+10. Do not disagree disputatiously or contentiously.
+11. Demonstrate that you recognize the difference between knowledge and mere personal opinion by presenting good reasons for any critical judgment you make.
+
+#### Do not Critisize Until You Understand
+
+YOU MUST BE ABLE TO SAY, WITH REASONABLE CERTAINTY, “I UNDERSTAND,” BEFORE YOU CAN SAY ANY ONE OF THE FOLLOWING THINGS: “I AGREE,” OR “I DISAGREE,” OR “I SUSPEND JUDGMENT.” These three remarks exhaust all the critical positions you can take. We hope you have not made the error of supposing that to criticize is always to disagree. That is a popular misconception. To agree is just as much an exercise of critical judgment on your part as to disagree. You can be just as wrong in agreeing as in disagreeing. To agree without understanding is inane. To disagree without understanding is impudent. Though it may not be so obvious at first, suspending judgment is also an act of criticism. It is taking the position that something has not been shown. You are saying that you are not convinced or persuaded one way or the other.
+
+Do not begin to talk back until you have listened carefully and are sure you understand. Not until you are honestly satisfied that you have accomplished the first two stages of reading should you feel free to express yourself. When you have, you not only have earned the right to turn critic, you also have the duty to do so.
+
+“I don’t know what you mean, but I think you’re wrong.”
+(maybe put in insights, but too good to ignore) There is actually no point in answering critics of this sort. The only polite thing to do is to ask them to state your position for you, the position they claim to be challenging. If they cannot do it satisfactorily, if they cannot repeat what you have said in their own words, you know that they do not understand, and you are entirely justified in ignoring their criticisms. They are irrelevant, as all criticism must be that is not based on understanding. When you find the rare person who shows that he understands what you are saying as well as you do, then you can delight in his agreement or be seriously disturbed by his dissent.
+
+To say “I don’t understand” is, of course, also a critical judgment, but only after you have tried your hardest does it reflect on the book rather than yourself. If you have done everything that can be expected of you and still do not understand, it may be because the book is unintelligible.
+
+When you say “I don’t understand,” watch your tone of voice. Be sure it concedes the possibility that it may not be the author’s fault.
+
+Note that sometimes to udnerstand an other you must have read his prerequisit work. Those who judge Kant’s Critique of Pure Reason without reading his Critique of Practical Reason, or Adam Smith’s Wealth of Nations without reading his Theory of the Moral Sentiments, or The Communist Manifesto without Marx’s Capital, are more likely than not to be agreeing or disagreeing with something they do not fully understand.
+
+Edition.
+
+#### Do not be Disputatious
+
+It is RULE 10, and it can be expressed thus: WHEN YOU DISAGREE, DO SO REASONABLY, AND NOT DISPUTATIOUSLY OR CONTENTIOUSLY.
+
+Plato and Aristotle here give us advice that most people ignore. Most people think that winning the argument is what matters, not learning the truth. He who regards conversation as a battle can win only by being an antagonist, only by disagreeing successfully, whether he is right or wrong.
+
+But if he realizes that the only profit in conversation, with living or dead teachers, is what one can learn from them, if he realizes that you win only by gaining knowledge, not by knocking the other fellow down, he may see the futility of mere contentiousness. We are not saying that a reader should not ultimately disagree and try to show where the author is wrong. We are saying only that he should be as prepared to agree as to disagree. Whichever he does should be motivated by one consideration alone—the facts, the truth about the case.
+
+But he also should not feel whipped by having to agree with an author, instead of dissenting. If he feels that way, he is inveterately disputatious. In the light of this second maxim, his problem is seen to be emotional rather than intellectual.
+
+#### Knowledge vs. Personal Opinion
+
+Respect the difference between knowledge and mere personal opinion by giving reasons for any critical judgment you make.
+
+He should be as much prepared to have his own mind changed as seek to change the mind of another. He should always keep before him the possibility that he misunderstands or that he is ignorant on some point. No one who looks upon disagreement as an occasion for teaching another should forget that it is also an occasion for being taught. The trouble is that many people regard disagreement as unrelated to either teaching or being taught. They think that everything is just a matter of opinion. I have mine, and you have yours; and our right to our opinions is as inviolable as our right to private property. On such a view, communication cannot be profitable if the profit to be gained is an increase in knowledge.
+
+The reader who does not distinguish between the reasoned statement of knowledge and the flat expression of opinion is not reading to learn. He is at most interested in the author’s personality and is using the book as a case history. Such a reader will, of course, neither agree nor disagree. He does not judge the book but the man. If, however, the reader is primarily interested in the book and not the man, he should take his critical obligations seriously. These involve applying the distinction between real knowledge and mere opinion to himself as well as to the author. Thus the reader must do more than make judgments of agreement or disagreement. He must give reasons for them.
+
+agree. But when he disagrees, he must give his own grounds for doing so. Otherwise, he is treating a matter of knowledge as if it were opinion.
+
+Incidentally, we would not want to be understood as claiming that there is a great deal of “absolute” knowledge available to men. Self-evident propositions, in the sense in which we defined them in the previous chapter, seem to us to be both indemonstrable and undeniable truths. Most knowledge, however, lacks that degree of absoluteness. What we know, we know subject to correction; we know it because all, or at least the weight, of the evidence supports it, but we are not and cannot be certain that new evidence will not sometime invalidate what we now believe is true.
+
+This, however, does not remove the important distinction between knowledge and opinion that we have been stressing. Knowledge, if you please, consists in those opinions that can be defended, opinions for which there is evidence of one kind or another. If we really know something, in this sense, we must believe that we can convince others of what we know. Opinion, in the sense in which we have been employing the word, is unsupported judgment. That is why we have employed the modifiers “mere” or “personal” in conjunction with it. We can do no more than opine that something is true when we have no evidence or reason for the statement other than our personal feeling or prejudice. We can say that it is true and that we know it when we have objective evidence that other reasonable men are likely to accept.
+
+###  B. Special Criteria for Points of Criticism
+
+The first thing a reader can say is that he understands or that he does not. In fact, he must say he understands, in order to say more. If he does not understand, he should keep his peace and go back to work on the book.
+
+There is one exception to the harshness of the second alternative. “I don’t understand” may itself be a critical remark. To make it so, the reader must be able to support it. If the fault is with the book rather than himself, the reader must locate the sources of trouble. He should be able to show that the structure of the book is disorderly, that its parts do not hang together, that some of it lacks relevance, or, perhaps, that the author equivocates in the use of important words, with a whole train of consequent confusions. To the extent that a reader can support his charge that the book is unintelligible, he has no further critical obligations.
+
+let us suppose that you are finally able to say “I understand.” If, in addition to understanding the book, you agree thoroughly with what the author says, the work is over. The analytical reading is completely done. You have been enlightened, and convinced or persuaded. It is clear that we have additional steps to consider only in the case of disagreement or suspended judgment. The former is the more usual case.
+
+Not simply by following an author’s arguments, but only by meeting them as well, can the reader ultimately reach significant agreement or disagreement with his author.
+
+If the reader understands a book, how can he disagree with it? Critical reading demands that he make up his own mind. But his mind and the author’s have become as one through his success in understanding the book. What mind has he left to make up independently? There are some people who make the error that causes this apparent difficulty: they fail to distinguish between two senses of “agreement.” In consequence, they wrongly suppose that where there is understanding between men, disagreement is impossible. They say that all disagreement is simply owing to misunderstanding. The error in this becomes obvious as soon as we remember that the author is making judgments about the world in which we live. He claims to be giving us theoretical knowledge about the way things exist and behave, or practical knowledge about what should be done. Obviously, he can be either right or wrong. His claim is justified only to the extent that he speaks truly, to the extent that he says what is probable in the light of evidence. Otherwise, his claim is unfounded.
+
+chapter, you disagree because you think the author can be shown to be wrong on some point. You are not simply voicing your prejudice or expressing your emotions. Because this is true, then, from an ideal point of view, there are three conditions that must be satisfied if controversy is to be well conducted. The first is this. Since men are animals as well as rational, it is necessary to acknowledge the emotions you bring to a dispute, or those that arise in the course of it. Otherwise you are likely to be giving vent to feelings, not stating reasons. You may even think you have reasons, when all you have are strong feelings. Second, you must make your own assumptions explicit. You must know what your prejudices—that is, your prejudgments—are. Otherwise you are not likely to admit that your opponent may be equally entitled to different assumptions. Good controversy should not be a quarrel about assumptions. If an author, for example, explicitly asks you to take something for granted, the fact that the opposite can also be taken for granted should not prevent you from honoring his request. If your prejudices lie on the opposite side, and if you do not acknowledge them to be prejudices, you cannot give the author’s case a fair hearing. Third and finally, an attempt at impartiality is a good antidote for the blindness that is almost inevitable in partisanship. Controversy without partisanship is, of course, impossible. But to be sure that there is more light in it, and less heat, each of the disputants should at least try to take the other fellow’s point of view. If you have not been able to read a book sympathetically, your disagreement with it is probably more contentious than civil. These three conditions are, ideally, the sine qua non of intelligent and profitable conversation.
+
+After you can say I understand but I disagree, you may show your disagreement with the following maxim:
+
+These are not mutuall exclusive, a work could suffer from one or more of them.
+
+If you have not been able to show that the author is uninformed, misinformed, or illogical on relevant matters, you simply cannot disagree. You must agree. You cannot say, as so many students and others do, “I find nothing wrong with your premises, and no errors in reasoning, but I don’t agree with your conclusions.” All you can possibly mean by saying something like that is that you do not like the conclusions. You are not disagreeing. You are expressing your emotions or prejudices. If you have been convinced, you should admit it. (If, despite your failure to support one or more of these three critical points, you still honestly feel unconvinced, perhaps you should not have said you understood in the first place.) The first three remarks are related to the author’s terms, propositions, and arguments. These are the elements he used to solve the problems that initiated his efforts. The fourth remark—that the book is incomplete—bears on the structure of the whole.
+
+12. Show wherein the author is uninformed.
+13. Show wherein the author is misinformed.
+14. Show wherein the author is illogical.
+15. Show wherein the author’s analysis or account is incomplete.
+
+#### Show wherein the author is uninformed.
+
+that he lacks some piece of knowledge that is relevant to the problem he is trying to solve.
+
+Van Doren, Charles; Mortimer J. Adler. How to Read a Book (p. 154). (Function). Kindle Edition.
+
+remark. To support the remark, you must be able yourself to state the knowledge that the author lacks and show how it is relevant, how it makes a difference to his conclusions.
+
+Van Doren, Charles; Mortimer J. Adler. How to Read a Book (p. 155). (Function). Kindle Edition.
+
+#### Show wherein the author is misinformed.
+that he asserts what is not the case. His error here may be owing to lack of knowledge, but the error is more than that. Whatever its cause, it consists in making assertions contrary to fact. The author is proposing as true or more probable what is in fact false or less probable. He is claiming to have knowledge he does not possess. This kind of defect should be pointed out, of course, only if it is relevant to the author’s conclusions. And to support the remark you must be able to argue the truth or greater probability of a position contrary to the author’s.
+
+Van Doren, Charles; Mortimer J. Adler. How to Read a Book (p. 155). (Function). Kindle Edition.
+
+assertions. Further, whenever a man is misinformed in a certain respect, he is also uninformed in the same respect.
+
+
+#### Show wherein the author is illogical.
+
+To say that an author is illogical is to say that he has committed a fallacy in reasoning. In general, fallacies are of two sorts. There is the non sequitur, which means that what is drawn as a conclusion simply does not follow from the reasons offered. And there is the occurrence of inconsistency, which means that two things the author has tried to say are incompatible. To make either of these criticisms, the reader must be able to show the precise respect in which the author’s argument lacks cogency[^10].
+
+[^10]: define me. Give examples of teh two fallcies
+
+#### Show wherein the author’s analysis or account is incomplete.
+he has not solved all the problems he started with, or that he has not made as good a use of his materials as possible, that he did not see all their implications and ramifications, or that he has failed to make distinctions that are relevant to his undertaking. It is not enough to say that a book is incomplete. Anyone can say that of any book. Men are finite, and so are their works, every last one. There is no point in making this remark, therefore, unless the reader can define the inadequacy precisely, either by his own efforts as a knower or through the help of other books.
+
+This fourth point is strictly not a basis for disagreement. It is critically adverse only to the extent that it marks the limitations of the author’s achievement. A reader who agrees with a book in part—because he finds no reason to make any of the other points of adverse criticism—may, nevertheless, suspend judgment on the whole, in the light of this fourth point about the book’s incompleteness. Suspended judgment on the reader’s part responds to an author’s failure to solve his problems perfectly.
+
+The measure of such completeness is to be found in the number of valid and significant distinctions that the accounts being compared contain. You may see now how useful it is to have a grasp of the author’s terms. The number of distinct terms is correlative with the number of distinctions. You may also see how the fourth critical remark ties together the three stages of analytical reading of any book. The last step of structural outlining is to know the problems that the author is trying to solve. The last step of interpretation is to know which of these problems the author solved and which he did not. The final step of criticism is the point about completeness. It touches structural outlining insofar as it considers how adequately the author has stated his problems, and interpretation insofar as it measures how satisfactorily he has solved them.
+
+
+
 # Note Taking
 
 _All that follows are suggestions._
@@ -383,6 +533,7 @@ In addition to the conceptual notes, you'll need an external notebook to index d
     * Lyric Poetry
 
 ### Words of Wisdom & Insights
+* The great writers have always been great readers, but that does not mean that they read all the books that, in their day, were listed as the indispensable ones. In many cases, they read fewer books than are now required in most of our colleges, but what they did read, they read well. Because they had mastered these books, they became peers with their authors. They were entitled to become authorities in their own right. In the natural course of events, a good student frequently becomes a teacher, and so, too, a good reader becomes an author. Our intention here is not to
 * Classes of books[^2]:
     * [one chapter books] 99% of all books ever written can be satisfied with an inspectional reading.
     * [hard books] 0.01% of books make severe demands on you, but you may reach their level after your first analytical read. You only return to them to refresh your memory.
