@@ -510,18 +510,18 @@ You may see how the fourth critical remark ties together the three stages of ana
 [^13]: 'one chapter books' refers to books that could have been written in one chapter. 'desert island books' are one of the ten books that you'd take with you to a desert island.
 
 
-# Note Taking
+## Note Taking
 
 _All that follows are suggestions._
 
 * Using Kindle Oasis, we can adapt author's suggestion of taking notes.
 * When you want to read a book again, it's preferable to save all previous notes, delete them and start taking notes over again. Otherwise, former notes will be in your way and distraction from your next reading.
 
-## Inspectional/Structural
+### Inspectional/Structural
 
 Take notes that help answer the first 3 questions in Analytical Stage I.
 
-#### Analytical/Conceptual
+### Analytical/Conceptual
 
 UNDERLINING—of major points; of important or forceful statements.
 
@@ -542,7 +542,7 @@ PERSONAL INDEX- Add a canvas on the endpapers at the back of the book and use it
 
 WEB PAGE FOR THE BOOK- After finishing the book and making your personal index on the back endpapers, create a webpage on your site, nashkabbara.com, and try to outline the book, not page by page or point by point (you have already done that at the back), but as an integrated structure, with a basic outline and an order of parts. That outline will be the measure of your understanding of the work; It will express your intellectual ownership of the book.
 
-#### Syntopical/Dialectical
+### Syntopical/Dialectical
 
 During syntopical reading, your notes will be mostly about many authors' concepts and the shape the discussion (unbeknownst to them). These are dialectical notes.
 
