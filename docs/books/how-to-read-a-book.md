@@ -71,26 +71,26 @@ Although you wont't have time to take extensive notes in inspectional reading, w
 
 After this reading, you may decide that the book is not worth Part II (Superficial Reading) and put it away. You will at least have known what kind of book it is and what the author's main contention is.
 
-Assume the following attitude before you begin part I: Think of yourself as a detective looking for clues to a book’s general theme or idea, alert for anything that will make it clearer.
+Assume the following attitude before you begin stage I: Think of yourself as a detective looking for clues to a book’s general theme or idea, alert for anything that will make it clearer.
 
-Steps to complete Part I:
+Steps to complete Stage I:
 
-1. LOOK AT THE TITLE PAGE AND, IF THE BOOK HAS ONE, AT ITS PREFACE. Read each quickly. Get a feel for what the angle the author is taking and what his aim is. Categorize the book in your head with similar books you've read.
-2. STUDY THE TABLE OF CONTENTS to obtain a general sense of the book’s structure; use it as you would a road map before taking a trip. It'll give a sense of how the author is planning to address his main contention.
-3. CHECK THE INDEX look for topics, works and authors that are referenced many times and read some of those passages, they may contain the crux of the author's argument.
-4. READ THE PUBLISHER’S BLURB. Many times it summarizes and lists the author's main points in the book. 1-4 are pre-skimming: you may now decide to not read the book, or read it later or continue with skimming proper.
-5. LOOK NOW AT THE CHAPTERS THAT SEEM TO BE PIVOTAL TO ITS ARGUMENT. Read their opening and closing paragraphs, espcially the summary kinds. Your still vague understanding of the book should be gaining some resolution.
-6. Finally, TURN THE PAGES, DIPPING IN HERE AND THERE, READING A PARAGRAPH OR TWO, SOMETIMES SEVERAL PAGES IN SEQUENCE, NEVER MORE THAN THAT. Only do this at the important paragraphs to get a pulse for the book. For sure, read the last few pages of the main part of the book (not epilogue). It'll most likely contain a summary of the whole book. You might need to go this far to classify some books that are hard to classify.
+1. Look at the title page and, if the book has one, at its preface. Read each quickly. Get a feel for what the angle the author is taking and what his aim is. Categorize the book in your head with similar books you've read.
+2. Study the table of contents to obtain a general sense of the book’s structure; use it as you would a road map before taking a trip. It'll give a sense of how the author is planning to address his main contention.
+3. Check the index look for topics, works and authors that are referenced many times and read some of those passages, they may contain the crux of the author's argument.
+4. Read the publisher’s blurb. Many times it summarizes and lists the author's main points in the book. 1-4 are pre-skimming: you may now decide to not read the book, or read it later or continue with skimming proper.
+5. Look now at the chapters that seem to be pivotal to its argument. Read their opening and closing paragraphs, espcially the summary kinds. Your still vague understanding of the book should be gaining some resolution.
+6. Finally, turn the pages, dipping in here and there, reading a paragraph or two, sometimes several pages in sequence, never more than that. Only do this at the important paragraphs to get a pulse for the book. For sure, read the last few pages of the main part of the book (not epilogue). It'll most likely contain a summary of the whole book. You might need to go this far to classify some books that are hard to classify.
 
 
 Outcomes:
 1. You stopped at step 4 and decided to stop reading.
-2. You complete Part I and decided to stop reading.
-3. You completed Part I and decide it's worth a superficial reading.
+2. You complete Stage I and decided to stop reading.
+3. You completed Stage I and decide it's worth a superficial reading.
 
-In all cases, you know what kind of book it is and you know what its main arguments are.
+In all cases, you know what kind of book it is and you know what its main arguments are and how the author has outlined it.
 
-## Stage II: Superficial Reading
+### Stage II: Superficial Reading
 
 One rule only: In tackling a difficult book for the first time, read it through without ever stopping to look up or ponder the things you do not understand right away. You will have a much better chance of understanding it on a second reading, but that requires you to have read the book through at least once. This is the definition of superficial reading.
 
@@ -100,12 +100,11 @@ We are incorrectly trained to pay the most attention to things that we don't und
 
 _Remember how we read Smith's The Wealth of Nations. We underlined, looked things up, and were never able to complete it. We put it aside. If we had known how to read superficially, we would have completed it and benefitted much more from it._
 
-Note: this does not mean read quickly and uncomprehensibly. No, it's an activity with a goal of answering the four basic questions.
+Note: this does not mean read quickly and uncomprehensibly. No, it's an activity with a goal of answering the first of the four basic questions.
 
+## Analytical Reading[^6]
 
-# Analytical Reading[^11]
-
-[^11]: These rules describes an ideal performance. Few people have ever read any book in this ideal manner, and those who have, probably read very few books this way. The ideal remains, however, the measure of achievement. You are a good reader to the degree in which you approximate it. When we speak of someone as “well-read,” we should have this ideal in mind. Too often, we use that phrase to mean the quantity rather than the quality of reading.
+[^6]: These rules describes an ideal performance. Few people have ever read any book in this ideal manner, and those who have, probably read very few books this way. The ideal remains, however, the measure of achievement. You are a good reader to the degree in which you approximate it. When we speak of someone as “well-read,” we should have this ideal in mind. Too often, we use that phrase to mean the quantity rather than the quality of reading.
 
 You cannot begin this type of reading unless you've already completed an inspectional reading. That reading preps for this.
 
@@ -116,20 +115,26 @@ You should not take the term “stage” below in a chronological sense, **unles
 [^7]: See learning under insights section. At first, you maybe to to reread and apply different sections, but that should stop as  you get more skilled.
 
 **Stage I:  Rules for finding what a book is about (rules 1-4): Structural outlining**:
-  1. Classify the book according to kind and subject matter.
-  2. State what the whole book is about with the utmost brevity.
-  3. Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole.
-  4. Define the problem or problems the author has tried to solve.
+1. Classify the book according to kind and subject matter.
+2. State what the whole book is about with the utmost brevity.
+3. Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole.
+4. Define the problem or problems the author has tried to solve.
+
 **Stage II: Rules for interpreting a book’s contents (rules 5-8): Interpretation**
-  5. Come to terms with the author by interpreting his key words.
-  6. Grasp the author’s leading propositions by dealing with his most important sentences.
-  7. Know the author’s arguments, by finding them in, or constructing them out of, seuences of sentences.
-  8. Determine which of his problems the author has solved, and which he has not; and of the latter, decide which the author knew he had failed to solve.
+
+5. Come to terms with the author by interpreting his key words.
+6. Grasp the author’s leading propositions by dealing with his most important sentences.
+7. Know the author’s arguments, by finding them in, or constructing them out of, seuences of sentences.
+8. Determine which of his problems the author has solved, and which he has not; and of the latter, decide which the author knew he had failed to solve.
+
 **Stage III: Rules for criticizing a book as a communication of knowledge (rules 9-15): Criticism**
+
   **A. General Maxims of Intellectual Etiquette**
+
   9. Do not begin criticism until you have completed your outline and your interpretation of the book. (Do not say you agree, disagree, or suspend judgment, until you can say “I understand.”)
   10. Do not disagree disputatiously or contentiously.
   11. Demonstrate that you recognize the difference between knowledge and mere personal opinion by presenting good reasons for any critical judgment you make.
+
   **B. Special Criteria for Points of Criticism**
   12. Show wherein the author is uninformed.
   13. Show wherein the author is misinformed.
@@ -145,7 +150,7 @@ You may also see how the fourth critical remark, namely, "show wherein the autho
 And if you are reading for enlightenment, there is really no end to the inquiry that, at every stage of learning, is renewed by the question, What of it? These four questions, as we have already pointed out, summarize all the obligations of a reader. The first three, moreover, correspond to something in the very nature of human discourse. If communications were not complex, structural outlining would be unnecessary. If language were a perfect medium instead of a relatively opaque one, there would be no need for interpretation. If error and ignorance did not circumscribe truth and knowledge, we should not have to be critical. The fourth question turns on the distinction between information and understanding. The fourth question is the meat of it. It is what will make you take action or modify action in the real world.
 
 
-## Stage I:  Rules for finding what a book is about
+### Stage I:  Rules for finding what a book is about
 
 1. Classify the book according to kind and subject matter.
 2. State what the whole book is about with the utmost brevity.
@@ -153,10 +158,10 @@ And if you are reading for enlightenment, there is really no end to the inquiry 
 4. Define the problem or problems the author has tried to solve.
 
 * The inspectional reading you've done before will help you apply these rules.
-* These rules will help you answer the first basic question. _See 4 basic questions section_. Though your answer will improve in accuracy as you proceed to apply the other rules and to answer the other questions from the next stages of analytical reading.
+* These rules will help you answer the first basic question. _See 4 basic questions section_. Though you answered this in inspectional reading your answer will improve in accuracy as you proceed to apply the these rules and the following ones in Stage II
 * Their aim is to provide the reader who applies them with a knowledge of a book’s structure.
 
-### Classifying the Book (Rule 1)
+#### Classifying the Book (Rule 1)
 
 You must know what kind of book you are reading, and you should know this as early in the process as possible, preferably before you begin to read analytically. This is because the types of questions you ask of different kinds of books and the way you answer them is different. A book on physics is approached differently than a book on morals. We have to modify the basic questions and how you answer them for each.
 
@@ -164,7 +169,7 @@ Also books differ in the kinds of knowledge they have to communicate, they proce
 
 How do you do so? By applying the rules in inspectional reading part I. See Types of Books section for most categories of book.
 
-### What the Whole Book is About (Rule 2)
+#### What the Whole Book is About (Rule 2)
 
 _Note that the unity of a book is highly corelated with how well you enumerate its major parts (see next section), the two rules go hand in hand._
 
@@ -184,9 +189,9 @@ A certain man is absent from home for many years; he is jealously watched by Pos
 
 Unity of Tom Jones:
 
-Boy meets girl, boy loses girl, boy gets girl. [^6]
+Boy meets girl, boy loses girl, boy gets girl. [^8]
 
-[^6]: That, indeed, is the plot of every romance. To recognize this is to learn what it means to say that there are only a small number of plots in the world.
+[^8]: That, indeed, is the plot of every romance. To recognize this is to learn what it means to say that there are only a small number of plots in the world.
 
 The unity of Aristotle’s Ethics:
 
@@ -197,7 +202,7 @@ The The Wealth of Nations:
 This is an inquiry into the source of national wealth in any economy that is built on a division of labor, considering the relation of the wages paid labor, the profits returned to capital, and the rent owed the landowner, as the prime factors in the price of commodities. It discusses the various ways in which capital can be more or less gainfully employed, and relates the origin and use of money to the accumulation and employment of capital. Examining the development of opulence in different nations and under different conditions, it compares the several systems of political economy, and argues for the beneficence of free trade.
 
 
-### Enumerate its Major Parts (Rule 3)
+#### Enumerate its Major Parts (Rule 3)
 
 Set forth the major parts of the book, and show how these are organized into a whole, by being ordered to one another and to the unity of the whole.
 
@@ -211,7 +216,7 @@ Your outlines will probably not match the author's chapter divisions. He did it 
 
 As you outline this book in analytical reading, your original unity that you wrote during inspectional reading (and outline) could change as your understanding deepens
 
-### Define Problem(s) Author Tried to Solve (Rule 4)
+#### Define Problem(s) Author Tried to Solve (Rule 4)
 
 You should be able to state the main question that the book tries to answer, and you should be able to state the subordinate questions if the main question is complex and has many parts. Which are primary and which secondary? Which questions must be answered first, if others are to be answered later?
 
@@ -235,7 +240,7 @@ Some pratical ones:
 
 You'd have to adapt them for imaginative literature.
 
-## Stage II: Rules for interpreting a book’s contents
+### Stage II: Rules for interpreting a book’s contents
 
 In Stage I we outlined the book strucutre, here we'll interpret its contents or message. This stage will help us answer the second basic question (see basic questions section above): What is being said in detail, and how?
 
@@ -246,7 +251,7 @@ You cannot begin to deal with terms, propositions, and arguments (logical units 
 7. Know the author’s arguments, by finding them in, or constructing them out of, sequences of sentences.
 8. Determine which of his problems the author has solved, and which he has not; and of the latter, decide which the author knew he had failed to solve.
 
-### Come to Terms (Rule 5)
+#### Come to Terms (Rule 5)
 
 You will find that your comprehension of any book will be enormously increased if you only go to the trouble of finding its important words, identifying their shifting meanings, and coming to terms. Seldom does such a small change in a habit have such a large effect.
 
@@ -255,7 +260,7 @@ So we have two parts,
 1. Locate the important words, the words that make a difference.
 2. The second part is to determine the meaning of these words, as used, with precision.
 
-#### Locate Keywords
+##### Locate Keywords
 
 Here are some ways to help you find keywords:
 
@@ -267,7 +272,7 @@ Here are some ways to help you find keywords:
 
 Mark these words. Using oasis, highlight them.
 
-#### Finding Keyword Terms
+##### Finding Keyword Terms
 
 Once you found the terms, now it's time to find their meaning. How? you have to discover the meaning of a word you do not understand by using the meanings of all the other words in the context that you do understand. The process is something like the trial-and-error method of putting a jigsaw puzzle together. Think of a definition in a dictionary, the word is explained by other words which you do understand.
 
@@ -283,21 +288,21 @@ Some things to keep in mind and watch out for:
 
 You will end up here with two columns, one with key words (their synonyms and phrases) and the other with terms.
 
-### Grasp The Leading Propositions (Rule 6)
+#### Grasp The Leading Propositions (Rule 6)
 
 Mark the most important sentences in a book and discover the propositions they contain.
 
 Propositions are the answers to questions. They are declarations of knowledge or opinion. That is why we call sentences that express them declarative, and distinguish sentences that ask questions as interrogative. Other sentences express wishes or intentions.
 
-Unless you recognize the distinct propositions in a complicated[^8] sentence, you cannot make a discriminating judgment on what the writer is saying.
+Unless you recognize the distinct propositions in a complicated[^9] sentence, you cannot make a discriminating judgment on what the writer is saying.
 
-[^8]: A compound sentence for example which is a collection of sentences, connected by such words as “and,” or “if . . . then,” or “not only . . . but also.”
+[^9]: A compound sentence for example which is a collection of sentences, connected by such words as “and,” or “if . . . then,” or “not only . . . but also.”
 
 Sentences and propositions, like words and terms also have a many to many relationship.
 
 _Note: The rules about propositions and arguments are quite different when you are reading a poetical work—a novel, play, or poem._
 
-#### Locating Key Sentences
+##### Locating Key Sentences
 
 Clues to important sentences:
 
@@ -307,7 +312,7 @@ Clues to important sentences:
 * The terms you highlighted in rule 5 are probably in key sentences (that step prepares for this one). Note that sometimes finding a key sentence helps you locate keywords. Both steps support each other.
 * They usually belong to the main argument of the book. They must be either premises or conclusions. Hence, if you can detect those sentences that seem to form a sequence, a sequence in which there is a beginning and an end, you probably have put your finger on the sentences that are important.
 
-#### Finding Key Sentences' Propositions
+##### Finding Key Sentences' Propositions
 
 There are only two differences between finding the terms that words express and the propositions that sentences express. One is that you employ a larger context in the latter case. You bring all the surrounding sentences to bear on the sentence in question, just as you used the surrounding words to interpret a particular word. In both cases, you proceed from what you do understand to the gradual elucidation of what is at first relatively unintelligible.
 
@@ -321,7 +326,7 @@ You need to verify that you undertand the author's propostion. You do so by appl
 1. State the proposition(s) in a sentence in your own words. If you cannot get away from using his words, then you know his words, but not his mind. He was trying to communicate knowledge, and all you received was words.
 2. Can you point to some experience you have had that the proposition describes or to which the proposition is in any way relevant? Can you exemplify the general truth that has been enunciated by referring to a particular instance of it? To imagine a possible case is often as good as citing an actual one. If you cannot you should suspect that you do not know what is being said. Propositions do not exist in a vacuum. They refer to the world in which we live. Unless you can show some acquaintance with actual or possible facts to which the propositio refers or is relevant somehow, you are playing with words, not dealing with thought and knowledge.
 
-### Finding or Constructing Arguments (Rule 7)
+#### Finding or Constructing Arguments (Rule 7)
 
 If the book contains arguments, you must know what they are, and be able to put them into a nutshell. Any good argument can be put into a nutshell.
 
@@ -336,12 +341,12 @@ There are many paragraphs in any book that do not express an argument at all—p
 Helpful things to keep in mind for this rule:
 
 * Remember that every argument must involve a number of statements. Of these, some give the reasons why you should accept a conclusion the author is proposing. If you find the conclusion first, then look for the reasons. If you find the reasons first, see where they lead.
-* In the second place, discriminate between the kind of argument that points to one or more particular facts as evidence for some generalization and the kind that offers a series of general statements to prove some further generalizations. The former kind of reasoning is usually referred to as inductive, the latter as deductive; but the names are not what is important. What is important is the ability to discriminate between the two [^9]. _Inductive have a potential of not being true (black swans don't exist because all the swans I ever saw are white)_.
+* In the second place, discriminate between the kind of argument that points to one or more particular facts as evidence for some generalization and the kind that offers a series of general statements to prove some further generalizations. The former kind of reasoning is usually referred to as inductive, the latter as deductive; but the names are not what is important. What is important is the ability to discriminate between the two [^10]. _Inductive have a potential of not being true (black swans don't exist because all the swans I ever saw are white)_.
 * Observe what things the author says he must assume, what he says can be proved or otherwise evidenced, and what need not be proved because it is self-evident.
 
-[^9]: Deductive reasoning moves from general principles to specific conclusions. It starts with a general rule and applies it to a specific case to reach a logically certain conclusion (assuming the premises are true): General rule: All mammals give birth -> Specific case: Dogs are mammals -> Conclusion: Therefore, dogs give birth. Inductive reasoning works in the opposite direction - it moves from specific observations to general conclusions. It uses patterns in specific cases to form broader generalizations, though these conclusions are probable rather than certain: Observation 1: My dog Spot wags his tail when he's happy -> Observation 2: My neighbor's dog Rex wags his tail when he's happy -> Observation 3: The dogs at the park wag their tails when they're happy -> General conclusion: Dogs probably wag their tails when they're happy. Key distinction: Deductive reasoning, if valid and based on true premises, leads to conclusions that must be true. Inductive reasoning leads to conclusions that are probably true but could potentially be false even if all the observations are accurate.
+[^10]: Deductive reasoning moves from general principles to specific conclusions. It starts with a general rule and applies it to a specific case to reach a logically certain conclusion (assuming the premises are true): General rule: All mammals give birth -> Specific case: Dogs are mammals -> Conclusion: Therefore, dogs give birth. Inductive reasoning works in the opposite direction - it moves from specific observations to general conclusions. It uses patterns in specific cases to form broader generalizations, though these conclusions are probable rather than certain: Observation 1: My dog Spot wags his tail when he's happy -> Observation 2: My neighbor's dog Rex wags his tail when he's happy -> Observation 3: The dogs at the park wag their tails when they're happy -> General conclusion: Dogs probably wag their tails when they're happy. Key distinction: Deductive reasoning, if valid and based on true premises, leads to conclusions that must be true. Inductive reasoning leads to conclusions that are probably true but could potentially be false even if all the observations are accurate.
 
-### Determine Solved & Unsolved Questions (Rule 8)
+#### Determine Solved & Unsolved Questions (Rule 8)
 
 Find out what the author’s solutions are. When you have applied this rule, and the three that precede it in interpretive reading, you can feel reasonably sure that you have managed to understand the book. This rule, #8, ties together the first stage of analytical reading (outlining the structure) and the second stage (interpreting the contents).
 
@@ -353,9 +358,9 @@ The two processes in Stage I and Stage II that we have done thus far, outlining 
 
 What to do here: Update the questions and problems in Rule 4 with your findings.
 
-_INSERT DRAWING HERE_
+_TODO INSERT DRAWING HERE_
 
-## Stage III: Rules for criticizing a book as a communication of knowledge
+### Stage III: Rules for criticizing a book as a communication of knowledge
 
 Here you will reap the reward of all your previous efforts.
 
@@ -365,16 +370,16 @@ A good book deserves an active reading. The activity of reading does not stop wi
 
 But you also have the responsibility of taking a position. When you take it, it is yours, not the author’s. **To regard anyone except yourself as responsible for your judgment is to be a slave, not a free man.** Note the tendency to take a popular or good book and assume the author's message a truth.
 
-Thus you see how the three arts of grammar, logic, and rhetoric[^9] cooperate in regulating the elaborate processes of writing and reading. Skill in the first two stages of analytical reading comes from a mastery of grammar and logic. Skill in the third stage depends on the remaining art. The rules of this stage of reading rest on the principles of rhetoric, conceived in the broadest sense.
+Thus you see how the three arts of grammar, logic, and rhetoric[^11] cooperate in regulating the elaborate processes of writing and reading. Skill in the first two stages of analytical reading comes from a mastery of grammar and logic. Skill in the third stage depends on the remaining art. The rules of this stage of reading rest on the principles of rhetoric, conceived in the broadest sense.
 
-[^9]:Rhetoric is the art of effective or persuasive speaking and writing. It's a systematic approach to communication that focuses on how to convince or influence others through language.
+[^11]:Rhetoric is the art of effective or persuasive speaking and writing. It's a systematic approach to communication that focuses on how to convince or influence others through language.
 The concept has three main classical components: Ethos: Appeals to the credibility or authority of the speaker/writer Pathos: Appeals to the audience's emotions Logos: Appeals to logic and reason In practice, rhetoric involves the strategic use of various techniques like: Word choice and arrangement Figurative language (metaphors, analogies) Understanding and adapting to your audience Timing and delivery Argument structure and organization
 
 On the part of the speaker or writer, rhetorical skill is knowing how to convince or persuade. Since this is the ultimate end in view, all the other aspects of communication must serve it. Grammatical and logical skill in writing clearly and intelligibly has merit in itself, but it is also a means to an end. **Reciprocally, on the part of the reader or listener, rhetorical skill is knowing how to react to anyone who tries to convince or persuade us.** Here, too, grammatical and logical skill, which enables us to understand what is being said, prepares the way for a critical reaction. If we are not privy to rhetoric, we could get swept away by the author without realizing it.
 
 This means, in effect, that the third stage of analytical reading must always follow the other two in time. The first two stages interpenetrate each other. **Even the beginning reader can combine them somewhat, and the expert combines them almost completely.** He can discover the contents of a book by breaking down the whole into its parts and at the same time constructing the whole out of its elements of thought and knowledge, its terms, propositions, and arguments. Furthermore, even for the beginner, a certain amount of the work required at those two stages can be performed during a good inspectional reading. **But the expert no less than the beginner must wait until he understands before he starts to criticize.**
 
-### A. General Maxims of Intellectual Etiquette
+#### A. General Maxims of Intellectual Etiquette
 
 The first requires the reader to complete the task of understanding before rushing in. The second adjures him not to be disputatious or contentious. The third asks him to view disagreement about matters of knowledge as being generally remediable. This rule goes further: It also commands him to give reasons for his disagreements so that issues are not merely stated but also defined. In that lies all hope for resolution.
 
@@ -382,7 +387,7 @@ The first requires the reader to complete the task of understanding before rushi
 10. Do not disagree disputatiously or contentiously.
 11. Demonstrate that you recognize the difference between knowledge and mere personal opinion by presenting good reasons for any critical judgment you make.
 
-#### Do not Critisize Until You Understand (Rule 9)
+##### Do not Critisize Until You Understand (Rule 9)
 
 You must be able to say, with reasonable certainty, “I understand,” before you can say any one of the following things: “I agree,” or “I disagree,” or “i suspend judgment.” These three remarks exhaust all the critical positions you can take. We hope you have not made the error of supposing that to criticize is always to disagree. That is a popular misconception. To agree is just as much an exercise of critical judgment on your part as to disagree. You can be just as wrong in agreeing as in disagreeing. To agree without understanding is inane. To disagree without understanding is impudent. Though it may not be so obvious at first, suspending judgment is also an act of criticism. It is taking the position that something has not been shown. You are saying that you are not convinced or persuaded one way or the other.
 
@@ -394,7 +399,7 @@ To say "I don’t understand" is, of course, also a critical judgment, but only 
 
 Note that sometimes to udnerstand another you must have read his prerequisit work. Those who judge Kant’s Critique of Pure Reason without reading his Critique of Practical Reason, or Adam Smith’s Wealth of Nations without reading his Theory of the Moral Sentiments, or The Communist Manifesto without Marx’s Capital, are more likely than not to be agreeing or disagreeing with something they do not fully understand.
 
-#### Do not be Disputatious (Rule 10)
+##### Do not be Disputatious (Rule 10)
 
 When you disagree, do so reasonably, and not disputatiously or contentiously.
 
@@ -404,7 +409,7 @@ Whether you agree or disagree or suspend judgement, you  should be motivated by 
 
 You should not feel pressured to agree with an author or the other way around. Criticize, but with respect. If you have a hard time doing so then your problem is emotional rather than intellectual.
 
-#### Knowledge vs. Personal Opinion (Rule 11)
+##### Knowledge vs. Personal Opinion (Rule 11)
 
 Respect the difference between knowledge and mere personal opinion by giving reasons for any critical judgment you make.
 
@@ -416,7 +421,7 @@ Incidentally, we would not want to be understood as claiming that there is a gre
 
 This, however, does not remove the important distinction between knowledge and opinion that we have been stressing. Knowledge, if you please, consists in those opinions that can be defended, opinions for which there is evidence of one kind or another. If we really know something, in this sense, we must believe that we can convince others of what we know. Opinion, in the sense in which we have been employing the word, is unsupported judgment. That is why we have employed the modifiers “mere” or “personal” in conjunction with it. We can do no more than opine that something is true when we have no evidence or reason for the statement other than our personal feeling or prejudice. We can say that it is true and that we know it when we have objective evidence that other reasonable men are likely to accept.
 
-###  B. Special Criteria for Points of Criticism
+####  B. Special Criteria for Points of Criticism
 
 The first thing a reader can say is that he understands or that he does not. In fact, he must say he understands, in order to say more. If he does not understand, he should keep his peace and go back to work on the book.
 
@@ -442,25 +447,25 @@ After you can say I understand but I disagree, you may show your disagreement wi
 14. Show wherein the author is illogical.
 15. Show wherein the author’s analysis or account is incomplete.
 
-#### Show wherein the author is uninformed.
+##### Show wherein the author is uninformed.
 
 He lacks some piece of knowledge that is relevant to the problem he is trying to solve. To support the remark, you must be able yourself to state the knowledge that the author lacks and show how it is relevant, how it makes a difference to his conclusions.
 
-#### Show wherein the author is misinformed.
+##### Show wherein the author is misinformed.
 
 He asserts what is not the case. His error here may be owing to lack of knowledge, but the error is more than that. Whatever its cause, it consists in making assertions contrary to fact. The author is proposing as true or more probable what is in fact false or less probable. He is claiming to have knowledge he does not possess. This kind of defect should be pointed out, of course, only if it is relevant to the author’s conclusions. And to support the remark you must be able to argue the truth or greater probability of a position contrary to the author’s.
 
 Whenever a man is misinformed in a certain respect, he is also uninformed in the same respect.
 
-#### Show wherein the author is illogical.
+##### Show wherein the author is illogical.
 
-To say that an author is illogical is to say that he has committed a fallacy in reasoning. In general, fallacies are of two sorts. There is the non sequitur, which means that what is drawn as a conclusion simply does not follow from the reasons offered. And there is the occurrence of inconsistency, which means that two things the author has tried to say are incompatible. To make either of these criticisms, the reader must be able to show the precise respect in which the author’s argument lacks cogency[^10].
+To say that an author is illogical is to say that he has committed a fallacy in reasoning. In general, fallacies are of two sorts. There is the non sequitur, which means that what is drawn as a conclusion simply does not follow from the reasons offered. And there is the occurrence of inconsistency, which means that two things the author has tried to say are incompatible. To make either of these criticisms, the reader must be able to show the precise respect in which the author’s argument lacks cogency[^12].
 
-[^10]: non sequiur (it does not follow): "John is tall. Therefore, he must be good at basketball." An example of an inconcistency:  An author writes in a parenting advice article: "Parents should never use rewards to motivate children because external motivation damages intrinsic drive and creates dependency. Children should learn to be self-motivated." Then later in the same article writes:
+[^12]: non sequiur (it does not follow): "John is tall. Therefore, he must be good at basketball." An example of an inconcistency:  An author writes in a parenting advice article: "Parents should never use rewards to motivate children because external motivation damages intrinsic drive and creates dependency. Children should learn to be self-motivated." Then later in the same article writes:
 "I recommend setting up a star chart system where children earn points toward a weekly prize for completing their homework and chores."
 
 
-#### Show wherein the author’s analysis or account is incomplete.
+##### Show wherein the author’s analysis or account is incomplete.
 
 Author has not solved all the problems he started with, or that he has not made as good a use of his materials as possible, that he did not see all their implications and ramifications, or that he has failed to make distinctions that are relevant to his undertaking. It is not enough to say that a book is incomplete. Anyone can say that of any book. Men are finite, and so are their works, every last one. There is no point in making this remark, therefore, unless the reader can define the inadequacy precisely, either by his own efforts as a knower or through the help of other books.
 
@@ -486,7 +491,7 @@ You may see how the fourth critical remark ties together the three stages of ana
 
 ### Words of Wisdom & Insights
 * The great writers have always been great readers, but that does not mean that they read all the books that, in their day, were listed as the indispensable ones. In many cases, they read fewer books than are now required in most of our colleges, but what they did read, they read well. Because they had mastered these books, they became peers with their authors. They were entitled to become authorities in their own right. In the natural course of events, a good student frequently becomes a teacher, and so, too, a good reader becomes an author. Our intention here is not to
-* Classes of books[^2]:
+* Classes of books[^13]:
     * [one chapter books] 99% of all books ever written can be satisfied with an inspectional reading.
     * [hard books] 0.01% of books make severe demands on you, but you may reach their level after your first analytical read. You only return to them to refresh your memory.
     * [desert island books] 0.001% of all books will never be grasped by you. Each analytical read will stretch you more. Seek them out!
@@ -502,7 +507,7 @@ You may see how the fourth critical remark ties together the three stages of ana
 * We are discussing here the virtue of teachability—a virtue that is almost always misunderstood. Teachability is often confused with subservience. A person is wrongly thought to be teachable if he is passive and pliable. On the contrary, teachability is an extremely active virtue. No one is really teachable who does not freely exercise his power of independent judgment. He can be trained, perhaps, but not taught. The most teachable reader is, therefore, the most critical. He is the reader who finally responds to a book by the greatest effort to make up his own mind on the matters the author has discussed.
 
 
-[^2]: 'one chapter books' refers to books that could have been written in one chapter. 'desert island books' are one of the ten books that you'd take with you to a desert island.
+[^13]: 'one chapter books' refers to books that could have been written in one chapter. 'desert island books' are one of the ten books that you'd take with you to a desert island.
 
 
 # Note Taking
