@@ -18,19 +18,11 @@ by Adler, Van Doren  [Buy it here](https://a.co/d/4GnNNF0)
 
 ## Summary
 
-WIP: still formulating my summary and transfering my notes. I read this book many years ago, but after going through my highlights, I realized that it deserves a fresh read. The way I read books changed a lot after reading it the first time, but I completely forgot that it's the reason for that.
+You know how when you buy a book you open it to page one and start reading until you're done? Well, you're missing out on a much richer and more enlightening reading experience. There's a better way.
 
-## Overview
+My favorite thing about mastering inspectional reading is that it permits you to quickly put the book away because it doesn't serve the purpose you expected it to serve. But more than that, this level of reading enables you to get out a lot of a book quickly if you decide to proceed to its stage II. And if still you decide to give it an analytical read (rare books), then you'll elevate yourself to the level of the author and become his equal in wisdom.
 
-TODO: how to read these notes here
-
-TODO: how I practiced this and what seems to be working.
-
-Eeach of inspectional, analytical and syntopical reading are complex acts. You must master each step of each level before attempting to do them as a whole. For example, first master how to find keywords separately from how to find key sentences, from how to find arguments. This will take time as you'll have to read each section multiple times. But as you do that over and over, you'll start noticing that in one read, you're able to ids all three in one reading. You'll also be able to combine stages together, not just steps of a stage. See note below about learning complex tasks.
-
-Categorize:
-**Only** seek out external aids to reading if you have done all you can to understand the book according to the rules of reading laid out here. Aids include: yourown experiences, as a first resort, second, see if the book has a prerequisit, third, refer to abstracts and commentaries but rarely and never before reading the book, finally, use pedias and dictionaries.
-
+I attempted analytical reading on the last part of this book and found it very difficult at first because I was combining the rules. For example, I was trying to find the terms (rule 5), while at the same time the propositions (rule 6), and arguments (rule 7). Then I tried a different approach: I read a section while only applying rule 5, then I re-read it applying rule 6, and so on. As I did this with a few sections, I started to more naturally spot terms and propositions and arguments in one go. This might mean that when you start an analytical reading of a book, you might have to reread sections applying one rule at a time, but then as you go deeper into the book, the rules in a stage or even the first two stages according to the author, coalesce into one. The third stage can only be completed after you've done the first two.
 
 ## Levels of Reading
 1. Elementary
@@ -41,8 +33,9 @@ Categorize:
 ## Basic Rules of Reading
 * Most books should only be read inspectionally. Analytical and syntopical reading only apply to books that are over your head[^1] and worth reading for you.
 * Every page and passage in a book should be read no more slowly[^2] than it deserves, and no more quickly than you can read it with satisfaction and comprehension. Variation of speed is key. Applies to inspectional[^3], analytical and syntopical reading.
-* A demanding reader is one who has formed the habit of asking the four basic questions and knows how to answer them precisely and accurrately.
+* A demanding reader is one who has formed the habit of asking the four basic questions and knows how to answer them precisely and accurately.
 * When reading a book, you must be in one of the four levels. Know which level you are in to read it appropriately[^4].
+* **Only** seek out external aids to reading if you have done all you can to understand the book according to the rules of reading laid out here. Aids include: your own experiences, as a first resort, second, see if the book has a prerequisite (Articles of Confederation, Constitution -> Federalist Papers), third, refer to abstracts and commentaries but rarely and never before reading the book, finally, use pedias and dictionaries, but know how to ask them questions.
 
 [^1]: you must distinguish between a bad book and one that is over your head. They're both hard to read. There are, of course, many books worth reading well. There is a much larger number that should be only inspected. To become well-read, in every sense of the word, one must know how to use whatever skill one possesses with discrimination—by reading every book according to its merits.
 [^2]: Many persons believe that they know how to read because they read at different speeds. But they pause and go slow over the wrong sentences. They pause over the sentences that interest them rather than the ones that puzzle them. Indeed, this is one of the greatest obstacles to reading a book that is not completely contemporary. Any old book contains facts that are somewhat surprising because they are different from what we know. But when you are reading for understanding it is not that kind of novelty that you are seeking.
@@ -51,7 +44,7 @@ Categorize:
 
 ## The Four Basic Questions
 
-The goal of reading actively for inspectional, analytical and syntopical reading is to constaly ask and try to answer the following four quetions:
+The goal of reading actively for inspectional, analytical and syntopical reading is to constantly ask and try to answer the following four questions:
 
 1. **What is the book about as a whole?** You must try to discover the leading theme of the book, and how the author develops this theme in an orderly way by subdividing it into its essential subordinate themes or topics.
 2. **What is being said in detail, and how?** You must try to discover the main ideas, assertions, and arguments that constitute the author’s particular message.
@@ -72,9 +65,9 @@ Part I, skimming, prepares us to to tackle the first stage of analytical reading
 
 The two parts could be done simultaneously by the skilled reader, but until you become a skilled inspectional reader, do them as separate tasks.
 
-Inspectional reading is active (you're not leaning on a wall flipping through a book): as you read, you're always looking to answer the four basic questions all active readers must answer. Constantly keep asking with the purpose of tring to find the answers.
+Inspectional reading is active (you're not leaning on a wall flipping through a book): as you read, you're always looking to answer the four basic questions all active readers must answer. Constantly keep asking with the purpose of trying to find the answers.
 
-Although you wont't have time to take extensive notes in inspectional reading, when you start getting answers to the following questions, you should note them anyway for when you come back to the book for an analytical read whether in a week or in months[^5].
+Although you won't have time to take extensive notes in inspectional reading, when you start getting answers to the following questions, you should note them anyway for when you come back to the book for an analytical read whether in a week or in months[^5].
 1. **What kind of book is it?**
 2. **What is it about as a whole?**
 3. **What is the structural order of the work whereby the author develops his conception or understanding of that general subject matter?**
@@ -93,7 +86,7 @@ Steps to complete Stage I:
 2. Study the table of contents to obtain a general sense of the book’s structure; use it as you would a road map before taking a trip. It'll give a sense of how the author is planning to address his main contention.
 3. Check the index look for topics, works and authors that are referenced many times and read some of those passages, they may contain the crux of the author's argument.
 4. Read the publisher’s blurb. Many times it summarizes and lists the author's main points in the book. 1-4 are pre-skimming: you may now decide to not read the book, or read it later or continue with skimming proper.
-5. Look now at the chapters that seem to be pivotal to its argument. Read their opening and closing paragraphs, espcially the summary kinds. Your still vague understanding of the book should be gaining some resolution.
+5. Look now at the chapters that seem to be pivotal to its argument. Read their opening and closing paragraphs, especially the summary kinds. Your still vague understanding of the book should be gaining some resolution.
 6. Finally, turn the pages, dipping in here and there, reading a paragraph or two, sometimes several pages in sequence, never more than that. Only do this at the important paragraphs to get a pulse for the book. For sure, read the last few pages of the main part of the book (not epilogue). It'll most likely contain a summary of the whole book. You might need to go this far to classify some books that are hard to classify.
 
 
@@ -112,9 +105,9 @@ We are incorrectly trained to pay the most attention to things that we don't und
   * We won't be reading well on any level. Nether superficial nor analytical.
   * We will miss out the chance of reading the whole book and at least benefiting from the what we DO understand.
 
-_Remember how we read Smith's The Wealth of Nations. We underlined, looked things up, and were never able to complete it. We put it aside. If we had known how to read superficially, we would have completed it and benefitted much more from it._
+_Remember how we read Smith's The Wealth of Nations. We underlined, looked things up, and were never able to complete it. We put it aside. If we had known how to read superficially, we would have completed it and benefited much more from it._
 
-Note: this does not mean read quickly and uncomprehensibly. No, it's an activity with a goal of answering the first of the four basic questions.
+Note: this does not mean read quickly and incomprehensibly. No, it's an activity with a goal of answering the first of the four basic questions.
 
 ## Analytical Reading[^6]
 
@@ -138,7 +131,7 @@ You should not take the term “stage” below in a chronological sense, **unles
 
 5. Come to terms with the author by interpreting his key words.
 6. Grasp the author’s leading propositions by dealing with his most important sentences.
-7. Know the author’s arguments, by finding them in, or constructing them out of, seuences of sentences.
+7. Know the author’s arguments, by finding them in, or constructing them out of, sequence of sentences.
 8. Determine which of his problems the author has solved, and which he has not; and of the latter, decide which the author knew he had failed to solve.
 
 **Stage III: Rules for criticizing a book as a communication of knowledge (rules 9-15): Criticism**
@@ -155,7 +148,7 @@ You should not take the term “stage” below in a chronological sense, **unles
   14. Show wherein the author is illogical.
   15. Show wherein the author’s analysis or account is incomplete.
 
-Applying the first four rules of analytical reading help you to answer the first basic question you must ask about a book, namely, **What is the book about as a whole?** Similarly, applying the four rules for interpretation (rules 5 - 8) help you to answer the second question you must ask, namely, **What is being said in detail, and how?** The last seven rules (rules 9 - 15) of reading—the maxims of intellectual etiquette and the criteria for points of criticism—help you to answer the third and fourth basic questions you must ask. You will recall that those questions are: **Is it true? and What of it?**
+Applying the first four rules of analytical reading help you to answer the first basic question you must ask about a book, namely, **What is the book about as a whole?** Similarly, applying the four rules for interpretation (rules 5 - 8) help you to answer the second question you must ask, namely, **What is being said in detail, and how?** The last seven rules (rules 9 - 15) of reading—the maxims of intellectual etiquette and the criteria for points of criticism—help you to answer the third and fourth basic questions you must ask. You will recall that those questions are: **Is it true? And What of it?**
 
 You may also see how the fourth critical remark, namely, "show wherein the author's analysis or account is incomplete", ties together the three stages of analytical reading of any book. The last step of structural outlining is to know the problems that the author is trying to solve. The last step of interpretation is to know which of these problems the author solved and which he did not. The final step of criticism is the point about completeness. It touches structural outlining insofar as it considers how adequately the author has stated his problems, and interpretation insofar as it measures how satisfactorily he has solved them.
 
@@ -185,7 +178,7 @@ How do you do so? By applying the rules in inspectional reading part I. See Type
 
 #### What the Whole Book is About (Rule 2)
 
-_Note that the unity of a book is highly corelated with how well you enumerate its major parts (see next section), the two rules go hand in hand._
+_Note that the unity of a book is highly correlated with how well you enumerate its major parts (see next section), the two rules go hand in hand._
 
 State the unity of the whole book in a single sentence, or at most a few sentences. Basically the theme or the main point.
 
@@ -234,7 +227,7 @@ As you outline this book in analytical reading, your original unity that you wro
 
 You should be able to state the main question that the book tries to answer, and you should be able to state the subordinate questions if the main question is complex and has many parts. Which are primary and which secondary? Which questions must be answered first, if others are to be answered later?
 
-If you know the kinds of questions anyone can ask about anything, you will become adept in detecting an author’s problems. Some theoratical questions:
+If you know the kinds of questions anyone can ask about anything, you will become adept in detecting an author’s problems. Some theoretical questions:
 
 * Does something exist?
 * What kind of thing is it?
@@ -245,7 +238,7 @@ If you know the kinds of questions anyone can ask about anything, you will becom
 * What are its relations to other things of a similar sort, or of a different sort?
 * How does it behave?
 
-Some pratical ones:
+Some practical ones:
 * What ends should be sought?
 * What means should be chosen to a given end?
 * What things must one do to gain a certain objective, and in what order?
@@ -256,7 +249,7 @@ You'd have to adapt them for imaginative literature.
 
 ### Stage II: Rules for interpreting a book’s contents
 
-In Stage I we outlined the book strucutre, here we'll interpret its contents or message. This stage will help us answer the second basic question (see basic questions section above): What is being said in detail, and how?
+In Stage I we outlined the book structure, here we'll interpret its contents or message. This stage will help us answer the second basic question (see basic questions section above): What is being said in detail, and how?
 
 You cannot begin to deal with terms, propositions, and arguments (logical units or units of thought and knowledge) until you can penetrate beneath the surface of language. So long as words, sentences, and paragraphs (grammatical units) are opaque and unanalyzed, they are a barrier to, rather than a medium of, communication. You will read words but not receive knowledge.
 
@@ -278,8 +271,8 @@ So we have two parts,
 
 Here are some ways to help you find keywords:
 
-* Words you don't understand: These could be technical words or obscure words or words that seem not to make sense in a passage. If you find yourself not understanding a passage, it's because there are words in there that haven't come to terms with them. These could be your keywords. After you understand the passage (see below Fiding Their Terms), you can identify the keywords. _This sounds cyclical, but it works_.
-* You know the word is a keyword and important to the author from your pervious experience in the subject matter. Just mark it, no more work to do.
+* Words you don't understand: These could be technical words or obscure words or words that seem not to make sense in a passage. If you find yourself not understanding a passage, it's because there are words in there that haven't come to terms with them. These could be your keywords. After you understand the passage (see below Finding Their Terms), you can identify the keywords. _This sounds cyclical, but it works_.
+* You know the word is a keyword and important to the author from your previous experience in the subject matter. Just mark it, no more work to do.
 * Author underlines, bolds, itilizes or marks the word for you.
 * He may call your attention to the word by explicitly discussing its various senses and indicating the way he is going to use it here and there. Or he may emphasize the word by defining the thing that the word is used to name.
 * Stage I could help here: If you know what kind of book it is, what it is about as a whole, and what its major parts are, you are greatly aided in separating the technical vocabulary from the ordinary words. The author’s title, chapter headings, and preface may be useful in this connection.
@@ -288,7 +281,7 @@ Mark these words. Using oasis, highlight them.
 
 ##### Finding Keyword Terms
 
-Once you found the terms, now it's time to find their meaning. How? you have to discover the meaning of a word you do not understand by using the meanings of all the other words in the context that you do understand. The process is something like the trial-and-error method of putting a jigsaw puzzle together. Think of a definition in a dictionary, the word is explained by other words which you do understand.
+Once you found the terms, now it's time to find their meaning. How? You have to discover the meaning of a word you do not understand by using the meanings of all the other words in the context that you do understand. The process is something like the trial-and-error method of putting a jigsaw puzzle together. Think of a definition in a dictionary, the word is explained by other words which you do understand.
 
 Now that you know how to extract a meaning, you can follow this methodology; first, try to determine whether the word has one or many meanings. If it has many, try to see how they are related. Finally, note the places where the word is used in one sense or another, and see if the context gives you any clue to the reason for the shift in meaning. This last will enable you to follow the word in its change of meanings with the same flexibility that characterizes the author’s usage. Distinguish between the author’s vocabulary and his terminology. If you make a list in one column of the important words, and in another of their important meanings, you will see the relation between the vocabulary and the terminology.
 
@@ -296,9 +289,9 @@ Example of how one word can be the vehicle for many terms, and one term can be e
 
 Some things to keep in mind and watch out for:
 
-1. In the one to many paragraph above, we noted that the term could be Xa, or Xb or Xc. But it could also be Xabc to mean reading to be informed, entertained and enlightned and the other permutations, e.g. Xac, Xa, etc...
+1. In the one to many paragraph above, we noted that the term could be Xa, or Xb or Xc. But it could also be Xabc to mean reading to be informed, entertained and enlightened and the other permutations, e.g. Xac, Xa, etc...
 2. There is the issue of synonyms. The author might use to avoid repetition and boring the reader. So now we could have two word X and Y with terms a, b, and c. We now have a many to many relationship. So Xa and Ya are different words representing the same term.
-3. Phrases might be used in place of words and like words, a phrase may refer to multiple terms. e.g. "reading for enlightenment" for the single word "reading." and also "the process of passing from understanding less to understanding more by the operation of your mind upon a book." All representing the term "analytical reading". So we have a word, a short phrase and a larger phrase assoicated with one term.
+3. Phrases might be used in place of words and like words, a phrase may refer to multiple terms. e.g. "reading for enlightenment" for the single word "reading." and also "the process of passing from understanding less to understanding more by the operation of your mind upon a book." All representing the term "analytical reading". So we have a word, a short phrase and a larger phrase associated with one term.
 
 You will end up here with two columns, one with key words (their synonyms and phrases) and the other with terms.
 
@@ -336,9 +329,9 @@ The other difference lies in the fact that complicated sentences usually express
 
 This sentence expresses two propositions at least: (1) the reason why the prince ought to inspire fear in a certain way is that he can endure being feared so long as he is not hated; (2) he can avoid being hated only by keeping his hands off the property of his citizens and their women.
 
-You need to verify that you undertand the author's propostion. You do so by applying the following two rules:
+You need to verify that you understand the author's proposition. You do so by applying the following two rules:
 1. State the proposition(s) in a sentence in your own words. If you cannot get away from using his words, then you know his words, but not his mind. He was trying to communicate knowledge, and all you received was words.
-2. Can you point to some experience you have had that the proposition describes or to which the proposition is in any way relevant? Can you exemplify the general truth that has been enunciated by referring to a particular instance of it? To imagine a possible case is often as good as citing an actual one. If you cannot you should suspect that you do not know what is being said. Propositions do not exist in a vacuum. They refer to the world in which we live. Unless you can show some acquaintance with actual or possible facts to which the propositio refers or is relevant somehow, you are playing with words, not dealing with thought and knowledge.
+2. Can you point to some experience you have had that the proposition describes or to which the proposition is in any way relevant? Can you exemplify the general truth that has been enunciated by referring to a particular instance of it? To imagine a possible case is often as good as citing an actual one. If you cannot you should suspect that you do not know what is being said. Propositions do not exist in a vacuum. They refer to the world in which we live. Unless you can show some acquaintance with actual or possible facts to which the proposition refers or is relevant somehow, you are playing with words, not dealing with thought and knowledge.
 
 #### Finding or Constructing Arguments (Rule 7)
 
@@ -348,7 +341,7 @@ Find if you can the paragraphs in a book that state its important arguments; but
 
 This logical unit is not uniquely related to any recognizable unit of writing, as terms are related to words and phrases, and propositions to sentences. An argument may be expressed in a single complicated sentence. Or it may be expressed in a number of sentences that are only part of one paragraph. Sometimes an argument may coincide with a paragraph, but it may also happen that an argument runs through several or many paragraphs.
 
-Every line of argument, in other words, must start somewhere. Basically, there are two ways or places in which it can start: with assumptions agreed on between writer and reader, or with what are called self-evident propositions, which neither the writer nor reader can deny. In the first case, the assumptions can be anything, so long as agreement exists. In the second case, examples like "The whole is greater than its parts", ie self evident.
+Every line of argument, in other words, must start somewhere. Basically, there are two ways or places in which it can start: with assumptions agreed on between writer and reader, or with what are called self-evident propositions, which neither the writer nor reader can deny. In the first case, the assumptions can be anything, so long as agreement exists. In the second case, examples like "The whole is greater than its parts", i.e. self evident.
 
 There are many paragraphs in any book that do not express an argument at all—perhaps not even part of one. It hardly needs to be said that they should be read rather quickly.
 
@@ -401,7 +394,7 @@ The first requires the reader to complete the task of understanding before rushi
 10. Do not disagree disputatiously or contentiously.
 11. Demonstrate that you recognize the difference between knowledge and mere personal opinion by presenting good reasons for any critical judgment you make.
 
-##### Do not Critisize Until You Understand (Rule 9)
+##### Do not criticize Until You Understand (Rule 9)
 
 You must be able to say, with reasonable certainty, “I understand,” before you can say any one of the following things: “I agree,” or “I disagree,” or “i suspend judgment.” These three remarks exhaust all the critical positions you can take. We hope you have not made the error of supposing that to criticize is always to disagree. That is a popular misconception. To agree is just as much an exercise of critical judgment on your part as to disagree. You can be just as wrong in agreeing as in disagreeing. To agree without understanding is inane. To disagree without understanding is impudent. Though it may not be so obvious at first, suspending judgment is also an act of criticism. It is taking the position that something has not been shown. You are saying that you are not convinced or persuaded one way or the other.
 
@@ -411,7 +404,7 @@ Do not begin to talk back until you have listened carefully and are sure you und
 
 To say "I don’t understand" is, of course, also a critical judgment, but only after you have tried your hardest does it reflect on the book rather than yourself. If you have done everything that can be expected of you and still do not understand, it may be because the book is unintelligible. When you say "I don’t understand," watch your tone of voice. Be sure it concedes the possibility that it may not be the author’s fault.
 
-Note that sometimes to udnerstand another you must have read his prerequisit work. Those who judge Kant’s Critique of Pure Reason without reading his Critique of Practical Reason, or Adam Smith’s Wealth of Nations without reading his Theory of the Moral Sentiments, or The Communist Manifesto without Marx’s Capital, are more likely than not to be agreeing or disagreeing with something they do not fully understand.
+Note that sometimes to understand another you must have read his prerequisite work. Those who judge Kant’s Critique of Pure Reason without reading his Critique of Practical Reason, or Adam Smith’s Wealth of Nations without reading his Theory of the Moral Sentiments, or The Communist Manifesto without Marx’s Capital, are more likely than not to be agreeing or disagreeing with something they do not fully understand.
 
 ##### Do not be Disputatious (Rule 10)
 
@@ -441,12 +434,12 @@ The first thing a reader can say is that he understands or that he does not. In 
 
 There is one exception to the harshness of the second alternative. “I don’t understand” may itself be a critical remark. To make it so, the reader must be able to support it. If the fault is with the book rather than himself, the reader must locate the sources of trouble. He should be able to show that the structure of the book is disorderly, that its parts do not hang together, that some of it lacks relevance, or, perhaps, that the author equivocates in the use of important words, with a whole train of consequent confusions. To the extent that a reader can support his charge that the book is unintelligible, he has no further critical obligations.
 
-let us suppose that you are finally able to say “I understand.” If, in addition to understanding the book, you agree thoroughly with what the author says, the work is over. The analytical reading is completely done. You have been enlightened, and convinced or persuaded. It is clear that we have additional steps to consider only in the case of disagreement or suspended judgment. The former is the more usual case.
+Let us suppose that you are finally able to say “I understand.” If, in addition to understanding the book, you agree thoroughly with what the author says, the work is over. The analytical reading is completely done. You have been enlightened, and convinced or persuaded. It is clear that we have additional steps to consider only in the case of disagreement or suspended judgment. The former is the more usual case.
 
 If the reader understands a book, how can he disagree with it? Critical reading demands that he make up his own mind. But his mind and the author’s have become as one through his success in understanding the book. What mind has he left to make up independently? There are some people who make the error that causes this apparent difficulty: they fail to distinguish between two senses of “agreement.” In consequence, they wrongly suppose that where there is understanding between men, disagreement is impossible. They say that all disagreement is simply owing to misunderstanding. **The error in this becomes obvious as soon as we remember that the author is making judgments about the world in which we live. He claims to be giving us theoretical knowledge about the way things exist and behave, or practical knowledge about what should be done. Obviously, he can be either right or wrong.** His claim is justified only to the extent that he speaks truly, to the extent that he says what is probable in the light of evidence. Otherwise, his claim is unfounded.
 
 These three conditions are, ideally, the sine qua non of intelligent and profitable conversation.
-On the involvement of emotions with disagreeming: You disagree because you think the author can be shown to be wrong on some point. You are not simply voicing your prejudice or expressing your emotions. Because this is true, then, from an ideal point of view, there are three conditions that must be satisfied if controversy is to be well conducted:
+On the involvement of emotions with disagreement: You disagree because you think the author can be shown to be wrong on some point. You are not simply voicing your prejudice or expressing your emotions. Because this is true, then, from an ideal point of view, there are three conditions that must be satisfied if controversy is to be well conducted:
 
 1. Since men are animals as well as rational, it is necessary to acknowledge the emotions you bring to a dispute, or those that arise in the course of it. Otherwise you are likely to be giving vent to feelings, not stating reasons. You may even think you have reasons, when all you have are strong feelings.
 2. Second, you must make your own assumptions explicit. You must know what your prejudices—that is, your prejudgments—are. Otherwise you are not likely to admit that your opponent may be equally entitled to different assumptions. Good controversy should not be a quarrel about assumptions. **If an author, for example, explicitly asks you to take something for granted, the fact that the opposite can also be taken for granted should not prevent you from honoring his request.** If your prejudices lie on the opposite side, and if you do not acknowledge them to be prejudices, you cannot give the author’s case a fair hearing.
@@ -454,7 +447,7 @@ On the involvement of emotions with disagreeming: You disagree because you think
 
 If you have not been able to show that the author is uninformed, misinformed, or illogical on relevant matters, you simply cannot disagree. You must agree. You cannot say, as so many students and others do, “I find nothing wrong with your premises, and no errors in reasoning, but I don’t agree with your conclusions.” All you can possibly mean by saying something like that is that you do not like the conclusions. You are not disagreeing. You are expressing your emotions or prejudices. If you have been convinced, you should admit it. (If, despite your failure to support one or more of these three critical points, you still honestly feel unconvinced, perhaps you should not have said you understood in the first place.) The first three remarks are related to the author’s terms, propositions, and arguments. These are the elements he used to solve the problems that initiated his efforts. The fourth remark—that the book is incomplete—bears on the structure of the whole.
 
-After you can say I understand but I disagree, you may show your disagreement with the following maxims, (these are not mutuall exclusive, a work could suffer from one or more of them):
+After you can say I understand but I disagree, you may show your disagreement with the following maxims, (these are not mutual exclusive, a work could suffer from one or more of them):
 
 12. Show wherein the author is uninformed.
 13. Show wherein the author is misinformed.
@@ -475,7 +468,7 @@ Whenever a man is misinformed in a certain respect, he is also uninformed in the
 
 To say that an author is illogical is to say that he has committed a fallacy in reasoning. In general, fallacies are of two sorts. There is the non sequitur, which means that what is drawn as a conclusion simply does not follow from the reasons offered. And there is the occurrence of inconsistency, which means that two things the author has tried to say are incompatible. To make either of these criticisms, the reader must be able to show the precise respect in which the author’s argument lacks cogency[^12].
 
-[^12]: non sequiur (it does not follow): "John is tall. Therefore, he must be good at basketball." An example of an inconcistency:  An author writes in a parenting advice article: "Parents should never use rewards to motivate children because external motivation damages intrinsic drive and creates dependency. Children should learn to be self-motivated." Then later in the same article writes:
+[^12]: non sequitur (it does not follow): "John is tall. Therefore, he must be good at basketball." An example of an inconsistency:  An author writes in a parenting advice article: "Parents should never use rewards to motivate children because external motivation damages intrinsic drive and creates dependency. Children should learn to be self-motivated." Then later in the same article writes:
 "I recommend setting up a star chart system where children earn points toward a weekly prize for completing their homework and chores."
 
 
@@ -489,13 +482,13 @@ You may see how the fourth critical remark ties together the three stages of ana
 
 ## Syntopical Reading
 
-The reading of two or more books on the same subject. This implies that the subject must be definee before reading, but it's actually the case, that the subject is defined after the reading. Take the subjects of love or progress as examples. You might have to read dozens of books before the subject is clear. Love and progress have many definitions and variations and finding the right books on the specific definition that you're trying to solve for requires that you read. This is where you skill as an inspectional reading comes in. You'll be able to inspect a book and decide whether it tackles the subject matter that you're interested in.
+The reading of two or more books on the same subject. This implies that the subject must be define before reading, but it's actually the case, that the subject is defined after the reading. Take the subjects of love or progress as examples. You might have to read dozens of books before the subject is clear. Love and progress have many definitions and variations and finding the right books on the specific definition that you're trying to solve for requires that you read. This is where you skill as an inspectional reading comes in. You'll be able to inspect a book and decide whether it tackles the subject matter that you're interested in.
 
 The aim of analytical reading applies to the reading and understanding of a single book. The book is your master. In syntopical reading it's the reverse, it is you and your concerns that are primarily to be served, not the books that you read. You are the master.
 
-When you're done with syntopical reading, you will not have found an answer to your problem. You will have found discussions of it by different authors. In their agreement and their disagreement about the issues, you'll get new insights that you didn't have before, but not solutions or answers. If you're successfull, you'll have more questions and a deeper understanding of the issue.
+When you're done with syntopical reading, you will not have found an answer to your problem. You will have found discussions of it by different authors. In their agreement and their disagreement about the issues, you'll get new insights that you didn't have before, but not solutions or answers. If you're successful, you'll have more questions and a deeper understanding of the issue.
 
-It follows then that you must maintain absolute (as humanly possible) objectivity and always refer to the author's text along with your conclusions otherwise, you'll be just another voice in the dicussion. Look at all sides and take no sides.
+It follows then that you must maintain absolute (as humanly possible) objectivity and always refer to the author's text along with your conclusions otherwise, you'll be just another voice in the discussion. Look at all sides and take no sides.
 
 ### Syntopical Steps
 
@@ -504,10 +497,10 @@ Stage I: Surveying the Field
   2. Using inspectional reading, confirm whether the books actually treat your subject matter or question and also to clarify your idea of the subject. The more you inspect the clearer the subject becomes.
 
 Stage II: Syntopical Reading
-  1. Finding the relevant passages: do another inspectional read and note the relevant passages in the book that you will return to to read analytically. This step cannot be combined with the analytical read you did in stage I to include the book on the list. No matter your level of expertese.
-  2. Bringing the authors to terms: you may not depend on the terms the authors use. Here you'll have to contruct your own neutral terms and link each other's different use of keyword to them. This requires lazer eyes to see beyond the language and into the terms. Subtly different words referring to the same terms.
+  1. Finding the relevant passages: do another inspectional read and note the relevant passages in the book that you will return to to read analytically. This step cannot be combined with the analytical read you did in stage I to include the book on the list. No matter your level of expertise.
+  2. Bringing the authors to terms: you may not depend on the terms the authors use. Here you'll have to construct your own neutral terms and link each other's different use of keyword to them. This requires laser eyes to see beyond the language and into the terms. Subtly different words referring to the same terms.
   3. Getting the questions clear: as you read analytically the passages, you'll create questions that two or more of the others are answering. Sometimes without them knowing that they're treating the question.
-  4. Defining the issues: group the issues that the answers to the questions highlight. Order them in such a way that throw the most light on the issue. More general at the top, then the most speicic ones.
+  4. Defining the issues: group the issues that the answers to the questions highlight. Order them in such a way that throw the most light on the issue. More general at the top, then the most specific ones.
   5. Analyzing the discussion: show where each of the authors stand on the issues and how they think and treat each.
 
 ## Adapting the Analytical Rules
@@ -522,9 +515,9 @@ Questions that every practical book will have
 
 The most important thing to remember about any practical book is that it can never solve the practical problems with which it is concerned. A theoretical book can solve its own problems. But a practical problem can only be solved by action itself. Your action.
 
-The practical author can give rules that they think will work fo ryou, but it is you the reader in your own world and your own situation that must apply them. So you'll have to use your judgement in applying the author's rules or recommended actions and modifying them to suite your needs. He can never know what's right for you.
+The practical author can give rules that they think will work for you, but it is you the reader in your own world and your own situation that must apply them. So you'll have to use your judgement in applying the author's rules or recommended actions and modifying them to suite your needs. He can never know what's right for you.
 
-A rule of conduct is practically true on two conditions: one is that it works; the other is that its working leads you to the right end, an end you rightly desire. Even if you think it works, but dont' agree or are not interested in the end that it leads to, then the book has little practical use for you.
+A rule of conduct is practically true on two conditions: one is that it works; the other is that its working leads you to the right end, an end you rightly desire. Even if you think it works, but don't agree or are not interested in the end that it leads to, then the book has little practical use for you.
 
 The practical author has to be a propagandist to convince you of the goals he's proposing that you achieve. That's OK, as long as you're aware of the propaganda. What enters the heart without first going through the mind will come back at you and put the mind out of commission. Allow him to appeal to your emotions (thought -> emotion -> action, beware when the thought step is skipped) when your goals are aligned with his. It becomes motivation, not manipulation in that case.
 
@@ -548,20 +541,20 @@ In expository works, you work on the book. In imaginative you let the book work 
 
 * Don't try to resist the effect an imaginative work has on you.
 * Don't look for terms, propositions and arguments
-* Don't critisize fiction by the standards of truth and consistency that properly apply to communication of knowledge.
+* Don't criticize fiction by the standards of truth and consistency that properly apply to communication of knowledge.
 * Structural analogue:
     1. Classify as lyric, novel or play. A play differs from a novel in how it narrates entirely by means of actions and speeches. The playwrite can never speak in hi own person as the novelist can.
-    2. The unity of a sotry is always in its plot. YOu should be able to summarize the plot
+    2. The unity of a story is always in its plot. You should be able to summarize the plot
     3. The parts follow a temporal scheme that have a beginning, middle and end, so you must be able to state those. Beginning doesn't necessarily start at the beginning of the book. You can't pull out section and chapters as you can in expository works.
 * Interpretive analogue:
     1. The terms of a fiction are its characters and events.
-    2. The propositions are is the background against which the characters and evetns take place. Here, you job is to live in this background as if you were a contemporary of these characters.
+    2. The propositions are is the background against which the characters and events take place. Here, you job is to live in this background as if you were a contemporary of these characters.
     3. Follow the actions and arguments of the characters in this artificial world to which you belong and be able to state from the points of views of the characters why they did what the did.
-* Critical analogue: don't citicize imaginative writing until you fully appreciate what the author has tried to make you experience. Here you don't say you agree or disagree or suspend judgement, but instead you say I like it because or I don't like it because...
+* Critical analogue: don't criticize imaginative writing until you fully appreciate what the author has tried to make you experience. Here you don't say you agree or disagree or suspend judgement, but instead you say I like it because or I don't like it because...
 
 #### Stories
 
-* Try to read the story or novel as fast as possible. In one sitting if possible, otherwise the plot will escape you. Quicly, but with total immersion and actively. Remeber the four basic questions.
+* Try to read the story or novel as fast as possible. In one sitting if possible, otherwise the plot will escape you. Quickly, but with total immersion and actively. Remember the four basic questions.
 * Don't be anxious about complex novels (if they're good) with many characters. As you read it, the important characters and events will become more visible and the unimportant ones will fade into the background. Imagine moving into a new town, how everyone is a stranger, but little by little, neighbors start to emerge, friends start become more visible and events more regular. At first it was overwhelming, but then it becomes part of your world.
 
 ### Other Types
@@ -583,7 +576,7 @@ I did not take notes about how to read the types of books below. I'll do so when
 
 ## Types of Books (TODO: Lookup definitions of each type to help me detect it)
 * Expository
-    * Theoratical: that something is the case (it is the case that).
+    * Theoretical: that something is the case (it is the case that).
         * History: narration of past events and their place.
         * Science: things outside the scope of your normal, routine, daily experience. Lab.
         * Mathematics
@@ -605,7 +598,7 @@ I did not take notes about how to read the types of books below. I'll do so when
     * [desert island books] 0.001% of all books will never be grasped by you. Each analytical read will stretch you more. Seek them out! You'll keep returning to these books and keep learning. You might think a hard book is in this category, but when you return to it, you might find out that you've gotten all you want out of it.
 * Only books that are beyond you will improve your analytical reading skill and will expand your wisdom.
 * Informative books cause a quantitative change in information in you, but no improvement in reading skill nor wisdom.
-* They body is limited and declines after 30. The mind keeps groing indefinitely. But it can atrophy like the muscles if it is not constantly growing intellectually, morally and spiritually. When it ceases to grow, we begine to die.
+* They body is limited and declines after 30. The mind keeps growing indefinitely. But it can atrophy like the muscles if it is not constantly growing intellectually, morally and spiritually. When it ceases to grow, we begin to die.
 * Beware of the illusion that you're using your mind when you're just reacting to stimuli and hording information: documentaries, amusement, online courses, media, etc...
 * To be informed is to know simply that something is the case. To be enlightened is to know, in addition, what it is all about: why it is the case, what its connections are with other facts, in what respects it is the same, in what respects it is different, and so forth.
 * The person who has had one experience in acquiring a complex skill knows that he need not fear the array of rules that present themselves at the beginning of something new to be learned. He knows that he does not have to worry about how all the separate acts in which he must become separately proficient are going to work together. The multiplicity of the rules indicates the complexity of the one habit to be formed, not a plurality of distinct habits. The parts coalesce and telescope as each reaches the stage of automatic execution. When all the subordinate acts can be done more or less automatically, you have formed the habit of the whole performance. Then you can think about tackling an expert run you have never skied before, or reading a book that you once thought was too difficult for you. At the beginning, the learner pays attention to himself and his skill in the separate acts. When the acts have lost their separateness in the skill of the whole performance, the learner can at last pay attention to the goal that the technique he has acquired enables him to reach.
@@ -637,9 +630,9 @@ BOOKMARK PAGE & WRITE "MP" NEXT TO A MAJOR POINT—to be used sparingly, to emph
 
 NUMBERS IN THE MARGIN & HIGHLIGHT SENTENCE—to indicate a sequence of points made by the author in developing an argument. Maybe an argument's keyword to remember which argument the propositions are referring to. e.g. "Love is life argument", you'd note "LIL p3" for love is life proposition 3.
 
-HIGHLIGHT KEYWORDS- to inditicate a keyword (term). So highlighting is used for keywords and key sentences that lead to arguments. Keyword -> Key sentence -> Argument.
+HIGHLIGHT KEYWORDS- to indicate a keyword (term). So highlighting is used for keywords and key sentences that lead to arguments. Keyword -> Key sentence -> Argument.
 
-HIGHLIGHTED SENTENCES WITHOUT NUMBERS- are key sentences, but not necessarly part of a larger argument. They might be the complete argument.
+HIGHLIGHTED SENTENCES WITHOUT NUMBERS- are key sentences, but not necessarily part of a larger argument. They might be the complete argument.
 
 WRITING IN THE MARGIN, OR AT THE TOP OR BOTTOM OF THE PAGE—
   * to record questions (and perhaps answers) which a passage raises in your mind;
