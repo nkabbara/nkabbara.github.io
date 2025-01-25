@@ -8,6 +8,12 @@ categories: books
 tags: hidden
 ---
 
+<style>
+  h5 {
+    font-size: 19px;
+  }
+</style>
+
 by Adler, Van Doren  [Buy it here](https://a.co/d/4GnNNF0)
 
 ## Summary
@@ -16,7 +22,15 @@ WIP: still formulating my summary and transfering my notes. I read this book man
 
 ## Overview
 
+TODO: how to read these notes here
+
+TODO: how I practiced this and what seems to be working.
+
 Eeach of inspectional, analytical and syntopical reading are complex acts. You must master each step of each level before attempting to do them as a whole. For example, first master how to find keywords separately from how to find key sentences, from how to find arguments. This will take time as you'll have to read each section multiple times. But as you do that over and over, you'll start noticing that in one read, you're able to ids all three in one reading. You'll also be able to combine stages together, not just steps of a stage. See note below about learning complex tasks.
+
+Categorize:
+**Only** seek out external aids to reading if you have done all you can to understand the book according to the rules of reading laid out here. Aids include: yourown experiences, as a first resort, second, see if the book has a prerequisit, third, refer to abstracts and commentaries but rarely and never before reading the book, finally, use pedias and dictionaries.
+
 
 ## Levels of Reading
 1. Elementary
@@ -447,17 +461,17 @@ After you can say I understand but I disagree, you may show your disagreement wi
 14. Show wherein the author is illogical.
 15. Show wherein the author’s analysis or account is incomplete.
 
-##### Show wherein the author is uninformed.
+##### Show wherein the author is uninformed (Rule 12)
 
 He lacks some piece of knowledge that is relevant to the problem he is trying to solve. To support the remark, you must be able yourself to state the knowledge that the author lacks and show how it is relevant, how it makes a difference to his conclusions.
 
-##### Show wherein the author is misinformed.
+##### Show wherein the author is misinformed (Rule 13)
 
 He asserts what is not the case. His error here may be owing to lack of knowledge, but the error is more than that. Whatever its cause, it consists in making assertions contrary to fact. The author is proposing as true or more probable what is in fact false or less probable. He is claiming to have knowledge he does not possess. This kind of defect should be pointed out, of course, only if it is relevant to the author’s conclusions. And to support the remark you must be able to argue the truth or greater probability of a position contrary to the author’s.
 
 Whenever a man is misinformed in a certain respect, he is also uninformed in the same respect.
 
-##### Show wherein the author is illogical.
+##### Show wherein the author is illogical (Rule 14)
 
 To say that an author is illogical is to say that he has committed a fallacy in reasoning. In general, fallacies are of two sorts. There is the non sequitur, which means that what is drawn as a conclusion simply does not follow from the reasons offered. And there is the occurrence of inconsistency, which means that two things the author has tried to say are incompatible. To make either of these criticisms, the reader must be able to show the precise respect in which the author’s argument lacks cogency[^12].
 
@@ -465,7 +479,7 @@ To say that an author is illogical is to say that he has committed a fallacy in 
 "I recommend setting up a star chart system where children earn points toward a weekly prize for completing their homework and chores."
 
 
-##### Show wherein the author’s analysis or account is incomplete.
+##### Show wherein the author’s analysis or account is incomplete (Rule 15)
 
 Author has not solved all the problems he started with, or that he has not made as good a use of his materials as possible, that he did not see all their implications and ramifications, or that he has failed to make distinctions that are relevant to his undertaking. It is not enough to say that a book is incomplete. Anyone can say that of any book. Men are finite, and so are their works, every last one. There is no point in making this remark, therefore, unless the reader can define the inadequacy precisely, either by his own efforts as a knower or through the help of other books.
 
@@ -473,7 +487,101 @@ This fourth point is strictly not a basis for disagreement. It is critically adv
 
 You may see how the fourth critical remark ties together the three stages of analytical reading of any book. The last step of structural outlining is to know the problems that the author is trying to solve. The last step of interpretation is to know which of these problems the author solved and which he did not. The final step of criticism is the point about completeness. It touches structural outlining insofar as it considers how adequately the author has stated his problems, and interpretation insofar as it measures how satisfactorily he has solved them.
 
-### Types of Books (TODO: Lookup definitions of each type to help me detect it)
+## Syntopical Reading
+
+The reading of two or more books on the same subject. This implies that the subject must be definee before reading, but it's actually the case, that the subject is defined after the reading. Take the subjects of love or progress as examples. You might have to read dozens of books before the subject is clear. Love and progress have many definitions and variations and finding the right books on the specific definition that you're trying to solve for requires that you read. This is where you skill as an inspectional reading comes in. You'll be able to inspect a book and decide whether it tackles the subject matter that you're interested in.
+
+The aim of analytical reading applies to the reading and understanding of a single book. The book is your master. In syntopical reading it's the reverse, it is you and your concerns that are primarily to be served, not the books that you read. You are the master.
+
+When you're done with syntopical reading, you will not have found an answer to your problem. You will have found discussions of it by different authors. In their agreement and their disagreement about the issues, you'll get new insights that you didn't have before, but not solutions or answers. If you're successfull, you'll have more questions and a deeper understanding of the issue.
+
+It follows then that you must maintain absolute (as humanly possible) objectivity and always refer to the author's text along with your conclusions otherwise, you'll be just another voice in the dicussion. Look at all sides and take no sides.
+
+### Syntopical Steps
+
+Stage I: Surveying the Field
+  1. Find the right books on the subject you're interested it through syntopicon, librarians, references, experts in the field
+  2. Using inspectional reading, confirm whether the books actually treat your subject matter or question and also to clarify your idea of the subject. The more you inspect the clearer the subject becomes.
+
+Stage II: Syntopical Reading
+  1. Finding the relevant passages: do another inspectional read and note the relevant passages in the book that you will return to to read analytically. This step cannot be combined with the analytical read you did in stage I to include the book on the list. No matter your level of expertese.
+  2. Bringing the authors to terms: you may not depend on the terms the authors use. Here you'll have to contruct your own neutral terms and link each other's different use of keyword to them. This requires lazer eyes to see beyond the language and into the terms. Subtly different words referring to the same terms.
+  3. Getting the questions clear: as you read analytically the passages, you'll create questions that two or more of the others are answering. Sometimes without them knowing that they're treating the question.
+  4. Defining the issues: group the issues that the answers to the questions highlight. Order them in such a way that throw the most light on the issue. More general at the top, then the most speicic ones.
+  5. Analyzing the discussion: show where each of the authors stand on the issues and how they think and treat each.
+
+## Adapting the Analytical Rules
+
+It is important to note here that the fifteen rules of reading, in the form in which they were presented toward the end of Chapter 11, do not apply to the reading of fiction and poetry. The outlining of the structure of an imaginative work is a different matter from the outlining of an expository book. Novels and plays and poems do not proceed by terms, propositions, and arguments—their fundamental content, in other words, is not logical, and the criticism of such works is based on different premises. Nevertheless, it would be a mistake to think that no rules at all apply to reading imaginative literature.
+
+### Practical Books
+
+Questions that every practical book will have
+1. What are the author’s objectives? (Rule 4 adapted)
+2. What means for achieving them is he proposing? (Rule 8 adapted)
+
+The most important thing to remember about any practical book is that it can never solve the practical problems with which it is concerned. A theoretical book can solve its own problems. But a practical problem can only be solved by action itself. Your action.
+
+The practical author can give rules that they think will work fo ryou, but it is you the reader in your own world and your own situation that must apply them. So you'll have to use your judgement in applying the author's rules or recommended actions and modifying them to suite your needs. He can never know what's right for you.
+
+A rule of conduct is practically true on two conditions: one is that it works; the other is that its working leads you to the right end, an end you rightly desire. Even if you think it works, but dont' agree or are not interested in the end that it leads to, then the book has little practical use for you.
+
+The practical author has to be a propagandist to convince you of the goals he's proposing that you achieve. That's OK, as long as you're aware of the propaganda. What enters the heart without first going through the mind will come back at you and put the mind out of commission. Allow him to appeal to your emotions (thought -> emotion -> action, beware when the thought step is skipped) when your goals are aligned with his. It becomes motivation, not manipulation in that case.
+
+Two types of practical books
+1. Rule book (like this one)
+  * How To, Guides, Manuals, etc...
+  * Easy to spot the propositions. They're usually in the imperative.
+2. Principles book
+  * books in economics, politics, and morals
+  * You'll have to deduce your own rules from the principles and apply them in the read world
+  * Must read between the lines to generate rules
+  * Must know it's a practical book or you'll read it incorrectly
+
+### Imaginative Literature
+
+Expository works try to convey knowledge, while imaginative ones try to communicate experience itself. The former appeals to our judgement and reasoning while the latter to our senses and imagination.
+
+A work of fine art is fine not because it is refined or finished, but because it is an end in itself. It is its own excuse for being.
+
+In expository works, you work on the book. In imaginative you let the book work on you.
+
+* Don't try to resist the effect an imaginative work has on you.
+* Don't look for terms, propositions and arguments
+* Don't critisize fiction by the standards of truth and consistency that properly apply to communication of knowledge.
+* Structural analogue:
+    1. Classify as lyric, novel or play. A play differs from a novel in how it narrates entirely by means of actions and speeches. The playwrite can never speak in hi own person as the novelist can.
+    2. The unity of a sotry is always in its plot. YOu should be able to summarize the plot
+    3. The parts follow a temporal scheme that have a beginning, middle and end, so you must be able to state those. Beginning doesn't necessarily start at the beginning of the book. You can't pull out section and chapters as you can in expository works.
+* Interpretive analogue:
+    1. The terms of a fiction are its characters and events.
+    2. The propositions are is the background against which the characters and evetns take place. Here, you job is to live in this background as if you were a contemporary of these characters.
+    3. Follow the actions and arguments of the characters in this artificial world to which you belong and be able to state from the points of views of the characters why they did what the did.
+* Critical analogue: don't citicize imaginative writing until you fully appreciate what the author has tried to make you experience. Here you don't say you agree or disagree or suspend judgement, but instead you say I like it because or I don't like it because...
+
+#### Stories
+
+* Try to read the story or novel as fast as possible. In one sitting if possible, otherwise the plot will escape you. Quicly, but with total immersion and actively. Remeber the four basic questions.
+* Don't be anxious about complex novels (if they're good) with many characters. As you read it, the important characters and events will become more visible and the unimportant ones will fade into the background. Imagine moving into a new town, how everyone is a stranger, but little by little, neighbors start to emerge, friends start become more visible and events more regular. At first it was overwhelming, but then it becomes part of your world.
+
+### Other Types
+
+I did not take notes about how to read the types of books below. I'll do so when I read those genres. Currently my reading is limited to practical books and novels (some stories) so I just took notes on those..
+
+* Epics
+* Plays
+* Tragedy
+* Lyric Poetry
+* History
+* Current Events
+* Biographies and Auto Biographies
+* Classical Scientific Books
+* Mathematics
+* Popular Science
+* Philosophy
+* Social Science
+
+## Types of Books (TODO: Lookup definitions of each type to help me detect it)
 * Expository
     * Theoratical: that something is the case (it is the case that).
         * History: narration of past events and their place.
@@ -494,7 +602,7 @@ You may see how the fourth critical remark ties together the three stages of ana
 * Classes of books[^13]:
     * [one chapter books] 99% of all books ever written can be satisfied with an inspectional reading.
     * [hard books] 0.01% of books make severe demands on you, but you may reach their level after your first analytical read. You only return to them to refresh your memory.
-    * [desert island books] 0.001% of all books will never be grasped by you. Each analytical read will stretch you more. Seek them out!
+    * [desert island books] 0.001% of all books will never be grasped by you. Each analytical read will stretch you more. Seek them out! You'll keep returning to these books and keep learning. You might think a hard book is in this category, but when you return to it, you might find out that you've gotten all you want out of it.
 * Only books that are beyond you will improve your analytical reading skill and will expand your wisdom.
 * Informative books cause a quantitative change in information in you, but no improvement in reading skill nor wisdom.
 * They body is limited and declines after 30. The mind keeps groing indefinitely. But it can atrophy like the muscles if it is not constantly growing intellectually, morally and spiritually. When it ceases to grow, we begine to die.
@@ -541,11 +649,3 @@ WRITING IN THE MARGIN, OR AT THE TOP OR BOTTOM OF THE PAGE—
 PERSONAL INDEX- Add a canvas on the endpapers at the back of the book and use it to make a personal index of the author’s points in the order of their appearance. You can extract those from highlighted sentences in the book. With and without numbers in the margin.
 
 WEB PAGE FOR THE BOOK- After finishing the book and making your personal index on the back endpapers, create a webpage on your site, nashkabbara.com, and try to outline the book, not page by page or point by point (you have already done that at the back), but as an integrated structure, with a basic outline and an order of parts. That outline will be the measure of your understanding of the work; It will express your intellectual ownership of the book.
-
-### Syntopical/Dialectical
-
-During syntopical reading, your notes will be mostly about many authors' concepts and the shape the discussion (unbeknownst to them). These are dialectical notes.
-
-In addition to the conceptual notes, you'll need an external notebook to index different books.
-
-(Note: when doing syntopical notes, go back to page 125 for a relevant highlight.)
