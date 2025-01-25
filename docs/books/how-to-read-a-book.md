@@ -18,11 +18,13 @@ by Adler, Van Doren  [Buy it here](https://a.co/d/4GnNNF0)
 
 ## Summary
 
-You know how when you buy a book you open it to page one and start reading until you're done? Well, you're missing out on a much richer and more enlightening reading experience. There's a better way.
+You know how when you buy a book and you open it to page one and start reading until you're done? Well, you're missing out on a much richer and more enlightening reading experience. There's a better way.
 
-My favorite thing about mastering inspectional reading is that it permits you to quickly put the book away because it doesn't serve the purpose you expected it to serve. But more than that, this level of reading enables you to get out a lot of a book quickly if you decide to proceed to its stage II. And if still you decide to give it an analytical read (rare books), then you'll elevate yourself to the level of the author and become his equal in wisdom.
+Inspectional Reading: My favorite thing about inspectional reading is that it permits you to quickly put the book away because it doesn't serve the purpose you expected it to serve. But more than that, this level of reading enables you to get a lot out of a book quickly if you decide to proceed with it. And if still you decide to give it an analytical read (you should do so rarealy), then you'll elevate yourself to the level of the author and become his equal in wisdom.
 
-I attempted analytical reading on the last part of this book and found it very difficult at first because I was combining the rules. For example, I was trying to find the terms (rule 5), while at the same time the propositions (rule 6), and arguments (rule 7). Then I tried a different approach: I read a section while only applying rule 5, then I re-read it applying rule 6, and so on. As I did this with a few sections, I started to more naturally spot terms and propositions and arguments in one go. This might mean that when you start an analytical reading of a book, you might have to reread sections applying one rule at a time, but then as you go deeper into the book, the rules in a stage or even the first two stages according to the author, coalesce into one. The third stage can only be completed after you've done the first two.
+Analytical Reading: I attempted analytical reading on the last part of this book and found it very difficult at first because I was combining the rules. For example, I was trying to find the terms (rule 5), while at the same time the propositions (rule 6), and arguments (rule 7). Then I tried a different approach: I read a section while only applying rule 5, then I re-read it applying rule 6, and so on. As I did this with a few sections, I started to spot terms, propositions and arguments simultaneously. This might mean that when you start an analytical reading of a book, you might have to reread sections applying one rule at a time, but then as you go deeper into the book, the rules of a stage or even the multiple stages start to coalesce into one. The third stage of analytical reading can only be completed after you've done the first two.
+
+I haven't attempted syntopical reading. If I do, I'll update this document.
 
 ## Levels of Reading
 1. Elementary
@@ -365,8 +367,6 @@ The two processes in Stage I and Stage II that we have done thus far, outlining 
 
 What to do here: Update the questions and problems in Rule 4 with your findings.
 
-_TODO INSERT DRAWING HERE_
-
 ### Stage III: Rules for criticizing a book as a communication of knowledge
 
 Here you will reap the reward of all your previous efforts.
@@ -559,30 +559,30 @@ In expository works, you work on the book. In imaginative you let the book work 
 
 ### Other Types
 
-I did not take notes about how to read the types of books below. I'll do so when I read those genres. Currently my reading is limited to practical books and novels (some stories) so I just took notes on those..
+I did not take notes about how to read other types of books. I'll do so when I read those genres. Currently my reading is limited to practical books and novels (some stories) so I just took notes on those.
 
-* Epics
-* Plays
-* Tragedy
-* Lyric Poetry
-* History
-* Current Events
-* Biographies and Auto Biographies
-* Classical Scientific Books
-* Mathematics
-* Popular Science
-* Philosophy
-* Social Science
-
-## Types of Books (TODO: Lookup definitions of each type to help me detect it)
+## Types of Books
 * Expository
     * Theoretical: that something is the case (it is the case that).
         * History: narration of past events and their place.
+          * Biographies and Auto Biographies
+          * Current Events
         * Science: things outside the scope of your normal, routine, daily experience. Lab.
+        * Classical Scientific Books
         * Mathematics
         * Philosophy: experiences that are common to all.
+        * Popular Science
         * Social Science
-    * Practical: how to do something (should, ought, good, bad, ends and means). Guidebooks, art to be learned, manuals, engineering, medicine, cooking, economics, ethics, political.
+    * Practical: how to do something (should, ought, good, bad, ends and means).
+        * Guidebooks
+        * Art to be learned
+        * Manuals
+        * Engineering
+        * Medicine
+        * Cooking
+        * Economics
+        * Ethics
+        * Political
 * Imaginative
     * Stories
     * Epics
