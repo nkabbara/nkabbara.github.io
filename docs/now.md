@@ -3,12 +3,12 @@ layout: page
 title: "now"
 created: 2024-12-14
 updated: 2025-01-22
-version: 1.2.7
+version: 1.3.8
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Jan 27 , 2025 from Buenos Aires._</small>
+<small>_Last updated on Jan 27, 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 
