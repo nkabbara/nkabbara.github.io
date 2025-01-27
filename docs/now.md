@@ -8,16 +8,15 @@ categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Jan 22 , 2025 from Buenos Aires._</small>
+<small>_Last updated on Jan 27 , 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 
-I just paused a long chapter of working as a Software Engineer indefinitely. I have a good idea of what my next project is, but I'm creating some liminal space in which I get to think things through before jumping in. During this time I'll be [backpacking](/camping-sierra-de-la-ventana.html) around Argentina and reading some books that I had been wanting to [internalize](/books/how-to-read-a-book) for a while. I'll update my notes below as I go through them. _Currently working on [How to Read a Book](/books/how-to-read-a-book)_.
+I just paused a long chapter of working as a Software Engineer indefinitely. I have a good idea of what my next project is, but I'm creating some liminal space in which I get to think things through before jumping in. During this time I'll be [backpacking](/camping-sierra-de-la-ventana.html) around Argentina and reading some books that I had been wanting to [internalize](/books/how-to-read-a-book) for a while. I'll update my notes below as I go through them. _Currently considering different subjects to read about. Candidates are: on writing, on habit forming, or ways to live.
 
 - [Useful Not True](/books/useful-not-true) (done)
-- [How to Read a Book](/books/how-to-read-a-book) (wip)
-- [Atomic Habits](/books/atomic-habits) (tentative)
-- [How To Live](/books/how-to-live) (tentative)
+- [How to Read a Book](/books/how-to-read-a-book) (done)
+- Scouting for next subject...
 
 ## Bikram Yoga
 

@@ -13,4 +13,4 @@ categories: books
 
 ## [How to Read a Book](/books/how-to-read-a-book) <small style="font-size: 0.4em">by Adler , Van Doren</small>
 
-You know how when you buy a book you open it to page one and start reading until you're done? Well, you're missing out on a much richer and more enlightening reading experience. There's a better way.
+You know how when you buy a book and you open it to page one and start reading until you're done? Well, you're missing out on a much richer and more enlightening reading experience. There's a better way...
