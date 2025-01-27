@@ -35,7 +35,7 @@ I haven't attempted syntopical reading. If I do, I'll update this document.
 ## Basic Rules of Reading
 * Most books should only be read inspectionally. Analytical and syntopical reading only apply to books that are over your head[^1] and worth reading for you.
 * Every page and passage in a book should be read no more slowly[^2] than it deserves, and no more quickly than you can read it with satisfaction and comprehension. Variation of speed is key. Applies to inspectional[^3], analytical and syntopical reading.
-* A demanding reader is one who has formed the habit of asking the four basic questions and knows how to answer them precisely and accurately.
+* A demanding reader is one who has formed the habit of asking the four basic questions and knows how to answer them precisely and accurately. Pay heed to the last two questions.
 * When reading a book, you must be in one of the four levels. Know which level you are in to read it appropriately[^4].
 * **Only** seek out external aids to reading if you have done all you can to understand the book according to the rules of reading laid out here. Aids include: your own experiences, as a first resort, second, see if the book has a prerequisite (Articles of Confederation, Constitution -> Federalist Papers), third, refer to abstracts and commentaries but rarely and never before reading the book, finally, use pedias and dictionaries, but know how to ask them questions.
 
@@ -63,7 +63,7 @@ Many quite good readers, are unaware of the value of inspectional reading. They 
 
 **Stage II: Superficial Reading**
 
-Part I, skimming, prepares us to to tackle the first stage of analytical reading: comprehension of the book's structure. Whereas, Part II, superficial reading, prepares us for the second stage of analytical reading, namely interpretation of the book's content. We cannot interpret a book's content well unless we have read it a first time.
+Stage I, skimming, prepares us to to tackle the first stage of analytical reading: comprehension of the book's structure. Whereas, stage II, superficial reading, prepares us for the second stage of analytical reading, namely interpretation of the book's content. We cannot interpret a book's content well unless we have read it a first time.
 
 The two parts could be done simultaneously by the skilled reader, but until you become a skilled inspectional reader, do them as separate tasks.
 
@@ -78,38 +78,40 @@ Although you won't have time to take extensive notes in inspectional reading, wh
 
 ### Stage I: Systematic Skimming
 
-After this reading, you may decide that the book is not worth Part II (Superficial Reading) and put it away. You will at least have known what kind of book it is and what the author's main contention is.
+After this reading, you may decide that the book is not worth Stage II (Superficial Reading) and put it away. You will at least have known what kind of book it is and what the author's main contention is.
 
-Assume the following attitude before you begin stage I: Think of yourself as a detective looking for clues to a book’s general theme or idea, alert for anything that will make it clearer.
+Assume the following attitude before you begin stage I (all levels and stages for expository work, actually): Think of yourself as a detective looking for clues to a book’s general theme or idea, alert for anything that will make it clearer.
 
 Steps to complete Stage I:
 
 1. Look at the title page and, if the book has one, at its preface. Read each quickly. Get a feel for what the angle the author is taking and what his aim is. Categorize the book in your head with similar books you've read.
 2. Study the table of contents to obtain a general sense of the book’s structure; use it as you would a road map before taking a trip. It'll give a sense of how the author is planning to address his main contention.
 3. Check the index look for topics, works and authors that are referenced many times and read some of those passages, they may contain the crux of the author's argument.
-4. Read the publisher’s blurb. Many times it summarizes and lists the author's main points in the book. 1-4 are pre-skimming: you may now decide to not read the book, or read it later or continue with skimming proper.
+4. Read the publisher’s blurb. Many times it summarizes and lists the author's main points in the book. 1-4 are pre-skimming: **you may now decide to not read the book, or read it later or continue with skimming proper.**
 5. Look now at the chapters that seem to be pivotal to its argument. Read their opening and closing paragraphs, especially the summary kinds. Your still vague understanding of the book should be gaining some resolution.
 6. Finally, turn the pages, dipping in here and there, reading a paragraph or two, sometimes several pages in sequence, never more than that. Only do this at the important paragraphs to get a pulse for the book. For sure, read the last few pages of the main part of the book (not epilogue). It'll most likely contain a summary of the whole book. You might need to go this far to classify some books that are hard to classify.
 
 
 Outcomes:
-1. You stopped at step 4 and decided to stop reading.
+1. You stopped around step 4 and decided to stop reading.
 2. You complete Stage I and decided to stop reading.
-3. You completed Stage I and decide it's worth a superficial reading.
+3. You completed Stage I and decide it's worth a superficial reading and maybe analytical reading.
 
 In all cases, you know what kind of book it is and you know what its main arguments are and how the author has outlined it.
 
 ### Stage II: Superficial Reading
 
-One rule only: In tackling a difficult book for the first time, read it through without ever stopping to look up or ponder the things you do not understand right away. You will have a much better chance of understanding it on a second reading, but that requires you to have read the book through at least once. This is the definition of superficial reading.
+**One rule only:** In tackling a difficult book for the first time, read it through without ever stopping to look up or ponder the things you do not understand right away. You will have a much better chance of understanding it on a second reading, but that requires you to have read the book through at least once. This is the definition of superficial reading.
 
 We are incorrectly trained to pay the most attention to things that we don't understand. If we use this habit in superficial reading, then we will miss the forest for the trees. We will not get very far in our reading. And most importantly:
-  * We won't be reading well on any level. Nether superficial nor analytical.
+  * We won't be reading well on any level. Neither superficial nor analytical.
   * We will miss out the chance of reading the whole book and at least benefiting from the what we DO understand.
 
 _Remember how we read Smith's The Wealth of Nations. We underlined, looked things up, and were never able to complete it. We put it aside. If we had known how to read superficially, we would have completed it and benefited much more from it._
 
-Note: this does not mean read quickly and incomprehensibly. No, it's an activity with a goal of answering the first of the four basic questions.
+**This does not mean read so quickly that you're struggling with comprehension. No, it's an activity with a goal of answering the first of the four basic questions.**
+
+Outcomes: you have a good understanding of the book as far as the structure goes and some interpretive insights.
 
 ## Analytical Reading[^6]
 
@@ -121,7 +123,7 @@ Francis Bacon once remarked that “some books are to be tasted, others to be sw
 
 You should not take the term “stage” below in a chronological sense, **unless perhaps at the very beginning of your exercise as an analytical reader**[^7]. That is, it is not necessary to read a book through in order to apply the first four rules, then to read it again and again in order to apply the other rules. The practiced reader accomplishes all of these stages at once.
 
-[^7]: See learning under insights section. At first, you maybe to to reread and apply different sections, but that should stop as  you get more skilled.
+[^7]: See learning under insights section. At first, you maybe have to reread and apply different sections, but that should diminish as you get more skilled.
 
 **Stage I:  Rules for finding what a book is about (rules 1-4): Structural outlining**:
 1. Classify the book according to kind and subject matter.
@@ -136,11 +138,13 @@ You should not take the term “stage” below in a chronological sense, **unles
 7. Know the author’s arguments, by finding them in, or constructing them out of, sequence of sentences.
 8. Determine which of his problems the author has solved, and which he has not; and of the latter, decide which the author knew he had failed to solve.
 
-**Stage III: Rules for criticizing a book as a communication of knowledge (rules 9-15): Criticism**
+**Stage III: Rules for criticizing a book as a communication of knowledge (rules 9-15): Criticism.**
+
+_Arguably, the most important part of analytical reading and why we did Stage I & II_
 
   **A. General Maxims of Intellectual Etiquette**
 
-  9. Do not begin criticism until you have completed your outline and your interpretation of the book. (Do not say you agree, disagree, or suspend judgment, until you can say “I understand.”)
+  9. Do not begin criticism until you have completed your outline and your interpretation of the book. (Do not say you agree, disagree, or suspend judgment, until you can say “I understand.”) _Remember's Mortimer's rule to his students post-presentations. When they want to critique, he firsts tests them on whether they understood: say it in your own words, give me a real world or imagined example.
   10. Do not disagree disputatiously or contentiously.
   11. Demonstrate that you recognize the difference between knowledge and mere personal opinion by presenting good reasons for any critical judgment you make.
 
@@ -156,7 +160,7 @@ You may also see how the fourth critical remark, namely, "show wherein the autho
 
 "What of it?", "So what?": Unless what you have read is true in some sense, you need go no further. But if it is, you must face the last question. You cannot read for information intelligently without determining what significance is, or should be, attached to the facts presented.
 
-And if you are reading for enlightenment, there is really no end to the inquiry that, at every stage of learning, is renewed by the question, What of it? These four questions, as we have already pointed out, summarize all the obligations of a reader. The first three, moreover, correspond to something in the very nature of human discourse. If communications were not complex, structural outlining would be unnecessary. If language were a perfect medium instead of a relatively opaque one, there would be no need for interpretation. If error and ignorance did not circumscribe truth and knowledge, we should not have to be critical. The fourth question turns on the distinction between information and understanding. The fourth question is the meat of it. It is what will make you take action or modify action in the real world.
+And if you are reading for enlightenment, there is really no end to the inquiry that, at every stage of learning, is renewed by the question, What of it? These four questions, as we have already pointed out, summarize all the obligations of a reader. The first three, moreover, correspond to something in the very nature of human discourse. If communications were not complex, structural outlining would be unnecessary. If language were a perfect medium instead of a relatively opaque one, there would be no need for interpretation. If error and ignorance did not circumscribe truth and knowledge, we should not have to be critical. **The fourth question turns on the distinction between information and understanding. The fourth question is the meat of it. It is what will make you take action or modify action in the real world.**
 
 
 ### Stage I:  Rules for finding what a book is about
@@ -178,6 +182,8 @@ Also books differ in the kinds of knowledge they have to communicate, they proce
 
 How do you do so? By applying the rules in inspectional reading part I. See Types of Books section for most categories of book.
 
+Knowing type of book also puts you on alert for what it is you're looking for. If it's a howto your focus would be on the steps and rules, if it's math, your focus would be on proofs and their presentation.
+
 #### What the Whole Book is About (Rule 2)
 
 _Note that the unity of a book is highly correlated with how well you enumerate its major parts (see next section), the two rules go hand in hand._
@@ -186,30 +192,29 @@ State the unity of the whole book in a single sentence, or at most a few sentenc
 
 There is only one way to know that you have succeeded. You must be able to tell yourself or anybody else what the unity is, and in a few words. (If it requires too many words, you have not seen the unity but a multiplicity.) Do not be satisfied with “feeling the unity” that you cannot express. The reader who says, “I know what it is, but I just can’t say it,” probably does not even fool himself.
 
-How do you do so? By applying the rules in inspectional reading part II. Though it'll change as you apply the subsequent rules below.
+How do you do so? By applying the rules in inspectional reading part II. Though it'll change as you apply the subsequent rules below and in your analytical re-read.
 
-Note: even if the author gives you the unity of his work, don't use that as the unity we're discussing here. We want your unity, the reader. The author's is not the reader's.
+Note: even if the author gives you the unity of his work, don't use that as the unity we're discussing here. We want your unity, the reader. The author's unity is not the reader's.
 
 **Examples of Unity:**
 
 Aristotle's unity of Odyssey:
 
-A certain man is absent from home for many years; he is jealously watched by Poseidon, and left desolate. Meanwhile his home is in a wretched plight; suitors are wasting his substance and plotting against his son. At length, tempest-tossed, he himself arrives; he makes certain persons acquainted with him; he attacks the suitors with his own hand, and is himself preserved while he destroys them.
+> A certain man is absent from home for many years; he is jealously watched by Poseidon, and left desolate. Meanwhile his home is in a wretched plight; suitors are wasting his substance and plotting against his son. At length, tempest-tossed, he himself arrives; he makes certain persons acquainted with him; he attacks the suitors with his own hand, and is himself preserved while he destroys them.
 
 Unity of Tom Jones:
 
-Boy meets girl, boy loses girl, boy gets girl. [^8]
+> Boy meets girl, boy loses girl, boy gets girl. [^8]
 
 [^8]: That, indeed, is the plot of every romance. To recognize this is to learn what it means to say that there are only a small number of plots in the world.
 
 The unity of Aristotle’s Ethics:
 
-This is an inquiry into the nature of human happiness and an analysis of the conditions under which happiness may be gained or lost, with an indication of what men must do in their conduct and thinking in order to become happy or to avoid unhappiness, the principal emphasis being placed on the cultivation of the virtues, both moral and intellectual, although other goods are also recognized as necessary for happiness, such as wealth, health, friends, and a just society in which to live.
+> This is an inquiry into the nature of human happiness and an analysis of the conditions under which happiness may be gained or lost, with an indication of what men must do in their conduct and thinking in order to become happy or to avoid unhappiness, the principal emphasis being placed on the cultivation of the virtues, both moral and intellectual, although other goods are also recognized as necessary for happiness, such as wealth, health, friends, and a just society in which to live.
 
 The The Wealth of Nations:
 
-This is an inquiry into the source of national wealth in any economy that is built on a division of labor, considering the relation of the wages paid labor, the profits returned to capital, and the rent owed the landowner, as the prime factors in the price of commodities. It discusses the various ways in which capital can be more or less gainfully employed, and relates the origin and use of money to the accumulation and employment of capital. Examining the development of opulence in different nations and under different conditions, it compares the several systems of political economy, and argues for the beneficence of free trade.
-
+> This is an inquiry into the source of national wealth in any economy that is built on a division of labor, considering the relation of the wages paid labor, the profits returned to capital, and the rent owed the landowner, as the prime factors in the price of commodities. It discusses the various ways in which capital can be more or less gainfully employed, and relates the origin and use of money to the accumulation and employment of capital. Examining the development of opulence in different nations and under different conditions, it compares the several systems of political economy, and argues for the beneficence of free trade.
 
 #### Enumerate its Major Parts (Rule 3)
 
@@ -219,7 +224,7 @@ You have not grasped a complex unity if all you know about it is how it is one. 
 
 A formula can be stated for operating according to this third rule. It will guide you in a general way. According to the second rule, we had to say: The whole book is about so and so and such and such. That done, we might obey the third rule by proceeding as follows: (1) The author accomplished this plan in five major parts, of which the first part is about so and so, the second part is about such and such, the third part is about this, the fourth part about that, and the fifth part about still another thing. (2) The first of these major parts is divided into three sections, of which the first considers X, the second considers Y, and the third considers Z. (3) In the first section of the first part, the author makes four points, of which the first is A, the second
 
-Be careful in how far you go into this. Depending on what want from the book, you might stop at a rough mental outline to a deep breakdown that goes down several levels. This could be abused to end being longer than the book. A good rule always describes the ideal performance. But a person can be skilled in an art without being the ideal artist. If you've got what you wanted from the breakdown, stop.
+Be careful in how far you go into this. Depending on what you want from the book, you might stop at a rough mental outline to a deep breakdown that goes down several levels. This could be abused to end being longer than the book. A good rule always describes the ideal performance. But a person can be skilled in an art without being the ideal artist. If you've got what you wanted from the breakdown, stop. Getting to the main arguments might be good enough.
 
 Your outlines will probably not match the author's chapter divisions. He did it in order to write the book. You're doing it in order to read the book. Even if yours is not as good as his. But do use his titles, headings and subheadings as guides.
 
@@ -229,7 +234,9 @@ As you outline this book in analytical reading, your original unity that you wro
 
 You should be able to state the main question that the book tries to answer, and you should be able to state the subordinate questions if the main question is complex and has many parts. Which are primary and which secondary? Which questions must be answered first, if others are to be answered later?
 
-If you know the kinds of questions anyone can ask about anything, you will become adept in detecting an author’s problems. Some theoretical questions:
+If you know the kinds of questions anyone can ask about anything, you will become adept in detecting an author’s problems.
+
+**Some theoretical questions:**
 
 * Does something exist?
 * What kind of thing is it?
@@ -240,7 +247,7 @@ If you know the kinds of questions anyone can ask about anything, you will becom
 * What are its relations to other things of a similar sort, or of a different sort?
 * How does it behave?
 
-Some practical ones:
+**Some practical ones:**
 * What ends should be sought?
 * What means should be chosen to a given end?
 * What things must one do to gain a certain objective, and in what order?
@@ -350,7 +357,7 @@ There are many paragraphs in any book that do not express an argument at all—p
 Helpful things to keep in mind for this rule:
 
 * Remember that every argument must involve a number of statements. Of these, some give the reasons why you should accept a conclusion the author is proposing. If you find the conclusion first, then look for the reasons. If you find the reasons first, see where they lead.
-* In the second place, discriminate between the kind of argument that points to one or more particular facts as evidence for some generalization and the kind that offers a series of general statements to prove some further generalizations. The former kind of reasoning is usually referred to as inductive, the latter as deductive; but the names are not what is important. What is important is the ability to discriminate between the two [^10]. _Inductive have a potential of not being true (black swans don't exist because all the swans I ever saw are white)_.
+* Discriminate between the kind of argument that points to one or more particular facts as evidence for some generalization and the kind that offers a series of general statements to prove some further generalizations. The former kind of reasoning is usually referred to as inductive, the latter as deductive; but the names are not what is important. What is important is the ability to discriminate between the two [^10]. _Inductive have a potential of not being true (black swans don't exist because all the swans I ever saw are white)_.
 * Observe what things the author says he must assume, what he says can be proved or otherwise evidenced, and what need not be proved because it is self-evident.
 
 [^10]: Deductive reasoning moves from general principles to specific conclusions. It starts with a general rule and applies it to a specific case to reach a logically certain conclusion (assuming the premises are true): General rule: All mammals give birth -> Specific case: Dogs are mammals -> Conclusion: Therefore, dogs give birth. Inductive reasoning works in the opposite direction - it moves from specific observations to general conclusions. It uses patterns in specific cases to form broader generalizations, though these conclusions are probable rather than certain: Observation 1: My dog Spot wags his tail when he's happy -> Observation 2: My neighbor's dog Rex wags his tail when he's happy -> Observation 3: The dogs at the park wag their tails when they're happy -> General conclusion: Dogs probably wag their tails when they're happy. Key distinction: Deductive reasoning, if valid and based on true premises, leads to conclusions that must be true. Inductive reasoning leads to conclusions that are probably true but could potentially be false even if all the observations are accurate.
@@ -360,8 +367,6 @@ Helpful things to keep in mind for this rule:
 Find out what the author’s solutions are. When you have applied this rule, and the three that precede it in interpretive reading, you can feel reasonably sure that you have managed to understand the book. This rule, #8, ties together the first stage of analytical reading (outlining the structure) and the second stage (interpreting the contents).
 
 In Rule 4, we stated the questions and problems the author has attempted to answer and solve. Here, in rule 8 we're concerned with which of them did he succeed in solving? In the course of solving these, did he raise any new ones? Of the problems that he failed to solve, old or new, which did the author himself know he had failed on?
-
-_Note, I'm getting this sense that in growing and reaching the author's level, we might have answered things. Maybe learned more, but not reached any type of closure in regards to the problem and if we do, we might have opened up a whole slew of other problems._
 
 The two processes in Stage I and Stage II that we have done thus far, outlining and interpretation, meet at the level of propositions and arguments. You work down to propositions and arguments by dividing the book into its parts. You work up to arguments by seeing how they are composed of propositions and ultimately of terms. When you have completed the two processes, you can really say that you know the contents of a book.
 
@@ -396,7 +401,7 @@ The first requires the reader to complete the task of understanding before rushi
 
 ##### Do not criticize Until You Understand (Rule 9)
 
-You must be able to say, with reasonable certainty, “I understand,” before you can say any one of the following things: “I agree,” or “I disagree,” or “i suspend judgment.” These three remarks exhaust all the critical positions you can take. We hope you have not made the error of supposing that to criticize is always to disagree. That is a popular misconception. To agree is just as much an exercise of critical judgment on your part as to disagree. You can be just as wrong in agreeing as in disagreeing. To agree without understanding is inane. To disagree without understanding is impudent. Though it may not be so obvious at first, suspending judgment is also an act of criticism. It is taking the position that something has not been shown. You are saying that you are not convinced or persuaded one way or the other.
+You must be able to say, with reasonable certainty, “I understand,” before you can say any one of the following things: “I agree,” or “I disagree,” or “I suspend judgment.” These three remarks exhaust all the critical positions you can take. We hope you have not made the error of supposing that to criticize is always to disagree. That is a popular misconception. To agree is just as much an exercise of critical judgment on your part as to disagree. You can be just as wrong in agreeing as in disagreeing. To agree without understanding is inane. To disagree without understanding is impudent. Though it may not be so obvious at first, suspending judgment is also an act of criticism. It is taking the position that something has not been shown. You are saying that you are not convinced or persuaded one way or the other.
 
 Do not begin to talk back until you have listened carefully and are sure you understand. Not until you are honestly satisfied that you have accomplished the first two stages of reading should you feel free to express yourself. When you have, you not only have earned the right to turn critic, you also have the duty to do so.
 
@@ -410,7 +415,7 @@ Note that sometimes to understand another you must have read his prerequisite wo
 
 When you disagree, do so reasonably, and not disputatiously or contentiously.
 
-You're not here to win arguments. You're here to gain knowledge and to learn the truth.He who regards conversation as a battle can win only by being an antagonist, only by disagreeing successfully, whether he is right or wrong. You win only by gaining knowledge, not by knocking the other fellow down.
+You're not here to win arguments. You're here to gain knowledge and to learn the truth. He who regards conversation as a battle can win only by being an antagonist, only by disagreeing successfully, whether he is right or wrong. You win only by gaining knowledge, not by knocking the other fellow down.
 
 Whether you agree or disagree or suspend judgement, you  should be motivated by one consideration alone—the facts, the truth about the case.
 
@@ -422,7 +427,7 @@ Respect the difference between knowledge and mere personal opinion by giving rea
 
 He should be as much prepared to have his own mind changed as seek to change the mind of another. He should always keep before him the possibility that he misunderstands or that he is ignorant on some point. No one who looks upon disagreement as an occasion for teaching another should forget that it is also an occasion for being taught. The trouble is that many people regard disagreement as unrelated to either teaching or being taught. They think that everything is just a matter of opinion. I have mine, and you have yours; and our right to our opinions is as inviolable as our right to private property. On such a view, communication cannot be profitable if the profit to be gained is an increase in knowledge.
 
-The reader who does not distinguish between the reasoned statement of knowledge and the flat expression of opinion is not reading to learn. He is at most interested in the author’s personality and is using the book as a case history. Such a reader will, of course, neither agree nor disagree. He does not judge the book but the man. If, however, the reader is primarily interested in the book and not the man, he should take his critical obligations seriously. These involve applying the distinction between real knowledge and mere opinion to himself as well as to the author. Thus the reader must do more than make judgments of agreement or disagreement. He must give reasons for them.
+The reader who does not distinguish between the reasoned statement of knowledge and the flat expression of opinion is not reading to learn. He is at most interested in the author’s personality and is using the book as a case history. Such a reader will, of course, neither agree nor disagree. **He does not judge the book but the man.** If, however, the reader is primarily interested in the book and not the man, he should take his critical obligations seriously. These involve applying the distinction between real knowledge and mere opinion to himself as well as to the author. Thus the reader must do more than make judgments of agreement or disagreement. He must give reasons for them.
 
 Incidentally, we would not want to be understood as claiming that there is a great deal of “absolute” knowledge available to men. Self-evident propositions, in the sense in which we defined them in the previous chapter, seem to us to be both indemonstrable and undeniable truths. Most knowledge, however, lacks that degree of absoluteness. What we know, we know subject to correction; we know it because all, or at least the weight, of the evidence supports it, but we are not and cannot be certain that new evidence will not sometime invalidate what we now believe is true.
 
@@ -434,7 +439,7 @@ The first thing a reader can say is that he understands or that he does not. In 
 
 There is one exception to the harshness of the second alternative. “I don’t understand” may itself be a critical remark. To make it so, the reader must be able to support it. If the fault is with the book rather than himself, the reader must locate the sources of trouble. He should be able to show that the structure of the book is disorderly, that its parts do not hang together, that some of it lacks relevance, or, perhaps, that the author equivocates in the use of important words, with a whole train of consequent confusions. To the extent that a reader can support his charge that the book is unintelligible, he has no further critical obligations.
 
-Let us suppose that you are finally able to say “I understand.” If, in addition to understanding the book, you agree thoroughly with what the author says, the work is over. The analytical reading is completely done. You have been enlightened, and convinced or persuaded. It is clear that we have additional steps to consider only in the case of disagreement or suspended judgment. The former is the more usual case.
+Let us suppose that you are finally able to say “I understand.” If, in addition to understanding the book, you agree thoroughly with what the author says, the work is over. The analytical reading is completely done. You have been enlightened, and convinced or persuaded. It is clear that we have additional steps to consider only in the case of disagreement or suspended judgment. The former is the more usual case. (With agreement you still have to answer 'What of it?')
 
 If the reader understands a book, how can he disagree with it? Critical reading demands that he make up his own mind. But his mind and the author’s have become as one through his success in understanding the book. What mind has he left to make up independently? There are some people who make the error that causes this apparent difficulty: they fail to distinguish between two senses of “agreement.” In consequence, they wrongly suppose that where there is understanding between men, disagreement is impossible. They say that all disagreement is simply owing to misunderstanding. **The error in this becomes obvious as soon as we remember that the author is making judgments about the world in which we live. He claims to be giving us theoretical knowledge about the way things exist and behave, or practical knowledge about what should be done. Obviously, he can be either right or wrong.** His claim is justified only to the extent that he speaks truly, to the extent that he says what is probable in the light of evidence. Otherwise, his claim is unfounded.
 
@@ -482,7 +487,7 @@ You may see how the fourth critical remark ties together the three stages of ana
 
 ## Syntopical Reading
 
-The reading of two or more books on the same subject. This implies that the subject must be define before reading, but it's actually the case, that the subject is defined after the reading. Take the subjects of love or progress as examples. You might have to read dozens of books before the subject is clear. Love and progress have many definitions and variations and finding the right books on the specific definition that you're trying to solve for requires that you read. This is where you skill as an inspectional reading comes in. You'll be able to inspect a book and decide whether it tackles the subject matter that you're interested in.
+The reading of two or more books on the same subject. This implies that the subject must be define before reading, but it's actually the case, that the subject is defined after the reading in the first stage of this level. Take the subjects of love or progress as examples. You might have to read dozens of books before the subject is clear. Love and progress have many definitions and variations and finding the right books on the specific definition that you're trying to solve for requires that you read. This is where your skill as an inspectional reader comes in. You'll be able to inspect a book and decide whether it tackles the subject matter that you're interested in.
 
 The aim of analytical reading applies to the reading and understanding of a single book. The book is your master. In syntopical reading it's the reverse, it is you and your concerns that are primarily to be served, not the books that you read. You are the master.
 
@@ -494,32 +499,26 @@ It follows then that you must maintain absolute (as humanly possible) objectivit
 
 Stage I: Surveying the Field
   1. Find the right books on the subject you're interested it through syntopicon, librarians, references, experts in the field
-  2. Using inspectional reading, confirm whether the books actually treat your subject matter or question and also to clarify your idea of the subject. The more you inspect the clearer the subject becomes.
+  2. Using inspectional reading, confirm whether the books actually treat your subject matter or question and also to clarify your idea of the subject. The more you inspect the clearer the subject becomes. Your subject might not be clear before this step.
 
 Stage II: Syntopical Reading
-  1. Finding the relevant passages: do another inspectional read and note the relevant passages in the book that you will return to to read analytically. This step cannot be combined with the analytical read you did in stage I to include the book on the list. No matter your level of expertise.
-  2. Bringing the authors to terms: you may not depend on the terms the authors use. Here you'll have to construct your own neutral terms and link each other's different use of keyword to them. This requires laser eyes to see beyond the language and into the terms. Subtly different words referring to the same terms.
+  1. Finding the relevant passages: do another inspectional read and note the relevant passages in the books that you will return to to read analytically. This step cannot be combined with the analytical read you did in stage I to include the book on the list. No matter your level of expertise.
+  2. Bringing the authors to terms: you may not depend on the terms the authors use. Here you'll have to construct your own neutral terms and link each author's different use of keywords to them. This requires laser eyes to see beyond the language and into the terms. Subtly different words referring to the same terms.
   3. Getting the questions clear: as you read analytically the passages, you'll create questions that two or more of the others are answering. Sometimes without them knowing that they're treating the question.
-  4. Defining the issues: group the issues that the answers to the questions highlight. Order them in such a way that throw the most light on the issue. More general at the top, then the most specific ones.
-  5. Analyzing the discussion: show where each of the authors stand on the issues and how they think and treat each.
+  4. Defining the issues: group the issues that the answers to the questions highlight. Order them in such a way that throw the most light on the issue. More general at the top, then the most specific ones. Here, your work will start taking shape.
+  5. Analyzing the discussion: show where each of the authors stand on the issues and how they think and treat each. Here you the discussion to tackle your questions.
 
 ## Adapting the Analytical Rules
 
-It is important to note here that the fifteen rules of reading, in the form in which they were presented toward the end of Chapter 11, do not apply to the reading of fiction and poetry. The outlining of the structure of an imaginative work is a different matter from the outlining of an expository book. Novels and plays and poems do not proceed by terms, propositions, and arguments—their fundamental content, in other words, is not logical, and the criticism of such works is based on different premises. Nevertheless, it would be a mistake to think that no rules at all apply to reading imaginative literature.
+It is important to note here that the fifteen rules of analytical reading, in the form in which they were presented above, do not apply to the reading of fiction and poetry. And even for expository works, they must be looked at differently for each type of book: focus on one rule more than the other, reword a rule, etc...
+
+The outlining of the structure of an imaginative work is a different matter from the outlining of an expository book. Novels and plays and poems do not proceed by terms, propositions, and arguments—their fundamental content, in other words, is not logical, and the criticism of such works is based on different premises. Nevertheless, it would be a mistake to think that no rules at all apply to reading imaginative literature.
 
 ### Practical Books
 
 Questions that every practical book will have
 1. What are the author’s objectives? (Rule 4 adapted)
 2. What means for achieving them is he proposing? (Rule 8 adapted)
-
-The most important thing to remember about any practical book is that it can never solve the practical problems with which it is concerned. A theoretical book can solve its own problems. But a practical problem can only be solved by action itself. Your action.
-
-The practical author can give rules that they think will work for you, but it is you the reader in your own world and your own situation that must apply them. So you'll have to use your judgement in applying the author's rules or recommended actions and modifying them to suite your needs. He can never know what's right for you.
-
-A rule of conduct is practically true on two conditions: one is that it works; the other is that its working leads you to the right end, an end you rightly desire. Even if you think it works, but don't agree or are not interested in the end that it leads to, then the book has little practical use for you.
-
-The practical author has to be a propagandist to convince you of the goals he's proposing that you achieve. That's OK, as long as you're aware of the propaganda. What enters the heart without first going through the mind will come back at you and put the mind out of commission. Allow him to appeal to your emotions (thought -> emotion -> action, beware when the thought step is skipped) when your goals are aligned with his. It becomes motivation, not manipulation in that case.
 
 Two types of practical books
 1. Rule book (like this one)
@@ -531,17 +530,25 @@ Two types of practical books
   * Must read between the lines to generate rules
   * Must know it's a practical book or you'll read it incorrectly
 
+The most important thing to remember about any practical book is that it can never solve the practical problems with which it is concerned. A theoretical book can solve its own problems. But a practical problem can only be solved by action itself. Your action.
+
+The practical author can give rules that they think will work for you, but it is you the reader in your own world and your own situation that must apply them. So you'll have to use your judgement in applying the author's rules or recommended actions and modifying them to suite your needs. He can never know what's right for you.
+
+A rule of conduct is practically true on two conditions: one is that it works; the other is that its working leads you to the right end, an end you rightly desire. Even if you think it works, but don't agree or are not interested in the end that it leads to, then the book has little practical use for you.
+
+The practical author has to be a propagandist to convince you of the goals he's proposing that you achieve. That's OK, as long as you're aware of the propaganda. What enters the heart without first going through the mind will come back at you and put the mind out of commission. Allow him to appeal to your emotions (thought -> emotion -> action, beware when the thought step is skipped) when your goals are aligned with his. It becomes motivation, not manipulation in that case.
+
 ### Imaginative Literature
 
-Expository works try to convey knowledge, while imaginative ones try to communicate experience itself. The former appeals to our judgement and reasoning while the latter to our senses and imagination.
+Expository works try to convey knowledge, while imaginative ones try to communicate experience itself. **The former appeals to our judgement and reasoning while the latter to our senses and imagination.**
 
 A work of fine art is fine not because it is refined or finished, but because it is an end in itself. It is its own excuse for being.
 
 In expository works, you work on the book. In imaginative you let the book work on you.
 
-* Don't try to resist the effect an imaginative work has on you.
-* Don't look for terms, propositions and arguments
-* Don't criticize fiction by the standards of truth and consistency that properly apply to communication of knowledge.
+* Don't try to resist the effect an imaginative work has on you: Let it work on you and take you over.
+* Don't look for terms, propositions and arguments: Look for characters, events, plots, worlds.
+* Don't criticize fiction by the standards of truth and consistency that properly apply to communication of knowledge: enter the author's world and only critique it based on its own rules, not the real world's rules.
 * Structural analogue:
     1. Classify as lyric, novel or play. A play differs from a novel in how it narrates entirely by means of actions and speeches. The playwrite can never speak in hi own person as the novelist can.
     2. The unity of a story is always in its plot. You should be able to summarize the plot
@@ -550,7 +557,7 @@ In expository works, you work on the book. In imaginative you let the book work 
     1. The terms of a fiction are its characters and events.
     2. The propositions are is the background against which the characters and events take place. Here, you job is to live in this background as if you were a contemporary of these characters.
     3. Follow the actions and arguments of the characters in this artificial world to which you belong and be able to state from the points of views of the characters why they did what the did.
-* Critical analogue: don't criticize imaginative writing until you fully appreciate what the author has tried to make you experience. Here you don't say you agree or disagree or suspend judgement, but instead you say I like it because or I don't like it because...
+* Critical analogue: don't criticize imaginative writing until you fully appreciate what the author has tried to **make you experience**. Here you don't say you agree or disagree or suspend judgement, but instead you say I like it because or I don't like it because...
 
 #### Stories
 
@@ -584,28 +591,27 @@ I did not take notes about how to read other types of books. I'll do so when I r
         * Ethics
         * Political
 * Imaginative
-    * Stories
+    * Stories (includes novels)
     * Epics
     * Plays
     * Tragedy
     * Lyric Poetry
 
-### Words of Wisdom & Insights
-* The great writers have always been great readers, but that does not mean that they read all the books that, in their day, were listed as the indispensable ones. In many cases, they read fewer books than are now required in most of our colleges, but what they did read, they read well. Because they had mastered these books, they became peers with their authors. They were entitled to become authorities in their own right. In the natural course of events, a good student frequently becomes a teacher, and so, too, a good reader becomes an author. Our intention here is not to
+### Insights
+* Perhaps you are beginning to see how essential a part of reading it is to be perplexed and know it. Wonder is the beginning of wisdom in learning from books as well as from nature. If you never ask yourself any questions about the meaning of a passage, you cannot expect the book to give you any insight you do not already possess.
+* They body is limited and declines after 30. The mind keeps growing indefinitely. But it can atrophy like the muscles if it is not constantly growing intellectually, morally and spiritually. When it ceases to grow, we begin to die.
+* The person who has had one experience in acquiring a complex skill knows that he need not fear the array of rules that present themselves at the beginning of something new to be learned. He knows that he does not have to worry about how all the separate acts in which he must become separately proficient are going to work together. The multiplicity of the rules indicates the complexity of the one habit to be formed, not a plurality of distinct habits. The parts coalesce and telescope as each reaches the stage of automatic execution. When all the subordinate acts can be done more or less automatically, you have formed the habit of the whole performance. Then you can think about tackling an expert run you have never skied before, or reading a book that you once thought was too difficult for you. At the beginning, the learner pays attention to himself and his skill in the separate acts. When the acts have lost their separateness in the skill of the whole performance, the learner can at last pay attention to the goal that the technique he has acquired enables him to reach.
+* We are discussing here the virtue of teachability—a virtue that is almost always misunderstood. Teachability is often confused with subservience. A person is wrongly thought to be teachable if he is passive and pliable. On the contrary, teachability is an extremely active virtue. No one is really teachable who does not freely exercise his power of independent judgment. He can be trained, perhaps, but not taught. The most teachable reader is, therefore, the most critical. He is the reader who finally responds to a book by the greatest effort to make up his own mind on the matters the author has discussed.
+* Any art or skill is possessed by those who have formed the habit of operating according to its rules.
 * Classes of books[^13]:
     * [one chapter books] 99% of all books ever written can be satisfied with an inspectional reading.
-    * [hard books] 0.01% of books make severe demands on you, but you may reach their level after your first analytical read. You only return to them to refresh your memory.
-    * [desert island books] 0.001% of all books will never be grasped by you. Each analytical read will stretch you more. Seek them out! You'll keep returning to these books and keep learning. You might think a hard book is in this category, but when you return to it, you might find out that you've gotten all you want out of it.
-* Only books that are beyond you will improve your analytical reading skill and will expand your wisdom.
-* Informative books cause a quantitative change in information in you, but no improvement in reading skill nor wisdom.
-* They body is limited and declines after 30. The mind keeps growing indefinitely. But it can atrophy like the muscles if it is not constantly growing intellectually, morally and spiritually. When it ceases to grow, we begin to die.
-* Beware of the illusion that you're using your mind when you're just reacting to stimuli and hording information: documentaries, amusement, online courses, media, etc...
+    * [hard books] 0.01% of books make severe demands on you, but you may reach their level after your first analytical read. You only return to them to refresh your memory. You might feel that they still have something to offer, but on returning you might be surprised to learn that you're its match or have gone beyond it.
+    * [desert island books] 0.001% of all books will never be grasped by you. Each analytical read will stretch you more. Seek them out! You'll keep returning to these books and keep learning.
+* Only books that are beyond you will improve your analytical reading skill and will expand your wisdom. Informative books cause a quantitative change in information in you, but no improvement in how you think about things.
 * To be informed is to know simply that something is the case. To be enlightened is to know, in addition, what it is all about: why it is the case, what its connections are with other facts, in what respects it is the same, in what respects it is different, and so forth.
-* The person who has had one experience in acquiring a complex skill knows that he need not fear the array of rules that present themselves at the beginning of something new to be learned. He knows that he does not have to worry about how all the separate acts in which he must become separately proficient are going to work together. The multiplicity of the rules indicates the complexity of the one habit to be formed, not a plurality of distinct habits. The parts coalesce and telescope as each reaches the stage of automatic execution. When all the subordinate acts can be done more or less automatically, you have formed the habit of the whole performance. Then you can think about tackling an expert run you have never skied before, or reading a book that you once thought was too difficult for you. At the beginning, the learner pays attention to himself and his skill in the separate acts. When the acts have lost their separateness in the skill of the whole performance, the learner can at last pay attention to the goal that the technique he has acquired enables him to reach.
-* Any art or skill is possessed by those who have formed the habit of operating according to its rules.
+* Beware of the illusion that you're using your mind when you're just reacting to stimuli and hording information: documentaries, amusement, online courses, media, etc...
 * The reader tries to uncover the skeleton that the book conceals. The author starts with the skeleton and tries to cover it up.
-* Perhaps you are beginning to see how essential a part of reading it is to be perplexed and know it. Wonder is the beginning of wisdom in learning from books as well as from nature. If you never ask yourself any questions about the meaning of a passage, you cannot expect the book to give you any insight you do not already possess.
-* We are discussing here the virtue of teachability—a virtue that is almost always misunderstood. Teachability is often confused with subservience. A person is wrongly thought to be teachable if he is passive and pliable. On the contrary, teachability is an extremely active virtue. No one is really teachable who does not freely exercise his power of independent judgment. He can be trained, perhaps, but not taught. The most teachable reader is, therefore, the most critical. He is the reader who finally responds to a book by the greatest effort to make up his own mind on the matters the author has discussed.
+* The great writers have always been great readers, but that does not mean that they read all the books that, in their day, were listed as the indispensable ones. In many cases, they read fewer books than are now required in most of our colleges, but what they did read, they read well. Because they had mastered these books, they became peers with their authors. They were entitled to become authorities in their own right. In the natural course of events, a good student frequently becomes a teacher, and so, too, a good reader becomes an author.
 
 
 [^13]: 'one chapter books' refers to books that could have been written in one chapter. 'desert island books' are one of the ten books that you'd take with you to a desert island.
@@ -613,16 +619,18 @@ I did not take notes about how to read other types of books. I'll do so when I r
 
 ## Note Taking
 
-_All that follows are suggestions._
+_All that follow are suggestions._
 
 * Using Kindle Oasis, we can adapt author's suggestion of taking notes.
 * When you want to read a book again, it's preferable to save all previous notes, delete them and start taking notes over again. Otherwise, former notes will be in your way and distraction from your next reading.
 
 ### Inspectional/Structural
 
-Take notes that help answer the first 3 questions in Analytical Stage I.
+Take notes that help answer the first 3 questions in Analytical Stage I or first question of the four basic question.
 
 ### Analytical/Conceptual
+
+These notes help you with interpreting the content of the book. Here are some suggestions. Use these for inspection if you deem fit.
 
 UNDERLINING—of major points; of important or forceful statements.
 
@@ -642,3 +650,8 @@ WRITING IN THE MARGIN, OR AT THE TOP OR BOTTOM OF THE PAGE—
 PERSONAL INDEX- Add a canvas on the endpapers at the back of the book and use it to make a personal index of the author’s points in the order of their appearance. You can extract those from highlighted sentences in the book. With and without numbers in the margin.
 
 WEB PAGE FOR THE BOOK- After finishing the book and making your personal index on the back endpapers, create a webpage on your site, nashkabbara.com, and try to outline the book, not page by page or point by point (you have already done that at the back), but as an integrated structure, with a basic outline and an order of parts. That outline will be the measure of your understanding of the work; It will express your intellectual ownership of the book.
+
+
+### Syntopical
+
+You'll probably have to use an external notebooks since your notes will be referencing multiple books.
