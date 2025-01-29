@@ -2,8 +2,8 @@
 layout: page
 title: "How to Read a Book"
 created: 2024-12-17
-udpates: 2025-01-23
-version: 2.0.0
+udpates: 2025-01-29
+version: 2.1.0
 categories: books
 tags: hidden
 ---
@@ -25,6 +25,11 @@ Inspectional Reading: My favorite thing about inspectional reading is that it pe
 Analytical Reading: I attempted analytical reading on the last part of this book and found it very difficult at first because I was combining the rules. For example, I was trying to find the terms (rule 5), while at the same time the propositions (rule 6), and arguments (rule 7). Then I tried a different approach: I read a section while only applying rule 5, then I re-read it applying rule 6, and so on. As I did this with a few sections, I started to spot terms, propositions and arguments simultaneously. This might mean that when you start an analytical reading of a book, you might have to reread sections applying one rule at a time, but then as you go deeper into the book, the rules of a stage or even the multiple stages start to coalesce into one. The third stage of analytical reading can only be completed after you've done the first two.
 
 I haven't attempted syntopical reading. If I do, I'll update this document.
+
+<video controls style="max-width:600px;">
+    <source src="../assets/desert-island-books.mp4" type="video/mp4;">
+</video>
+_On selecting books worth an analytical reading_
 
 ## Levels of Reading
 1. Elementary
