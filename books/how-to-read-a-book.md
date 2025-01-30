@@ -26,7 +26,7 @@ Analytical Reading: I attempted analytical reading on the last part of this book
 
 I haven't attempted syntopical reading. If I do, I'll update this document.
 
-<video controls style="max-width:600px;">
+<video controls style="max-width:100%;">
     <source src="../assets/desert-island-books.mp4" type="video/mp4;">
 </video>
 _On selecting books worth an analytical reading_
