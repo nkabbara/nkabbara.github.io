@@ -10,6 +10,12 @@ tags: hidden
 
 by Till Roenneberg, [buy it here](https://a.co/d/3mxyZOL).
 
-[WIP]
+I started a sabbatical recently and I quickly noticed that left alone, I go to bed around 4am and wake up around noon. I can't go past noon, but I can sleep even later if I wanted to. I have a "wake up early or you're a loser" stigma. I wanted to see what scicence had to say about this to address it.
 
-Left alone, my sleep time drifts past 3am. I had always been under social pressure and work pressure to maintain a 9-5 friendly schedule. I can do it, but naturally, I seem to stay up until the wee hours. Now that I began my sabbatical, I want to get over the stigma that's been associated with sleeping late and waking up late. This book seems to tackle exactly that.
+My view is completely different now.
+
+There are at least three clocks that we're explosed to. The sun clock, inner clock and social clock.
+
+The sun clock is one of the few predictable things on earth. It's defined by the rotation of the earth around itself. It completes the rotation in about 24 hours.
+
+We inherit our inner clock from our parents. It actually has a location in our brain composed of around 20,000 brain cells. It's really more than one clock and it's a pathway with inputs and outputs. One of its outputs is sleep. This clock is rarely 24 hours. It's usually less (early person) or longer than 24 hours (later person), sometimes equal to 24 hours.
