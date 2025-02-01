@@ -3,14 +3,16 @@ layout: page
 title: "Internal Time"
 created: 2025/01/27
 updates: 2025/01/31
-version: 1.0.1
+version: 1.1.1
 categories: article
 tags: hidden
 ---
 
 by Till Roenneberg, [buy it here](https://a.co/d/3mxyZOL).
 
-I started a sabbatical recently and I quickly noticed that without an alarm, I started to go to bed progressively later. Now I go to bed at around 4 and I get up at around noon. I'm not sleeping more, it's just the schedule shifted. It feels wonderful not using an alarm, but not without guilt because I have a "wake up early or you're a loser" stigma for various reasons, but my body is disagreeing with this. I read this book to see if it will help me overcome my stigma, shed the guilt and to discover if there are any negative health consequences with living with this type of schedule. Enter the fascinating world of Chronobiology.
+I started a sabbatical recently and I quickly noticed that without an alarm, I started to go to bed progressively later. Now I go to bed at around 4 and I get up at around noon. I'm not sleeping more, it's just that the schedule shifted. It feels wonderful and refreshing not using an alarm, but not without guilt because I have a "wake up early or you're lazy" stigma.
+
+I read this book to help me understand what's going on biologically, why this stigma exists and to see if there are any health risks with living with this type of schedule. Enter the fascinating world of Chronobiology.
 
 ## TL;DR
 
