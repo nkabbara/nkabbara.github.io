@@ -14,23 +14,24 @@ I started a sabbatical recently and I quickly noticed that without an alarm, I s
 
 ## TL;DR
 
-If my lifestyle doesnt't require that I get up at a specific time, then maintaining a shifted schedule is perfectly fine as long as it's stable and regular to get all the other inner clocks aligned.
+If my lifestyle doesn't require that I get up at a specific time, then maintaining a shifted schedule is perfectly fine as long as it's stable and regular to get all the other inner clocks aligned.
 
-Midsleep[^1] and sleep length are independent of each other. Oversleeping or underdersleeping are not what's being discussed here. Currently, I need around 8 hours.
+Midsleep[^1] and sleep length are independent of each other. Oversleeping or under sleeping are not what's being discussed here. Currently, I need around 8 hours.
 
-If I want to maintain a social[^4] clock and sun clock friendly schedule without using an alarm, I have to expose myself daily to ample natural light as early (inner clock early) as possible for as long as possible. Same for resetting a late schedule if needed.
+If I want to maintain a social[^4] clock and sun clock friendly schedule without using an alarm, I have to expose myself daily to ample natural light as early (inner clock early) as possible for as long as possible. After dusk, avoid blue light completely. Same for resetting a late schedule if needed[^5].
 
 [^4]: social as in work, or activities with non late chronotypes.
+[^5]: I've tested on a [camping trip](/camping-sierra-de-la-ventana) recently and it actually worked!
 
 ## Full Version
 
-There are at least three clocks that we're explosed to: **sun clock, inner clock and social clock.**
+There are at least three clocks that we're exposed to: **sun clock, inner clock and social clock.**
 
 **Sun clock** is one of the few predictable things on earth. It's defined by the rotation of the earth around itself. It completes the rotation in about 24 hours.
 
-**Our inner clock** (biological clock, circadian clock), is really a thing: a cluster of about 20,000 nuerons (size of a grain of rice) located above where the optic nerves cross in the brain. It rarely matches the 24 hour sun clock; it tracks a shorter day or a longer day **depending on what genese you inherited from your parents**. It's more than a clock, it's actually a pathway with inputs, clocks and outputs. One of its inputs is the light-dark cycles of the sun clock. Some of its outputs are midsleep[^1], body temperature, hunger and hormone regulation.
+**Our inner clock** (biological clock, circadian clock), is really a thing: a cluster of about 20,000 neurons (size of a grain of rice) located above where the optic nerves cross in the brain. It rarely matches the 24 hour sun clock; it tracks a shorter day or a longer day **depending on what genes you inherited from your parents**. It's more than a clock, it's actually a pathway with inputs, clocks and outputs. One of its inputs is the light-dark cycles of the sun clock. Some of its outputs are midsleep[^1], body temperature, hunger and hormone regulation.
 
-[^1]: midsleep is the midpoint between when you go to bed and when you wake up. e.g. if you go to bed at midnight and wake up at 8, your midsleep is 4.
+[^1]: midsleep is the midpoint between when you go to bed and when you wake up. e.g. If you go to bed at midnight and wake up at 8, your midsleep is 4.
 
 **The social clock** is the time you have to be at work, take the kids to the game, your buddies are at the pub, etc...
 
@@ -47,7 +48,7 @@ Let's assume my inner day is 25 hours long instead of the sun's 24 hour day and 
     <figcaption>Notice how the sun clock is drifting every day pushing my wake up time later and later.</figcaption>
 </figure>
 
-This misalignemtn between inner and sun clock also reveals why I felt so tired when I had to use the alarm to wake up at 8am. When we're pegging the wake up time to the sun clock, the inner time drifts. My body was thinking that I'm waking up at 6 and going to bed at 22. Not what it wants.
+This misalignment between inner and sun clock also reveals why I felt so tired when I had to use the alarm to wake up at 8am. When we're pegging the wake up time to the sun clock, the inner time drifts. My body was thinking that I'm waking up at 6 and going to bed at 22. Not what it wants.
 
 <figure>
     <img src="../assets/with-alarm.png" alt="no-alarm">
@@ -57,7 +58,7 @@ This misalignemtn between inner and sun clock also reveals why I felt so tired w
 
 **But why did my drift stop at 4am?**
 
-It turns out that the inner clock is built with a self correcting mechanism in order to synchronize itself with sun clock's day length. This dynamicity allows it to adapt to variations in day lengths throughout the seasons. i.e. help make inner clock 24 hours just like sun clock. The mechanism works by tracking daylight and nightdark[^3]:
+It turns out that the inner clock is built with a self correcting mechanism in order to synchronize itself with sun clock's day length. This dynamicity allows it to adapt to variations in day lengths throughout the seasons. i.e. Help make inner clock 24 hours just like sun clock. The mechanism works by tracking daylight and nightdark[^3]:
 
 [^3]: term coined by Till to mean opposite of daylight. Think natural pitch darkness.
 
@@ -69,16 +70,16 @@ So although I stopped using the alarm, I kept going outside and exposing myself 
 
 **Why did I feel tired on alarm schedule if inner clock could synch with sun clock?**
 
-Part of the self correction that the inner clock has is it tries to increase light exposure to the shorteing window when it needs to shorten the inner day and inversly, it tries to increase the light exposure to the lengthening window when it needs to lengthen a short inner day. As it does so, it hides the lengthening window in the former case and the shortening window in the latter case.
+Part of the self correction that the inner clock has is it tries to increase light exposure to the shortening window when it needs to shorten the inner day and inversely, it tries to increase the light exposure to the lengthening window when it needs to lengthen a short inner day. As it does so, it hides the lengthening window in the former case and the shortening window in the latter case.
 
 So when it needs to shorten a long inner day by exposing the most inner dawn to light, the sun clock and inner clock don't align at 0/0 hour or say, dawn/dawn hour. The inner clock shifts its dawn later than sun clock dawn to get more light in, so if you were to wake up at inner dawn, sun dawn would have already taken place. In my case, I would feel tired when I set the 8am alarm, because my inner clock, although might have been a 24 hour day, is still shifted. So sun 8am could actually be 6 or 7am inner clock time.
 
-To make up for this, one could increase the light intensity so the shift is less. The shift lessens, because with strong zeitgerber, less time exposure is needed to shorten the day for a long day inner clock like mine.
+To make up for this, one could increase the light intensity so the shift is less. The shift lessens, because with strong zeitgeber, less time exposure is needed to shorten the day for a long day inner clock like mine.
 
 
 ## Raw Notes
 
-actual chronotype (calculated according to midsleep on free days)
+Actual chronotype (calculated according to midsleep on free days)
 Social Time: social time that we use in everyday life to be on time for work, travel, appointments, or the evening news. Social time is the time people live by.
 
 Social Jetlag
@@ -96,7 +97,7 @@ the relationship between an individual’s internal time and local (external) ti
 Your internal time is produced by your own body clock. It varies from individual to individual just as body height, eye color, or personality varies, and it interacts with sun time and social time. In spite of internal time being probably the most important to our health and well-being—more important than sun time and certainly more important than social time—it has been thoroughly neglected.
 
 This book will tell you how these different time systems interact: sun time, social time, and your
-very individual internal time. Your internal time is produced by your own body clock. It varies from individual to individual just as body height, eye color, or personality varies, and it interacts withsun time and social time.
+very individual internal time. Your internal time is produced by your own body clock. It varies from individual to individual just as body height, eye color, or personality varies, and it interacts with sun time and social time.
 
 I noticed that people were fascinated and eager to learn about the science behind circumstances
 of their daily existence, some of which they had never considered before. Once enlightened, they
@@ -130,7 +131,7 @@ This myth that early risers are good people and that late risers are lazy has it
 
 We don’t fall asleep just because we are exhausted; there is another factor that controls our
 capacity to fall asleep and to benefit the most from our sleep, and that factor is the biological
-clock. In fact, you may not be able to fall asleep no matter how exhuasted you are. Our flexibility in how and when we catch up on our sleep need is, however, limited by our
+clock. In fact, you may not be able to fall asleep no matter how exhausted you are. Our flexibility in how and when we catch up on our sleep need is, however, limited by our
 internal timing system, as Sergeant Stein discovered during his sleep study. At some times we
 can fall asleep easily whereas at others we find it almost impossible—no matter how exhausted
 we are.

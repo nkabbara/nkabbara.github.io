@@ -8,7 +8,7 @@ categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Jan 27, 2025 from Buenos Aires._</small>
+<small>_Last updated on Jan 31, 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 
@@ -16,7 +16,8 @@ I just paused a long chapter of working as a Software Engineer indefinitely. I h
 
 - [Useful Not True](/books/useful-not-true) (done)
 - [How to Read a Book](/books/how-to-read-a-book) (done)
-- [Internal Time](/books/internal-time) (wip)
+- [Internal Time](/books/internal-time) (done)
+- Currently scouting for books on memorization. Know a good one?
 
 ## Bikram Yoga
 
