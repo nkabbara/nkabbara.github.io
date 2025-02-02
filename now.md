@@ -2,14 +2,14 @@
 layout: page
 title: "now"
 created: 2024-12-14
-updated: 2025-01-22
+updated: 2025-02-02
 version: 1.3.10
 categories: now
 tags: hidden
 ---
 <script src="./oneko.js"></script>
 
-<small>_Last updated on Jan 31, 2025 from Buenos Aires._</small>
+<small>_Last updated on Feb 02, 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 
@@ -26,7 +26,9 @@ I'm a couple of years into Bikram and now can't imagine living without it. It's 
 
 ## Argentine Tango
 
-I've been dabbling in tango for several years now, but now that I live in Buenos Aires I'm starting to go deep. Tango, in its totality, the movement aspect, its social dynamics, and the mindset shifts it demands of you is the hardest thing I've been involved in. It's a complete ecosystem that has enough metaphors to reflect most aspects of life in general.
+I've been dabbling in tango for several years now, ~~~but now that I live in Buenos Aires I'm starting to go deep. Tango, in its totality, the movement aspect, its social dynamics, and the mindset shifts it demands of you is the hardest thing I've been involved in. It's a complete ecosystem that has enough metaphors to reflect most aspects of life in general.~~
+
+_Since my sabbatical started, my lifestyle shifted from ["Balance Everything"](https://sive.rs/htl27) to ["Commit"](https://sive.rs/htl02). I instinctively dropped tango and all non-essential activities and have been completely focused on reading (my current project). I go camping every few books to distance myself and observe. I'm liking this more than balancing everything._
 
 ## Buenos Aires & Spanish Reboot
 
