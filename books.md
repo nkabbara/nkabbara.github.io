@@ -18,3 +18,7 @@ You know how when you buy a book and you open it to page one and start reading u
 ## [Internal Time](/books/internal-time) <small style="font-size: 0.4em">by Till Roenneberg</small>
 
 I started a sabbatical recently and I quickly noticed that without an alarm, I started to go to bed progressively later. Now I go to bed at around 4 and I get up at around noon. I’m not sleeping more, it’s just the schedule shifted. What's going on? Enter the fascinating world of Chronobiology.
+
+## [Unlimited Memory](/books/unlimited-memory) <small style="font-size: 0.4em">by Kevin Horsley</small>
+
+**[WIP, currently reading]** Memorizing is part of almost every activity that I've been doing lately. I'm curious about how the pros do it and if I can use their methods to do it properly.
