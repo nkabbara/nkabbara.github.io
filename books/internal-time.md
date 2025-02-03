@@ -4,11 +4,11 @@ title: "Internal Time"
 created: 2025/01/27
 updates: 2025/01/31
 version: 1.1.1
-categories: article
+categories: book
 tags: hidden
+author: Till Roenneberg
+buy-url: https://a.co/d/3mxyZOL
 ---
-
-by Till Roenneberg, [buy it here](https://a.co/d/3mxyZOL).
 
 I started a sabbatical recently and I quickly noticed that without an alarm, I started to go to bed progressively later. Now I go to bed at around 4 and I get up at around noon. I'm not sleeping more, it's just that the schedule shifted. It feels wonderful and refreshing not using an alarm, but not without guilt because I have a "wake up early or you're lazy" stigma.
 

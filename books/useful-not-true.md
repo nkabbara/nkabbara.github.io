@@ -3,13 +3,11 @@ layout: page
 title: "Useful Not True"
 date: 2024-11-24
 version: 1.10.10
-categories: books
+categories: book
 tags: hidden
+author: Derek Sivers
+buy-url: https://sive.rs/u
 ---
-
-by Derek Sivers, [Buy it here](https://sive.rs/u)
-
-## Summary
 
 **Belief** generates **emotion** which generates **action[^1]**, but what you believe is not true. Adopt a useful belief that generates the emotion which impels the action that you need now to reach your ultimate destination.
 
