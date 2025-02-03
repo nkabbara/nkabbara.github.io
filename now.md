@@ -3,13 +3,13 @@ layout: page
 title: "now"
 created: 2024-12-14
 updated: 2025-02-02
-version: 1.3.10
+version: 1.4.10
 categories: now
 tags: hidden
 ---
 <script src="./oneko.js"></script>
 
-<small>_Last updated on Feb 02, 2025 from Buenos Aires._</small>
+<small>_Last updated on Feb 03, 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 
@@ -18,7 +18,7 @@ I just paused a long chapter of working as a Software Engineer indefinitely. I h
 - [Useful Not True](/books/useful-not-true) (done)
 - [How to Read a Book](/books/how-to-read-a-book) (done)
 - [Internal Time](/books/internal-time) (done)
-- Currently scouting for books on memorization. Know a good one?
+- [Unlimited Memory](/books/unlimited-memory) (wip)
 
 ## Bikram Yoga
 
