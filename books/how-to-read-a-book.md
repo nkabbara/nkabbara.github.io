@@ -4,8 +4,10 @@ title: "How to Read a Book"
 created: 2024-12-17
 udpates: 2025-01-29
 version: 2.1.0
-categories: books
+categories: book
 tags: hidden
+author: Mortimer J. Adler, Charles Van Doren
+buy-url: https://a.co/d/4GnNNF0
 ---
 
 <style>
@@ -13,10 +15,6 @@ tags: hidden
     font-size: 19px;
   }
 </style>
-
-by Adler, Van Doren  [Buy it here](https://a.co/d/4GnNNF0)
-
-## Summary
 
 You know how when you buy a book and you open it to page one and start reading until you're done? Well, you're missing out on a much richer and more enlightening reading experience. There's a better way.
 
