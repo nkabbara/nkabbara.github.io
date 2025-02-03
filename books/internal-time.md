@@ -3,7 +3,7 @@ layout: page
 title: "Internal Time"
 created: 2025/01/27
 updates: 2025/01/31
-version: 1.1.1
+version: 1.2.1
 categories: book
 tags: hidden
 author: Till Roenneberg
@@ -16,14 +16,15 @@ I read this book to help me understand what's going on biologically, why this st
 
 ## TL;DR
 
-If my lifestyle doesn't require that I get up at a specific time, then maintaining a shifted schedule is perfectly fine as long as it's stable and regular to get all the other inner clocks aligned.
+If my lifestyle doesn't require that I get up at a specific time, then maintaining a shifted schedule is perfectly fine as long as it's stable and regular to get all the other inner clocks aligned. Which means some degree of entrainment is necessary.
 
-Midsleep[^1] and sleep length are independent of each other. Oversleeping or under sleeping are not what's being discussed here. Currently, I need around 8 hours.
+Midsleep[^1] and sleep length are independent of each other. Oversleeping or under sleeping are not what's being discussed here. Each person requires a different amount of sleep on average.
 
-If I want to maintain a social[^4] clock and sun clock friendly schedule without using an alarm, I have to expose myself daily to ample natural light as early (inner clock early) as possible for as long as possible. After dusk, avoid blue light completely. Same for resetting a late schedule if needed[^5].
+If I want to maintain a social[^4] clock and sun clock friendly schedule without using an alarm, I have to expose myself daily to ample natural light as early (inner clock early) as possible for as long as possible. After innder dusk, avoid blue light as much as possible. Even little things such as refrigerator light and bulbs with blue light. Same technique applies for resetting a late schedule if needed[^5][^6].
 
 [^4]: social as in work, or activities with non late chronotypes.
 [^5]: I've tested on a [camping trip](/camping-sierra-de-la-ventana) recently and it actually worked!
+[^6]: It's much harder to apply this at night, especually when living in a big city.
 
 ## Full Version
 
