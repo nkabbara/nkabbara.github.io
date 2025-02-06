@@ -68,22 +68,22 @@ The SEE principle is the basic building block to remember bits of information. B
 
 Superior organization leads to superior learning and memorization.
 
-I'm going to test this out on my bike since I don't have a car, but usually, you'd use your car and past cars to do so. What I want to memorize is the **Adopt What Works For You Now** section of [Useful Not True](/books/useful-not-true).
+I'm going to test this out on my bike since I don't have a car, but usually, you'd use your car and past cars to do so. What I want to memorize is the **Adopt What Works For You Now** section of [Useful Not True](/books/useful-not-true). This method respects order so it can be used for ordered items like I'm doing below.
 
 <figure>
     <img src="../assets/castle-useful-not-true-p5.png">
     <figcaption>Useful Not True Part 5</figcaption>
 </figure>
 
-1. How to Decide and Make the Best Choice:
-2. From Explorer to Self Leader:
-3. No New Instructions For The Computer:
-4. Private Journal to Internalize it:
-5. Talk with Friends To Solidify it:
-6. Why Your Choice is Wrong:
-7. Take The First Step Immediately:
-8. Keep Tuning and Adjusting:
-9. You are What You Pretend to Be:
+1. How to Decide and Make the Best Choice: No choice is the best in itself. It becomes the best when you choose it. We start on the rack, with an image of a signpost with a hand pushing the button to make the choice final, therefore the best.
+2. From Explorer to Self Leader: After choosing, you need to switch from explorer to leader leading yourself. All you know now is: Here's where I'm going. Here's why. Here's how. Let's go! I chose an image of an explorer that we don't need anymore so he's not on the bike, but he's switched to Pres Lincoln the Leader sitting on the seatpost leading himself on the bike.
+3. No New Instructions For The Computer: As a leader, stop taking in instructions or you'll never finish the job. On the bike's frame an image of data with stop sign to remind the Pres to stop thinking and start acting.
+4. Private Journal to Internalize it: journal to strengthen the choice we made by stacking up reasons (here's how this will help me or others), clarify it so we can explain it to others in 10 seconds, plan it with specific actions so we can execute, picture yourself how you'll be after the road is taken, prepare for future self that will try to revert you to your old self. On the steering pouch we have a journal showing inside it an arm (strengthen), a clear glass (clarify), a todo list (plan), a camera (picture) and a scoutmaster (prepare).
+5. Talk with Friends To Solidify it: We know ourselves through others. They might see an angle or consequence you hadn't considered. In the front bag an image of me talking to my friends that I keep in my bag.
+6. Why Your Choice is Wrong: Some of your friends or aquaintances will tell you you're wrong. It's not what they need. It's not what people around them do. But this is only for you and only for now. No need to argue that it's true. You'll probably do something else in a few months or years. On front wheel, an image Dwight from the office says you're wrong, but he's overlayed with a here-now buddha to remind us that this is for us and only for now.
+7. Take The First Step Immediately: Taking action tests your thought in reality. Do it now! Unless it's something that could hurt you or others long term then sleep on it for a while before rolling. On the pedal (momentum), I have a clapperboard with a camera film to show action and it's on the pedal to show that we need to take the first step to start momentum.
+8. Keep Tuning and Adjusting: Return to the journal regularly, revise previous thoughts, talk with friends again, make adjustments. Sometimes you'll need to adjust the plan, other times you only need to adjust your thoughts. Use your wisdom to decide.
+9. You are What You Pretend to Be: You are your actions. Your actions are you. Your self-image doesn't matter as much. When you realize what you need to do, it doesn't mean that's who you need to be. You can just pretend.
 
 ## Raw Notes
 Nouns are easy to remember and therefore easier to control. Abstract words are harder.
