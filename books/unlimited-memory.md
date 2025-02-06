@@ -51,20 +51,39 @@ Examples of how I can remember Spanish words:
 * Stage is etapa. Imagine Brad Pit eating **tapa(s)** on a **stage**.
 * Gancho is hook. Imagine a cartoon cowbow with a huge **hooked** nose loading his **gun** with **chorizo**.
 
-I did five words on my own here and got stuck at one for more than 15 minutes [^4] and it feels taxing already. Though as I worked on more words, I started to feel like my imagination was improving. I can see this becoming much easier with more practice.
+I did five words on my own here and got stuck at one for more than 15 minutes [^4] and it feels taxing already. Though as I worked on more words, I started to feel like my imagination was improving. I can see this becoming much easier with more practice[^5].
 
 [^4]: Challenge is Desafío. I couldn't come up with an image for this.
+[^5]: Use actual images using drawing software if a concept or word is proving hard to memorize.
 
 **Imagination first:** at first I was verbally matching words, but noticed better success by alternating between imagining and verbal matching. For example, for Gancho, I was first trying to think what sounds like gancho (gan cho, g ancho, etc...), but then switched to picturing a hook in my mind and suddently I started to see a fishing hook, then a big hooked nose, etc... from there I built the example. Every word in any language is only a picture drawn with letters.
 
-**The picture or movie are what we're after:** I noticed that after I came up with the images above, I started to memorize them by ear as usual. This defeats the purpose of what I'm learning here. Instead, picture the images and movies in your head using all senses. Exagerrate the keywords. SEE principle.
+**The picture or movie are what I'm after, not words and voice:** I noticed that after I came up with the images above, I started to memorize them by ear as usual. This defeats the purpose of what I'm learning here. Instead, picture the images and movies in your head using all senses. Exagerrate the keywords. SEE principle.
 
 _After doing this exercise, I feel like I haven't actively used my imagination in a long time. This exercise will have many benefits in all areas of thought related work. Thinking using imagination and actively linking already feels super powerful._
 
 ### Car Method
 
+The SEE principle is the basic building block to remember bits of information. But in order to remember this information long term, we need to organize it in our mind. We do so by using something that's already in our long term memory (LTM) and organize the short term memory (STM) items on it.
 
+Superior organization leads to superior learning and memorization.
 
+I'm going to test this out on my bike since I don't have a car, but usually, you'd use your car and past cars to do so. What I want to memorize is the **Adopt What Works For You Now** section of [Useful Not True](/books/useful-not-true).
+
+<figure>
+    <img src="../assets/castle-useful-not-true-p5.png">
+    <figcaption>Useful Not True Part 5</figcaption>
+</figure>
+
+1. How to Decide and Make the Best Choice:
+2. From Explorer to Self Leader:
+3. No New Instructions For The Computer:
+4. Private Journal to Internalize it:
+5. Talk with Friends To Solidify it:
+6. Why Your Choice is Wrong:
+7. Take The First Step Immediately:
+8. Keep Tuning and Adjusting:
+9. You are What You Pretend to Be:
 
 ## Raw Notes
 Nouns are easy to remember and therefore easier to control. Abstract words are harder.
