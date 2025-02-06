@@ -72,7 +72,7 @@ I'm going to test this out on my bike since I don't have a car, but usually, you
 
 <figure>
     <img src="../assets/castle-useful-not-true-p5.png">
-    <figcaption>Useful Not True Part 5</figcaption>
+    <figcaption>Adopt What Works For You Now - Useful Not True</figcaption>
 </figure>
 
 1. How to Decide and Make the Best Choice: No choice is the best in itself. It becomes the best when you choose it. We start on the rack, with an image of a signpost with a hand pushing the button to make the choice final, therefore the best.
@@ -85,40 +85,69 @@ I'm going to test this out on my bike since I don't have a car, but usually, you
 8. Keep Tuning and Adjusting: Return to the journal regularly, revise previous thoughts, talk with friends again, make adjustments. Sometimes you'll need to adjust the plan, other times you only need to adjust your thoughts. Use your wisdom to decide. The image of the piano that needs regular tuning is resting on the chain.
 9. You are What You Pretend to Be: You are your actions. Your actions are you. Your self-image doesn't matter as much. When you realize what you need to do, it doesn't mean that's who you need to be. You can just pretend, but do it and with required regularity. I chose an image of a sheep turning into a wolf[^6] standing on the gearbox (movement, momentum, change of pace). He's axed so many actions over and over until he started to convert into one.
 
+[^6]: I'm altering the intended meaning here of wolf in sheep's colthing.
+
 When visualizing something to memorize it, always use as few pictures as possible to remember as much as possible. The simpler and clearer the picture is, the less overwhelmed you will feel.
 
 After creating this image, I have these items in memory already! This actually works!
 
 The theory is LTM + STM = Medium Term Memory (MTM). If you review MTM items (in 2 days, 5 days, 1 week, 2 weeks, 4 weeks, 6 weeks) they'll start converting to LTM and then you can use those new LTMs to store new MTMs on them!
 
-[^6]: I'm altering the intended meaning here of wolf in sheep's colthing.
+### Body Method
 
+This method is similar to how the vehicle method works, but uses your body. Great for info that you need at your fingertips, remembering shower ideas and such. This is also great to keep track of ideas or main points in a book I'm reading in order to discuss it with friends later or understand the author's structure or handle the first part of an [analytical reading](/books/how-to-read-a-book).
+
+> Just make sure you connect the body part and the information in a humorous way (remember the SEE principles), and that you remember the order. I like to use this system so that I can consistently have the information at my fingertips—literally!
+
+You may store up to 50 bits of info using this method.
+
+Organizing info into compartments, allows future information to be associated with what you have in memory enabling to compare and contrast more effectively. Even slot new information into the relevant compartments.
+
+### Peg Method
+
+You can use any list that is already in your long-term memory to create all kinds of new peg lists. You can make up words and images for each letter of the alphabet (e.g., apple, bucket, cat, dolphin), the months of the year, subway stops on your way to work—any list that you can remember in order.
+
+#### Rhyming Pegs
+
+1. One -> bun
+2. Two -> shoe
+2. Three -> tree
+2. Four -> door
+2. Five -> hive
+2. Six -> sticks
+2. Seven -> heaven
+2. Eight -> gate
+2. Nine -> vine
+2. Ten -> hen
+
+Going to try these on "Traits of Useful Perspectives" chapter in [Useful No True](/books/useful-not-true)
+
+1. Direct: find a more efficient path to the real end result, no need for the middle steps. Why am I starting a business, for freedom? Can I get the freedom that I'm picturing in my mind without starting a business? Picturing myself buying a BUN of bread directly from the baker, not through the supermarket.
+2. Energizing: many smart & boring perspectives come to mind, but which one tickles you enough to get you bolting through the streets? Even makes you afraid, but excited. Imaging myself excitedly looking for my lost running SHOE so I can bolt through the street.
+3. Self-reliant: process not outcome. Does not depend on anything out of my control. I'm looking at a TREE doing its thing. It doesn't need me or any person to take of it. It's not reliant on any one. Just needs nature and it can thrive.
+4. Balancing: prioritize what's been neglected. Me time vs. social time. Exploring vs self leading. I'm imaging a locked DOOR keeping me inside and I really need to get out to balance my recent reclusion.
+5. Selfless: my issues are insignificant compared to other people's when I look at them from the outside. How can I help and be useful to others? I'm picturing a bee selflessly and happily (with a bee smile) serving the HIVE.
+6. Selfish: I care for myself and I respect myself. It comes out of my self worth. It would take many pages to list all that I've done for others and for myself. I'm proud of that. In order to protect that, I'll smack anyone with multiple STICKS that threatens the goose.
+7. Lucid and lasting: am I acting from an emotion? Like envy, jealousy, anger, hurt. Does it still make sense in a couple of weeks after all emotions have subsided, even ecstatic ones? I'm imagining the moon, our trusty HEAVENly body stoicly turning around our planet not missing a beat during our storms neither during our good weather.
+8. Test first: before quitting, take a break. Before buying something test it, multiple times if necessary. I'm picturing myself creating a test GATE in the ci/cd of my project to prevent releases that don't pass tests.
+9. Healthy: Do what's wise and good even if I don't feel good. Ask the better me, what would I do? I'm picturing a grape **VINE** giving me healthy and nourishing grapes for my monring snack.
+10. Long term: Serve the future. I'm just in a phase now. I'll be 80 soon. Some discomfort now for a better future is worth it. I'm picturing a **HEN** forcing herself to sit on the eggs so they may hatch and then forcing her habints into being a good mother HEN in order to spread her genes into the future.
+11. Compensating for bias and predjudice: If I tend to walk away, choose to stay. When prejudince against something, learn more and deeply about it until you understanding it. Your defaults might be inccorrect. 11 rhymes with 7 so we have a conflict. In numerology they call it the first master number, so let's use that as a hook. I'm imagining a _master_ sitting with a whip watching over the 10 previous attributes and making sure _there is no bias and prejudice_ taking place.
+
+Really see each link picture in your mind and make it clear. You should now know these attributes forward, backward, and in random order.
+
+The rhyming peg method can be extended by finding additional words that rhyme with the number, e.g.: one—bun, gun, sun. With this method, you can easily create a peg system to store up to 30 bits of new information.
+
+You can use any list that is already in your long-term memory to create all kinds of new peg lists. You can make up words and images for each letter of the alphabet (e.g., apple, bucket, cat, dolphin), the months of the year, subway stops on your way to work—any list that you can remember in order. Enjoy using this method and finding new ways to improve it.
+
+### Shape Pegs
+
+The second peg method, the shape system, converts numbers into concrete shapes. It works in the same way as the rhyming peg method, only this time the pegs are shaped like the number. We are not going to do an exercise with this system, because you have already learned the principle in the rhyme list. The shape method just gives you another option.
+
+<figure>
+    <img src="../assets/um-shape-pegs.png">
+    <figcaption>Shape Pegs</figcaption>
+</figure>
+
+##
 ## Raw Notes
-Nouns are easy to remember and therefore easier to control. Abstract words are harder.
-
-This book teaches you how to memorize. Improving your memory and concentration is not only about what you need to do more of; it is also about what you need to do less of.
-We excuse ourselves into living mediocre lives.
-
-Richard Bach said, “Argue for your limitations and sure enough, they’re yours.”
-
-Imagine there is an Earth 1 and an Earth 2. They're duplicates. There's a duplicate of you as well. Same DNA, parents, environment, same everything except beliefs. One uses self limiting beliefs while the other uses growth beliefs. Fast forward 5 years.
-
-In other words, we believe what we have been taught to believe, and we don’t question beliefs because we don’t want to question the source. Begin to ask yourself, “Who will I come to doubt by changing my beliefs about my mind, concentration, and memory? Why do I think this belief is true?”
-
-You were younger then, had less experience, and did not have the ability to question authority. Now you can question his or her judgment of your younger self. Ask yourself questions like, “How much is this belief going to cost me if I hold on to it? Do I have to hold on to it? Is it true? Can I be 100 percent certain that it is the truth?
-
-Remember that the limits in your belief system will always stop you from seeing any alternatives that could otherwise be obvious.
-
-First, remember that 80 percent of changing anything is about why you want to change and only 20 percent is about how you do it.
-
-Your beliefs are the stories about yourself that you have accepted to be true … so you can decide to change the stories.
-
-“Beliefs are not tattoos, they are just like clothes—you can put them on and take them off at will.”
-
-We live in an activity illusion and think that “busyness” is equal to good business, but it’s often just procrastination in disguise.
-
-Horsley, Kevin. Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (p. 14). (Function). Kindle Edition.
-
-Byron Katie says, “I could only find three kinds of business in the world—mine, yours, and God’s. Whose business are you in?”
-
-Horsley, Kevin. Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (p. 19). (Function). Kindle Edition.
