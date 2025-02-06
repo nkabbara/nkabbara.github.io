@@ -82,8 +82,10 @@ I'm going to test this out on my bike since I don't have a car, but usually, you
 5. Talk with Friends To Solidify it: We know ourselves through others. They might see an angle or consequence you hadn't considered. In the front bag an image of me talking to my friends that I keep in my bag.
 6. Why Your Choice is Wrong: Some of your friends or aquaintances will tell you you're wrong. It's not what they need. It's not what people around them do. But this is only for you and only for now. No need to argue that it's true. You'll probably do something else in a few months or years. On front wheel, an image Dwight from the office says you're wrong, but he's overlayed with a here-now buddha to remind us that this is for us and only for now.
 7. Take The First Step Immediately: Taking action tests your thought in reality. Do it now! Unless it's something that could hurt you or others long term then sleep on it for a while before rolling. On the pedal (momentum), I have a clapperboard with a camera film to show action and it's on the pedal to show that we need to take the first step to start momentum.
-8. Keep Tuning and Adjusting: Return to the journal regularly, revise previous thoughts, talk with friends again, make adjustments. Sometimes you'll need to adjust the plan, other times you only need to adjust your thoughts. Use your wisdom to decide.
-9. You are What You Pretend to Be: You are your actions. Your actions are you. Your self-image doesn't matter as much. When you realize what you need to do, it doesn't mean that's who you need to be. You can just pretend.
+8. Keep Tuning and Adjusting: Return to the journal regularly, revise previous thoughts, talk with friends again, make adjustments. Sometimes you'll need to adjust the plan, other times you only need to adjust your thoughts. Use your wisdom to decide. The image of the piano that needs regular tuning is resting on the chain.
+9. You are What You Pretend to Be: You are your actions. Your actions are you. Your self-image doesn't matter as much. When you realize what you need to do, it doesn't mean that's who you need to be. You can just pretend, but do it and with required regularity. I chose an image of a sheep turning into a wolf[^6] standing on the gearbox (movement, momentum, change of pace). He's axed so many actions over and over until he started to convert into one.
+
+[^6]: I'm altering the intended meaning here of wolf in sheep's colthing.
 
 ## Raw Notes
 Nouns are easy to remember and therefore easier to control. Abstract words are harder.
