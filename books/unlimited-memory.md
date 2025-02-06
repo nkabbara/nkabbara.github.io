@@ -85,6 +85,12 @@ I'm going to test this out on my bike since I don't have a car, but usually, you
 8. Keep Tuning and Adjusting: Return to the journal regularly, revise previous thoughts, talk with friends again, make adjustments. Sometimes you'll need to adjust the plan, other times you only need to adjust your thoughts. Use your wisdom to decide. The image of the piano that needs regular tuning is resting on the chain.
 9. You are What You Pretend to Be: You are your actions. Your actions are you. Your self-image doesn't matter as much. When you realize what you need to do, it doesn't mean that's who you need to be. You can just pretend, but do it and with required regularity. I chose an image of a sheep turning into a wolf[^6] standing on the gearbox (movement, momentum, change of pace). He's axed so many actions over and over until he started to convert into one.
 
+When visualizing something to memorize it, always use as few pictures as possible to remember as much as possible. The simpler and clearer the picture is, the less overwhelmed you will feel.
+
+After creating this image, I have these items in memory already! This actually works!
+
+The theory is LTM + STM = Medium Term Memory (MTM). If you review MTM items (in 2 days, 5 days, 1 week, 2 weeks, 4 weeks, 6 weeks) they'll start converting to LTM and then you can use those new LTMs to store new MTMs on them!
+
 [^6]: I'm altering the intended meaning here of wolf in sheep's colthing.
 
 ## Raw Notes
