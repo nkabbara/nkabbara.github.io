@@ -32,6 +32,8 @@ continue %} {% endunless %}
     <div class="book-author">by {{page.author}}</div>
     <p class="book-description">
         {{page.content | markdownify | truncatewords: 50}}
+        <a href="/{{page.path | replace: '.md', '' }}" class"book-title">read more.
+        </a>
     </p>
 </article>
 {%- endfor -%}
