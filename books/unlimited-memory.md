@@ -149,5 +149,40 @@ The second peg method, the shape system, converts numbers into concrete shapes. 
     <figcaption>Shape Pegs</figcaption>
 </figure>
 
-##
+## Journey Method
+
+Here’s how it works:
+1. Prepare in your mind an organized location, such as a house layout, a shopping mall, or the route you take from your house to the mall.
+2. Create markers or places in this location or along the route, as we did with the body and car lists. Use an easy-to-follow order.
+3. Using the SEE principles, make a clear image of the information that you want to remember.
+4. Place each item you are trying to remember on one of the marked locations.
+
+In short, it is as simple as finding a place or route in your mind to store the information. This system makes remembering large amounts of information as easy as remembering a trip to the nearest shop. You are using the LTM + STM = MTM formula again.
+
+Make sure that your markers are in an easy-to-follow order. Then review them to make sure you have clear storage compartments. The markers should be near each other, but nicely spaced out so that each item you want to remember is placed in a unique memory file in your mind.
+
+Example:
+> Here is a mental map of four rooms in my house and 12 places that we will use:
+> * Room 1 Kitchen: 1–dishwasher, 2–fridge, 3–stove
+> * Room 2 TV room: 4–chairs, 5–TV, 6–exercise bike
+> * Room 3 Bedroom: 7–mirror, 8–closet, 9–bed
+> * Room 4 Bathroom: 10–bath, 11–shower, 12–toilet
+
+The above should allow to store 12 concepts. You can modify the items in the rooms or rooms to make it match your list.
+
+You can use this system to remember any amount of information—mountains of it.
+
+Review the list backward and you will notice that it will all still be there. Doing this makes the images even clearer for your memory.
+
+This method helps you see the big picture as well as zoom in on details. It brings concepts to life and makes them concrete.
+
+Every memory master uses this method more than any other. It is extremely effective because you can make thousands of storage places. Think about how many markers you can make. You have visited many places in your life; you can use buildings, museums, schools, shopping malls—almost any location that you know. Make sure to choose places you know well, that have significance for you, and that have lots of variety. You can make routes as long as you want; you can have a place or route for every subject you are learning. Remember to have fun!
+
+If you look for them, you will find thousands and thousands of places just waiting to be used in your mind. There are no limits to this system, only limits in your own thinking.
+
+> I find this method to be the most effective of all the memory systems.
+
+Once the information is in a memorable matrix, it helps long-term storage and use by attracting more information to it.
+
+
 ## Raw Notes
