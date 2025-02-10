@@ -10,24 +10,24 @@ author: Kevin Horsley
 buy-url: https://a.co/d/fZpWKI6
 ---
 
+_Writing this in the first person to see how it feels._
+
 Since high school, I had been memorizing by rote repetition. It turns out that that's the least effective way to memorize. Our mind is setup to memorize differently. This books showed me how.
 
 If I believed my limitations, then my life will be bounded by them. So step zero is to assume that my memory is limitless. Use [Useful Not True](/books/useful-not-true) notes for help on this.[^2]
 
 [^2]: if you need motivation and guidance specific to memory work, reread the first three chapters of Unlimited Memory.
 
-## The first C: Setting Up the Mental Space
+## The first C: Concentrate: Setting Up the Mental Space
 
 You need to have a very specific purpose for why you're memorizing the material at hand. Is it to impress someone? To learn a language? To learn the basics of some field then create or excel in it?  With a clear purpose, you'll eat the material up. Without one, boredom will take over. Use the PIC principle[^1].
 
-More dangerous than boredom is worry. Worry is the opposite of peace and you need peace of mind to concentrate. **Eliminate worry** then come back to memorize [^3].
+More dangerous than boredom is worry. Worry is the opposite of peace and you need peace of mind to concentrate. **Eliminate worry** then come back to memorize [^3]. Learn to practice peace, because if you have no attention you have no retention.
 
 [^3]: You don’t worry because you care; you worry because that is what you have learned to do. Worry is a creative mental process. By asking yourself “what if” questions, you set your mind up to worry. If you consistently ask, “What if I lose my job?” “What if I crash my car?” “What if criminals attack me?” then you will create “movies” in your mind that constantly loop those scenarios and cultivate a state of worry. Rather, say to yourself, “What would I do if I lost my job?” or “What would I do if I crashed my car?” The movies created by these questions don’t loop you into worry. They give you action steps that direct your mind. **Create a procedure for different scenarios and make peace with your thinking.**
 
 [^1]: PIC principle: Purpose: keep the purpose front of mind the whole time. The more specific the more it will help you concentrate on the data. Interest: Attention deficits are mostly interest deficits. Your mind never wanders; it moves toward more interesting things. So learn how to generate interest by linking what you're learning and memorizing to how it will affect the physical world, i.e. find a direct link between the material and your goal. Curiosity: ask motivational questions that pique your curiosity so you dig deeper into the data. How much capable will memorizing this make me? What's the limit? Will show me new ways of doing things?
 
-
-Learn to practice peace, because if you have no attention you have no retention.
 
 ## The Second C: Creativity
 
@@ -37,7 +37,7 @@ Sound is the least effective way to remember because it's sequential and our min
 
 Mind images and mind movies are the most effective because they involve all five senses. So I'm going to use the SEE principle to memorize. Senses (S): I will use all my senses when creating images or movies of what I want to remember. Exageration (E): I will exagerate what I'm imagning. It wont' be a life sized banana. It will be a banana so big it touches the moon. Energize (E): I'll make the images move, act in illogical ways: weave, crash, stick, or wrap things together to help me remember them. Make things talk, sing, and dance. The moon squashes the banana.
 
-Most abstract words can also be made into mental pictures. Just use a meaningful thought or word to represent an abstract word. Find a word or phrase that sounds the same as or similar to the abstract word, or break up the word into its individual sounds.
+Most abstract words can also be made into mental pictures. Just use a meaningful thought or word to represent an abstract word. Find a word or phrase that sounds the same as or similar to the abstract word, or break up the word into its individual sounds create images for each.
 
 Examples of how I can remember Spanish words:
 
@@ -102,6 +102,12 @@ This method is similar to how the vehicle method works, but uses your body. Grea
 You may store up to 50 bits of info using this method.
 
 Organizing info into compartments, allows future information to be associated with what you have in memory enabling to compare and contrast more effectively. Even slot new information into the relevant compartments.
+
+Using this to memorize the four principles of good writing from On Writing Well.
+1. Imaging a crystal bowl on my feet: Clarity (crystal clear).
+2. A closure script on my knees: Simple (clojure was built with simplicity as its core value.)
+3. A short penis on my pelvis: Brevity (useful, not true :D)
+4. A big pounding red cartoon heart in my chest: Humanity. (heart, love, soul, humanity)
 
 ### Peg Method
 
@@ -170,8 +176,6 @@ Example:
 
 The above should allow to store 12 concepts. You can modify the items in the rooms or rooms to make it match your list.
 
-You can use this system to remember any amount of information—mountains of it.
-
 Review the list backward and you will notice that it will all still be there. Doing this makes the images even clearer for your memory.
 
 This method helps you see the big picture as well as zoom in on details. It brings concepts to life and makes them concrete.
@@ -183,6 +187,73 @@ If you look for them, you will find thousands and thousands of places just waiti
 > I find this method to be the most effective of all the memory systems.
 
 Once the information is in a memorable matrix, it helps long-term storage and use by attracting more information to it.
+
+I'm testing this to memorize the questions to ask as you reframe perspectives. I'm going to use an apartment I stayed at on Juncal street in Buenos Aires.
+
+Room 1: Attic: Carpet, Low Ceiling, Desk, Suitecase. When things go wrong, I move to the attic for some alone time to think. My friend, Fer, is helping me move my large suitecase up. As we reach the top, I see Shamsito's vomit on the carpet and I go **Grrrrreat**. Fer and I **change** the location of the desk to hide the vomit's stain. Fer hits his head on the low ceiling and HUGE goose egg grows on his head. I say to him that he must **reduce** the inflamation immediately. I grab a **bandage** from the suitecase and put it on his gooseegg. The questions:
+1. What’s **great** about this?
+2. Does this **change** the goal, or the path, or nothing?
+3. How can I **reduce** the downsides?
+4. How can I use this to my **advantage**?
+
+Room 2: Bedroom: Bed, Tall ceilings, Armoir, mirror. Neighbor's bedroom. Changing direction takes place in the bedroom as I dream at night.
+1. When I was at my **happiest**, what was I doing? (The ikea bed self disasembles every morning and I have to **build** it in the morning. I'm happiest when building things.)
+2. What have I strongly **wanted** for the longest time? (I love to look up at the 5 meter ceilings when building the bed. Tall ceilings are what I've always **wanted**.)
+4. Which of my **old** beliefs are not **serving** me? The **eighteenth century** armoir has a large silver **serving** tray the size of the bed.
+3. What’s the **opposite** of what I usually do? The mirror next to the armoire functions **opposite** to a conventional mirror!
+5. Forget me. What would be most helpful for **others**? It shows what the others are doing in their bedroom on the opposite side of the wall.
+
+Room 3: Kitchen:  Window. Refrigerator. Dishwasher. Cutting board. Uncomfortable bar chair. When stuck.
+1. What advice would I love to hear from an all-knowing **sage**? Under the window, there's a pot with **sage** in it.
+1. What is my one top **priority** now? Refrigerator has a a **priority** list written in huge sage blue marker. ONE item on the list. Fix dishwasher that keeps saying **waiting** on its LCD.
+2. How can I begin without **waiting** for anything? See fridge
+5. Instead of avoiding **mistakes**, how can I make more to learn faster?  Bugs bunny is on the cutting board cutting carrots incorrectly committing many **mistakes**.
+4. What am I doing that’s actually a **distraction**? I'm sitting on the uncomfortable bar chair watching bugs distractingly.
+6. **Who** can help? My friend the chef comes over to help put order to this mess and teach bugz how to cut carrots.
+
+Room 4: Living Room: TV, Bookshelves, Broken hardwood plank. Make peace with what's out of your control. Chill in the living room to make peace.
+1. What happens if I **ignore** it and do nothing? Shamsito sitting on the couch **ignoring** the TV.
+2. Should I learn a **lesson** from this, or just move on? Instead, he's looking at the HUGE library deciding which **lesson** he should learn today or just **move on** to sleeping.
+3. How can I **blame** no one, and see this as nobody’s fault? I go to bring him the book that he decided on and I step on the broken wooden plank and I'm stuck there. Can't reach my phone! I'm **blaming** the careless landlord about this. It's his fault.
+4. How can I be **OK** no matter what happens? After being stuck for hours, I started to meditate and now I'm **ok**, **no matter what happens**.
+
+## Linking Thoughts
+
+Instead of looking at each image in isolation, linking it with related images allows us to use our imagination to create stories. This allows us to link multiple concepts together into a complete whole.
+
+Using the journey list above, we could crate a story as follows:
+1. After the unexpected events, I called Fer to help me move to the attic. As we walked up and walked in I saw Shamisito's vomit...now I can recall the list for unexpected events.
+2. After the unexpected event, I figuered that I need to change direction after a couple of nights in the attic, so I wanted a good night sleep in the bedroom to dream up what to do next. I walk into the bedroom and see the disassembled bed in the middle of the floor! Now I can recall the bedroom's list for a new direction.
+3. I found the new direction, but I got stuck! I get hungry when stuck and the kitchen is a great place to get creative, so I go to the kitchen and towards the sink where the sage plant is. Recall kitchen list for unstucking.
+4. I'm unstuck, but a pandamic happened and it's totally out of my control. So I go the living room to chill and think about acceptance. I see shamsit sitting in the corner couch...Recall living room list for acceptance.
+
+If you have any problems recalling the list, just make it more detailed and make the links clearer.
+
+Once you have the list in your mind, go through it forward and backward a few times to make sure it is all there. You can also link more information to the list, so it becomes like a new peg list.
+
+You can link related items, just like we did with the foreign words and capitals. You can also connect your links or stories to some of the other systems that you have learned. You can link more than one concept using the car, body, pegs, or journey methods. You can remember thousands of words or concepts by connecting linked ideas to a short mental journey. For example, we can imagine the bike is in the living room by the door. The bike already has the list for Adopting What Works Now attached to it. Or we can imaging in the living room library an encyclopedia set numbered 1 to 11 to remember the traits of useful perspectives. We're liking related data together with multiple system.
+
+Each word reminds you of the next, since you are making your own links.
+
+You can also use this method to memorize paragraphs of information. First, condense everything into a list of key words, and then convert those lists into meaningful link stories. A whole syllabus or textbook can be condensed into a ridiculous story. When you do this, it is easy to remember the information.
+
+## Remembering Names
+
+When someone tells you their name, it just gets put in your working memory. You need to move it to your STM or MTM, then later to your LTM. To do so, we need to immediately create an image of the name and associate that image with the face. Because associating a sound to an image (face to sound) isn't effective. But an image to an image is much more likely to move to STM and MTM.
+
+Remember that all learning is creating relationships between the known and the unknown. When you’re introduced to someone, you see (know) their face—an image—so you need to connect their unknown name to their known face. When you see their face again it must act as a trigger or peg to bring the name to your awareness.
+
+**Comparison Connection:** With this method, you connect the person to a name that you already know. Let’s say we meet a person by the name of George. To make the name stick, we think of someone that we already know with the same name. Do you know another George? You may even think of someone famous with the same name, like George Clooney. Next, compare the two people in your mind. What color hair does the George that we are meeting have? What color is the other George’s hair? By comparing just this one feature you will pay more attention than you would have before, therefore making a stronger connection.
+
+By comparing as many features as possible, you will focus your attention and create a long-term impression for perfect recall. It’s as simple as that: Just compare the two faces in your mind and you will remember them. You can cement the memory even more by imagining the person with two heads—their own, and that of the person you already know with the same name.
+
+**Face Connection:** With this method, you make a link between the name and an outstanding feature in the person’s appearance. Every face is unique and every face has an outstanding feature.
+
+Imagine you meet a man named Peter and you notice that he has a big nose. Turn the name into a picture; “Peter” sounds like “pea eater.” Next, quickly make the connection that his nose is a big pea eater. By making a silly, memorable association, you will connect the face and the name together.
+
+Last resort if nothing is coming up you can imagine writing their name on their forehead. Make sure you use a big fat red mental pen. It is all about creativity.
+
+**Meeting Location Connection:** After meeting someone for the first time, you tend to remember where you met them. The place makes a clear impression in our memory, but the name is nowhere to be found! With this method, we connect the name to the place where we are meeting, using a journey peg to hold on to the name. Let’s say you meet a woman by the name of Rose. Ask yourself, “What will I remember about this place where I met her?” Let’s say you think you will remember the buffet table. You then connect a big red rose to it. When you think of the place, you will think of her name, too.
 
 
 ## Raw Notes
