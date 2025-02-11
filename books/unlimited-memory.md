@@ -241,7 +241,9 @@ You can also use this method to memorize paragraphs of information. First, conde
 
 When someone tells you their name, it just gets put in your working memory. You need to move it to your STM or MTM, then later to your LTM. To do so, we need to immediately create an image of the name and associate that image with the face. Because associating a sound to an image (face to sound) isn't effective. But an image to an image is much more likely to move to STM and MTM.
 
-Remember that all learning is creating relationships between the known and the unknown. When you’re introduced to someone, you see (know) their face—an image—so you need to connect their unknown name to their known face. When you see their face again it must act as a trigger or peg to bring the name to your awareness.
+Remember that all learning is creating relationships between the known and the unknown. When you’re introduced to someone, you see (know) their face—an image—so you need to connect their unknown name to their known face. When you see their face again it must act as a trigger or peg to bring the name to your awareness. Make sure you attempt to invoke the image when you see them, not the sound.
+
+First you need to **concentrate** by repeating their name to them or asking them to repeat it. Then, in the next 20 seconds **create** an image of the sound of their name and then use one of the three connections (these two c's don't necessarily go in order):
 
 **Comparison Connection:** With this method, you connect the person to a name that you already know. Let’s say we meet a person by the name of George. To make the name stick, we think of someone that we already know with the same name. Do you know another George? You may even think of someone famous with the same name, like George Clooney. Next, compare the two people in your mind. What color hair does the George that we are meeting have? What color is the other George’s hair? By comparing just this one feature you will pay more attention than you would have before, therefore making a stronger connection.
 
@@ -255,5 +257,8 @@ Last resort if nothing is coming up you can imagine writing their name on their 
 
 **Meeting Location Connection:** After meeting someone for the first time, you tend to remember where you met them. The place makes a clear impression in our memory, but the name is nowhere to be found! With this method, we connect the name to the place where we are meeting, using a journey peg to hold on to the name. Let’s say you meet a woman by the name of Rose. Ask yourself, “What will I remember about this place where I met her?” Let’s say you think you will remember the buffet table. You then connect a big red rose to it. When you think of the place, you will think of her name, too.
 
+Transfer names to Bear notes and review imagery and connection regularly to move them to long term memory.
+
+## Remembering Numbers
 
 ## Raw Notes
