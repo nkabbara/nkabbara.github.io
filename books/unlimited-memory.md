@@ -261,4 +261,37 @@ Transfer names to Bear notes and review imagery and connection regularly to move
 
 ## Remembering Numbers
 
+We change the numbers into letter shapes so we can associate meaning to them.
+
+* The vowels a, e, i, o, and u have no values. The letters w, h, and y are also valueless.
+* 0: s, z, c (soft)
+* 1: t or d
+* 2: n
+* 3: m
+* 4: r
+* 5: l
+* 6: j, g (soft), sh, ch (soft)
+* 7: k or c (hard)
+* 8: f or v
+* 9: p or b
+
+We're working with sounds here, not spelling: 23 could be gnome.
+
+Memorize [this list of 100 numbers](/books-one-hundred-numbers) in order to help you memorize larger numbers. Use images to associate with the numbers (letters). Additionally, it could be used as a giant peg memory system to remember 100 bits of info in order. Since the numbers in the list have images associated with them, you could easily use them with other systems, like you car, body, journey,
+
+I've spent a few days attempting to memorize the list and I have the following observations:
+
+1. I associated an image with each number. To remember the image:
+    1. First, try to recall the image without any effort, if that doesn't work, try a one or a combo of the below
+    1. think if the number has any significance to you. For example, the number 05 for me is when I graduated. This reminds me of the grauduation seal in the image.
+    2. convert the number to its letters so it reminds you of the image. E.G. 29 = NP = NAP
+    3. be creative with the shapes of numbers. E.g 22 look like two swans, one black one white. Like a NUN's gown.
+    4. Change the numbers a bit, 33, could be 3.3 which reminds you your park's 3.3 mile running track. Or 14, which is 7 + 7 which means you need to be doubly lucky to hunt a DEER.
+    5. Finally, iterate over the valueless numbers to construct a word.
+2. Assigning a full day to memorize is extremely boring and unproductive. It's better to break down the list and memorize parts of it daily. The routine should be something like the following and shouldn't take more than 1.5 hours:
+    1. Recite or write everything you've gotten memorized so far. For the ones that take too long to remember or you can't recall them, note the numbers down. This might take a while when starting out and if the list is big. Up to 30 minutes.
+    2. Memorize 10 new numbers for the day. Get them into your memory until you can recall them backwards and forwards without any mistakes. This shouldn't take more than 30 minutes including breaks.
+    3. Review the numbers that you've missed from #1 and improve their number to image associate. Maybe create a better story or get a more memorable image.
+    4. A few hours after 1-3, receite or write the 10 new numbers and the numbers you've missed from #1.
+
 ## Raw Notes
