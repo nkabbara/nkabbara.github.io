@@ -10,8 +10,6 @@ author: Kevin Horsley
 buy-url: https://a.co/d/fZpWKI6
 ---
 
-_Writing this in the first person to see how it feels._
-
 Since high school, I had been memorizing by rote repetition. It turns out that that's the least effective way to memorize. Our mind is setup to memorize differently. This books showed me how.
 
 If I believed my limitations, then my life will be bounded by them. So step zero is to assume that my memory is limitless. Use [Useful Not True](/books/useful-not-true) notes for help on this.[^2]
@@ -32,6 +30,8 @@ More dangerous than boredom is worry. Worry is the opposite of peace and you nee
 ## The Second C: Creativity
 
 Sound is the least effective way to remember because it's sequential and our mind is not wired attach sounds to other memories. So repeating a sound and hoping it sticks is not how to memorize.
+
+Remember that your imagination is like the pen and the systems (peg, car, journey, etc...) are the paper.
 
 ### SEE Principle
 
@@ -61,6 +61,8 @@ I did five words on my own here and got stuck at one for more than 15 minutes [^
 **The picture or movie are what I'm after, not words and voice:** I noticed that after I came up with the images above, I started to memorize them by ear as usual. This defeats the purpose of what I'm learning here. Instead, picture the images and movies in your head using all senses. Exagerrate the keywords. SEE principle.
 
 _After doing this exercise, I feel like I haven't actively used my imagination in a long time. This exercise will have many benefits in all areas of thought related work. Thinking using imagination and actively linking already feels super powerful._
+
+You can expand on this method by using mindmaps, using google images, using google maps in 3d modes to go into museums and castles and famous houses in order to create memory journeys. You can act out the images or link them up as a story board like they do in the movies. Even create a whole story line in your head to act out whenever you want to remember the info. Another effective way is doodling or drawing the information yourself in order to remember it better. Storylines and images that have you as the protagonist work best.
 
 ### Car Method
 
@@ -282,16 +284,73 @@ Memorize [this list of 100 numbers](/books-one-hundred-numbers) in order to help
 I've spent a few days attempting to memorize the list and I have the following observations:
 
 1. I associated an image with each number. To remember the image:
-    1. First, try to recall the image without any effort, if that doesn't work, try a one or a combo of the below
+    1. First, try to recall the image without any effort, if that doesn't work, try a one or a combo of the below. **The image might not contain the word you're memorizing, but it could remind you of it**.
     1. think if the number has any significance to you. For example, the number 05 for me is when I graduated. This reminds me of the grauduation seal in the image.
     2. convert the number to its letters so it reminds you of the image. E.G. 29 = NP = NAP
     3. be creative with the shapes of numbers. E.g 22 look like two swans, one black one white. Like a NUN's gown.
     4. Change the numbers a bit, 33, could be 3.3 which reminds you your park's 3.3 mile running track. Or 14, which is 7 + 7 which means you need to be doubly lucky to hunt a DEER.
     5. Finally, iterate over the valueless numbers to construct a word.
+2. Be mindful and concentrated.
+3. Be encouraging, look through a positive lense. i.e instead of fuck I missed 4, go yeah! I got 23!!! "Start to catch your memory doing things right and you will start to see improvements."
+
+4. Wen you feel like somehow you're running out of space, remember your commitment to believing that memory is unlimited and the more you memorize, the better it gets.
 2. Assigning a full day to memorize is extremely boring and unproductive. It's better to break down the list and memorize parts of it daily. The routine should be something like the following and shouldn't take more than 1.5 hours:
     1. Recite or write everything you've gotten memorized so far. For the ones that take too long to remember or you can't recall them, note the numbers down. This might take a while when starting out and if the list is big. Up to 30 minutes.
-    2. Memorize 10 new numbers for the day. Get them into your memory until you can recall them backwards and forwards without any mistakes. This shouldn't take more than 30 minutes including breaks.
-    3. Review the numbers that you've missed from #1 and improve their number to image associate. Maybe create a better story or get a more memorable image.
+    2. Memorize 10 new numbers for the day. Get them into your memory until you can recall them backwards and forwards without any mistakes. This shouldn't take more than 30 minutes including breaks (if the list is already ready. Prepping the list takes significantly longer to find the right images and associations).
+    3. Review the numbers that you've missed from #1 and improve their number to image association. Maybe create a better story or get a more memorable image.
     4. A few hours after 1-3, receite or write the 10 new numbers and the numbers you've missed from #1.
 
-## Raw Notes
+The goal is to not have to think about the number. So after a while, the huristic above should go away and when a number comes to vision, a word pops up immediately.
+
+Being creative with information helps increase your involvement with the content, makes it part of your reality, and improves your memory.
+
+## Remembering Written Information
+
+1. Find keywords in the text you are attempting to memorize. They keywords should remind you of the rest of the sentences.
+2. Create images of each keyword and place it in a system of your choosing: car, body, journey, peg, etc...
+3. Create a story or something to link you to the information so there's a narrative.
+
+Example:
+
+> To **laugh often** and much; to win the respect of **intelligent people** and the **affection of children**; to earn the **appreciation of honest critics** and endure the **betrayal of false friends**; to appreciate **beauty**, to find the **best in others**; to **leave the world** a bit better, whether by a **healthy child**, a **garden patch** or a redeemed **social condition**; to know even one life has **breathed easier** because you have lived.
+> This is to have succeeded.
+
+> I’ll get you started: Let’s use a tree to remember the key concepts. Why a tree? Because it represents growth for me, and it is in my long-term memory. Imagine that the roots are laughing and intelligent people are sitting at the base of the tree (picture Einstein and Steve Jobs). Imagine children hugging the trunk of the tree (affection of children), and on the branches you can imagine a nest (“honest”) full of critics. Notice that we have connected the first few key words to the system. With a bit of repetition you will have it all in place. You can continue to connect the rest of the information to the tree’s leaves, its fruit, or the park where it’s planted. Once you have placed the key concepts, then you need to read through the material a few times. The key words will make the text “stickier” and your knowledge of English will help you to remember the syntax. Make the material come to life and you will remember more!
+
+## Playing Cards
+
+This is a great way to train your memory and keep it in shape. It's like a gym for your memory, the more you work with it the more your memory will improve.
+
+First, you must create a picture for each card. Each card must have its own identity, so that you can distinguish it from the others. You can associate each card with a person you know or you can make all the diamond cards celebrities, all the heart cards your family, spade cards people you work with, and the club cards your friends. That would be one way to organize it. The system I use is based on the number code from Chapter 11. In this method, however, the name of each card will begin with the first letter of the suit. Here’s an example: The name for the 3 of diamonds will begin with D for diamonds, followed by M for 3. Add a vowel (A) and you have DAM.
+
+The system I use is based on the number code from Chapter 11. In this method, however, the name of each card will begin with the first letter of the suit. Here’s an example: The name for the 3 of diamonds will begin with D for diamonds, followed by M for 3. Add a vowel (A) and you have DAM.
+
+So all diamond cards will start with a D, all hearts will start with H, etc. Then add the converted number to the end of the card, plus vowels and fillers to make a word.
+
+Diamonds A—Date (ace is one) 2—Dan 3—Dam 4—Door 5—Deal 6—Dish 7—Duck 8—Dove 9—Deep 10—Dice (10 will be zero, s sound) J—Diamond (jacks are the image of the suite) Q—Dean (queens use a rhyming word) K—Ding (kings we use a word with ‘ing’ in it)
+
+Spades A—Sit 2—Sun 3—Sam 4—Sir 5—Seal 6—Sash 7—Sack 8—Safe 9—Soap 10—Seas J—Spade Q—Steam K—Sing
+
+etc...
+
+Imagine a king bashing down the door and entering your house. He finds some ham and duck to eat in your fridge. With that silly story you remembered five cards—king of clubs, 4 of diamonds, 10 of hearts, 3 of hearts, and 7 of diamonds.
+
+Once you created images for each card, you'll have to get to know them. It'll take practice to see the card and remember the image. But once you do, you'll then be able to remember a whole shuffled deck by placing 52 different images in your journey.
+
+## Review to Renew
+
+* Your memory is like a bank account, the more you put in it, the more it grows.
+* Reviewing what you memorized isn't a lot of work, just do it at regular intervals and make sure that the pictures are strong and that you can see them clearly. Reimagine them and see them in your mind.
+* Your first review should be done forwards and backwards. Reviewing backwards helps create new impressions and make the memories stick longer.
+* Review intervals:
+    * Review after an hour.
+    * After a day.
+    * After 3 days.
+    * After 7 days.
+    * After 14 days.
+    * After 21 days.
+    * After 28 days.
+    * After 2 months.
+    * After 3 months and it should be in your ltm.
+* You may reuse journeys after 72 hours or maybe a little more, but for information that you want to keep forever, create a specific journey for them and don't use that journey for other information.
+* Reviews apply to all the systems mentioned including names.
