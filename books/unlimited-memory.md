@@ -14,7 +14,9 @@ Since high school, I had been memorizing by rote repetition. It turns out that t
 
 _Some parts are written in the first person because I'm using this as a workbook and taking my notes as I experiment with the methods._
 
-If I believed my limitations, then my life will be bounded by them. So step zero is to assume that my memory is limitless. Use [Useful Not True](/books/useful-not-true) notes for help on this.[^1][^2]
+If I believed my limitations, then my life will be bounded by them. So step zero is to assume that my memory is limitless. Use [Useful Not True](/books/useful-not-true) notes for help on this[^1][^2].
+
+Another important observation is the tendency of negative self talk to creep in: "oh, this one is going to be hard.", "really? You made THIS mistake again?", etc... You must train yourself to flip this on its head so it's positive self talk instead: "wow! you've remembered so much already! Keep going!", "great this mistake will be added to the improvement list so next time we dominate it!"
 
 Memory comes down to the four Cs.
 
@@ -351,3 +353,5 @@ Once you created images for each card, you'll have to get to know them. It'll ta
     * After 3 months and it should be in your ltm.
 * You may reuse journeys after 72 hours or maybe a little more, but for information that you want to keep forever, create a specific journey for them and don't use that journey for other information.
 * Reviews apply to all the systems mentioned including names.
+
+## Next Steps
