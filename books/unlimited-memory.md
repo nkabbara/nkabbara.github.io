@@ -37,7 +37,9 @@ More dangerous than boredom is worry. Worry is the opposite of peace and you nee
 
 Sound is the least effective way to remember because it's sequential and our mind is not wired to attach sounds to other memories. So repeating a sound and hoping it sticks is not how to memorize.
 
-Remember that your imagination is like the pen and the systems (peg, car, journey, etc... below) are the paper.
+Remember that your imagination is like the pen and the systems (peg, car, journey, etc... below) are the paper. We use the SEE principle to create bits of info then we organize them using different systems.
+
+Organizing info into compartments, allows future information to be associated with what you have in memory enabling to compare and contrast more effectively. Even slot new information into the relevant compartments.
 
 ### SEE Principle
 
@@ -94,17 +96,15 @@ After creating this image, I have these items in memory already! This actually w
 
 ### Body Method
 
-This method is similar to how the vehicle method works, but uses your body. Great for info that you need at your fingertips, remembering shower ideas and such. This is also great to keep track of ideas or main points in a book I'm reading in order to discuss it with friends later or understand the author's structure or handle the first part of an [analytical reading](/books/how-to-read-a-book).
+This method is similar to how the vehicle method works, but uses your body. Great for info that you need at your fingertips, remembering shower ideas and such. This is also great to keep track of ideas or main points in a book I'm reading in order to discuss it with friends later or understand the author's structure or handle the first part of an [inspectional or analytical reading](/books/how-to-read-a-book).
 
 > Just make sure you connect the body part and the information in a humorous way (remember the SEE principles), and that you remember the order. I like to use this system so that I can consistently have the information at my fingertips—literally!
 
 You may store up to 50 bits of info using this method.
 
-Organizing info into compartments, allows future information to be associated with what you have in memory enabling to compare and contrast more effectively. Even slot new information into the relevant compartments.
-
-Using this to memorize the four principles of good writing from On Writing Well.
-1. Imaging a crystal bowl on my feet: Clarity (crystal clear).
-2. A closure script on my knees: Simple (clojure was built with simplicity as its core value.)
+I'm using this to memorize the four principles of good writing from On Writing Well (by William Zinser).
+1. Imagining a crystal bowl on my feet: **Clarity** (crystal clear).
+2. A closure script on my knees: Simple (clojure was built with simplicity as one of its core values).
 3. A short penis on my pelvis: Brevity (useful, not true :D)
 4. A big pounding red cartoon heart in my chest: Humanity. (heart, love, soul, humanity)
 
