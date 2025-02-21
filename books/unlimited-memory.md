@@ -29,6 +29,8 @@ You need to have a very specific purpose for why you're memorizing the material 
 
 More dangerous than boredom is worry. Worry is the opposite of peace and you need peace of mind to concentrate. **Eliminate worry** then come back to memorize [^4]. Learn to practice peace, because if you have no attention you have no retention.
 
+In both the act of memorization and the act of remembering, be sure to be in a mindful state: anchor to your breath then concentrate.
+
 
 [^3]: PIC principle: Purpose: keep the purpose front of mind the whole time. The more specific the more it will help you concentrate on the data. Interest: Attention deficits are mostly interest deficits. Your mind never wanders; it moves toward more interesting things. So learn how to generate interest by linking what you're learning and memorizing to how it will affect the physical world, i.e. find a direct link between the material and your goal. Curiosity: ask motivational questions that pique your curiosity so you dig deeper into the data. How much more capable will memorizing this make me? What's the limit? Will this show me new ways of doing things?
 
@@ -104,52 +106,51 @@ This method is similar to how the vehicle method works, but uses your body. Grea
 
 You may store up to 50 bits of info using this method.
 
-I'm using this to memorize the four principles of good writing from On Writing Well (by William Zinser).
-1. Imagining a crystal bowl on my feet: **Clarity** (crystal clear).
-2. A closure script on my knees: Simple (clojure was built with simplicity as one of its core values).
-3. A short penis on my pelvis: Brevity (useful, not true :D)
-4. A big pounding red cartoon heart in my chest: Humanity. (heart, love, soul, humanity)
+I'm using this to memorize the four principles of good writing from On Writing Well (by William Zinser). Imagining:
+1. A crystal bowl on my feet: **Clarity** (crystal clear).
+2. A closure script on my knees: **Simplicity** (clojure was built with simplicity as one of its core values).
+3. A short penis on my pelvis: **Brevity** (useful, not true :D)
+4. A big pounding red cartoon heart in my chest: **Humanity**. (heart, love, soul, humanity)
 
 ### Peg Method
 
-You can use any list that is already in your long-term memory to create all kinds of new peg lists. You can make up words and images for each letter of the alphabet (e.g., apple, bucket, cat, dolphin), the months of the year, subway stops on your way to work—any list that you can remember in order.
+You can use any list that is already in your long-term memory to create all kinds of new peg lists. You can make up words and images for each letter of the alphabet (e.g., apple, bucket, cat, dolphin), the months of the year, subway stops on your way to work—any list that you can remember in order and that is already tattoed to your brain. Enjoy this and find new ways to improve it.
 
 #### Rhyming Pegs
 
-1. One -> bun
-2. Two -> shoe
-2. Three -> tree
-2. Four -> door
-2. Five -> hive
-2. Six -> sticks
-2. Seven -> heaven
-2. Eight -> gate
-2. Nine -> vine
-2. Ten -> hen
+* One ➜ bun
+* Two ➜ shoe
+* Three ➜ tree
+* Four ➜ door
+* Five ➜ hive
+* Six ➜ sticks
+* Seven ➜ heaven
+* Eight ➜ gate
+* Nine ➜ vine
+* Ten ➜ hen
 
-Going to try these on "Traits of Useful Perspectives" chapter in [Useful No True](/books/useful-not-true)
-
-1. Direct: find a more efficient path to the real end result, no need for the middle steps. Why am I starting a business, for freedom? Can I get the freedom that I'm picturing in my mind without starting a business? Picturing myself buying a BUN of bread directly from the baker, not through the supermarket.
-2. Energizing: many smart & boring perspectives come to mind, but which one tickles you enough to get you bolting through the streets? Even makes you afraid, but excited. Imaging myself excitedly looking for my lost running SHOE so I can bolt through the street.
-3. Self-reliant: process not outcome. Does not depend on anything out of my control. I'm looking at a TREE doing its thing. It doesn't need me or any person to take of it. It's not reliant on any one. Just needs nature and it can thrive.
-4. Balancing: prioritize what's been neglected. Me time vs. social time. Exploring vs self leading. I'm imaging a locked DOOR keeping me inside and I really need to get out to balance my recent reclusion.
-5. Selfless: my issues are insignificant compared to other people's when I look at them from the outside. How can I help and be useful to others? I'm picturing a bee selflessly and happily (with a bee smile) serving the HIVE.
-6. Selfish: I care for myself and I respect myself. It comes out of my self worth. It would take many pages to list all that I've done for others and for myself. I'm proud of that. In order to protect that, I'll smack anyone with multiple STICKS that threatens the goose.
-7. Lucid and lasting: am I acting from an emotion? Like envy, jealousy, anger, hurt. Does it still make sense in a couple of weeks after all emotions have subsided, even ecstatic ones? I'm imagining the moon, our trusty HEAVENly body stoicly turning around our planet not missing a beat during our storms neither during our good weather.
-8. Test first: before quitting, take a break. Before buying something test it, multiple times if necessary. I'm picturing myself creating a test GATE in the ci/cd of my project to prevent releases that don't pass tests.
-9. Healthy: Do what's wise and good even if I don't feel good. Ask the better me, what would I do? I'm picturing a grape **VINE** giving me healthy and nourishing grapes for my monring snack.
-10. Long term: Serve the future. I'm just in a phase now. I'll be 80 soon. Some discomfort now for a better future is worth it. I'm picturing a **HEN** forcing herself to sit on the eggs so they may hatch and then forcing her habints into being a good mother HEN in order to spread her genes into the future.
-11. Compensating for bias and predjudice: If I tend to walk away, choose to stay. When prejudince against something, learn more and deeply about it until you understanding it. Your defaults might be inccorrect. 11 rhymes with 7 so we have a conflict. In numerology they call it the first master number, so let's use that as a hook. I'm imagining a _master_ sitting with a whip watching over the 10 previous attributes and making sure _there is no bias and prejudice_ taking place.
 
 Really see each link picture in your mind and make it clear. You should now know these attributes forward, backward, and in random order.
 
 The rhyming peg method can be extended by finding additional words that rhyme with the number, e.g.: one—bun, gun, sun. With this method, you can easily create a peg system to store up to 30 bits of new information.
 
-You can use any list that is already in your long-term memory to create all kinds of new peg lists. You can make up words and images for each letter of the alphabet (e.g., apple, bucket, cat, dolphin), the months of the year, subway stops on your way to work—any list that you can remember in order. Enjoy using this method and finding new ways to improve it.
+Going to try these on "Traits of Useful Perspectives" chapter in [Useful No True](/books/useful-not-true)
+
+1. **Direct**: find a more efficient path to the real end result, no need for the middle steps. Why am I starting a business, for freedom? Can I get the freedom that I'm picturing in my mind without starting a business? _Picturing myself buying a BUN of bread directly from the baker, not through the supermarket._
+2. **Energizing**: many smart & boring perspectives come to mind, but which one tickles you enough to get you bolting through the streets? Even makes you afraid, but excited. _Imaging myself excitedly looking for my lost running SHOE so I can bolt through the street._
+3. **Self-reliant**: process not outcome. Does not depend on anything out of my control. _I'm looking at a TREE doing its thing. It doesn't need me or any person to take care of it. It's not reliant on any one. Just needs nature and it can thrive._
+4. **Balancing**: prioritize what's been neglected. Me time vs. social time. Exploring vs self leading. _I'm imaging a locked DOOR keeping me inside and I really need to get out to balance my recent reclusion._
+5. **Selfless**: my issues are insignificant compared to other people's when I look at them from the outside. How can I help and be useful to others? _I'm picturing a bee selflessly and happily (with a bee smile) serving the HIVE._
+6. **Selfish**: I care for myself and I respect myself. It comes out of my self worth. It would take many pages to list all that I've done for others and for myself. I'm proud of that. _In order to protect that, I'll smack anyone with multiple STICKS that threatens the goose._
+7. **Lucid and lasting**: am I acting from an emotion? Like envy, jealousy, anger, hurt. Does it still make sense in a couple of weeks after all emotions have subsided, even ecstatic ones? _I'm imagining the moon, our trusty HEAVENly body stoicly turning around our planet not missing a beat during our storms neither during our good weather._
+8. **Test first**: before quitting, take a break. Before buying something test it, multiple times if necessary. _I'm picturing myself creating a test GATE in the ci/cd of my project to prevent releases that don't pass tests._
+9. **Healthy**: Do what's wise and good even if I don't feel good. Ask the better me, what would I do? **I'm picturing a grape **VINE** giving me healthy and nourishing grapes for my afternoon snack.**
+10. **Long term:** Serve the future. I'm just in a phase now. I'll be 80 soon. Some discomfort now for a better future is worth it. _I'm picturing a **HEN** forcing herself to sit on the eggs so they may hatch and then forcing her habints into being a good mother HEN in order to spread her genes into the future._
+11. **Compensating for bias and predjudice**: If I tend to walk away, choose to stay. When prejudince against something, learn more and deeply about it until you understanding it. Your defaults might be inccorrect. 11 rhymes with 7 so we have a conflict. In numerology they call 11 the first master number, so let's use that as a hook. _I'm imagining a _master_ sitting with a whip watching over the 10 previous attributes and making sure _there is no bias and prejudice_ taking place._
 
 ### Shape Pegs
 
-The second peg method, the shape system, converts numbers into concrete shapes. It works in the same way as the rhyming peg method, only this time the pegs are shaped like the number. We are not going to do an exercise with this system, because you have already learned the principle in the rhyme list. The shape method just gives you another option.
+The second peg method, the shape system, converts numbers into concrete shapes. It works in the same way as the rhyming peg method, only this time the pegs are shaped like the number. I'm skipping this because memorizing numbers seems to conflict with it.
 
 <figure>
     <img src="../assets/um-shape-pegs.png">
@@ -158,85 +159,86 @@ The second peg method, the shape system, converts numbers into concrete shapes. 
 
 ## Journey Method
 
+**This system makes remembering large amounts of information as easy as remembering a trip to the nearest shop.** You are using the LTM + STM = MTM formula again. This is the most popular and effective system and there is truly no limit to how much information you can store using it.
+
+
 Here’s how it works:
-1. Prepare in your mind an organized location, such as a house layout, a shopping mall, or the route you take from your house to the mall.
+1. Prepare in your mind an organized location, such as a house layout, a shopping mall, or the route you take from your house to the mall. A location that is detailed in your mind.
 2. Create markers or places in this location or along the route, as we did with the body and car lists. Use an easy-to-follow order.
 3. Using the SEE principles, make a clear image of the information that you want to remember.
 4. Place each item you are trying to remember on one of the marked locations.
 
-In short, it is as simple as finding a place or route in your mind to store the information. This system makes remembering large amounts of information as easy as remembering a trip to the nearest shop. You are using the LTM + STM = MTM formula again.
+You have visited many places in your life; you can use buildings, museums, schools, shopping malls—almost any location that you know. Make sure to choose places you know well, that have significance for you, and that have lots of variety. Think of the number of markers that you can have! All you need is place images (SEE principle) in them.
 
-Make sure that your markers are in an easy-to-follow order. Then review them to make sure you have clear storage compartments. The markers should be near each other, but nicely spaced out so that each item you want to remember is placed in a unique memory file in your mind.
+Tips:
+* Make sure that your markers are in an easy-to-follow order.
+* Review them to make sure you have clear storage compartments. ie. nothing else already stored there.
+* The markers should be near each other, but nicely spaced out so that each item you want to remember is placed in a unique memory file in your mind.
+* Review the list backward when memorizing and you will notice that it will all still be there. Doing this makes the images even clearer for your memory.
+*  This method helps you see the **big picture** as well as zoom in on **details**. It brings concepts to life and makes them concrete.
+* Once the info is stored, you may attract more information to the journey and place the info in related compartment.
 
-Example:
-> Here is a mental map of four rooms in my house and 12 places that we will use:
-> * Room 1 Kitchen: 1–dishwasher, 2–fridge, 3–stove
-> * Room 2 TV room: 4–chairs, 5–TV, 6–exercise bike
-> * Room 3 Bedroom: 7–mirror, 8–closet, 9–bed
-> * Room 4 Bathroom: 10–bath, 11–shower, 12–toilet
+I'm testing this to memorize the questions to ask as you reframe to find better perspectives. I'm going to use an apartement I stayed at on Juncal street in Buenos Aires. Oh boy! The possibilities are endless here.
 
-The above should allow to store 12 concepts. You can modify the items in the rooms or rooms to make it match your list.
+### The Layout
+* **Room 1**, the attic: carpet, desk, low ceiling, suitecase. (4 bits of information)
+* **Room 2**: bedroom: bed, tall ceilings, old armoir, mirror, neighbors. (5 bits)
+* **Room 3**: kitchen:  sage plant, refrigerator, dishwasher, cutting board, uncomfortable bar chair, chef friend. (6 bits)
+* **Room 4**: living Room: TV, Bookshelves, book, broken hardwood plank. (4 bits)
 
-Review the list backward and you will notice that it will all still be there. Doing this makes the images even clearer for your memory.
+### The Questions
 
-This method helps you see the big picture as well as zoom in on details. It brings concepts to life and makes them concrete.
+Updated list [ here ](https://sive.rs/u).
 
-Every memory master uses this method more than any other. It is extremely effective because you can make thousands of storage places. Think about how many markers you can make. You have visited many places in your life; you can use buildings, museums, schools, shopping malls—almost any location that you know. Make sure to choose places you know well, that have significance for you, and that have lots of variety. You can make routes as long as you want; you can have a place or route for every subject you are learning. Remember to have fun!
-
-If you look for them, you will find thousands and thousands of places just waiting to be used in your mind. There are no limits to this system, only limits in your own thinking.
-
-> I find this method to be the most effective of all the memory systems.
-
-Once the information is in a memorable matrix, it helps long-term storage and use by attracting more information to it.
-
-I'm testing this to memorize the questions to ask as you reframe perspectives. I'm going to use an apartment I stayed at on Juncal street in Buenos Aires.
-
-Room 1: Attic: Carpet, Low Ceiling, Desk, Suitecase. When things go wrong, I move to the attic for some alone time to think. My friend, Fer, is helping me move my large suitecase up. As we reach the top, I see Shamsito's vomit on the carpet and I go **Grrrrreat**. Fer and I **change** the location of the desk to hide the vomit's stain. Fer hits his head on the low ceiling and HUGE goose egg grows on his head. I say to him that he must **reduce** the inflamation immediately. I grab a **bandage** from the suitecase and put it on his gooseegg. The questions:
+**When something goes wrong**
 1. What’s **great** about this?
 2. Does this **change** the goal, or the path, or nothing?
 3. How can I **reduce** the downsides?
 4. How can I use this to my **advantage**?
 
-Room 2: Bedroom: Bed, Tall ceilings, Armoir, mirror. Neighbor's bedroom. Changing direction takes place in the bedroom as I dream at night.
-1. When I was at my **happiest**, what was I doing? (The ikea bed self disasembles every morning and I have to **build** it in the morning. I'm happiest when building things.)
-2. What have I strongly **wanted** for the longest time? (I love to look up at the 5 meter ceilings when building the bed. Tall ceilings are what I've always **wanted**.)
-4. Which of my **old** beliefs are not **serving** me? The **eighteenth century** armoir has a large silver **serving** tray the size of the bed.
+ **When changing direction**
+1. When I was at my **happiest**, what was I doing?
+2. What have I strongly **wanted** for the longest time?
+4. Which of my **old** beliefs are not **serving** me?
 3. What’s the **opposite** of what I usually do? The mirror next to the armoire functions **opposite** to a conventional mirror!
 5. Forget me. What would be most helpful for **others**? It shows what the others are doing in their bedroom on the opposite side of the wall.
 
-Room 3: Kitchen:  Window. Refrigerator. Dishwasher. Cutting board. Uncomfortable bar chair. When stuck.
-1. What advice would I love to hear from an all-knowing **sage**? Under the window, there's a pot with **sage** in it.
-1. What is my one top **priority** now? Refrigerator has a a **priority** list written in huge sage blue marker. ONE item on the list. Fix dishwasher that keeps saying **waiting** on its LCD.
-2. How can I begin without **waiting** for anything? See fridge
-5. Instead of avoiding **mistakes**, how can I make more to learn faster?  Bugs bunny is on the cutting board cutting carrots incorrectly committing many **mistakes**.
-4. What am I doing that’s actually a **distraction**? I'm sitting on the uncomfortable bar chair watching bugs distractingly.
-6. **Who** can help? My friend the chef comes over to help put order to this mess and teach bugz how to cut carrots.
+**When stuck**
+1. What advice would I love to hear from an all-knowing **sage**?
+1. What is my one top **priority** now?
+2. How can I begin without **waiting** for anything?
+5. Instead of avoiding **mistakes**, how can I make more to learn faster?
+4. What am I doing that’s actually a **distraction**?
+6. **Who** can help?
 
-Room 4: Living Room: TV, Bookshelves, Broken hardwood plank. Make peace with what's out of your control. Chill in the living room to make peace.
-1. What happens if I **ignore** it and do nothing? Shamsito sitting on the couch **ignoring** the TV.
-2. Should I learn a **lesson** from this, or just move on? Instead, he's looking at the HUGE library deciding which **lesson** he should learn today or just **move on** to sleeping.
-3. How can I **blame** no one, and see this as nobody’s fault? I go to bring him the book that he decided on and I step on the broken wooden plank and I'm stuck there. Can't reach my phone! I'm **blaming** the careless landlord about this. It's his fault.
-4. How can I be **OK** no matter what happens? After being stuck for hours, I started to meditate and now I'm **ok**, **no matter what happens**.
+**To make peace with what’s out of your control**
+1. What happens if I **ignore** it and do nothing?
+2. Should I learn a **lesson** from this, or just move on?
+3. How can I **blame** no one, and see this as nobody’s fault?
+4. How can I be **OK** no matter what happens?
+
+### The Story
+
+Everything **went wrong** with my previous apartment in retiro and when things go wrong, I like to move to the attic for some alone time to think. My friend, Fer, is helping me move my large suitecase up. As we reach the top, I see Shamsito's vomit on the carpet and I go **Grrrrreat**. Fer and I **change** the location of the desk to hide the vomit's stain. Fer hits his head on the low ceiling and a HUGE goose egg grows on his head. I say to him that he must **reduce** the inflamation immediately. I grab a **bandage** from the suitecase and put it on his gooseegg.
+
+I decide to **change direction** and not live in retiro, I like Recoleta better where this temporary apartment is. I go to the bedroom to sleep hoping I'll find my dream apartment in my dream. But I walk to find the Ikea bed disassembled and I have to build it myself! But that's ok because I'm **happiest** when building things. I sit on the floor reading the bed manual and occasionally appreciating the tall 6m ceilings. Tall ceilings are what I've **wanted for the longest time**. I'm missing a scredriver so I walk to the **old** eighteenth century armoir and I see it has a large silver **serving** tray on it the size of the bed! What's weirder is the armoir's mirror functions **opposite** to how a conventional mirror **usually** works. It shows what **others** are doing in their bedroom oppsite side of the wall. What a weird apartement.
+
+I didn't dream up any epiphanies of how I'm going to change apartments again. I like to cook when **stuck** so I go to the kitchen. Under the window over the sink, there's a pot with **sage** in it, which I decide to use to make a salad. I get some tomatoes from the refrigerator which has a **priority** list written on its door in huge black marker with **one** item on the list that says: fix dishwasher; LCD keeps saying **waiting...**. That's when I hear someone cutting carrots, it's Bugs Bunny using the cutting board cutting carrots incorrectly committing **MANY mistakes**. Bugz is **actually distracting** me from making my salad. My friend **who** is a chef comes over to help put order to this mess and teach bugz how to cut carrots.
+
+This whole thing felt out of my **control** and I need to make **peace** with it, so I go to the living room. Shamsito is sitting on the couch **ignoring** the TV as usual as if **nothing** is on. Instead, he's looking at the HUGE library deciding if he should learn a **lesson** today or just **move on** to sleeping as usual. He winks at me and points at a book he wants, so I go to get it and step into the broken wooden plank as usual, but this time my foot is stuck! I Can't reach my phone! I'm **blaming** the careless landlord about this. It's his **fault**. After being stuck for hours, I started to meditate and now I'm **ok**, **no matter what happens**.
 
 ## Linking Thoughts
 
-Instead of looking at each image in isolation, linking it with related images allows us to use our imagination to create stories. This allows us to link multiple concepts together into a complete whole.
+Instead of looking at each image in isolation, linking it with related images allows us to use our imagination to create stories. This allows us to link multiple concepts together into a complete whole. Just like we did with the juncal story above.
 
-Using the journey list above, we could crate a story as follows:
-1. After the unexpected events, I called Fer to help me move to the attic. As we walked up and walked in I saw Shamisito's vomit...now I can recall the list for unexpected events.
-2. After the unexpected event, I figuered that I need to change direction after a couple of nights in the attic, so I wanted a good night sleep in the bedroom to dream up what to do next. I walk into the bedroom and see the disassembled bed in the middle of the floor! Now I can recall the bedroom's list for a new direction.
-3. I found the new direction, but I got stuck! I get hungry when stuck and the kitchen is a great place to get creative, so I go to the kitchen and towards the sink where the sage plant is. Recall kitchen list for unstucking.
-4. I'm unstuck, but a pandamic happened and it's totally out of my control. So I go the living room to chill and think about acceptance. I see shamsit sitting in the corner couch...Recall living room list for acceptance.
-
-If you have any problems recalling the list, just make it more detailed and make the links clearer.
-
-Once you have the list in your mind, go through it forward and backward a few times to make sure it is all there. You can also link more information to the list, so it becomes like a new peg list.
-
-You can link related items, just like we did with the foreign words and capitals. You can also connect your links or stories to some of the other systems that you have learned. You can link more than one concept using the car, body, pegs, or journey methods. You can remember thousands of words or concepts by connecting linked ideas to a short mental journey. For example, we can imagine the bike is in the living room by the door. The bike already has the list for Adopting What Works Now attached to it. Or we can imaging in the living room library an encyclopedia set numbered 1 to 11 to remember the traits of useful perspectives. We're liking related data together with multiple system.
-
-Each word reminds you of the next, since you are making your own links.
-
-You can also use this method to memorize paragraphs of information. First, condense everything into a list of key words, and then convert those lists into meaningful link stories. A whole syllabus or textbook can be condensed into a ridiculous story. When you do this, it is easy to remember the information.
+Story tips:
+* Once you have the list in your mind, go through it forward and backward a few times to make sure it is all there.
+* You can also link more information to the list, so it becomes like a new peg list.
+* You can link related items, just like we did with the foreign words and capitals.
+* You can also connect your links or stories to some of the other systems that you have learned. You can link more than one concept using the car, body, pegs, or journey methods. For example, in the bike Adopting What Works Now list, one of the items could have a story attached to it: the day I met lincoln, etc...
+* You can remember thousands of words or concepts by connecting linked ideas to a short mental journey. For example, we can imagine the bike is in the living room by the door. The bike already has the list for Adopting What Works Now attached to it. Or we can imaging in the living room library an encyclopedia set numbered 1 to 11 to remember the traits of useful perspectives. We're liking related data together with multiple system. Sorta the reverse of above.
+* Make sure the storyline is strong as you move from one category or compartment or room to another.
+*  You can also use this method to memorize paragraphs of information. First, condense everything into a list of key words, and then convert those lists into meaningful link stories. A whole syllabus or textbook can be condensed into a ridiculous story. When you do this, it is easy to remember the information. See remembering text below.
 
 ## Remembering Names
 
