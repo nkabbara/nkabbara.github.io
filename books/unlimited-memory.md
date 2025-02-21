@@ -357,3 +357,9 @@ Once you created images for each card, you'll have to get to know them. It'll ta
 * Reviews apply to all the systems mentioned including names.
 
 ## Next Steps
+
+1. Currently memorizing the list of 100 numbers based on chapter 11 to help me memorize numbers. Then I'm going to test memorizing the top 10 most important numbers on my phone.
+2. Going to memorize some prose text.
+3. Memorize 26 bikram yoga position name in sanskrist and their equivalent in english. See if I can compmartmentalize useful tips for each movement once I have them memorized.
+4. Buy playing cards and establish a daily practice.
+5. Establish automted review schedules for things I want to capture long term.
