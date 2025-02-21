@@ -2,8 +2,8 @@
 layout: page
 title: "Unlimited Memory"
 created: 2025-02-02
-updates: 2025-02-02
-version: 0.0.1
+updates: 2025-02-21
+version: 1.0.1
 categories: book
 tags: hidden
 author: Kevin Horsley
@@ -18,10 +18,16 @@ If I believed my limitations, then my life will be bounded by them. So step zero
 
 Another important observation is the tendency of negative self talk to creep in: "oh, this one is going to be hard.", "really? You made THIS mistake again?", etc... You must train yourself to flip this on its head so it's positive self talk instead: "wow! you've remembered so much already! Keep going!", "great this mistake will be added to the improvement list so next time we dominate it!"
 
+We have 4 types of memory:
+1. Working memory
+2. Short term memory (STM)
+3. Mid term memory (MTM)
+4. Long term memory (LTM)
+
 Memory comes down to the four Cs.
 
-[^1]: if you need motivation and guidance specific to memory work, reread the first three chapters of Unlimited Memory.
-[^2]: as I started to use the methods in this book, I started to feel pushback against memorizing more as if memory in my brain was limited. You really need to internalize the fact that our memory expands the more we memorize, otherwise, you'll start giving up. Another thinkg I started feeling is like this whole thing is very childish, but as soon as I saw how powerful it is, I realized that it's not childish, it's child-like: children soak up knowledge like a sponge. They play.
+[^1]: If you need motivation and guidance specific to memory work, reread the first three chapters of Unlimited Memory.
+[^2]: As I started to use the methods in this book, I started to feel pushback against memorizing more as if memory in my brain was limited. You really need to internalize the fact that our memory expands the more we memorize, otherwise, you'll start giving up. Another thinkg I started feeling is like this whole thing is very childish, but as soon as I saw how powerful it is, I realized that it's not childish, it's child-like: children soak up knowledge like a sponge. They play.
 
 ## The first C: Concentrate: Setting Up the Mental Space
 
@@ -246,19 +252,10 @@ When someone tells you their name, it just gets put in your working memory. You 
 
 Remember that all learning is creating relationships between the known and the unknown. When you’re introduced to someone, you see (know) their face—an image—so you need to connect their unknown name to their known face. When you see their face again it must act as a trigger or peg to bring the name to your awareness. Make sure you attempt to invoke the image when you see them, not the sound.
 
-First you need to **concentrate** by repeating their name to them or asking them to repeat it. Then, in the next 20 seconds **create** an image of the sound of their name and then use one of the three connections (these two c's don't necessarily go in order):
-
-**Comparison Connection:** With this method, you connect the person to a name that you already know. Let’s say we meet a person by the name of George. To make the name stick, we think of someone that we already know with the same name. Do you know another George? You may even think of someone famous with the same name, like George Clooney. Next, compare the two people in your mind. What color hair does the George that we are meeting have? What color is the other George’s hair? By comparing just this one feature you will pay more attention than you would have before, therefore making a stronger connection.
-
-By comparing as many features as possible, you will focus your attention and create a long-term impression for perfect recall. It’s as simple as that: Just compare the two faces in your mind and you will remember them. You can cement the memory even more by imagining the person with two heads—their own, and that of the person you already know with the same name.
-
-**Face Connection:** With this method, you make a link between the name and an outstanding feature in the person’s appearance. Every face is unique and every face has an outstanding feature.
-
-Imagine you meet a man named Peter and you notice that he has a big nose. Turn the name into a picture; “Peter” sounds like “pea eater.” Next, quickly make the connection that his nose is a big pea eater. By making a silly, memorable association, you will connect the face and the name together.
-
-Last resort if nothing is coming up you can imagine writing their name on their forehead. Make sure you use a big fat red mental pen. It is all about creativity.
-
-**Meeting Location Connection:** After meeting someone for the first time, you tend to remember where you met them. The place makes a clear impression in our memory, but the name is nowhere to be found! With this method, we connect the name to the place where we are meeting, using a journey peg to hold on to the name. Let’s say you meet a woman by the name of Rose. Ask yourself, “What will I remember about this place where I met her?” Let’s say you think you will remember the buffet table. You then connect a big red rose to it. When you think of the place, you will think of her name, too.
+First you need to **concentrate** by repeating their name to them or asking them to repeat it. Then, in the next 20 seconds **create** an image that can remind you of their name. The followin methods can help you create and connect them to something already in your mind:
+1. **Comparison Connection:** Connect the person to a name that you already know. Let’s say we meet a person by the name of George. To make the name stick, we think of someone that we already know with the same name. Do you know another George? You may even think of someone famous with the same name, like George Clooney. Next, compare the two people in your mind. What color hair does the George that we are meeting have? What color is the other George’s hair? By comparing just this one feature you will pay more attention than you would have before, therefore making a stronger connection. You can cement the memory even more by imagining the person with two heads—their own, and that of the person you already know with the same name.
+2. **Face Connection:** With this method, you make a link between the name and an outstanding feature in the person’s appearance. Every face is unique and every face has an outstanding feature. Imagine you meet a man named Peter and you notice that he has a big nose. Turn the name into a picture; “Peter” sounds like “pea eater.” Next, quickly make the connection that his nose is a big pea eater. By making a silly, memorable association, you will connect the face and the name together. Last resort if nothing is coming up you can imagine writing their name on their forehead. Make sure you use a big fat red mental pen. It is all about creativity.
+3. **Meeting Location Connection:** After meeting someone for the first time, you tend to remember where you met them. The place makes a clear impression in our memory, but the name is nowhere to be found! With this method, we connect the name to the place where we are meeting, using a journey peg to hold on to the name. Let’s say you meet a woman by the name of Rose. Ask yourself, “What will I remember about this place where I met her?” Let’s say you think you will remember the buffet table. You then connect a big red rose to it. When you think of the place, you will think of her name, too.
 
 Transfer names to Bear notes and review imagery and connection regularly to move them to long term memory.
 
@@ -278,37 +275,55 @@ We change the numbers into letter shapes so we can associate meaning to them.
 * 8: f or v
 * 9: p or b
 
-We're working with sounds here, not spelling: 23 could be gnome.
+We're working with sounds here, not spelling: 23 (nm) could be gnome.
 
-Memorize [this list of 100 numbers](/books-one-hundred-numbers) in order to help you memorize larger numbers. Use images to associate with the numbers (letters). Additionally, it could be used as a giant peg memory system to remember 100 bits of info in order. Since the numbers in the list have images associated with them, you could easily use them with other systems, like you car, body, journey,
+Memorize [this list of 100 numbers](/books-one-hundred-numbers) in order to help you memorize larger numbers. Use images to associate with the numbers (letters). Additionally, it could be used as a giant peg memory system to remember 100 bits of info in order. Since the numbers in the list have images associated with them, you could easily use them with other systems, like you car, body, journey. e.g 5872 is leaf (58) and can (72). You could imagine a maple leaf on your left foot and a can of maple syrup on your right foot.
 
 I've spent a few days attempting to memorize the list and I have the following observations:
 
-1. I associated an image with each number. To remember the image:
-    1. First, try to recall the image without any effort, if that doesn't work, try a one or a combo of the below. **The image might not contain the word you're memorizing, but it could remind you of it**.
-    1. think if the number has any significance to you. For example, the number 05 for me is when I graduated. This reminds me of the grauduation seal in the image.
-    2. convert the number to its letters so it reminds you of the image. E.G. 29 = NP = NAP
-    3. be creative with the shapes of numbers. E.g 22 look like two swans, one black one white. Like a NUN's gown.
-    4. Change the numbers a bit, 33, could be 3.3 which reminds you your park's 3.3 mile running track. Or 14, which is 7 + 7 which means you need to be doubly lucky to hunt a DEER.
-    5. Finally, iterate over the valueless numbers to construct a word.
-2. Be mindful and concentrated.
-3. Be encouraging, look through a positive lense. i.e instead of fuck I missed 4, go yeah! I got 23!!! "Start to catch your memory doing things right and you will start to see improvements."
+1. **Breath and be with your breath**. I noticed at times, I tense up and get over concentrated. Balance concentration and breath to stay relaxed. This applies to memorization and recitation. More the latter.
+2. **Don't reverse engineer how you recalled something**. I let my brain see the number and recall the associated word or image without any effort at first. I just check what it comes up with for validity, but I don't need to make an effort if the assocition is already imprinted.
+4. **Remember, the more you memorize, the more you can memorize**. I felt at some point that I'm somehow limited in how much memory I have. Like I'm running out of space and need to watch out for my precious memory. But then I remembered my commitment to believing that memory is unlimited and the more I memorize, the better it gets.
+3. **Be encouraging, look through a positive lense**. i.e instead of fuck I missed 4, go yeah! I got 23!!! "Start to catch your memory doing things right and you will start to see improvements."
+3. **Associate the number with words with images.** I associated an image with each number to help me recall the word. If that doesn't happen automatically, then
+    1. Think if the number has any significance to you. For example, the number 05 reminds me of when I graduated which reminds me of the seal on my diploma. The word for 05 is Seal.
+    2. Convert the number to its letters so it reminds you of the image. E.G. 29 = NP = NAP
+    3. Be creative with the shapes of numbers. E.g 22 look like two swans, one black one white. Like a NUN's gown.
+    4. Change the numbers a bit, 33, could be 3.3 which reminds you of and old running track at Memorial park in Houston. The word for 33 is Memo.
+    5. As a last resort before giving up, iterate over the non value letters to see if you could recall the word quickly.
+3. Work on reversing words to numbers. When you see your associated words, you should be able to see the numbers with each without much effort to reverse it to a number.
 
-4. Wen you feel like somehow you're running out of space, remember your commitment to believing that memory is unlimited and the more you memorize, the better it gets.
-2. Assigning a full day to memorize is extremely boring and unproductive. It's better to break down the list and memorize parts of it daily. The routine should be something like the following and shouldn't take more than 1.5 hours:
-    1. Recite or write everything you've gotten memorized so far. For the ones that take too long to remember or you can't recall them, note the numbers down. This might take a while when starting out and if the list is big. Up to 30 minutes.
-    2. Memorize 10 new numbers for the day. Get them into your memory until you can recall them backwards and forwards without any mistakes. This shouldn't take more than 30 minutes including breaks (if the list is already ready. Prepping the list takes significantly longer to find the right images and associations).
-    3. Review the numbers that you've missed from #1 and improve their number to image association. Maybe create a better story or get a more memorable image.
-    4. A few hours after 1-3, receite or write the 10 new numbers and the numbers you've missed from #1.
 
-The goal is to not have to think about the number. So after a while, the huristic above should go away and when a number comes to vision, a word pops up immediately.
+### A Working Routine that Seems Effective
 
-Being creative with information helps increase your involvement with the content, makes it part of your reality, and improves your memory.
+I tried to spend full days memorizing the list, but that proved ineffective. Spacing seems to be a big part of memorization and doing it full time seems counterproductive. Energy wise for sure, but also maybe how the brain works.
+
+The ultimate goal for the work below is to see a number and to be able to turn it into imagery which you can organize at the speed of thought. E.g, see a 10 digit number (to start) and have it committed to STM (maybe MTM too?) in a few seconds (seconds).
+
+**Memorizing a large list:**
+
+1. Pick 10 numbers. For each, look at the number, turn it into its letters, note down the first word that comes to mind when you see the number and/or the letters. Find a picture that reminds you of that word. Paste them on a row together in a document. Being creative with information helps increase your involvement with the content, makes it part of your reality, and improves your memory.
+2. For each number, look at the number, word, image and pronounce them out loud. Create a story around the image to associate them. Use SEE principle.
+3. Attempt to recall the list from memory in order. Repeat previous step and this step until you're successfull. Then attempt it backwards. Once you have 100% success rate at an OK speed, you should be done for the first round.
+4. An hour later and whenever you have some time during the day, write down or recite the list you're working on for today.
+5. The following day, do the next 10 numbers.
+
+
+**Revising work in progress for large lists:**
+
+1. At the start of the day or before memorizing new numbers, recite or write everything you've gotten memorized so far including the new set from yesterday. For the ones that take too long to remember or you can't recall, note the numbers down.
+2. Review the numbers that you've missed from #1 and improve their number to image association. Maybe create a better story or get a more memorable image or a better word.
+3. After 1 and 2 you may work on memorizing new set of numbers as stated above.
+4. At the end of the day or a few hours later, recite from memory the numbers you missed in #1 and you may include the new numbers in your review that you worked on for the day.
+5. Once the whole list is committed to memory, work on increasing recall speed. Also test yourself on random lookups, etc...
+6. Review at the intervals mentioned here to commit to LTM
+
+As it currently stands, it takes me about 1.5 hours to do the steps above every day, but I feel like it's getting easier and faster the more I memorize.
 
 ## Remembering Written Information
 
 1. Find keywords in the text you are attempting to memorize. They keywords should remind you of the rest of the sentences.
-2. Create images of each keyword and place it in a system of your choosing: car, body, journey, peg, etc...
+2. Create images (SEE principle) of each keyword and place it in a system of your choosing: car, body, journey, peg, etc...
 3. Create a story or something to link you to the information so there's a narrative.
 
 Example:
@@ -324,8 +339,6 @@ This is a great way to train your memory and keep it in shape. It's like a gym f
 
 First, you must create a picture for each card. Each card must have its own identity, so that you can distinguish it from the others. You can associate each card with a person you know or you can make all the diamond cards celebrities, all the heart cards your family, spade cards people you work with, and the club cards your friends. That would be one way to organize it. The system I use is based on the number code from Chapter 11. In this method, however, the name of each card will begin with the first letter of the suit. Here’s an example: The name for the 3 of diamonds will begin with D for diamonds, followed by M for 3. Add a vowel (A) and you have DAM.
 
-The system I use is based on the number code from Chapter 11. In this method, however, the name of each card will begin with the first letter of the suit. Here’s an example: The name for the 3 of diamonds will begin with D for diamonds, followed by M for 3. Add a vowel (A) and you have DAM.
-
 So all diamond cards will start with a D, all hearts will start with H, etc. Then add the converted number to the end of the card, plus vowels and fillers to make a word.
 
 Diamonds A—Date (ace is one) 2—Dan 3—Dam 4—Door 5—Deal 6—Dish 7—Duck 8—Dove 9—Deep 10—Dice (10 will be zero, s sound) J—Diamond (jacks are the image of the suite) Q—Dean (queens use a rhyming word) K—Ding (kings we use a word with ‘ing’ in it)
@@ -337,6 +350,8 @@ etc...
 Imagine a king bashing down the door and entering your house. He finds some ham and duck to eat in your fridge. With that silly story you remembered five cards—king of clubs, 4 of diamonds, 10 of hearts, 3 of hearts, and 7 of diamonds.
 
 Once you created images for each card, you'll have to get to know them. It'll take practice to see the card and remember the image. But once you do, you'll then be able to remember a whole shuffled deck by placing 52 different images in your journey.
+
+I think this will be easier than memorizing numbers because cards are more distinct. Excited to try this out.
 
 ## Review to Renew
 
@@ -358,8 +373,10 @@ Once you created images for each card, you'll have to get to know them. It'll ta
 
 ## Next Steps
 
-1. Currently memorizing the list of 100 numbers based on chapter 11 to help me memorize numbers. Then I'm going to test memorizing the top 10 most important numbers on my phone.
-2. Going to memorize some prose text.
-3. Memorize 26 bikram yoga position name in sanskrist and their equivalent in english. See if I can compmartmentalize useful tips for each movement once I have them memorized.
-4. Buy playing cards and establish a daily practice.
-5. Establish automted review schedules for things I want to capture long term.
+1. Finish memorizing the list of 100 numbers based on chapter 11 to help me memorize numbers and speed recall to an accetable threshold. Then I'm going to memorizing the top 10 most important numbers on my phone and any other important numbers.
+2. Test memorizing prose or poetry using the text method.
+3. Memorize 26 bikram yoga position names in sanskrist and their equivalent in english. See if I can compmartmentalize useful tips for each movement once I have them memorized in the journey. Example, if I have Utkatasana stored in elevator, when teacher gives me tips, add them next to the movement in the elevator, maybe on the button panel, etc...
+4. Establish a system to memorize new Spanish words and grammar rules I tend to break.
+5. Once systems are in place for my current activities, get playing cards in order to keep sharp and memorize cards using the Playing Cards method.
+
+---
