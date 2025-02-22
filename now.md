@@ -2,14 +2,14 @@
 layout: page
 title: "now"
 created: 2024-12-14
-updated: 2025-02-05
-version: 1.4.11
+updated: 2025-02-21
+version: 1.4.12
 categories: now
 tags: hidden
 ---
 <script src="./oneko.js"></script>
 
-<small>_Last updated on Feb 05, 2025 from Buenos Aires._</small>
+<small>_Last updated on Feb 21, 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 
@@ -18,7 +18,8 @@ I just paused a long chapter of working as a Software Engineer indefinitely. I h
 - [Useful Not True](/books/useful-not-true) (done)
 - [How to Read a Book](/books/how-to-read-a-book) (done)
 - [Internal Time](/books/internal-time) (done)
-- [Unlimited Memory](/books/unlimited-memory) (wip)
+- [Unlimited Memory](/books/unlimited-memory) (done)
+- [On Writing Well](/books/on-writing-well) (wip)
 
 ## Bikram Yoga
 
