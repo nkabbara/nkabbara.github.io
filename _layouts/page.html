@@ -1,18 +1,19 @@
 ---
-layout: default
+layout: base
 ---
+
 <article class="post">
+    <header class="post-header">
+        {% if page.version %}
+        <h1 class="post-title">
+            {{ page.title | escape }}<sup style="font-size: 13px"
+                ><a href="/versioning">v{{page.version}}</a></sup
+            >
+        </h1>
+        {% else %}
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+        {% endif %}
+    </header>
 
-  <header class="post-header">
-    {% if page.version %}
-    <h1 class="post-title">{{ page.title | escape }}<sup style="font-size: 13px"><a href="/versioning">v{{page.version}}</a></sup></h1>
-    {% else %}
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-    {% endif %}
-  </header>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-
+    <div class="post-content">{{ content }}</div>
 </article>
