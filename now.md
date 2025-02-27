@@ -7,7 +7,6 @@ version: 1.4.12
 categories: now
 tags: hidden
 ---
-<script src="./oneko.js"></script>
 
 <small>_Last updated on Feb 21, 2025 from Buenos Aires._</small>
 

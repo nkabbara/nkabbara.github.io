@@ -1,0 +1,41 @@
+.title-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#shams-container {
+    width: 32px;
+    height: 32px;
+}
+
+.shams-context-menu {
+    position: fixed;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    padding: 6px 0;
+    min-width: 150px;
+    z-index: 10;
+}
+
+.shams-context-menu a,
+.shams-context-menu a:link,
+.shams-context-menu a:visited {
+    display: block;
+    padding: 6px 20px;
+    color: #3c4043;
+    text-decoration: none !important; /* Added !important */
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+}
+.shams-context-menu a:hover {
+    background: #f1f3f4;
+    text-decoration: none !important; /* Added for hover state too */
+}
+
+.site-header {
+    border-top: 0 !important;
+}
