@@ -2,8 +2,8 @@
 layout: page
 title: "Digital Addictions"
 created: 2025-02-26
-updates: 2025-02-26
-version: 1.1.2
+updates: 2025-02-28
+version: 1.1.3
 categories: article
 tags:
 ---
@@ -19,7 +19,7 @@ Instagram, Facebook and Hackernews are what I'm usually addicted to[^1]. I've tr
 3. Subscribe to the Hacker Newsletter email and only visit posts from the newsletter that pique my interest.
 4. Remove Facebook and Instagram from my phone. I may install them only once daily and for a maximum of 30 minutes. Move any ongoing conversations to Whatsapp or email.
 
-A couple of months after implementing these rules I barely interact with these sites. Now, time started to feel thicker and slower. I yearn to spend time with friends in non-virtual settings. I write more often about how I'm spending my time. **Most importantly of all, I now do things for my own pleasure.**
+A couple of months after implementing these rules I barely interact with these sites. Now, time started to feel thicker and slower. I yearn to spend time with friends in non-virtual settings. I write more often about how I'm spending my time. **Most importantly, I now do things for my own pleasure.**
 
 I didn't realize how posting on social apps skewed my behavior towards doing things in order to impress others. Like taking a picture when what I really wanted to do was just be there.
 
