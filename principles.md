@@ -15,4 +15,4 @@ categories: life
 
 ---
 
-[^1]: nice is not telling someome that they have a piece of lettuce in their teeth so you don't emberrase them. Kind is telling them.
+[^1]: nice is not telling someone that they have a piece of lettuce in their teeth so you don't embarrass them. Kind is telling them.
