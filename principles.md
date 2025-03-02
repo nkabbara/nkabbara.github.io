@@ -7,7 +7,7 @@ version: 0.5.0
 categories: life
 ---
 
-### Always try to leave things better than you found. them.
+### Always try to leave things better than you found them.
 
 ### Default to being kind with people[^1], but not nice.
 
