@@ -2,8 +2,8 @@
 layout: page
 title: "A Checklist Runs My Life"
 created: 2025-03-01
-updates: 2025-03-01
-version: 1.0.0
+updates: 2025-03-02
+version: 1.1.0
 categories: article
 tags:
 ---
@@ -27,9 +27,9 @@ Every six weeks[^4], I **take a week off** from the checklist in order to distan
 
 [^4]: I arbitrarily picked six weeks. I might change this one day.
 
-There's a conversation going on between the world and the checklist. It shapes my world, but **my world also shapes it**. As I sprint through the weeks, the routine starts to become too rigid. Unplanned events feel like a major annoyance. What I started to do is be more **flexible and realistic** and rewrite the checklist to match. For example, my mom decided to come and spend a week with me in Argentina. My first reaction was: fuck, I'm going to lose 30 hours of work, how can I fit her in. My second and better reaction was: let me make that week's checklist all about showing her the best time of her life and plan work around her resting time where and if possible. This removes the friction I usually feel when there's a mismatch between what I had planned and what's happening[^7].
+There's a conversation going on between the world and the checklist. It shapes my world, but **the world also shapes it**. As I sprint through the weeks, the routine starts to become too rigid. Unplanned events feel like a major annoyance. I try to be more **realistic and improvisational** and rewrite the checklist to match what's inevitably going to happen. This flips annoyance into enjoyment. For example, my mom decided to come and spend a week with me in Argentina. My first reaction was: fuck, I'm going to lose 30 hours of work, how can I fit her in. My second reaction was: let me make that week's checklist all about her. Show her the best time and spend as much time with her as possible. Work only if time allows[^7].
 
-[^7]: I used to keep my plan the same and figure out how squeeze unplanned events within it knowing that it was impossible.
+[^7]: I used to keep my plan the same and figure out how squeeze unplanned events within it knowing that it was impossible. Then as the days unfolded, I would feel annoyed at not being able to finish what I had planned. Magical thinking.
 
 The ability to take a goal or a quest and break it down into baby steps makes me feel as if everything is possible. This system has helped me build and sell a few companies, learn to speak Spanish, learn to dance Tango, get my Toastmasters certificate, move to new countries, and it continues to support me with my current quests.
 
