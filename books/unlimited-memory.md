@@ -3,7 +3,7 @@ layout: page
 title: "Unlimited Memory"
 created: 2025-02-02
 updates: 2025-02-21
-version: 1.0.1
+version: 1.1.1
 categories: book
 tags: hidden
 author: Kevin Horsley
@@ -374,9 +374,6 @@ I think this will be easier than memorizing numbers because cards are more disti
 ## Next Steps
 
 1. Finish memorizing the list of 100 numbers based on chapter 11 to help me memorize numbers and speed recall to an accetable threshold. Then I'm going to memorizing the top 10 most important numbers on my phone and any other important numbers.
-2. Test memorizing prose or poetry using the text method.
-3. Memorize 26 bikram yoga position names in sanskrist and their equivalent in english. See if I can compmartmentalize useful tips for each movement once I have them memorized in the journey. Example, if I have Utkatasana stored in elevator, when teacher gives me tips, add them next to the movement in the elevator, maybe on the button panel, etc...
-4. Establish a system to memorize new Spanish words and grammar rules I tend to break.
-5. Once systems are in place for my current activities, get playing cards in order to keep sharp and memorize cards using the Playing Cards method.
+2. Whenever I run into something worth memorizing, lookup notes here and apply relevant technique to it. Names are very common, so I've been coming back to names section a bit.
 
 ---
