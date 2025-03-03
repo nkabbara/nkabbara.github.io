@@ -2,8 +2,8 @@
 layout: page
 title: "How to Read a Book"
 created: 2024-12-17
-udpates: 2025-01-29
-version: 2.1.0
+udpates: 2025-03-03
+version: 2.2.0
 categories: book
 tags: hidden
 author: Mortimer J. Adler, Charles Van Doren
@@ -112,9 +112,9 @@ We are incorrectly trained to pay the most attention to things that we don't und
 
 _Remember how we read Smith's The Wealth of Nations. We underlined, looked things up, and were never able to complete it. We put it aside. If we had known how to read superficially, we would have completed it and benefited much more from it._
 
-**This does not mean read so quickly that you're struggling with comprehension. No, it's an activity with a goal of answering the first of the four basic questions.**
+**This does not mean read so quickly that you're struggling with comprehension. No, it's an activity with a goal of answering the first of the four basic questions. See Basic Rules of reading section above for note on reading speed.**
 
-Outcomes: you have a good understanding of the book as far as the structure goes and some interpretive insights.
+Outcomes: you have a good understanding of the book as far as the structure goes and some interpretive insights. Ready to put it down or to commit to an analytical read (now or later on).
 
 ## Analytical Reading[^6]
 
