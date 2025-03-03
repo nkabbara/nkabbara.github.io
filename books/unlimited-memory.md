@@ -3,7 +3,7 @@ layout: page
 title: "Unlimited Memory"
 created: 2025-02-02
 updates: 2025-02-21
-version: 1.1.1
+version: 1.1.2
 categories: book
 tags: hidden
 author: Kevin Horsley
@@ -252,7 +252,7 @@ When someone tells you their name, it just gets put in your working memory. You 
 
 Remember that all learning is creating relationships between the known and the unknown. When you’re introduced to someone, you see (know) their face—an image—so you need to connect their unknown name to their known face. When you see their face again it must act as a trigger or peg to bring the name to your awareness. Make sure you attempt to invoke the image when you see them, not the sound.
 
-First you need to **concentrate** by repeating their name to them or asking them to repeat it. Then, in the next 20 seconds **create** an image that can remind you of their name. The followin methods can help you create and connect them to something already in your mind:
+First you need to **concentrate** by repeating their name to them or asking them to repeat it. Then, in the next 20 seconds **create** an image that can remind you of their name. The following methods can help you create and connect them to something already in your mind:
 1. **Comparison Connection:** Connect the person to a name that you already know. Let’s say we meet a person by the name of George. To make the name stick, we think of someone that we already know with the same name. Do you know another George? You may even think of someone famous with the same name, like George Clooney. Next, compare the two people in your mind. What color hair does the George that we are meeting have? What color is the other George’s hair? By comparing just this one feature you will pay more attention than you would have before, therefore making a stronger connection. You can cement the memory even more by imagining the person with two heads—their own, and that of the person you already know with the same name.
 2. **Face Connection:** With this method, you make a link between the name and an outstanding feature in the person’s appearance. Every face is unique and every face has an outstanding feature. Imagine you meet a man named Peter and you notice that he has a big nose. Turn the name into a picture; “Peter” sounds like “pea eater.” Next, quickly make the connection that his nose is a big pea eater. By making a silly, memorable association, you will connect the face and the name together. Last resort if nothing is coming up you can imagine writing their name on their forehead. Make sure you use a big fat red mental pen. It is all about creativity.
 3. **Meeting Location Connection:** After meeting someone for the first time, you tend to remember where you met them. The place makes a clear impression in our memory, but the name is nowhere to be found! With this method, we connect the name to the place where we are meeting, using a journey peg to hold on to the name. Let’s say you meet a woman by the name of Rose. Ask yourself, “What will I remember about this place where I met her?” Let’s say you think you will remember the buffet table. You then connect a big red rose to it. When you think of the place, you will think of her name, too.
