@@ -3,7 +3,7 @@ layout: page
 title: "How to Read a Book"
 created: 2024-12-17
 udpates: 2025-03-03
-version: 2.2.0
+version: 2.3.0
 categories: book
 tags: hidden
 author: Mortimer J. Adler, Charles Van Doren
@@ -289,7 +289,7 @@ Here are some ways to help you find keywords:
 * He may call your attention to the word by explicitly discussing its various senses and indicating the way he is going to use it here and there. Or he may emphasize the word by defining the thing that the word is used to name.
 * Stage I could help here: If you know what kind of book it is, what it is about as a whole, and what its major parts are, you are greatly aided in separating the technical vocabulary from the ordinary words. The author’s title, chapter headings, and preface may be useful in this connection.
 
-Mark these words. Using oasis, highlight them.
+Mark these words. Using scribe, underline them.
 
 ##### Finding Keyword Terms
 
@@ -624,8 +624,16 @@ I did not take notes about how to read other types of books. I'll do so when I r
 
 _All that follow are suggestions._
 
-* Using Kindle Oasis, we can adapt author's suggestion of taking notes.
+* Using Kindle Scribe, we can adapt author's suggestion of taking notes.
 * When you want to read a book again, it's preferable to save all previous notes, delete them and start taking notes over again. Otherwise, former notes will be in your way and distraction from your next reading.
+
+The headings below are suggestions, but what I'm actually doing (using kindle scribe as of 2025-03-06) is the following:
+
+I'm underlining (not highlighting) terms and propositions and arguments. I'm highlighting forceful or insightful statements.
+
+I'm taking notes in the margine panel to refine things using my own words. I'm taking specific notes over a word or highlight for something more contextual. At the end of every chapter, I can look over my notes and write the conclusion of what main arguments or points where made.
+
+Once I'm set on a method, I'll update the headings below to match.
 
 ### Inspectional/Structural
 
@@ -635,15 +643,15 @@ Take notes that help answer the first 3 questions in Analytical Stage I or first
 
 These notes help you with interpreting the content of the book. Here are some suggestions. Use these for inspection if you deem fit.
 
-UNDERLINING—of major points; of important or forceful statements.
+HIGHLIGHT—of major points; of important or forceful statements.
 
 BOOKMARK PAGE & WRITE "MP" NEXT TO A MAJOR POINT—to be used sparingly, to emphasize the ten or dozen most important statements or passages in the book. You will be able to take the book off the shelf at any time and, by opening it to the bookmarked pages, refresh your recollection. Do not bookmark pages for other purposes.
 
-NUMBERS IN THE MARGIN & HIGHLIGHT SENTENCE—to indicate a sequence of points made by the author in developing an argument. Maybe an argument's keyword to remember which argument the propositions are referring to. e.g. "Love is life argument", you'd note "LIL p3" for love is life proposition 3.
+NUMBERS IN THE MARGIN & UNDERLINE SENTENCE—to indicate a sequence of points made by the author in developing an argument. Maybe an argument's keyword to remember which argument the propositions are referring to. e.g. "Love is life argument", you'd note "LIL p3" for love is life proposition 3.
 
-HIGHLIGHT KEYWORDS- to indicate a keyword (term). So highlighting is used for keywords and key sentences that lead to arguments. Keyword -> Key sentence -> Argument.
+UNDERLINE KEYWORDS- to indicate a keyword (term). So underline is used for keywords and key sentences that lead to arguments. Keyword -> Key sentence -> Argument.
 
-HIGHLIGHTED SENTENCES WITHOUT NUMBERS- are key sentences, but not necessarily part of a larger argument. They might be the complete argument.
+UNDERLINE SENTENCES WITHOUT NUMBERS- are key sentences, but not necessarily part of a larger argument. They might be the complete argument.
 
 WRITING IN THE MARGIN, OR AT THE TOP OR BOTTOM OF THE PAGE—
   * to record questions (and perhaps answers) which a passage raises in your mind;
