@@ -2,13 +2,13 @@
 layout: page
 title: "now"
 created: 2024-12-14
-updated: 2025-02-21
+updated: 2025-03-15
 version: 1.4.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Feb 21, 2025 from Buenos Aires._</small>
+<small>_Last updated on March 15, 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 
@@ -18,7 +18,7 @@ I just paused a long chapter of working as a Software Engineer indefinitely. I h
 - [How to Read a Book](/books/how-to-read-a-book) (done)
 - [Internal Time](/books/internal-time) (done)
 - [Unlimited Memory](/books/unlimited-memory) (done)
-- [On Writing Well](/books/on-writing-well) (wip)
+- [On Writing Well](/books/on-writing-well) (wip. Damn, writing is hard.)
 
 ## Bikram Yoga
 
@@ -34,6 +34,6 @@ _Since my sabbatical started, my lifestyle shifted from ["Balance Everything"](h
 
 I moved to Latin America in May 2019 after living most of my life in Houston,TX and I'm still learning Spanish! As soon as my level reached order-food level, complaining-about-slow-internet level, and dating-level I stopped learning and surfed that plateau for a few years. But life in Buenos Aires is very different than the cities I've lived in in Mexico. People here are very friendly and more inclusive than Mexico, so I keep finding myself in Spanish only groups and events. This has generated a renewed motivation to take my Spanish to the next level.
 
-My current daily routine is 30 minutes divided between Ankiing new words and going through [Language Transfer's](https://www.languagetransfer.org/) awesome Spanish course. As soon as that comes to an end I'm switching to conversational in person classes. I'm also considering an alternative where I deep dive for a couple of months dropping all other activities and put it behind me.
+My current routine is 3 in-person classes a week and the rest of the week I study (anki) new words that I couldn't understand in daily conversations with people.
 
 <small>_(This is a now page, and if you have your own site, [you should check it out](https://nownownow.com/about).)_</small>
