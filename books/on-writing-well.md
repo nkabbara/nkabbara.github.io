@@ -42,7 +42,7 @@ Simplicity test:
 * Then ask, have I said it?
 * Is it clear for someone encountering the subject for the first time?
 
-Be grateful for any word that you can remove or shorten. Clutter removes simplicity. Clutter examples:
+Be grateful for any word, sentence, paragraph, or section that you can remove or shorten. Clutter removes simplicity. Clutter examples:
 1. At this point in time, present time, presently, currently, at this juncture of maturization: now
 2. Head up, face up, free up, order up: unecessary propositions
 3. Personal friend, personal doctor, personal feelings
@@ -88,11 +88,19 @@ Stripping down your prose to the essential improves your carpentry. It does not 
 You owe the reader good carpentry. But you do not owe him your identity. You are using good carpentry in order to show your identity clearly. If the reader leaves because a sentence is illogical, it's on you. But if he leaves because he doesn't think you're funny, it's on him. You owe yourself your honest identity: that's what it means to say you are writing to yourself.
 
 Words are the atoms of writing. To write well, you must:
-1. Know the gradiations between synonyms
-2. Read the masters, pick a model and ask why did they use this word? Why did they write this sentence like so? How can I write like that?
-3. Try to write with your ears and always read your drafts aloud. Pay attention to rhyming, alliteration, cadence and sonority of each sentence.
+1. Know the gradiations between synonyms: “cajole,” “wheedle,” “blandish” and “coax”[^2]. Use dictionay, thesorus weird thesorous.
+2. Imitate a master that you like. Pick a model and ask why did they use this word? Why did they write this sentence like so? How can I write like that?
+3. Try to write with your ears and always read your drafts aloud. Pay attention to rhyming, alliteration, cadence and sonority of each sentence[^3].
     * Reassemble the sentence so it ends with a phrase that momentarily lingers.
     * Choose one word after the other because I'm after a certain emotional effect: serene v.s tranquil
     * Gain variety by reversing the order of the sentence
     * Substitute a word that has freshness and oddity. That is oblique, not 'true and tested'.
-    * Alter the length of sentences with the occasional short ones.
+    * Alter the length of sentences with the occasional short ones. Short sentences could leave a strong punch.
+
+
+[^2]: Cajole: gentel persuasion. Wheedle: persuation through insincere flatery. Blandish: persuation through skillfull flattery. Coax: persuation through patient means.
+
+[^3]: Example of this: Original: These are the times that try men’s souls. Bad: * Times like these try men’s souls. * How trying it is to live in these times! * These are trying times for men’s souls. * Soulwise, these are trying times.
+
+
+---
