@@ -25,10 +25,10 @@ Writing is an act of Ego. Just admit it and use its energy to propell you.
 
 Your process of writing doesn't matter as long as it produces words. Even your subject matter doesn't matter. What matters is writing that shows your humanity to the reader: what drew you to the subject? What baggage are you bringing along? How did it change you?
 
-Simple writing to strip every sentence down to its simplest form. Here's how to achieve it
-1. Strip all useless words.
+Simple writing is stripping every sentence down to its simplest form. Here's how to achieve it:
+1. Remove all useless words.
 2. Shorten long words.
-3. Remove redundant adverbs.
+3. Remove redundant adverbs and adjectives.
 4. Convert passive construction to active construction.
 4. Disambiguate sentences that can be read in multiple ways.
 5. Unify pronouns in a sentence.
@@ -97,10 +97,33 @@ Words are the atoms of writing. To write well, you must:
     * Substitute a word that has freshness and oddity. That is oblique, not 'true and tested'.
     * Alter the length of sentences with the occasional short ones. Short sentences could leave a strong punch.
 
-
 [^2]: Cajole: gentel persuasion. Wheedle: persuation through insincere flatery. Blandish: persuation through skillfull flattery. Coax: persuation through patient means.
 
 [^3]: Example of this: Original: These are the times that try men’s souls. Bad: * Times like these try men’s souls. * How trying it is to live in these times! * These are trying times for men’s souls. * Soulwise, these are trying times.
+
+Usage is a gray area. Only use a word if it fills a real need and there's no better word to use. If a word is jargon don't use it. Examples of bad usage:
+* Notables
+* Greats
+* Upcoming
+* -wise suffix like healthwise.
+* Rather unique
+* myself as in: she invited Sam and myself to dinner.
+* 'Too' when substituted for 'very'
+* Input and feedback: ideas and what he thinks of them.
+* Verbalize
+
+Before you begin your writing, some core decisions need to be made and stuck to. That will establish the unity of your work. Unity is the achor of good writing and communicates confidence to your readers: the author is in charge here. The decisions:
+1. Unity of pronoun: first person (participant), second person (advice, teaching) or third person (reporter).
+2. Unity of tense: popular past tense? Workable present tense? Pick one as the principle tense and use the past, present and hypothetical future when needed, but also come back to your principle tense.
+3. Unity of tone: formal, casual, earnest, understated, or humourous (amongst others).
+4. Capacity: reporter, provider of information, average man.
+5. Style: Impersonal and reportorial, personal, but formal, personal and casual.
+6. Attitude: detached, amused, judgemental, involved or ironic.
+7. How much do I want to cover? (Reduce, reduce, reduce).
+8. What ONE provocative thought do I want to bring through to the reader after he's done reading? This decision affects several others like tone and attitude and will help with what route you should follow and what destination you hope to reach.
+
+Don't let the material control your unity. Your decisions should control it. But as you're writing, you might find out that the writing is leading you into a better path than what you've decided on. Don't be a prisoner to your plan. Change your strategy. Go back to the material that is using the former decisions and rewrite it to match the better unity.
+
 
 
 ---
