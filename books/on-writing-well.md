@@ -14,11 +14,11 @@ Writing is an act of Ego. Just admit it and use its energy to propell you.
 
 ## Top Five Things
 
-1. a
+1. Write clear, simple and brief English. Do so by removing all clutter. Do so by learning the carpentry of writing.
 2. b
 3. c
 4. d
-5. e
+5. The quality of your article is proportional to the amount of material you've collected. Interviews and research.
 
 
 ## Notes
@@ -87,6 +87,8 @@ Stripping down your prose to the essential improves your carpentry. It does not 
 
 You owe the reader good carpentry. But you do not owe him your identity. You are using good carpentry in order to show your identity clearly. If the reader leaves because a sentence is illogical, it's on you. But if he leaves because he doesn't think you're funny, it's on him. You owe yourself your honest identity: that's what it means to say you are writing to yourself.
 
+Do not go back to 'style' your writing after you had done it. Style, is not something you can add like lipstick. Your style is in your DNA, so write honestly and without and agenda and your style will show.
+
 Words are the atoms of writing. To write well, you must:
 1. Know the gradiations between synonyms: “cajole,” “wheedle,” “blandish” and “coax”[^2]. Use dictionay, thesorus weird thesorous.
 2. Imitate a master that you like. Pick a model and ask why did they use this word? Why did they write this sentence like so? How can I write like that?
@@ -146,5 +148,14 @@ The ending is as imporant as the lead. It's how you leave your reader feeling. S
 * Let the ending be a bit abrupt, but exactly right. It should be surprizing.
 * If you'd like a sense of symetry, you may touch on the beginning of the piece. A quotation works well here.
 * If you're ready to stop, stop. Don't push the ending. The reader will feel you're getting bored.
+
+Verbs are the most important of your tools. Use active ones, unless there's no comfortable way to get around using a passive verb[^4]. Short and precise are better than long and ambiguous. Make active verbs activate your sentences, and avoid the kind that need an appended preposition to complete their work[^5].
+
+Most adverbs are unnecessary. Radio blared loudly. Clenched their teeth tightly. Effortlessly easy. Slightly spartan. Totally flabbergasted. Grinned widely. All the previous examples show redundancy. Remove the adverbs and we haven't lost any meaning. Also watch out for decidedly, arguably and their cousins.
+
+Most adjectives are unnessary. When they exist solely as decoration they're self indulgent to the writer and a hindrance to the reader. And when redundant, they're unessary: Yellow daffodils. Brownish dirt. By habit: Stately elms. Firsky kittens. Hard-bitten detectives. Sleepy lagoons. Use them when they're doing real work: "He looked at the gray sky and the black clouds and decided to sail back to the harbor."
+
+[^4]: Joe saw him. He was seen by Joe. Former is strong, latter is weak.
+[^5]: Don’t set up a business that you can start or launch. Don’t say that the president of the company stepped down. Did he resign? Did he retire? Did he get fired? Be precise. Use precise verbs.
 
 ---
