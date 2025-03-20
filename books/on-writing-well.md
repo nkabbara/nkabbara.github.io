@@ -124,6 +124,27 @@ Before you begin your writing, some core decisions need to be made and stuck to.
 
 Don't let the material control your unity. Your decisions should control it. But as you're writing, you might find out that the writing is leading you into a better path than what you've decided on. Don't be a prisoner to your plan. Change your strategy. Go back to the material that is using the former decisions and rewrite it to match the better unity.
 
+The lead is marketing for your work. It hooks the reader and pushes him to want to know more. The most important sentence in your lead is the first one. It induces the reader to go to the next one. The next is the one after. Lead length could be from zero (jump into story) to several paragraphs, depending on your material and audience. Good lead characteristics:
+* Captures reader immediately by letting them know upfront what's in it for them.
+* Uses freshness, novelty, paradox, humor, surprise, unusual idea, interesting fact, a question to keep reader going.
+* Provides hard details about why piece was written and why he must read it, but not too much, just enough to keep interest piqued.
+* Build up paragraph by paragraph each amplifying the one that precedes it.
+* Last sentence of each paragraph must entice reader to read next paragraph. Use surprise, humor,..., see list above.
 
+But remember, the sole purpose of the lead is to hook the reader. If you've done that without any of the above, you're good.
+
+Bad lead characteristics:
+* Future archeologist
+* Visitor from Mars
+* Cute event that just happened to happen: one day, not long ago...
+* Conveniently recent Saturday afternoon: ...when he saw something rising out of the ground.
+* Have-in-common lead
+* Breakfast-to-bed: the alarm rang before sunrize
+
+The ending is as imporant as the lead. It's how you leave your reader feeling. Some tips on endings:
+* Do not use the high school structure of Lead, Middle, End (I, II, III) where III summarizes the whole article. When you catch yourself writing: "In sum, it can be noted that...", "What insights then have we been able to glean...".
+* Let the ending be a bit abrupt, but exactly right. It should be surprizing.
+* If you'd like a sense of symetry, you may touch on the beginning of the piece. A quotation works well here.
+* If you're ready to stop, stop. Don't push the ending. The reader will feel you're getting bored.
 
 ---
