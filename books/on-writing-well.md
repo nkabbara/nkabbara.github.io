@@ -151,11 +151,22 @@ The ending is as imporant as the lead. It's how you leave your reader feeling. S
 
 Verbs are the most important of your tools. Use active ones, unless there's no comfortable way to get around using a passive verb[^4]. Short and precise are better than long and ambiguous. Make active verbs activate your sentences, and avoid the kind that need an appended preposition to complete their work[^5].
 
+[^4]: Joe saw him. He was seen by Joe. Former is strong, latter is weak.
+[^5]: Don’t set up a business that you can start or launch. Don’t say that the president of the company stepped down. Did he resign? Did he retire? Did he get fired? Be precise. Use precise verbs.
+
 Most adverbs are unnecessary. Radio blared loudly. Clenched their teeth tightly. Effortlessly easy. Slightly spartan. Totally flabbergasted. Grinned widely. All the previous examples show redundancy. Remove the adverbs and we haven't lost any meaning. Also watch out for decidedly, arguably and their cousins.
 
 Most adjectives are unnessary. When they exist solely as decoration they're self indulgent to the writer and a hindrance to the reader. And when redundant, they're unessary: Yellow daffodils. Brownish dirt. By habit: Stately elms. Firsky kittens. Hard-bitten detectives. Sleepy lagoons. Use them when they're doing real work: "He looked at the gray sky and the black clouds and decided to sail back to the harbor."
 
-[^4]: Joe saw him. He was seen by Joe. Former is strong, latter is weak.
-[^5]: Don’t set up a business that you can start or launch. Don’t say that the president of the company stepped down. Did he resign? Did he retire? Did he get fired? Be precise. Use precise verbs.
+Prune out the small words that qualify how you feel and how you think and what you saw: “a bit,” “a little,” “sort of,” “kind of,” “rather,” “quite,” “very,” “too,” “pretty much,” “in a sense” and dozens more. They dilute your style and your persuasiveness. Don't be kind of bold, be bold.
+
+Use the period to save you from long sentence that are doing more than they reasonably can. Like for example expressing two dissimilar thoughts.
+
+Use the dash in two ways. One is to amplify or justify in the second part of the sentence a thought you stated in the first part. “We decided to keep going—it was only 100 miles more and we could get there in time for dinner.” The other use involves two dashes, which set apart a parenthetical thought within a longer sentence. “She told me to get in the car—she had been after me all summer to have a haircut—and we drove silently into town.”
+
+Be prudent in your use of exclamation points, especially when being humorous, they ruin the surprise.
+
+Alert the reader of any mood change from the previous sentence as soon as you can. Use: but, yet, howerver, nevertheless, still, instead, thus therefore, meanwhile, now, later, today, subsequetly and more...Start the new sentence with "but" when shifting direction. If you need some relief from 'but', use 'however', however don't put it at the start or end of sentence, but rather as soon as you can. "Yet" works like "but", but its meaning is closer to nevertheless. Either of those words at the beggining of a sentence can replace a summary of what the reader was told and make your prose tighter:  "Despite the fact that all these dangers had been pointed out to him, he decided to go." becomes "Yet he decided to go" or "Nevertheless he decid to go." The time temporal ones, like now, meanwhile, etc...are for orienting the reader about the time frame: "Later I found out why.", "Now I know better". Always alert the reader of a change from the previous sentence.
+
 
 ---
