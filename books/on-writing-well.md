@@ -15,7 +15,7 @@ Writing is an act of Ego. Just admit it and use its energy to propell you.
 ## Top Five Things
 
 1. Write clear, simple and brief English. Do so by removing all clutter. Do so by learning the carpentry of writing.
-2. b
+2.
 3. c
 4. d
 5. The quality of your article is proportional to the amount of material you've collected. Interviews and research.
@@ -37,10 +37,11 @@ Simple writing is stripping every sentence down to its simplest form. Good sente
 6. Unify tense in a sentence.
 7. Clarify who is talking to whom when action takes place.
 9. Check usage of words you're not sure about.
-10. Improve rythm after reading with your ear.
 8. Make sure sentence B, logically follows sentence A.
-11. If shifts exist-in subject, tense, tone, emphasis, time, place-that they have been clearly demarked between one sentence and the next.
-12. Improve narrative by moving timely information to the right place: should I have let the reader know this earlier in the sentence?
+11. If shifts exist-in subject, tense, tone, emphasis, time, place, mood-that they have been clearly demarked between one sentence and the next.
+12. Alter sequence when necessary: improve narrative by moving timely information to the right place: should I have let the reader know this earlier in the sentence?
+13. Appeal to the eye: vary sentence and paragraph length.
+14. Appeal to the ear: improve rythm after reading with your ear.
 
 Simplicity test:
 * What am I trying to say?
@@ -187,6 +188,15 @@ Try to think in paragraph units where each has its own integrity of content and 
 
 Writing well is an evolving process, not a finished product. Rewriting is where good writing happens because a newly hatches sentence is always filled with hurdles to clarity. Tinker with the sentences using the checklists in these notes. When the reader has a narrative flow he can follow with no trouble from start to finish, you're done. _Rewriting here is refering to improving a draft that you like. Full rewrite has its place as well._ **Rewriting is NOT going back and adding 'style' to your prose.**
 
+Write about what you care about. There's no subject you're not allowed to write about. No area in life is stupid to smoeone who takes it seriously. No subject you don't have permission to write about.
 
+Dont' annoy your readers with overexplaining-by telling them something they already know or can figure out. Try not to use words like "surprisingly", "predictably" and "of course". Trust your material.
+
+
+Your voice is your identity as a writer. The reader will know it's you whether your write about tango or about technology. Do not fit your voice into the subject, rather write about the subject in your voice. You may help your voice come out by paying attention to the following:
+* Breeziness: it's when you ingratiate to the reader. You talk to him in an overly friendly manner if you want his approval or in an overly pretentious manner if you think they're high browed. Instead, picture yourself having a conversation with a friend who you respect and that you know that he respects you.
+* Clichés are the enemy of good taste. They condence ideas into metaphor. Shed them and explain the idea in your own fresh words. You will inevitabely introduce cliches and will remove the in your rewriting. Top brass instead of official, execs, chairmen, presidents, directors, or managers.
+* Imitate authors who you enjoy and you think have good taste. Don't worry about sounding like them. Eventually you will shed that skin.
+* Generally, taste uses words that have surprise, strength and precision. You use mostly short words with two syllables, some with three. More than that only if you have to. And much less, long words of latin origin that end with 'ion'. You rarely use vague words, instead you use real everday words like: leaves, wind, frost, air, evening, earth, comfort, soil, labor, breath, body, justice, courage, peace, land, rites, home.
 
 ---
