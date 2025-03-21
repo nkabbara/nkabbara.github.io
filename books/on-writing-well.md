@@ -25,17 +25,22 @@ Writing is an act of Ego. Just admit it and use its energy to propell you.
 
 Your process of writing doesn't matter as long as it produces words. Even your subject matter doesn't matter. What matters is writing that shows your humanity to the reader: what drew you to the subject? What baggage are you bringing along? How did it change you?
 
-Simple writing is stripping every sentence down to its simplest form. Here's how to achieve it:
+Simple writing is stripping every sentence down to its simplest form. Good sentence checklist:
+1. Ensure that your busiest reader can understand it from a first reading.
 1. Remove all useless words.
-2. Shorten long words.
 3. Remove redundant adverbs and adjectives.
+4. Remove clichés.
+2. Shorten long words.
 4. Convert passive construction to active construction.
 4. Disambiguate sentences that can be read in multiple ways.
 5. Unify pronouns in a sentence.
 6. Unify tense in a sentence.
-7. Clarify who is talking to who when action takes place.
-8. Make sure sentence B, logically follows sentence A.
+7. Clarify who is talking to whom when action takes place.
 9. Check usage of words you're not sure about.
+10. Improve rythm after reading with your ear.
+8. Make sure sentence B, logically follows sentence A.
+11. If shifts exist-in subject, tense, tone, emphasis, time, place-that they have been clearly demarked between one sentence and the next.
+12. Improve narrative by moving timely information to the right place: should I have let the reader know this earlier in the sentence?
 
 Simplicity test:
 * What am I trying to say?
@@ -167,6 +172,21 @@ Use the dash in two ways. One is to amplify or justify in the second part of the
 Be prudent in your use of exclamation points, especially when being humorous, they ruin the surprise.
 
 Alert the reader of any mood change from the previous sentence as soon as you can. Use: but, yet, howerver, nevertheless, still, instead, thus therefore, meanwhile, now, later, today, subsequetly and more...Start the new sentence with "but" when shifting direction. If you need some relief from 'but', use 'however', however don't put it at the start or end of sentence, but rather as soon as you can. "Yet" works like "but", but its meaning is closer to nevertheless. Either of those words at the beggining of a sentence can replace a summary of what the reader was told and make your prose tighter:  "Despite the fact that all these dangers had been pointed out to him, he decided to go." becomes "Yet he decided to go" or "Nevertheless he decid to go." The time temporal ones, like now, meanwhile, etc...are for orienting the reader about the time frame: "Later I found out why.", "Now I know better". Always alert the reader of a change from the previous sentence.
+
+Which and that: always use "that" unless it makes your meaning ambigous. If your sentence needs a comma to achieve its precise meaning, it probably needs "which". "That" is used to identify the specific item under discussion-from many items-, while "which" qualifies the only item under discussion.A  high proportion of "which" usage narrowly describes, or identifies, or locates, or explains or otherwise qualify the phrase that preceded the comma. "Take the shoes that are in the closet." (there are many shoes we're discussing, but the ones in the closet), "Take the shoes, which are in the closet." (only one pair is being discussed.) More examples: The house, which has a red roof, The store, which is called Bob’s Hardware, The Rhine, which is in Germany
+
+Concept nouns are mostly bad. It's when you use nouns to express a concept instead of active verbs: "The common reaction is incredulous laughter.", "Bemused cynicism ins't the only response to the old system.", "The current campus hostility is a sympton of the change". Notice how these sentences have no people in them. That's weak. Now look at "Most people just laugh with disbelief.", "Some people respond to the old sysmte by turning cynical; others say...", "It's easy to notice the change-you can see how angry all the students are.".
+
+Creeping nounism: multiple nouns used where one noun or one verb would do: "Nobody goes broke now.", "It no longer rains".
+
+Don't overstate. Life has enough funny and unusual situation that when described with good English, they'll do the job. “The living room looked as if an atomic bomb had gone off there”. Weak.
+
+Problamatic sentences can usually be solved by completely getting rid of them. It's the last solution that comes to mind when in a jam. Ask, "Do I need it at all?" Probably not. Remove it and move on.
+
+Try to think in paragraph units where each has its own integrity of content and structure. Try to keep them short-too many long paragraphs will scare the reader. But also a succession of monotonusly sized ones will bore him. Make it visually inviting with a good balance of alternations.
+
+Writing well is an evolving process, not a finished product. Rewriting is where good writing happens because a newly hatches sentence is always filled with hurdles to clarity. Tinker with the sentences using the checklists in these notes. When the reader has a narrative flow he can follow with no trouble from start to finish, you're done. _Rewriting here is refering to improving a draft that you like. Full rewrite has its place as well._ **Rewriting is NOT going back and adding 'style' to your prose.**
+
 
 
 ---
