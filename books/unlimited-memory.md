@@ -3,7 +3,7 @@ layout: page
 title: "Unlimited Memory"
 created: 2025-02-02
 updates: 2025-02-21
-version: 1.1.2
+version: 1.2.2
 categories: book
 tags: hidden
 author: Kevin Horsley
@@ -281,17 +281,17 @@ Memorize [this list of 100 numbers](/books-one-hundred-numbers) in order to help
 
 I've spent a few days attempting to memorize the list and I have the following observations:
 
-1. **Breath and be with your breath**. I noticed at times, I tense up and get over concentrated. Balance concentration and breath to stay relaxed. This applies to memorization and recitation. More the latter.
+1. **Breath and be present**. I noticed at times, I tense up and over concentrate. Balance concentration and breath to stay relaxed. This applies to memorization and recitation. More the latter.
 2. **Don't reverse engineer how you recalled something**. I let my brain see the number and recall the associated word or image without any effort at first. I just check what it comes up with for validity, but I don't need to make an effort if the assocition is already imprinted.
 4. **Remember, the more you memorize, the more you can memorize**. I felt at some point that I'm somehow limited in how much memory I have. Like I'm running out of space and need to watch out for my precious memory. But then I remembered my commitment to believing that memory is unlimited and the more I memorize, the better it gets.
 3. **Be encouraging, look through a positive lense**. i.e instead of fuck I missed 4, go yeah! I got 23!!! "Start to catch your memory doing things right and you will start to see improvements."
-3. **Associate the number with words with images.** I associated an image with each number to help me recall the word. If that doesn't happen automatically, then
+3. **Associate the numbers with images.** Ultimately, you want to remember the image, not the word. I see a number and an image appears in mind. That's when the number is considered memorized. If that doesn't happen, use the tips below to recall the word until you can go number to image.
     1. Think if the number has any significance to you. For example, the number 05 reminds me of when I graduated which reminds me of the seal on my diploma. The word for 05 is Seal.
     2. Convert the number to its letters so it reminds you of the image. E.G. 29 = NP = NAP
     3. Be creative with the shapes of numbers. E.g 22 look like two swans, one black one white. Like a NUN's gown.
     4. Change the numbers a bit, 33, could be 3.3 which reminds you of and old running track at Memorial park in Houston. The word for 33 is Memo.
     5. As a last resort before giving up, iterate over the non value letters to see if you could recall the word quickly.
-3. Work on reversing words to numbers. When you see your associated words, you should be able to see the numbers with each without much effort to reverse it to a number.
+3. Your speed in recalling image to number should be as fast as numnber to image because eventually, you're going to put them in a palace and recall them. See image in mind, almost instantly recall its associated number.
 
 
 ### A Working Routine that Seems Effective
