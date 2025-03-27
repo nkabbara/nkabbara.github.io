@@ -10,9 +10,12 @@ author: William Zinsser
 buy-url: https://a.co/d/5lHgNCe
 ---
 
+Writing is a powerful search mechanism-even when unpublished-that helps you understand your life's narrative. It'll help you work through some of life's hardest knocks: loss, grief, addiction, illness, failure and help you find understanding and solace.
+
 Writing is an act of Ego[^1]. Just admit it and use its energy to propell you. Writing is also hard. You need to jump start your writing session just like a public speaker or a ballarina performs a ritual before their performance. Your writing ritual should induce among other things an ingredient of enjoyment. The reader must think that you're having a good time even if you're not. If you're unable to do this for today's writing session, revise today's work tomorrow when you're in a better mindset.
 
 Remember this when afraid of writing (or any other endeavor): Every reduction of the unfamiliar will reduce your fear[^2].
+
 
 [^1]: different from egotistical.
 [^2]: this is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blindspots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... help tremendously.
@@ -219,6 +222,7 @@ Some structural decisions to think about:
 2. Reduce whatever you decide to write about to its essential point. At first you'll want to include a lot and that's common. Fight that urge. It'll make your writing lighter and more energized.
 3. Pick an angle for your article: personal, rational, ideal, or philosophical?
 4. Get on a plane and live so you have something to write about. You'll always be nervous doing so and getting on that plane, but there's no way around it.
+5. If you write your story in a form of a quest-you have a problem, you've figured out how to solve it, it changed you-you'll have a greater chance of writing something that will connect with people.
 
 Some tactical decisions:
 1. After your lead is done, you can take a more relaxed tone. Don't be surprised if your lead alone takes as much time as the whole article to write.
@@ -236,7 +240,33 @@ Some tactical decisions:
 13. Use hooks at the end of paragraphs and section to properl the readers into the next.
 14. You are under no obligation to use the actual shape of events that transpired in real life. You don't have to reconstruct everything the way it happened. End when it's time to stop. Organize things in a way that appeals to you.
 
+Some useful writing devices:
+1. humor
+2. anecdote
+3. paradox
+4. unexpected quotation
+5. powerful facts
+6. outlandish details
+7. an elegant arrangement of words
+8. purposeful circuitous approach-an indirect, roundabout, or meandering way of getting to a point-
 
+On writing memoirs:
+* In this form, be you more than any other type of writing. Don't commit to an act of writing. Readers are looking for your remembered experiences and emotions.
+* You can write it from two points of view, from the current you looking back at the young you or from the young you of how you felt then. Pick one, don't mix the two. They are different kinds of memoirs.
+* Don't worry about hurting other people's feelings. Write your memoir as if you didn't care, then come back to decide on whether you should edit anything out.
+* Reduce. Pick one main point, one story, one quest, just one essential thing that will guide your memoir.
+* What's most important is not what you did, but how what you did has changed you.
+* One way to go about creating material for your memoirs is: everday, write a complete piece from what is most vivid in your memory. Then file it away. Don't go through old notes and such. Once you have enough full pieces, a pattern will start to emerge and you'll know what kind of memoir you're going to have.
+
+A good example that encompases everything we've seen so far:
+
+Author's suggestions for improvements:
+
+> There used to be a time when neighbors took care of one another, remembered. [Put “he remembered” first to establish reflective tone.] It no longer seemed to happen that way, however. [The contrast supplied by “however” must come first. Start with “But.” Also establish America locale.] He wondered if it was because everyone in the modern world was so busy. [All these sentences are the same length and have the same soporific rhythm; turn this one into a question?] It occurred to him that people today have so many things to do that they don’t have time for old-fashioned friendship. [Sentence essentially repeats previous sentence; kill it or warm it up with specific detail.] Things didn’t work that way in America in previous eras. [Reader is still in the present; reverse the sentence to tell him he’s now in the past. “America” no longer needed if inserted earlier.] And he knew that the situation was very different in other countries, as he recalled from the years when he lived in villages in Spain and Italy. [Reader is still in America. Use a negative transition word to get him to Europe. Sentence is also too flabby. Break it into two sentences?] It almost seemed to him that as people got richer and built their houses farther apart they isolated themselves from the essentials of life. [Irony deferred too long. Plant irony early. Sharpen the paradox about richness.] And there was another thought that troubled him. [This is the real point of the paragraph; signal the reader that it’s important. Avoid weak “there was” construction.] His friends had deserted him when he needed them most during his recent illness. [Reshape to end with “most”; the last word is the one that stays in the reader’s ear and gives the sentence its punch. Hold sickness for next sentence; it’s a separate thought.] It was almost as if they found him guilty of doing something shameful. [Introduce sickness here as the reason for the shame. Omit “guilty”; it’s implicit.] He recalled reading somewhere about societies in primitive parts of the world in which sick people were shunned, though he had never heard of any such ritual in America. [Sentence starts slowly and stays sluggish and dull. Break it into shorter units. Snap off the ironic point.]
+
+Improved version:
+
+> He remembered that neighbors used to take care of one another. But that no longer seemed to happen in America. Was it because everyone was so busy? Were people really so preoccupied with their television sets and their cars and their fitness programs that they had no time for friendship? In previous eras that was never true. Nor was it how families lived in other parts of the world. Even in the poorest villages of Spain and Italy, he recalled, people would drop in with a loaf of bread. An ironic idea struck him: as people got richer they cut themselves off from the richness of life. But what really troubled him was an even more shocking fact. The time when his friends deserted him was the time when he needed them most. By getting sick he almost seemed to have done something shameful. He knew that other societies had a custom of “shunning” people who were very ill. But that ritual only existed in primitive cultures. Or did it?
 
 
 ---
