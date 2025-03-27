@@ -12,13 +12,13 @@ buy-url: https://a.co/d/5lHgNCe
 
 Writing is a powerful search mechanism-even when unpublished-that helps you understand your life's narrative. It'll help you work through some of life's hardest knocks: loss, grief, addiction, illness, failure and help you find understanding and solace.
 
-Writing is an act of Ego[^1]. Just admit it and use its energy to propel you. Writing is also hard. You need to jump start your writing session just like a public speaker or a ballarina performs a ritual before their performance. Your writing ritual should induce among other things an ingredient of enjoyment. The reader must think that you're having a good time even if you're not. If you're unable to do this for today's writing session, revise today's work tomorrow when you're in a better mindset. But do today's work anyway. Improving is a matter of producing words daily.
+Writing is an act of Ego[^1]. Just admit it and use its energy to propel you. Writing is also hard. You need to jump start your writing session just like a public speaker or a ballerina performs a ritual before their performance. Your writing ritual should induce among other things an ingredient of enjoyment. The reader must think that you're having a good time even if you're not. If you're unable to do this for today's writing session, revise today's work tomorrow when you're in a better mindset. But do today's work anyway. Improving is a matter of producing words daily.
 
 Remember this when afraid of writing (or any other endeavor): Every reduction of the unfamiliar will reduce your fear[^2].
 
 
 [^1]: different from egotistical.
-[^2]: this is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blindspots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... help tremendously.
+[^2]: this is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blind spots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... Help tremendously.
 
 ## My Current Focus
 
@@ -51,7 +51,7 @@ Simple writing is stripping every sentence down to its simplest form. Good sente
 11. If shifts exist-in subject, tense, tone, emphasis, time, place, mood-that they have been clearly demarked between one sentence and the next.
 12. Alter sequence when necessary: improve narrative by moving timely information to the right place: should I have let the reader know this earlier in the sentence?
 13. Appeal to the eye: vary sentence and paragraph length.
-14. Appeal to the ear: improve rythm after reading with your ear.
+14. Appeal to the ear: improve rhythm after reading with your ear.
 
 Bad work characteristics:
 1. Loses the reader.
@@ -66,11 +66,11 @@ Simplicity test:
 
 Be grateful for any word, sentence, paragraph, or section that you can remove or shorten. Clutter removes simplicity. Clutter examples:
 1. At this point in time, present time, presently, currently, at this juncture of maturization: now
-2. Head up, face up, free up, order up: unecessary propositions
+2. Head up, face up, free up, order up: unnecessary propositions
 3. Personal friend, personal doctor, personal feelings
 4. Experiencing
 5. Depressed socioeconomic area, waste-disposal personnel: political correctness gone amok
-7. Negative cashflow position
+7. Negative cash flow position
 8. Assistance: help
 9. Numerous: many
 10. Facilitate: ease
@@ -97,12 +97,12 @@ Be grateful for any word, sentence, paragraph, or section that you can remove or
 23. to host, enthuse, emote (latter two are nouns chopped off), beef up, put teeth into (latter two are padded): nouns used as verbs.[^1]
 23. Shouldered his way, only to be met, crashing into his face, waging a lonely war, corruption that is rife, sending shock waves, NY Finest: clichés.
 
-[^1]: I noticed that looking up alternatives forces you to be more precise: to entertain, to accomodate, to feed.
+[^1]: I noticed that looking up alternatives forces you to be more precise: to entertain, to accommodate, to feed.
 
 Clutter test:
 * Is every word doing new work?
 * Can any thought be expressed with more economy?
-* Is anything pompous, pretensious or faddish?
+* Is anything pompous, pretentious or faddish?
 * Are you hanging on to something because you think it's beautiful?
 
 Stripping down your prose to the essential improves your carpentry. It does not hinder your style. Your style is when you're being yourself with relaxed confidence using good carpentry. Your style is when you are not trying to impress nor indulge the reader.
@@ -112,7 +112,7 @@ You owe the reader good carpentry. But you do not owe him your identity. You are
 Do not go back to 'style' your writing after you had done it. Style, is not something you can add like lipstick. Your style is in your DNA, so write honestly and without and agenda and your style will show.
 
 Words are the atoms of writing. To write well, you must:
-1. Know the gradiations between synonyms: “cajole,” “wheedle,” “blandish” and “coax”[^2]. Use dictionay, thesorus weird thesorous.
+1. Know the gradiations between synonyms: “cajole,” “wheedle,” “blandish” and “coax”[^2]. Use dictionary, thesaurus.
 2. Imitate a master that you like. Pick a model and ask why did they use this word? Why did they write this sentence like so? How can I write like that?
 3. Try to write with your ears and always read your drafts aloud. Pay attention to rhyming, alliteration, cadence and sonority of each sentence[^3].
     * Reassemble the sentence so it ends with a phrase that momentarily lingers.
@@ -121,25 +121,25 @@ Words are the atoms of writing. To write well, you must:
     * Substitute a word that has freshness and oddity. That is oblique, not 'true and tested'.
     * Alter the length of sentences with the occasional short ones. Short sentences could leave a strong punch.
 
-[^2]: Cajole: gentel persuasion. Wheedle: persuation through insincere flatery. Blandish: persuation through skillfull flattery. Coax: persuation through patient means.
+[^2]: Cajole: gentle persuasion. Wheedle: persuasion through insincere flattery. Blandish: persuasion through skillful flattery. Coax: persuasion through patient means.
 
-[^3]: Example of this: Original: These are the times that try men’s souls. Bad: * Times like these try men’s souls. * How trying it is to live in these times! * These are trying times for men’s souls. * Soulwise, these are trying times.
+[^3]: Example of this: Original: These are the times that try men’s souls. Bad: * Times like these try men’s souls. * How trying it is to live in these times! * These are trying times for men’s souls. * Soul-wise, these are trying times.
 
 Usage is a gray area. Only use a word if it fills a real need and there's no better word to use. If a word is jargon don't use it. Examples of bad usage:
 * Notables
 * Greats
 * Upcoming
-* -wise suffix like healthwise.
+* -wise suffix like health-wise.
 * Rather unique
 * myself as in: she invited Sam and myself to dinner.
 * 'Too' when substituted for 'very'
 * Input and feedback: ideas and what he thinks of them.
 * Verbalize
 
-Before you begin your writing, some core decisions need to be made and stuck to. That will establish the unity of your work. Unity is the achor of good writing and communicates confidence to your readers: the author is in charge here. The decisions:
+Before you begin your writing, some core decisions need to be made and stuck to. That will establish the unity of your work. Unity is the anchor of good writing and communicates confidence to your readers: the author is in charge here. The decisions:
 1. Unity of pronoun: first person (participant), second person (advice, teaching) or third person (reporter).
 2. Unity of tense: popular past tense? Workable present tense? Pick one as the principle tense and use the past, present and hypothetical future when needed, but also come back to your principle tense.
-3. Unity of tone: formal, casual, earnest, understated, or humourous (amongst others).
+3. Unity of tone: formal, casual, earnest, understated, or humorous (amongst others).
 4. Capacity: reporter, provider of information, average man.
 5. Style: Impersonal and reportorial, personal, but formal, personal and casual.
 6. Attitude: detached, amused, judgemental, involved or ironic.
@@ -158,17 +158,17 @@ The lead is marketing for your work. It hooks the reader and pushes him to want 
 But remember, the sole purpose of the lead is to hook the reader. If you've done that without any of the above, you're good.
 
 Bad lead characteristics:
-* Future archeologist
+* Future archaeologist
 * Visitor from Mars
 * Cute event that just happened to happen: one day, not long ago...
 * Conveniently recent Saturday afternoon: ...when he saw something rising out of the ground.
 * Have-in-common lead
-* Breakfast-to-bed: the alarm rang before sunrize
+* Breakfast-to-bed: the alarm rang before sunrise
 
-The ending is as imporant as the lead. It's how you leave your reader feeling. Some tips on endings:
+The ending is as important as the lead. It's how you leave your reader feeling. Some tips on endings:
 * Do not use the high school structure of Lead, Middle, End (I, II, III) where III summarizes the whole article. When you catch yourself writing: "In sum, it can be noted that...", "What insights then have we been able to glean...".
-* Let the ending be a bit abrupt, but exactly right. It should be surprizing.
-* If you'd like a sense of symetry, you may touch on the beginning of the piece. A quotation works well here.
+* Let the ending be a bit abrupt, but exactly right. It should be surprising.
+* If you'd like a sense of symmetry, you may touch on the beginning of the piece. A quotation works well here.
 * If you're ready to stop, stop. Don't push the ending. The reader will feel you're getting bored.
 
 Verbs are the most important of your tools. Use active ones, unless there's no comfortable way to get around using a passive verb[^4]. Short and precise are better than long and ambiguous. Make active verbs activate your sentences, and avoid the kind that need an appended preposition to complete their work[^5].
@@ -178,7 +178,7 @@ Verbs are the most important of your tools. Use active ones, unless there's no c
 
 Most adverbs are unnecessary. Radio blared loudly. Clenched their teeth tightly. Effortlessly easy. Slightly spartan. Totally flabbergasted. Grinned widely. All the previous examples show redundancy. Remove the adverbs and we haven't lost any meaning. Also watch out for decidedly, arguably and their cousins.
 
-Most adjectives are unnessary. When they exist solely as decoration they're self indulgent to the writer and a hindrance to the reader. And when redundant, they're unessary: Yellow daffodils. Brownish dirt. By habit: Stately elms. Firsky kittens. Hard-bitten detectives. Sleepy lagoons. Use them when they're doing real work: "He looked at the gray sky and the black clouds and decided to sail back to the harbor."
+Most adjectives are unnecessary. When they exist solely as decoration they're self indulgent to the writer and a hindrance to the reader. And when redundant, they're unnecessary: Yellow daffodils. Brownish dirt. By habit: Stately elms. Frisky kittens. Hard-bitten detectives. Sleepy lagoons. Use them when they're doing real work: "He looked at the gray sky and the black clouds and decided to sail back to the harbor."
 
 Prune out the small words that qualify how you feel and how you think and what you saw: “a bit,” “a little,” “sort of,” “kind of,” “rather,” “quite,” “very,” “too,” “pretty much,” “in a sense” and dozens more. They dilute your style and your persuasiveness. Don't be kind of bold, be bold.
 
@@ -188,32 +188,32 @@ Use the dash in two ways. One is to amplify or justify in the second part of the
 
 Be prudent in your use of exclamation points, especially when being humorous, they ruin the surprise.
 
-Alert the reader of any mood change from the previous sentence as soon as you can. Use: but, yet, howerver, nevertheless, still, instead, thus therefore, meanwhile, now, later, today, subsequetly and more...Start the new sentence with "but" when shifting direction. If you need some relief from 'but', use 'however', however don't put it at the start or end of sentence, but rather as soon as you can. "Yet" works like "but", but its meaning is closer to nevertheless. Either of those words at the beggining of a sentence can replace a summary of what the reader was told and make your prose tighter:  "Despite the fact that all these dangers had been pointed out to him, he decided to go." becomes "Yet he decided to go" or "Nevertheless he decid to go." The time temporal ones, like now, meanwhile, etc...are for orienting the reader about the time frame: "Later I found out why.", "Now I know better". Always alert the reader of a change from the previous sentence.
+Alert the reader of any mood change from the previous sentence as soon as you can. Use: but, yet, however, nevertheless, still, instead, thus therefore, meanwhile, now, later, today, subsequently and more...Start the new sentence with "but" when shifting direction. If you need some relief from 'but', use 'however', however don't put it at the start or end of sentence, but rather as soon as you can. "Yet" works like "but", but its meaning is closer to nevertheless. Either of those words at the beginning of a sentence can replace a summary of what the reader was told and make your prose tighter:  "Despite the fact that all these dangers had been pointed out to him, he decided to go." becomes "Yet he decided to go" or "Nevertheless he decide to go." The time temporal ones, like now, meanwhile, etc...are for orienting the reader about the time frame: "Later I found out why.", "Now I know better". Always alert the reader of a change from the previous sentence.
 
-Which and that: always use "that" unless it makes your meaning ambigous. If your sentence needs a comma to achieve its precise meaning, it probably needs "which". "That" is used to identify the specific item under discussion-from many items-, while "which" qualifies the only item under discussion.A  high proportion of "which" usage narrowly describes, or identifies, or locates, or explains or otherwise qualify the phrase that preceded the comma. "Take the shoes that are in the closet." (there are many shoes we're discussing, but the ones in the closet), "Take the shoes, which are in the closet." (only one pair is being discussed.) More examples: The house, which has a red roof, The store, which is called Bob’s Hardware, The Rhine, which is in Germany
+Which and that: always use "that" unless it makes your meaning ambiguous. If your sentence needs a comma to achieve its precise meaning, it probably needs "which". "That" is used to identify the specific item under discussion-from many items-, while "which" qualifies the only item under discussion.A  high proportion of "which" usage narrowly describes, or identifies, or locates, or explains or otherwise qualify the phrase that preceded the comma. "Take the shoes that are in the closet." (there are many shoes we're discussing, but the ones in the closet), "Take the shoes, which are in the closet." (only one pair is being discussed.) More examples: The house, which has a red roof, The store, which is called Bob’s Hardware, The Rhine, which is in Germany
 
-Concept nouns are mostly bad. It's when you use nouns to express a concept instead of active verbs: "The common reaction is incredulous laughter.", "Bemused cynicism ins't the only response to the old system.", "The current campus hostility is a sympton of the change". Notice how these sentences have no people in them. That's weak. Now look at "Most people just laugh with disbelief.", "Some people respond to the old sysmte by turning cynical; others say...", "It's easy to notice the change-you can see how angry all the students are.".
+Concept nouns are mostly bad. It's when you use nouns to express a concept instead of active verbs: "The common reaction is incredulous laughter.", "Bemused cynicism isn't the only response to the old system.", "The current campus hostility is a symptom of the change". Notice how these sentences have no people in them. That's weak. Now look at "Most people just laugh with disbelief.", "Some people respond to the old system by turning cynical; others say...", "It's easy to notice the change-you can see how angry all the students are.".
 
 Creeping nounism: multiple nouns used where one noun or one verb would do: "Nobody goes broke now.", "It no longer rains".
 
 Don't overstate. Life has enough funny and unusual situation that when described with good English, they'll do the job. “The living room looked as if an atomic bomb had gone off there”. Weak.
 
-Problamatic sentences can usually be solved by completely getting rid of them. It's the last solution that comes to mind when in a jam. Ask, "Do I need it at all?" Probably not. Remove it and move on.
+Problematic sentences can usually be solved by completely getting rid of them. It's the last solution that comes to mind when in a jam. Ask, "Do I need it at all?" Probably not. Remove it and move on.
 
-Try to think in paragraph units where each has its own integrity of content and structure. Try to keep them short-too many long paragraphs will scare the reader. But also a succession of monotonusly sized ones will bore him. Make it visually inviting with a good balance of alternations.
+Try to think in paragraph units where each has its own integrity of content and structure. Try to keep them short-too many long paragraphs will scare the reader. But also a succession of monotonously sized ones will bore him. Make it visually inviting with a good balance of alternations.
 
-Writing well is an evolving process, not a finished product. Rewriting is where good writing happens because a newly hatches sentence is always filled with hurdles to clarity. Tinker with the sentences using the checklists in these notes. When the reader has a narrative flow he can follow with no trouble from start to finish, you're done. _Rewriting here is refering to improving a draft that you like. Full rewrite has its place as well._ **Rewriting is NOT going back and adding 'style' to your prose.**
+Writing well is an evolving process, not a finished product. Rewriting is where good writing happens because a newly hatches sentence is always filled with hurdles to clarity. Tinker with the sentences using the checklists in these notes. When the reader has a narrative flow he can follow with no trouble from start to finish, you're done. _Rewriting here is referring to improving a draft that you like. Full rewrite has its place as well._ **Rewriting is NOT going back and adding 'style' to your prose.**
 
-Write about what you care about. There's no subject you're not allowed to write about. No area in life is stupid to smoeone who takes it seriously. No subject you don't have permission to write about.
+Write about what you care about. There's no subject you're not allowed to write about. No area in life is stupid to someone who takes it seriously. No subject you don't have permission to write about.
 
-Dont' annoy your readers with overexplaining-by telling them something they already know or can figure out. Try not to use words like "surprisingly", "predictably" and "of course". Trust your material.
+Don't annoy your readers with over-explaining-by telling them something they already know or can figure out. Try not to use words like "surprisingly", "predictably" and "of course". Trust your material.
 
 Your voice is your identity as a writer. The reader will know it's you whether your write about tango or about technology. Do not fit your voice into the subject, rather write about the subject in your voice. You may help your voice come out by paying attention to the following:
-* Breeziness: it's when you ingratiate to the reader. You talk to him in an overly friendly manner if you want his approval or in an overly pretentious manner if you think they're high browed. Instead, picture yourself having a conversation with a friend who you respect and that you know that he respects you.
-* Clichés are the enemy of good taste. They condence ideas into metaphor. Shed them and explain the idea in your own fresh words. You will inevitabely introduce cliches and will remove the in your rewriting. Top brass instead of official, execs, chairmen, presidents, directors, or managers.
+* Breeziness: it's when you ingratiate to the reader. You talk to him in an overly friendly manner if you want his approval or in an overly pretentious manner if you think they're highbrowed. Instead, picture yourself having a conversation with a friend who you respect and that you know that he respects you.
+* Clichés are the enemy of good taste. They condense ideas into metaphor. Shed them and explain the idea in your own fresh words. You will inevitably introduce cliches and will remove the in your rewriting. Top brass instead of official, execs, chairmen, presidents, directors, or managers.
 * Imitate authors who you enjoy and you think have good taste. Don't worry about sounding like them. Eventually you will shed that skin.
-* Generally, taste uses words that have surprise, strength and precision. You use mostly short words with two syllables, some with three. More than that only if you have to. And much less, long words of latin origin that end with 'ion'. You rarely use vague words, instead you use real everday words like: leaves, wind, frost, air, evening, earth, comfort, soil, labor, breath, body, justice, courage, peace, land, rites, home.
-* Remember that taste and eloquance are deeply rooted with who  you are. Go with what seems inevitable in your own heritage and embrace it.
+* Generally, taste uses words that have surprise, strength and precision. You use mostly short words with two syllables, some with three. More than that only if you have to. And much less, long words of Latin origin that end with 'ion'. You rarely use vague words, instead you use real everyday words like: leaves, wind, frost, air, evening, earth, comfort, soil, labor, breath, body, justice, courage, peace, land, rites, home.
+* Remember that taste and eloquence are deeply rooted with who  you are. Go with what seems inevitable in your own heritage and embrace it.
 
 Thinking about the finished article or book will impede your writing because writing is an emergent activity. Parts of it are best left to be discovered during the writing. There are some decisions to be made before starting, but those are tools of carpentry. Things not to think about: what will my audience think of this? Will this be published? How will I think about this in the future? How many sales will this bring me?
 
@@ -233,13 +233,13 @@ Some tactical decisions:
 4. Replace dull facts with a name or a metaphor that will bring them to life.
 5. Improve weak verbs with short active ones. Same for adjectives and nouns.
 6. Visually break up your work into phases when it makes since, like three *'s to notify the reader of a change in chronology (flashback), or subject or emphasis or tone.
-7. The plethora of material you've collected and studied in your research is not lost even though you'be only used a small percentage of it. It's not lost because it remains in your writing as an intangible shadow that makes the reader know or feel that you know more about the sbuejct than you've put in. You're just choosing the best.
+7. The plethora of material you've collected and studied in your research is not lost even though you'd be only used a small percentage of it. It's not lost because it remains in your writing as an intangible shadow that makes the reader know or feel that you know more about the subject than you've put in. You're just choosing the best.
 8. Use humor mostly to keep yourself amused more than the reader. You're having fun. If they laugh, good. If not, oh well.
 9. Moderately making yourself gullible- or downright stupid- gives the reader the enormous pleasure of feeling superior.
 10. Strike bonds with your fellow reader by bringing in analogies or references from your other interests. Create more resolution and resonance in your work.
-11. Use the exclamation point sparringly if at all.
-12. Use surprising words that are not long and not fancy and not pretencious.
-13. Use hooks at the end of paragraphs and section to properl the readers into the next.
+11. Use the exclamation point sparingly if at all.
+12. Use surprising words that are not long and not fancy and not pretentious.
+13. Use hooks at the end of paragraphs and section to propel the readers into the next.
 14. You are under no obligation to use the actual shape of events that transpired in real life. You don't have to reconstruct everything the way it happened. End when it's time to stop. Organize things in a way that appeals to you.
 
 Some useful writing devices:
@@ -258,9 +258,9 @@ On writing memoirs:
 * Don't worry about hurting other people's feelings. Write your memoir as if you didn't care, then come back to decide on whether you should edit anything out.
 * Reduce. Pick one main point, one story, one quest, just one essential thing that will guide your memoir.
 * What's most important is not what you did, but how what you did has changed you.
-* One way to go about creating material for your memoirs is: everday, write a complete piece from what is most vivid in your memory. Then file it away. Don't go through old notes and such. Once you have enough full pieces, a pattern will start to emerge and you'll know what kind of memoir you're going to have.
+* One way to go about creating material for your memoirs is: everyday, write a complete piece from what is most vivid in your memory. Then file it away. Don't go through old notes and such. Once you have enough full pieces, a pattern will start to emerge and you'll know what kind of memoir you're going to have.
 
-A good example that encompases everything we've seen so far:
+A good example that encompasses everything we've seen so far:
 
 Author's suggestions for improvements:
 
