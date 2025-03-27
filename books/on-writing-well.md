@@ -12,7 +12,7 @@ buy-url: https://a.co/d/5lHgNCe
 
 Writing is a powerful search mechanism-even when unpublished-that helps you understand your life's narrative. It'll help you work through some of life's hardest knocks: loss, grief, addiction, illness, failure and help you find understanding and solace.
 
-Writing is an act of Ego[^1]. Just admit it and use its energy to propell you. Writing is also hard. You need to jump start your writing session just like a public speaker or a ballarina performs a ritual before their performance. Your writing ritual should induce among other things an ingredient of enjoyment. The reader must think that you're having a good time even if you're not. If you're unable to do this for today's writing session, revise today's work tomorrow when you're in a better mindset.
+Writing is an act of Ego[^1]. Just admit it and use its energy to propel you. Writing is also hard. You need to jump start your writing session just like a public speaker or a ballarina performs a ritual before their performance. Your writing ritual should induce among other things an ingredient of enjoyment. The reader must think that you're having a good time even if you're not. If you're unable to do this for today's writing session, revise today's work tomorrow when you're in a better mindset. But do today's work anyway. Improving is a matter of producing words daily.
 
 Remember this when afraid of writing (or any other endeavor): Every reduction of the unfamiliar will reduce your fear[^2].
 
@@ -20,7 +20,9 @@ Remember this when afraid of writing (or any other endeavor): Every reduction of
 [^1]: different from egotistical.
 [^2]: this is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blindspots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... help tremendously.
 
-## Top Five Things
+## My Current Focus
+
+_The amount of things to pay attention to is overwhelming. Below are items than I plan to focus on and when I feel like I've mastered them, I'll replace them._
 
 1. Write clear, simple and brief English. Do so by removing all clutter. Do so by learning the carpentry of writing.
 2.
