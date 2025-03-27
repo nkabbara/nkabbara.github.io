@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "On Writing Well"
+read: 2025-02-21
 created: 2025-02-21
 updated: 2025-03-18
-version: 0.0.1
+version: 1.0.0
 categories: book
 tags: hidden
 author: William Zinsser
@@ -23,20 +24,23 @@ Remember this when afraid of writing (or any other endeavor): Every reduction of
 
 ## My Current Focus
 
-_The amount of things to pay attention to is overwhelming. Below are items that I plan to focus on and when I feel like I've mastered them, I'll replace them. Updated: 2025-03-27._
-1. Clear clutter from each sentence. See Clutter Checklist below.
-2. Make every sentence clear. See Clarity Checklist below.
-3. Make high level decisions about the work you're starting. See Core Decisions Checklist below.
+_Updated: 2025-03-27. The amount of things to pay attention to is overwhelming. Below are items that I plan to focus on and when I feel like I've mastered them, I'll replace them._
+1. Clear clutter from each sentence. See **Brevity Checklist** below.
+2. Make every sentence clear. See **Clarity Checklist** below.
+3. Make high level decisions before starting the work. See **Core Decisions Checklist** below.
+4. Introduce em-dashes into my writing[^3].
+5. Regularty take a look at "Author's suggestion" at the end. It incorporates most of what the book teaches.
 
+[^3]: Use the em-dash in two ways. One is to amplify or justify in the second part of the sentence a thought you stated in the first part. “We decided to keep going—it was only 100 miles more and we could get there in time for dinner.” The other use involves two dashes, which set apart a parenthetical thought within a longer sentence. “She told me to get in the car—she had been after me all summer to have a haircut—and we drove silently into town.”. How do these related to semi-colon and comma? Semi-colon separates two sentences which could stand alone, but are somehow related. Em-dash is used sort of like a comma. But usually more of a "separate thought" than a comma. Also, if your sentence already has a lot of commas it can be more visually clear. Commas are used in lists, they're used to separate clauses, they're used to indicate a pause. [more on these](https://www.reddit.com/r/FanFiction/comments/l2b5qo/whats_the_difference_between_using_the_em_dash/)
 
 ## Checklists
 
 _As I focus on an aspect, I turn it into a checklist to help me easily apply it to my writing. I build the checklists from the raw notes below when I need them._
 
-### Clutter Checklist
-1. Remove all words that are not doing any work. See clutter test below.
-2. Remove redundant adverbs and adjectives. e.g. Radio blared loudly. Yellow daffodils.
-3. Shorten long words:
+### Brevity Checklist
+1. Remove all words that are not doing any work.
+2. Remove redundant adverbs and adjectives e.g. Radio blared loudly, Yellow daffodils.
+3. Shorten long words: 'first' instead of 'initial'. 'Do' instead of 'implement'.
 4. Remove clichés and replace with your own metaphors or more precise words e.g. Top brass: presidents, VPs, managers, owners, etc..
 5. Clutter test:
     * Is every word doing new work?
@@ -44,7 +48,7 @@ _As I focus on an aspect, I turn it into a checklist to help me easily apply it 
     * Is anything pompous, pretentious or faddish?
     * Are you hanging on to something because you think it's beautiful?
 
-_There's a list of clutter examples below._
+_There's a list of clutter examples in the Notes below._
 
 ### Clarity Checklist
 1. Convert passive construction to active construction e.g. "The common reaction is incredulous laughter" becomes "Most people just laugh with disbelief.".
@@ -273,6 +277,8 @@ On writing memoirs:
 
 A good example that encompasses everything we've seen so far:
 
+
+## Author's Correction
 
 Original version
 
