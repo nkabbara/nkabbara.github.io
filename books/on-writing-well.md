@@ -10,45 +10,75 @@ author: William Zinsser
 buy-url: https://a.co/d/5lHgNCe
 ---
 
-Writing is a powerful search mechanism-even when unpublished-that helps you understand your life's narrative. It'll help you work through some of life's hardest knocks: loss, grief, addiction, illness, failure and help you find understanding and solace.
+Writing is a powerful search mechanism—even when unpublished—that helps you understand your life's narrative. It'll help you work through some of life's hardest knocks: loss, grief, addiction, illness, failure and help you find understanding and solace.
 
 Writing is an act of Ego[^1]. Just admit it and use its energy to propel you. Writing is also hard. You need to jump start your writing session just like a public speaker or a ballerina performs a ritual before their performance. Your writing ritual should induce among other things an ingredient of enjoyment. The reader must think that you're having a good time even if you're not. If you're unable to do this for today's writing session, revise today's work tomorrow when you're in a better mindset. But do today's work anyway. Improving is a matter of producing words daily.
 
+Writing is of two parts: carpentry and identity. Carpentry is your responsibility: grammar, syntax, simplicy, clarity, brevity. Keep improving on these and put in the hard work of materializing them. Identity is your personality. It's you being honest in writing. Showing who you are honestly and humanely. Sometimes called style. It is not something you can decorate your writing with after you've finished it. It's a core part of every sentence that you write.
+
 Remember this when afraid of writing (or any other endeavor): Every reduction of the unfamiliar will reduce your fear[^2].
 
-
 [^1]: different from egotistical.
-[^2]: this is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blind-spots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... Help tremendously.
+[^2]: This is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blind-spots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... Help tremendously.
 
 ## My Current Focus
 
-_The amount of things to pay attention to is overwhelming. Below are items than I plan to focus on and when I feel like I've mastered them, I'll replace them._
+_The amount of things to pay attention to is overwhelming. Below are items that I plan to focus on and when I feel like I've mastered them, I'll replace them. Updated: 2025-03-27._
+1. Clear clutter from each sentence. See Clutter Checklist below.
+2. Make every sentence clear. See Clarity Checklist below.
+3. Make high level decisions about the work you're starting. See Core Decisions Checklist below.
 
-1. Write clear, simple and brief English. Do so by removing all clutter. Do so by learning the carpentry of writing.
-2.
-3. c
-4. d
-5. The quality of your article is proportional to the amount of material you've collected. Interviews and research.
 
+## Checklists
+
+_As I focus on an aspect, I turn it into a checklist to help me easily apply it to my writing. I build the checklists from the raw notes below when I need them._
+
+### Clutter Checklist
+1. Remove all words that are not doing any work. See clutter test below.
+2. Remove redundant adverbs and adjectives. e.g. Radio blared loudly. Yellow daffodils.
+3. Shorten long words:
+4. Remove clichés and replace with your own metaphors or more precise words e.g. Top brass: presidents, VPs, managers, owners, etc..
+5. Clutter test:
+    * Is every word doing new work?
+    * Can any thought be expressed with more economy?
+    * Is anything pompous, pretentious or faddish?
+    * Are you hanging on to something because you think it's beautiful?
+
+_There's a list of clutter examples below._
+
+### Clarity Checklist
+1. Convert passive construction to active construction e.g. "The common reaction is incredulous laughter" becomes "Most people just laugh with disbelief.".
+2. Disambiguate sentences that can be read in multiple ways.
+3. Unify pronouns in a sentence.
+4. Unify tense in a sentence.
+7. If shifts exist-in subject, tense, tone, emphasis, time, place, mood-that they have been clearly demarcated between one sentence and the next.
+5. Clarify who is talking to whom when action takes place.
+6. Make sure sentence B, logically follows sentence A.
+8. Clarity test:
+    * What am I trying to say?
+    * Then ask, have I said it?
+    * Is it clear for someone encountering the subject for the first time?
+
+
+### Core Decisions Checklist
+_Before you begin your writing, some core decisions need to be made and stuck to. That will establish the unity of your work. Unity is the anchor of good writing and communicates confidence to your readers: the author is in charge here._
+1. What ONE provocative thought do I want to bring through to the reader after he's done reading? This decision affects several others like tone and attitude and will help with what route you should follow and what destination you hope to reach.
+1. Unity of pronoun: first person (participant), second person (advice, teaching) or third person (reporter).
+2. Unity of tense: popular past tense? Workable present tense? Pick one as the principle tense and use the past, present and hypothetical future when needed, but also come back to your principle tense.
+3. Unity of tone: formal, casual, earnest, understated, or humorous (amongst others).
+4. Capacity: reporter, provider of information, average man.
+5. Style: Impersonal and reportorial, personal, but formal, personal and casual.
+6. Attitude: detached, amused, judgemental, involved or ironic.
+7. How much do I want to cover? (Reduce, reduce, reduce).
+
+**Caveat:** Don't let the material control your unity. Your decisions should control it. But as you're writing, you might find out that the writing is leading you into a better path than what you've decided on. Don't be a prisoner to your plan. Change your strategy. Go back to the material that is using the former decisions and rewrite it to match the better unity.
 
 ## Notes
 
 Your process of writing doesn't matter as long as it produces words. Even your subject matter doesn't matter. What matters is writing that shows your humanity to the reader: what drew you to the subject? What baggage are you bringing along? How did it change you?
 
-Simple writing is stripping every sentence down to its simplest form. Good sentence checklist:
-1. Ensure that your busiest reader can understand it from a first reading.
-1. Remove all useless words.
-3. Remove redundant adverbs and adjectives.
-4. Remove clichés.
-2. Shorten long words.
-4. Convert passive construction to active construction.
-4. Disambiguate sentences that can be read in multiple ways.
-5. Unify pronouns in a sentence.
-6. Unify tense in a sentence.
-7. Clarify who is talking to whom when action takes place.
-9. Check usage of words you're not sure about.
-8. Make sure sentence B, logically follows sentence A.
-11. If shifts exist-in subject, tense, tone, emphasis, time, place, mood-that they have been clearly demarcated between one sentence and the next.
+Simple writing is stripping every sentence down to its simplest form. Good form checklist:
+1. Check usage of words you're not sure about.
 12. Alter sequence when necessary: improve narrative by moving timely information to the right place: should I have let the reader know this earlier in the sentence?
 13. Appeal to the eye: vary sentence and paragraph length.
 14. Appeal to the ear: improve rhythm after reading with your ear.
@@ -59,12 +89,9 @@ Bad work characteristics:
 3. Bores the readers.
 4. Fails at engaging the reader from beginning to end.
 
-Simplicity test:
-* What am I trying to say?
-* Then ask, have I said it?
-* Is it clear for someone encountering the subject for the first time?
+Be grateful for any word, sentence, paragraph, or section that you can remove or shorten. Clutter removes simplicity.
 
-Be grateful for any word, sentence, paragraph, or section that you can remove or shorten. Clutter removes simplicity. Clutter examples:
+#### Clutter Examples
 1. At this point in time, present time, presently, currently, at this juncture of maturization: now
 2. Head up, face up, free up, order up: unnecessary propositions
 3. Personal friend, personal doctor, personal feelings
@@ -99,11 +126,6 @@ Be grateful for any word, sentence, paragraph, or section that you can remove or
 
 [^1]: I noticed that looking up alternatives forces you to be more precise: to entertain, to accommodate, to feed.
 
-Clutter test:
-* Is every word doing new work?
-* Can any thought be expressed with more economy?
-* Is anything pompous, pretentious or faddish?
-* Are you hanging on to something because you think it's beautiful?
 
 Stripping down your prose to the essential improves your carpentry. It does not hinder your style. Your style is when you're being yourself with relaxed confidence using good carpentry. Your style is when you are not trying to impress nor indulge the reader.
 
@@ -136,17 +158,6 @@ Usage is a gray area. Only use a word if it fills a real need and there's no bet
 * Input and feedback: ideas and what he thinks of them.
 * Verbalize
 
-Before you begin your writing, some core decisions need to be made and stuck to. That will establish the unity of your work. Unity is the anchor of good writing and communicates confidence to your readers: the author is in charge here. The decisions:
-1. Unity of pronoun: first person (participant), second person (advice, teaching) or third person (reporter).
-2. Unity of tense: popular past tense? Workable present tense? Pick one as the principle tense and use the past, present and hypothetical future when needed, but also come back to your principle tense.
-3. Unity of tone: formal, casual, earnest, understated, or humorous (amongst others).
-4. Capacity: reporter, provider of information, average man.
-5. Style: Impersonal and reportorial, personal, but formal, personal and casual.
-6. Attitude: detached, amused, judgemental, involved or ironic.
-7. How much do I want to cover? (Reduce, reduce, reduce).
-8. What ONE provocative thought do I want to bring through to the reader after he's done reading? This decision affects several others like tone and attitude and will help with what route you should follow and what destination you hope to reach.
-
-Don't let the material control your unity. Your decisions should control it. But as you're writing, you might find out that the writing is leading you into a better path than what you've decided on. Don't be a prisoner to your plan. Change your strategy. Go back to the material that is using the former decisions and rewrite it to match the better unity.
 
 The lead is marketing for your work. It hooks the reader and pushes him to want to know more. The most important sentence in your lead is the first one. It induces the reader to go to the next one. The next is the one after. Lead length could be from zero (jump into story) to several paragraphs, depending on your material and audience. Good lead characteristics:
 * Captures reader immediately by letting them know upfront what's in it for them.
@@ -262,6 +273,8 @@ On writing memoirs:
 
 A good example that encompasses everything we've seen so far:
 
+
+Original version
 
 > There used to be a time when neighbors took care of one another, remembered.  It no longer seemed to happen that way, however.  He wondered if it was because everyone in the modern world was so busy.  It occurred to him that people today have so many things to do that they don’t have time for old-fashioned friendship.  Things didn’t work that way in America in previous eras.  And he knew that the situation was very different in other countries, as he recalled from the years when he lived in villages in Spain and Italy.  It almost seemed to him that as people got richer and built their houses farther apart they isolated themselves from the essentials of life.  And there was another thought that troubled him.  His friends had deserted him when he needed them most during his recent illness.  It was almost as if they found him guilty of doing something shameful.  He recalled reading somewhere about societies in primitive parts of the world in which sick people were shunned, though he had never heard of any such ritual in America.
 
