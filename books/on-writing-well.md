@@ -10,7 +10,12 @@ author: William Zinsser
 buy-url: https://a.co/d/5lHgNCe
 ---
 
-Writing is an act of Ego. Just admit it and use its energy to propell you.
+Writing is an act of Ego[^1]. Just admit it and use its energy to propell you. Writing is also hard. You need to jump start your writing session just like a public speaker or a ballarina performs a ritual before their performance. Your writing ritual should induce among other things an ingredient of enjoyment. The reader must think that you're having a good time even if you're not. If you're unable to do this for today's writing session, revise today's work tomorrow when you're in a better mindset.
+
+Remember this when afraid of writing (or any other endeavor): Every reduction of the unfamiliar will reduce your fear[^2].
+
+[^1]: different from egotistical.
+[^2]: this is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blindspots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... help tremendously.
 
 ## Top Five Things
 
@@ -42,6 +47,12 @@ Simple writing is stripping every sentence down to its simplest form. Good sente
 12. Alter sequence when necessary: improve narrative by moving timely information to the right place: should I have let the reader know this earlier in the sentence?
 13. Appeal to the eye: vary sentence and paragraph length.
 14. Appeal to the ear: improve rythm after reading with your ear.
+
+Bad work characteristics:
+1. Loses the reader.
+2. Confuses the readers.
+3. Bores the readers.
+4. Fails at engaging the reader from beginning to end.
 
 Simplicity test:
 * What am I trying to say?
@@ -192,11 +203,40 @@ Write about what you care about. There's no subject you're not allowed to write 
 
 Dont' annoy your readers with overexplaining-by telling them something they already know or can figure out. Try not to use words like "surprisingly", "predictably" and "of course". Trust your material.
 
-
 Your voice is your identity as a writer. The reader will know it's you whether your write about tango or about technology. Do not fit your voice into the subject, rather write about the subject in your voice. You may help your voice come out by paying attention to the following:
 * Breeziness: it's when you ingratiate to the reader. You talk to him in an overly friendly manner if you want his approval or in an overly pretentious manner if you think they're high browed. Instead, picture yourself having a conversation with a friend who you respect and that you know that he respects you.
 * Clichés are the enemy of good taste. They condence ideas into metaphor. Shed them and explain the idea in your own fresh words. You will inevitabely introduce cliches and will remove the in your rewriting. Top brass instead of official, execs, chairmen, presidents, directors, or managers.
 * Imitate authors who you enjoy and you think have good taste. Don't worry about sounding like them. Eventually you will shed that skin.
 * Generally, taste uses words that have surprise, strength and precision. You use mostly short words with two syllables, some with three. More than that only if you have to. And much less, long words of latin origin that end with 'ion'. You rarely use vague words, instead you use real everday words like: leaves, wind, frost, air, evening, earth, comfort, soil, labor, breath, body, justice, courage, peace, land, rites, home.
+* Remember that taste and eloquance are deeply rooted with who  you are. Go with what seems inevitable in your own heritage and embrace it.
+
+Thinking about the finished article or book will impede your writing because writing is an emergent activity. Parts of it are best left to be discovered during the writing. There are some decisions to be made before starting, but those are tools of carpentry. Things not to think about: what will my audience think of this? Will this be published? How will I think about this in the future? How many sales will this bring me?
+
+_Reread chapter 23 for a full example of how author thinks about his articles._
+
+Some structural decisions to think about:
+1. Pick a subject or sub-subject that energizes you. When a book or article idea comes along, don't rush into it. Let it linger, sleep on it for a while. Until you have a clear idea of why you want to write about it.
+2. Reduce whatever you decide to write about to its essential point. At first you'll want to include a lot and that's common. Fight that urge. It'll make your writing lighter and more energized.
+3. Pick an angle for your article: personal, rational, ideal, or philosophical?
+4. Get on a plane and live so you have something to write about. You'll always be nervous doing so and getting on that plane, but there's no way around it.
+
+Some tactical decisions:
+1. After your lead is done, you can take a more relaxed tone. Don't be surprised if your lead alone takes as much time as the whole article to write.
+2. Aim for declarative sentences where each has one idea. Don't be afraid to break complicated ones into shorter ones.
+3. Use quotes when you can, not necessarily from interviews, but from any research material have like brochures, ads, emails, announcements, or flyers.
+4. Replace dull facts with a name or a metaphor that will bring them to life.
+5. Improve weak verbs with short active ones. Same for adjectives and nouns.
+6. Visually break up your work into phases when it makes since, like three *'s to notify the reader of a change in chronology (flashback), or subject or emphasis or tone.
+7. The plethora of material you've collected and studied in your research is not lost even though you'be only used a small percentage of it. It's not lost because it remains in your writing as an intangible shadow that makes the reader know or feel that you know more about the sbuejct than you've put in. You're just choosing the best.
+8. Use humor mostly to keep yourself amused more than the reader. You're having fun. If they laugh, good. If not, oh well.
+9. Moderately making yourself gullible- or downright stupid- gives the reader the enormous pleasure of feeling superior.
+10. Strike bonds with your fellow reader by bringing in analogies or references from your other interests. Create more resolution and resonance in your work.
+11. Use the exclamation point sparringly if at all.
+12. Use surprising words that are not long and not fancy and not pretencious.
+13. Use hooks at the end of paragraphs and section to properl the readers into the next.
+14. You are under no obligation to use the actual shape of events that transpired in real life. You don't have to reconstruct everything the way it happened. End when it's time to stop. Organize things in a way that appeals to you.
+
+
+
 
 ---
