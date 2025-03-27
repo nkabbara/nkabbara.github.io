@@ -18,7 +18,7 @@ Remember this when afraid of writing (or any other endeavor): Every reduction of
 
 
 [^1]: different from egotistical.
-[^2]: this is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blind spots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... Help tremendously.
+[^2]: this is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blind-spots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... Help tremendously.
 
 ## My Current Focus
 
@@ -48,7 +48,7 @@ Simple writing is stripping every sentence down to its simplest form. Good sente
 7. Clarify who is talking to whom when action takes place.
 9. Check usage of words you're not sure about.
 8. Make sure sentence B, logically follows sentence A.
-11. If shifts exist-in subject, tense, tone, emphasis, time, place, mood-that they have been clearly demarked between one sentence and the next.
+11. If shifts exist-in subject, tense, tone, emphasis, time, place, mood-that they have been clearly demarcated between one sentence and the next.
 12. Alter sequence when necessary: improve narrative by moving timely information to the right place: should I have let the reader know this earlier in the sentence?
 13. Appeal to the eye: vary sentence and paragraph length.
 14. Appeal to the ear: improve rhythm after reading with your ear.
@@ -70,7 +70,7 @@ Be grateful for any word, sentence, paragraph, or section that you can remove or
 3. Personal friend, personal doctor, personal feelings
 4. Experiencing
 5. Depressed socioeconomic area, waste-disposal personnel: political correctness gone amok
-7. Negative cash flow position
+7. Negative cash-flow position
 8. Assistance: help
 9. Numerous: many
 10. Facilitate: ease
@@ -112,7 +112,7 @@ You owe the reader good carpentry. But you do not owe him your identity. You are
 Do not go back to 'style' your writing after you had done it. Style, is not something you can add like lipstick. Your style is in your DNA, so write honestly and without and agenda and your style will show.
 
 Words are the atoms of writing. To write well, you must:
-1. Know the gradiations between synonyms: “cajole,” “wheedle,” “blandish” and “coax”[^2]. Use dictionary, thesaurus.
+1. Know the gradiations between synonyms: “cajole,” “wheedle,” “blandish” and “coax”[^2]. Use dictionary, Roget's Thesaurus, and thesaurus.
 2. Imitate a master that you like. Pick a model and ask why did they use this word? Why did they write this sentence like so? How can I write like that?
 3. Try to write with your ears and always read your drafts aloud. Pay attention to rhyming, alliteration, cadence and sonority of each sentence[^3].
     * Reassemble the sentence so it ends with a phrase that momentarily lingers.
@@ -121,7 +121,7 @@ Words are the atoms of writing. To write well, you must:
     * Substitute a word that has freshness and oddity. That is oblique, not 'true and tested'.
     * Alter the length of sentences with the occasional short ones. Short sentences could leave a strong punch.
 
-[^2]: Cajole: gentle persuasion. Wheedle: persuasion through insincere flattery. Blandish: persuasion through skillful flattery. Coax: persuasion through patient means.
+[^2]: Cajole: gentle persuasion. Wheedle: persuasion through insincere flattery. Blandish: persuasion through skill-full flattery. Coax: persuasion through patient means.
 
 [^3]: Example of this: Original: These are the times that try men’s souls. Bad: * Times like these try men’s souls. * How trying it is to live in these times! * These are trying times for men’s souls. * Soul-wise, these are trying times.
 
@@ -178,7 +178,7 @@ Verbs are the most important of your tools. Use active ones, unless there's no c
 
 Most adverbs are unnecessary. Radio blared loudly. Clenched their teeth tightly. Effortlessly easy. Slightly spartan. Totally flabbergasted. Grinned widely. All the previous examples show redundancy. Remove the adverbs and we haven't lost any meaning. Also watch out for decidedly, arguably and their cousins.
 
-Most adjectives are unnecessary. When they exist solely as decoration they're self indulgent to the writer and a hindrance to the reader. And when redundant, they're unnecessary: Yellow daffodils. Brownish dirt. By habit: Stately elms. Frisky kittens. Hard-bitten detectives. Sleepy lagoons. Use them when they're doing real work: "He looked at the gray sky and the black clouds and decided to sail back to the harbor."
+Most adjectives are unnecessary. When they exist solely as decoration they're self indulgent to the writer and a hindrance to the reader. And when redundant, they're unnecessary: Yellow daffodils. Brownish dirt. By habit: Stately elms. Firsky kittens. Hard-bitten detectives. Sleepy lagoons. Use them when they're doing real work: "He looked at the gray sky and the black clouds and decided to sail back to the harbor."
 
 Prune out the small words that qualify how you feel and how you think and what you saw: “a bit,” “a little,” “sort of,” “kind of,” “rather,” “quite,” “very,” “too,” “pretty much,” “in a sense” and dozens more. They dilute your style and your persuasiveness. Don't be kind of bold, be bold.
 
@@ -209,7 +209,7 @@ Write about what you care about. There's no subject you're not allowed to write 
 Don't annoy your readers with over-explaining-by telling them something they already know or can figure out. Try not to use words like "surprisingly", "predictably" and "of course". Trust your material.
 
 Your voice is your identity as a writer. The reader will know it's you whether your write about tango or about technology. Do not fit your voice into the subject, rather write about the subject in your voice. You may help your voice come out by paying attention to the following:
-* Breeziness: it's when you ingratiate to the reader. You talk to him in an overly friendly manner if you want his approval or in an overly pretentious manner if you think they're highbrowed. Instead, picture yourself having a conversation with a friend who you respect and that you know that he respects you.
+* Breeziness: it's when you ingratiate to the reader. You talk to him in an overly friendly manner if you want his approval or in an overly pretentious manner if you think they're high browed. Instead, picture yourself having a conversation with a friend who you respect and that you know that he respects you.
 * Clichés are the enemy of good taste. They condense ideas into metaphor. Shed them and explain the idea in your own fresh words. You will inevitably introduce cliches and will remove the in your rewriting. Top brass instead of official, execs, chairmen, presidents, directors, or managers.
 * Imitate authors who you enjoy and you think have good taste. Don't worry about sounding like them. Eventually you will shed that skin.
 * Generally, taste uses words that have surprise, strength and precision. You use mostly short words with two syllables, some with three. More than that only if you have to. And much less, long words of Latin origin that end with 'ion'. You rarely use vague words, instead you use real everyday words like: leaves, wind, frost, air, evening, earth, comfort, soil, labor, breath, body, justice, courage, peace, land, rites, home.
@@ -261,6 +261,9 @@ On writing memoirs:
 * One way to go about creating material for your memoirs is: everyday, write a complete piece from what is most vivid in your memory. Then file it away. Don't go through old notes and such. Once you have enough full pieces, a pattern will start to emerge and you'll know what kind of memoir you're going to have.
 
 A good example that encompasses everything we've seen so far:
+
+
+> There used to be a time when neighbors took care of one another, remembered.  It no longer seemed to happen that way, however.  He wondered if it was because everyone in the modern world was so busy.  It occurred to him that people today have so many things to do that they don’t have time for old-fashioned friendship.  Things didn’t work that way in America in previous eras.  And he knew that the situation was very different in other countries, as he recalled from the years when he lived in villages in Spain and Italy.  It almost seemed to him that as people got richer and built their houses farther apart they isolated themselves from the essentials of life.  And there was another thought that troubled him.  His friends had deserted him when he needed them most during his recent illness.  It was almost as if they found him guilty of doing something shameful.  He recalled reading somewhere about societies in primitive parts of the world in which sick people were shunned, though he had never heard of any such ritual in America.
 
 Author's suggestions for improvements:
 
