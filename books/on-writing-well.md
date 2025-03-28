@@ -13,23 +13,25 @@ buy-url: https://a.co/d/5lHgNCe
 
 Writing is a powerful search mechanism—even when unpublished—that helps you understand your life's narrative. It'll help you work through some of life's hardest knocks: loss, grief, addiction, illness, failure and help you find understanding and solace.
 
-Writing is an act of Ego[^1]. Just admit it and use its energy to propel you. Writing is also hard. You need to jump start your writing session just like a public speaker or a ballerina performs a ritual before their performance. Your writing ritual should induce among other things an ingredient of enjoyment. The reader must think that you're having a good time even if you're not. If you're unable to do this for today's writing session, revise today's work tomorrow when you're in a better mindset. But do today's work anyway. Improving is a matter of producing words daily.
+Writing is an act of ego[^1]. Just admit it and use its energy to propel you. Writing is also hard. You need to jump start your writing session just like a public speaker or a ballerina performs a ritual before their performance. Your writing ritual should induce among other things an ingredient of enjoyment. The reader must think that you're having a good time even if you're not. If you're unable to do this for today's writing session, revise today's work tomorrow when you're in a better mindset. But do today's work anyway. Improving is a matter of producing words daily.
 
-Writing is of two parts: carpentry and identity. Carpentry is your responsibility: grammar, syntax, simplicy, clarity, brevity. Keep improving on these and put in the hard work of materializing them. Identity is your personality. It's you being honest in writing. Showing who you are honestly and humanely. Sometimes called style. It is not something you can decorate your writing with after you've finished it. It's a core part of every sentence that you write.
+Writing is of two parts: carpentry and identity. **Carpentry is your responsibility to the reader**: grammar, syntax, simplicy, clarity, brevity. Keep improving on these and put in the hard work of materializing them. Identity is your personality. It's showing who you are honestly,  vulnerably, and humanely with words. Sometimes called style. It is not something you can decorate your writing with after you've finished it. It's a core part of every sentence that you write. **You don't owe anything to the reader with your identity.**
 
 Remember this when afraid of writing (or any other endeavor): Every reduction of the unfamiliar will reduce your fear[^2].
 
 [^1]: different from egotistical.
-[^2]: This is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blind-spots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... Help tremendously.
+[^2]: This is so true and so easy to forget. I'm planning a difficult hike in south of Patagonia. When I made the decision to do it, I got anxious. As I planned the trip more and uncovered my blind-spots, my anxiety started to ease. Simple things like trail names and their characteristics, the town, it's history, etc... Helps tremendously.
 
 ## My Current Focus
 
 _Updated: 2025-03-27. The amount of things to pay attention to is overwhelming. Below are items that I plan to focus on and when I feel like I've mastered them, I'll replace them._
+1. Make high level decisions before starting the work. See **Core Decisions Checklist** below.
 1. Clear clutter from each sentence. See **Brevity Checklist** below.
 2. Make every sentence clear. See **Clarity Checklist** below.
-3. Make high level decisions before starting the work. See **Core Decisions Checklist** below.
 4. Introduce em-dashes into my writing[^3].
-5. Regularty take a look at "Author's suggestion" at the end. It incorporates most of what the book teaches.
+5. Regularty take a look at "Author's Correction" at the end. It incorporates most of what the book teaches.
+
+My current way of writing is to write a draft that I like—I might have to do multiple—then rewrite every sentence using the checklist above.
 
 [^3]: Use the em-dash in two ways. One is to amplify or justify in the second part of the sentence a thought you stated in the first part. “We decided to keep going—it was only 100 miles more and we could get there in time for dinner.” The other use involves two dashes, which set apart a parenthetical thought within a longer sentence. “She told me to get in the car—she had been after me all summer to have a haircut—and we drove silently into town.”. How do these related to semi-colon and comma? Semi-colon separates two sentences which could stand alone, but are somehow related. Em-dash is used sort of like a comma. But usually more of a "separate thought" than a comma. Also, if your sentence already has a lot of commas it can be more visually clear. Commas are used in lists, they're used to separate clauses, they're used to indicate a pause. [more on these](https://www.reddit.com/r/FanFiction/comments/l2b5qo/whats_the_difference_between_using_the_em_dash/)
 
@@ -37,45 +39,45 @@ _Updated: 2025-03-27. The amount of things to pay attention to is overwhelming. 
 
 _As I focus on an aspect, I turn it into a checklist to help me easily apply it to my writing. I build the checklists from the raw notes below when I need them._
 
+### Core Decisions Checklist
+_Before you begin your writing, you need to make some fundamental decisions. They will establish the unity of your work. Unity is the anchor of good writing and communicates confidence to your readers: the author is in charge here._
+1. What **ONE provocative thought** do I want to bring through to the reader after he's done reading? _This decision affects several others like tone and attitude and will help with what route you should follow and what destination you hope to reach._
+7. How much do I want to cover? Reduce, reduce, reduce. **The less the better**. Find the slice that energizes you.
+1. **Unity of pronoun**: first person (participant), second person (advice, teaching) or third person (reporter).
+2. **Unity of tense**: popular past tense? Workable present tense? Pick one as the principle tense and use the past, present and hypothetical future when needed, but always come back to your principle tense.
+3. **Unity of tone**: formal, casual, earnest, understated, or humorous (amongst others).
+4. **Capacity**: reporter, provider of information, average man.
+5. **Style**: Impersonal and reportorial, personal, but formal, personal and casual.
+6. **Attitude**: detached, amused, judgemental, involved or ironic.
+
 ### Brevity Checklist
-1. Remove all words that are not doing any work.
-2. Remove redundant adverbs and adjectives e.g. Radio blared loudly, Yellow daffodils.
-3. Shorten long words: 'first' instead of 'initial'. 'Do' instead of 'implement'.
-4. Remove clichés and replace with your own metaphors or more precise words e.g. Top brass: presidents, VPs, managers, owners, etc..
-5. Clutter test:
+1. Remove all words that are **not doing any work**.
+2. Remove **redundant adverbs and adjectives** e.g. Radio blared loudly, Yellow daffodils.
+3. **Shorten long words**: 'first' instead of 'initial'. 'Do' instead of 'implement'.
+4. **Remove clichés** and replace with your own metaphors or more precise words e.g. Top brass: presidents, VPs, managers, owners, etc..
+5. **Clutter test:**
     * Is every word doing new work?
     * Can any thought be expressed with more economy?
     * Is anything pompous, pretentious or faddish?
     * Are you hanging on to something because you think it's beautiful?
 
-_There's a list of clutter examples in the Notes below._
+_There's a list of clutter examples in the Notes section below._
 
 ### Clarity Checklist
-1. Convert passive construction to active construction e.g. "The common reaction is incredulous laughter" becomes "Most people just laugh with disbelief.".
-2. Disambiguate sentences that can be read in multiple ways.
-3. Unify pronouns in a sentence.
-4. Unify tense in a sentence.
-7. If shifts exist-in subject, tense, tone, emphasis, time, place, mood-that they have been clearly demarcated between one sentence and the next.
-5. Clarify who is talking to whom when action takes place.
-6. Make sure sentence B, logically follows sentence A.
+1. Convert passive construction to **active construction** e.g. "The common reaction is incredulous laughter" becomes "Most people just laugh with disbelief.".
+2. **Disambiguate** sentences that can be read in multiple ways [^4]
+4. **Unify** tense in a sentence.
+7. If shifts exist-in subject, tense, tone, emphasis, time, place, mood-that they have been ****clearly demarcated** between one sentence and the next.
+5. Clarify **who is talking to whom** when action takes place.
+6. Make sure sentence B, **logically** follows sentence A.
 8. Clarity test:
     * What am I trying to say?
     * Then ask, have I said it?
     * Is it clear for someone encountering the subject for the first time?
 
-
-### Core Decisions Checklist
-_Before you begin your writing, some core decisions need to be made and stuck to. That will establish the unity of your work. Unity is the anchor of good writing and communicates confidence to your readers: the author is in charge here._
-1. What ONE provocative thought do I want to bring through to the reader after he's done reading? This decision affects several others like tone and attitude and will help with what route you should follow and what destination you hope to reach.
-1. Unity of pronoun: first person (participant), second person (advice, teaching) or third person (reporter).
-2. Unity of tense: popular past tense? Workable present tense? Pick one as the principle tense and use the past, present and hypothetical future when needed, but also come back to your principle tense.
-3. Unity of tone: formal, casual, earnest, understated, or humorous (amongst others).
-4. Capacity: reporter, provider of information, average man.
-5. Style: Impersonal and reportorial, personal, but formal, personal and casual.
-6. Attitude: detached, amused, judgemental, involved or ironic.
-7. How much do I want to cover? (Reduce, reduce, reduce).
-
 **Caveat:** Don't let the material control your unity. Your decisions should control it. But as you're writing, you might find out that the writing is leading you into a better path than what you've decided on. Don't be a prisoner to your plan. Change your strategy. Go back to the material that is using the former decisions and rewrite it to match the better unity.
+
+[^4]: "I saw a man on a hill with a telescope." This sentence has multiple interpretations: 1. I used a telescope to see a man who was on a hill. 2. I saw a man who was on a hill, and that man had a telescope. 3. I saw a man who was on a hill that had a telescope mounted on it. 3. Unify pronouns in a sentence.
 
 ## Notes
 
@@ -125,10 +127,10 @@ Be grateful for any word, sentence, paragraph, or section that you can remove or
 22. A bit, sort of, in a sense.
 23. A whole sentence that repeats the previous one in a different way.
 23. Greats, notables: adjectives used as nouns.
-23. to host, enthuse, emote (latter two are nouns chopped off), beef up, put teeth into (latter two are padded): nouns used as verbs.[^1]
+23. to host, enthuse, emote (latter two are nouns chopped off), beef up, put teeth into (latter two are padded): nouns used as verbs.[^5]
 23. Shouldered his way, only to be met, crashing into his face, waging a lonely war, corruption that is rife, sending shock waves, NY Finest: clichés.
 
-[^1]: I noticed that looking up alternatives forces you to be more precise: to entertain, to accommodate, to feed.
+[^5]: I noticed that looking up alternatives forces you to be more precise: to entertain, to accommodate, to feed.
 
 
 Stripping down your prose to the essential improves your carpentry. It does not hinder your style. Your style is when you're being yourself with relaxed confidence using good carpentry. Your style is when you are not trying to impress nor indulge the reader.
@@ -138,18 +140,18 @@ You owe the reader good carpentry. But you do not owe him your identity. You are
 Do not go back to 'style' your writing after you had done it. Style, is not something you can add like lipstick. Your style is in your DNA, so write honestly and without and agenda and your style will show.
 
 Words are the atoms of writing. To write well, you must:
-1. Know the gradiations between synonyms: “cajole,” “wheedle,” “blandish” and “coax”[^2]. Use dictionary, Roget's Thesaurus, and thesaurus.
+1. Know the gradiations between synonyms: “cajole,” “wheedle,” “blandish” and “coax”[^6]. Use dictionary, Roget's Thesaurus, and thesaurus.
 2. Imitate a master that you like. Pick a model and ask why did they use this word? Why did they write this sentence like so? How can I write like that?
-3. Try to write with your ears and always read your drafts aloud. Pay attention to rhyming, alliteration, cadence and sonority of each sentence[^3].
+3. Try to write with your ears and always read your drafts aloud. Pay attention to rhyming, alliteration, cadence and sonority of each sentence[^7].
     * Reassemble the sentence so it ends with a phrase that momentarily lingers.
     * Choose one word after the other because I'm after a certain emotional effect: serene v.s tranquil
     * Gain variety by reversing the order of the sentence
     * Substitute a word that has freshness and oddity. That is oblique, not 'true and tested'.
     * Alter the length of sentences with the occasional short ones. Short sentences could leave a strong punch.
 
-[^2]: Cajole: gentle persuasion. Wheedle: persuasion through insincere flattery. Blandish: persuasion through skill-full flattery. Coax: persuasion through patient means.
+[^6]: Cajole: gentle persuasion. Wheedle: persuasion through insincere flattery. Blandish: persuasion through skill-full flattery. Coax: persuasion through patient means.
 
-[^3]: Example of this: Original: These are the times that try men’s souls. Bad: * Times like these try men’s souls. * How trying it is to live in these times! * These are trying times for men’s souls. * Soul-wise, these are trying times.
+[^7]: Example of this: Original: These are the times that try men’s souls. Bad: * Times like these try men’s souls. * How trying it is to live in these times! * These are trying times for men’s souls. * Soul-wise, these are trying times.
 
 Usage is a gray area. Only use a word if it fills a real need and there's no better word to use. If a word is jargon don't use it. Examples of bad usage:
 * Notables
@@ -186,10 +188,10 @@ The ending is as important as the lead. It's how you leave your reader feeling. 
 * If you'd like a sense of symmetry, you may touch on the beginning of the piece. A quotation works well here.
 * If you're ready to stop, stop. Don't push the ending. The reader will feel you're getting bored.
 
-Verbs are the most important of your tools. Use active ones, unless there's no comfortable way to get around using a passive verb[^4]. Short and precise are better than long and ambiguous. Make active verbs activate your sentences, and avoid the kind that need an appended preposition to complete their work[^5].
+Verbs are the most important of your tools. Use active ones, unless there's no comfortable way to get around using a passive verb[^8]. Short and precise are better than long and ambiguous. Make active verbs activate your sentences, and avoid the kind that need an appended preposition to complete their work[^9].
 
-[^4]: Joe saw him. He was seen by Joe. Former is strong, latter is weak.
-[^5]: Don’t set up a business that you can start or launch. Don’t say that the president of the company stepped down. Did he resign? Did he retire? Did he get fired? Be precise. Use precise verbs.
+[^8]: Joe saw him. He was seen by Joe. Former is strong, latter is weak.
+[^9]: Don’t set up a business that you can start or launch. Don’t say that the president of the company stepped down. Did he resign? Did he retire? Did he get fired? Be precise. Use precise verbs.
 
 Most adverbs are unnecessary. Radio blared loudly. Clenched their teeth tightly. Effortlessly easy. Slightly spartan. Totally flabbergasted. Grinned widely. All the previous examples show redundancy. Remove the adverbs and we haven't lost any meaning. Also watch out for decidedly, arguably and their cousins.
 
