@@ -2,13 +2,13 @@
 layout: page
 title: "now"
 created: 2024-12-14
-updated: 2025-03-15
-version: 1.4.12
+updated: 2025-03-27
+version: 1.5.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on March 15, 2025 from Buenos Aires._</small>
+<small>_Last updated on March 27, 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 
@@ -18,7 +18,9 @@ I just paused a long chapter of working as a Software Engineer indefinitely. I h
 - [How to Read a Book](/books/how-to-read-a-book) (done)
 - [Internal Time](/books/internal-time) (done)
 - [Unlimited Memory](/books/unlimited-memory) (done)
-- [On Writing Well](/books/on-writing-well) (wip. Damn, writing is hard.)
+- [On Writing Well](/books/on-writing-well) (done)
+
+_Done with liminal space. I'm now writing an article about my experience going through 5 books and how I would change that in the future_
 
 ## Bikram Yoga
 
