@@ -20,7 +20,7 @@ I just paused a long chapter of working as a Software Engineer indefinitely. I h
 - [Unlimited Memory](/books/unlimited-memory) (done)
 - [On Writing Well](/books/on-writing-well) (done)
 
-_Done with liminal space. I'm now writing an article about my experience going through 5 books and how I would change that in the future_
+_Done with liminal space. I'm now writing about my experience going through 5 books analytically and prepping for a trek in El Chalten, Patagonia._🥶
 
 ## Bikram Yoga
 
