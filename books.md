@@ -4,6 +4,6 @@ layout: books
 
 # Books I've Read
 
-_My notes on some of the books that I've read. In each book's page, I summarize how I'm currently applying it in my routines. I update this page regularly. Inspired by [Derek Sivers](https://sive.rs/book)_.
+_My notes on non-fiction that I've read after Dec, 2024. In each book's page, I summarize how I'm currently applying it in my routines. Inspired by [Derek Sivers](https://sive.rs/book)_.
 
 ---
