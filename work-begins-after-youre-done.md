@@ -3,7 +3,7 @@ layout: page
 title: "Work Begins After You're Done"
 created: 2025-03-28
 updates: 2025-03-28
-version: 1.0.0
+version: 1.0.1
 categories: article
 tags:
 ---
@@ -16,7 +16,7 @@ I limited my selection to five: [How To Read A Book](/books/how-to-read-a-book),
 
 I approached this task like work—I put in an average of 6 hours per day on reading and taking notes—and published my notes as I finished each book. I shared my notes with friends for feedback and accountability. **I read and understood each book, but that wasn't the end of it. It turned out it was just the beginning.**
 
-The real work began after right after I finished the book and published my notes. I had to apply its techniques—altering my habits and discombobulating my comfort zone—in its particular area. Like this article for example, I rewrote it after reading my [On Writing Well](/books/on-writing-well) notes. Obviously I need to reread them many more times.
+The real work began right after I finished the book and published my notes. I had to apply its techniques—altering my habits and discombobulating my comfort zone—in its particular area. Like this article for example, I rewrote it after reading my [On Writing Well](/books/on-writing-well) notes. Obviously I need to reread them many more times.
 
 [^1]: Inspectional and analytical reading are referring to the second and third stages of reading from [How To Read a Book](/books/how-to-read-a-book).
 
