@@ -8,7 +8,7 @@ categories: now
 tags: hidden
 ---
 
-<small>_Last updated on March 27, 2025 from Buenos Aires._</small>
+<small>_Last updated on March 29, 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 
@@ -20,7 +20,7 @@ I just paused a long chapter of working as a Software Engineer indefinitely. I h
 - [Unlimited Memory](/books/unlimited-memory) (done)
 - [On Writing Well](/books/on-writing-well) (done)
 
-_Done with liminal space. I'm now writing about my experience going through 5 books analytically and prepping for a trek in El Chalten, Patagonia._🥶
+I'm _[done with liminal space](/work-begins-after-youre-done). I'm now prepping for my brother's visit to Argentina. After that, I'm going on a camping trip to El Chalten, Patagonia._🥶
 
 ## Bikram Yoga
 
