@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Remember The Archer"
-date: 2022-01-08
+created: 2022-01-08
+updated: 2022-01-08
 version: 1.0.2
 categories: philosophy
 ---

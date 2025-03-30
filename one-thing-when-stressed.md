@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "One Thing When Under Stress"
-date: 2022-02-06
+created: 2022-02-06
+updated: 2022-02-06
 version: 0.1.3
 categories: health
 ---

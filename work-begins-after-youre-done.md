@@ -2,7 +2,7 @@
 layout: page
 title: "Work Begins After You're Done"
 created: 2025-03-28
-updates: 2025-03-28
+updated: 2025-03-28
 version: 1.1.1
 categories: article
 tags:

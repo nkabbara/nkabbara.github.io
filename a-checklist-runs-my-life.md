@@ -2,7 +2,7 @@
 layout: page
 title: "A Checklist Runs My Life"
 created: 2025-03-01
-updates: 2025-03-02
+updated: 2025-03-02
 version: 1.1.0
 categories: article
 tags:

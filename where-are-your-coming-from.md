@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Where Are You Coming From?"
-date: 2023-04-08
+created: 2023-04-08
+updated: 2023-04-08
 version: 1.0.1
 categories: philosophy
 ---

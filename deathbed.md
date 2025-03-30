@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Deathbed"
-date: 2022-10-30
+created: 2022-10-30
+updated: 2022-10-30
 version: 0.2.1
 categories: life
 ---

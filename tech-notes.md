@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Tech Notes"
-date: 2022-07-11
+created: 2022-07-11
+updated: 2022-07-11
 version: 0.5.0
 categories: tech
 ---

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Movies"
-date: 2023-08-26
+created: 2023-08-26
+updated: 2023-08-26
 version: 1.2.0
 categories: life
 ---

@@ -14,7 +14,11 @@ layout: base
         </li>
         {%- for page in site.pages -%} {% if page.layout != 'page'% or page.tags
         contains 'hidden' %} {% continue %} {% endif %}
-        <li style="margin-bottom: 10px">
+        <li
+            style="margin-bottom: 10px"
+            data-created="{{page.created}}"
+            data-updated="{{page.updated}}"
+        >
             <h3>
                 <a class="page-link" href="{{ page.url | relative_url }}">
                     {{ page.title | escape }}

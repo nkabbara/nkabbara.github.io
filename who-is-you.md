@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Who Is You?"
-date: 2021-10-10
+created: 2021-10-10
+updated: 2021-10-10
 version: 0.0.4
 categories: philosophy
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: "Your Inner Voice Will Turn On You"
 created: 2025-02-08
-updates: 2025-02-09
+updated: 2025-02-09
 version: 1.1.2
 categories: article
 tags:

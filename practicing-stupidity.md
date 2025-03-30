@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Practicing Stupidity"
-date: 2021-11-21
+created: 2021-11-21
+updated: 2021-11-21
 version: 0.0.8
 categories: philosophy
 ---

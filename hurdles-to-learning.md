@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Hurdles To Learning"
-date: 2021-10-09
+created: 2021-10-09
+updated: 2021-10-09
 version: 0.2.1
 categories: learning
 ---

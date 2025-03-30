@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Where is Home?"
-date: 2023-10-30
+created: 2023-10-30
+updated: 2023-10-30
 version: 0.0.2
 categories: philosophy
 ---

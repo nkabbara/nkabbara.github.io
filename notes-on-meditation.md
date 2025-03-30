@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Notes On Meditation"
-date: 2022-04-03
+created: 2022-04-03
+updated: 2022-04-03
 version: 0.1.9
 categories: meditation
 ---

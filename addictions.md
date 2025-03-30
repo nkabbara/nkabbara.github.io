@@ -2,7 +2,7 @@
 layout: page
 title: "Digital Addictions"
 created: 2025-02-26
-updates: 2025-02-28
+updated: 2025-02-28
 version: 1.1.3
 categories: article
 tags:

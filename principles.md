@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Principles"
-date: 2022-10-30
-updates: 2025-03-01
+created: 2022-10-30
+updated: 2025-03-01
 version: 0.5.0
 categories: life
 ---
