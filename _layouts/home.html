@@ -2,16 +2,26 @@
 layout: base
 ---
 
+<style>
+    mark {
+        background-color: rgba(180, 180, 180, 0.3);
+    }
+</style>
+
+<script src="assets/javascript/sort.js" defer></script>
+
 <div class="home">
     {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
     {%- endif -%} {{ content }} {%- if site.pages.size > 0 -%}
-    <ul class="post-list">
-        <li style="margin-bottom: 10px">
-            <h3>
-                <a class="page-link" href="/books"> Books </a>
-            </h3>
-        </li>
+
+    <h2>All Posts</h2>
+    <p>
+        Sorted by <a id="sort-by-created" href="#">last created</a> or
+        <a id="sort-by-updated" href="#">last updated</a>
+    </p>
+
+    <ul class="post-list" id="post-titles">
         {%- for page in site.pages -%} {% if page.layout != 'page'% or page.tags
         contains 'hidden' %} {% continue %} {% endif %}
         <li
