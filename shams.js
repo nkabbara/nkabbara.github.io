@@ -105,6 +105,8 @@
     }
     shamsEl.style.backgroundImage = `url(${shamsFile})`;
 
+    setSprite("idle", 0);
+
     const container = document.getElementById("shams-container");
     container.appendChild(shamsEl);
 
