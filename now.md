@@ -2,25 +2,22 @@
 layout: page
 title: "now"
 created: 2024-12-14
-updated: 2025-03-27
-version: 1.5.12
+updated: 2025-04-13
+version: 1.6.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on March 29, 2025 from Buenos Aires._</small>
+<small>_Last updated on April 13, 2025 from Buenos Aires._</small>
 
 ## Reading & Camping
 
-I just paused a long chapter of working as a Software Engineer indefinitely. I have a good idea of what my next project is, but I'm creating some liminal space in which I get to think things through before jumping in. During this time I'll be [backpacking](/camping-sierra-de-la-ventana.html) around Argentina and reading some [books](/books) that I had been wanting to [internalize](/books/how-to-read-a-book) for a while. I'll update my notes below as I go through them.
-
-- [Useful Not True](/books/useful-not-true) (done)
-- [How to Read a Book](/books/how-to-read-a-book) (done)
-- [Internal Time](/books/internal-time) (done)
-- [Unlimited Memory](/books/unlimited-memory) (done)
-- [On Writing Well](/books/on-writing-well) (done)
-
-I'm _[done with liminal space](/work-begins-after-youre-done). I'm now prepping for my brother's visit to Argentina. After that, I'm going on a camping trip to El Chalten, Patagonia._🥶
+I'm [done with liminal space](/work-begins-after-youre-done) that I had planned after starting my sabbatical and my brother's family visit is over. Now I'm preparing for my [El Chalten trek](camping-in-el-chalten). I bought a one way ticket there in order to work with the weather. The plan is to start with the [Huemul Circuit](https://en.wikipedia.org/wiki/Cerro_Huemul) and imporvise after that.
+<br />
+<br />
+<img src="assets/me-and-adam.jpg" alt="Me and Adam" width="300">
+<br>
+My nephew, Adam (19kg), helping me train for my upcoming trek.
 
 ## Bikram Yoga
 
