@@ -19,5 +19,3 @@ My recent camping adventures required that I pickup a few knots for various task
 ## Basics
 
 ## Camping
-
-<a href="https://excalidraw.com/?source=https://github.com/nkabbara/nkabbara.github.io/blob/main/assets/ beshmezine-trip.excalidraw">x</a>

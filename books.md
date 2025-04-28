@@ -15,67 +15,33 @@ _My notes on non-fiction that I've read after Dec, 2024. In each book's page, I 
 {%- for page in site.pages -%} {% unless page.categories contains 'book' %} {%
 continue %} {% endunless %}
 
-{% capture image_path %}assets/book-{{page.title | replace: ' ', '-' | downcase }}{% endcapture %}
-{% assign image_src = 'assets/default-book-cover.png' %}
-{% for static_file in site.static_files %}
-  {% if static_file.path contains image_path | append: '.png' %}
-    {% assign image_src = image_path | append: '.png' %}
-    {% break %}
-  {% elsif static_file.path contains image_path | append: '.jpg' %}
-    {% assign image_src = image_path | append: '.jpg' %}
-    {% break %}
-  {% endif %}
-{% endfor %}
+  {% capture image_path %}assets/book-{{page.title | replace: ' ', '-' | downcase }}{% endcapture %}
+  {% assign image_src = 'assets/default-book-cover.png' %}
+  {% for static_file in site.static_files %}
+    {% if static_file.path contains image_path | append: '.png' %}
+      {% assign image_src = image_path | append: '.png' %}
+      {% break %}
+    {% elsif static_file.path contains image_path | append: '.jpg' %}
+      {% assign image_src = image_path | append: '.jpg' %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 
-<article class="book">
-    <a href="/{{page.path | replace: '.md', '' }}" class"book-title">
-        <img
-            src="/{{ image_src }}"
-            alt="Cover of {{page.title}}"
-            class="book-image"
-        />
-    </a>
-    <a href="/{{page.path | replace: '.md', '' }}" class"book-title">
-        <h2 class="book-title">{{page.title}}</h2>
-    </a>
-    <div class="book-author">by {{page.author}}</div>
-    <p class="book-description">
-        {{page.content | markdownify | truncatewords: 50}}
-        <a href="/{{page.path | replace: '.md', '' }}" class"book-title">read more.
-        </a>
-    </p>
-</article>
+  <article class="book">
+      <a href="/{{page.path | replace: '.md', '' }}" class="book-title">
+          <img
+              src="/{{ image_src }}"
+              alt="Cover of {{page.title}}"
+              class="book-image"
+          />
+      </a>
+      <a href="/{{page.path | replace: '.md', '' }}" class="book-title">
+          <h2 class="book-title">{{page.title}}</h2>
+      </a>
+      <div class="book-author">by {{page.author}}</div>
+      <p class="book-description">
+          {{page.content | strip_html | truncatewords: 50}}
+          <a href="/{{page.path | replace: '.md', '' }}" class="">read more.</a>
+      </p>
+  </article>
 {%- endfor -%}
-
-<style>
-    .book {
-        padding: 1rem 0;
-        margin-bottom: 1rem;
-        position: relative;
-    }
-
-    .book-image {
-        float: left;
-        width: 100px;
-        aspect-ratio: 4.83/7.25;
-        background: #f3f4f6;
-        border-radius: 2px;
-        margin-right: 1rem;
-        margin-bottom: 0.2rem;
-    }
-
-    .book-title {
-        font-size: 1.5rem;
-        margin: 0 0 0.1rem 0;
-    }
-
-    .book-author {
-        color: #666;
-        font-size: 0.9rem;
-        margin-bottom: 0.7rem;
-    }
-
-    .book-description {
-        margin: 0;
-    }
-</style>
