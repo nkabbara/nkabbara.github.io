@@ -32,5 +32,60 @@ The theme of my trek had changed from the Art of Contentment to the Art of Being
 
 One of the hikers that I had seen on my way saw my headlight from the campsite and I could see his jumping up and down and running with excitement. He ran up to the river that divides the shelter from the trail to guide me to safety. "Is that you? Is that you? You're crazy, you're crazy!" he kept saying for a few minutes until he calmed down. I didn't setup the tent that night. I lay my sleeping back in the shelter and crashed on the ground.
 
+
+<figure>
+    <img src="assets/ec-1.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+<figure>
+    <img src="assets/ec-2.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+<figure>
+    <img src="assets/ec-3.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+<video width="100%" controls muted poster="assets/ec-zipl1.png">
+    <source src="assets/ec-zipl1.mp4" type="video/mp4;">
+</video>
+<figure>
+    <img src="assets/ec-4.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+<figure>
+    <img src="assets/ec-5.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+<figure>
+    <img src="assets/ec-6.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+<figure>
+    <img src="assets/ec-7.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+<video width="100%" controls muted poster="assets/ec-glaciar-tunel-poster.png">
+    <source src="assets/ec-glaciar-tunel.mp4" type="video/mp4;">
+</video>
+<figure>
+    <img src="assets/ec-8.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+<figure>
+    <img src="assets/ec-8.5.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+<figure>
+    <img src="assets/ec-9.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+<video width="100%" controls muted poster="assets/ec-susia.png">
+    <source src="assets/ec-susia.mp4" type="video/mp4;">
+</video>
+<figure>
+    <img src="assets/ec-10.jpeg">
+    <figcaption>Caption</figcaption>
+</figure>
+
 ---
 I'm shifting [my internal clock](/books/internal-time) to be an early riser. Closing apartment shutters at sunset, dimming lights and stopping all screen activities.
