@@ -37,12 +37,13 @@ _I learned [these](https://www.animatedknots.com/basic-knots) because they teach
 5. **Quick Release Jamp Knot**: tie down blankets and tents for packing. Or a bunch of wood collected for burning.
 6. **Coil Unattached Rope**: Putting rope away for later use.
 
+## TODO
 I still need knots for the following scenarios:
 * Tying a loaded rope
 * Tying food to a tree
 
 
 ## Notes
-[Memory palace](/books/unlimited-memory) used to memorize the knots.
+[Memory palace](/books/unlimited-memory) based on our summer house used to memorize the knots.
 
 ![rope palace](/assets/rope-palace.png)
