@@ -5,7 +5,7 @@ created: 2025-05-05
 updated: 2025-05-05
 version: 0.0.1
 categories: tango
-tags: tags
+tags: hidden
 ---
 
 _Work In Progress_

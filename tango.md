@@ -2,7 +2,7 @@
 layout: page
 title: "Tango"
 created: 2025-05-05
-updated: 2025-05-05
+updated: 2025-05-06
 version: 0.0.1
 categories: tango
 tags:
@@ -14,4 +14,6 @@ Below is a work in progess built on my attempt to answer that question.
 
 Chapter 1: [Assume That You Are a Dancer](assume-that-you-are-a-dancer)
 
-Chapter 2: ...
+Chapter 2: [Your Most Important Quest](your-most-important-quest)
+
+Chapter 3: ...
