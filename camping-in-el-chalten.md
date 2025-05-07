@@ -87,5 +87,9 @@ One of the hikers that I had seen on my way saw my headlight from the campsite a
     <figcaption>Day four! On the third day I joined with a couple of hikers and this was our first sighting of the village after a couple of days of hiking.</figcaption>
 </figure>
 
----
-I'm shifting [my internal clock](/books/internal-time) to be an early riser. Closing apartment shutters at sunset, dimming lights and stopping all screen activities.
+## Notes
+* Before the trip I shifted [my internal clock](/books/internal-time) to be an early riser. Closing apartment shutters at sunset, dimming lights and stopping all screen activities. That worked great (there was some travel stress interfering with sleep the night before).
+* I learned a bunch of [ knots ](/knots) that came in very handy during the trip.
+* If [pack](/sierra-de-la-ventana-pack) was a couple of kilos lighter, some sections of the trip would have been much easier.
+* My body runs hot (though my hands and feet run cold) which made me sweat a lot. Be sure to pack electrolights on next trips.
+* Gear got attacked by mice. Look into repelling them next time.
