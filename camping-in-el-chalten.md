@@ -93,3 +93,4 @@ One of the hikers that I had seen on my way saw my headlight from the campsite a
 * If [pack](/sierra-de-la-ventana-pack) was a couple of kilos lighter, some sections of the trip would have been much easier.
 * My body runs hot (though my hands and feet run cold) which made me sweat a lot. Be sure to pack electrolights on next trips.
 * Gear got attacked by mice. Look into repelling them next time.
+* Before my trip I practiced hiking for a few hours around town with my backpack. I would put in more hours for upcoming trips. Also my nephew Adam (19kg) visisted and helped me practice a bit: <img src="assets/me-and-adam.jpg" alt="Me and Adam" width="300">
