@@ -14,7 +14,7 @@ My motivation for writing a book about tango is twofold: It will help me to disa
 
 ## Chapters
 ### Mindset
-Chapter 1: [One Day I Started to Assume That I'm a Dancer]()
+Chapter 1: [One Day I Started to Assume That I'm a Dancer](tango/one-day-i-decided-that-i-am-a-dancer)
 
 Chapter 2: [My Most Important Quest]()
 
