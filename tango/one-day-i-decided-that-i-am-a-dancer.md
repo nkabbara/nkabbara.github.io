@@ -1,27 +1,35 @@
 ---
 layout: page
-title: "One Day I Decided that I am a Milonguero"
+title: "One Day I Decided that I am a Dancer"
 created: 2025-05-08
 updated: 2025-05-08
-version: 0.0.1
+version: 1.0.1
 categories: tango
 tags: hidden
 ---
 
 What's the point of this chapter? Decide to be something and become it.
 
-- what does it mean to be a something
+- 0 Identities
+- what does it mean to be a dancher - be specific
 - why it's tough to accomplish dancer identity in tango
 - How I came to decide.
 - What happened when I decided - here we can imagine how we imagine we will be when we become what we want to become. Now shit is exciting.
 
-I have been working hard for more than half of my life at shedding identities. I succeeded too much. I thought that with a shrinking footprint of identities I would eventually get to the baseline of simply being a good human; without religious, nationalisitic, classist or professional associations I would become spiritual, wordly, unpredjudiced and multi-disciplinary. I imagined that without all that baggage, I will be able to slide in and out of ecosystems, learn and contribute and get out. I became irate when people referred to me as an American, a programmer or a dancer [^1]. What I didn't realized was that I created an identity of no identities and I was protecting it from any lable thrown at me. There was no way around it, one must be something.
+I was in La Viruta watching a man dancing as if he were the fifth instrument of a live quartet playing D'arienzo. I decided that I wanted to be him, a true milonguero.
 
-After the pain from my giant misstep has subdued, I realized that I'm now well positioned to assume any identities that my heart yearned for. But what does it mean to be a something: American, programmer, dancer, or a Christian?
+I worked hard for more than half of my life at shedding identities. I succeeded too much. I thought that with a shrinking footprint of identities I would eventually get to the baseline of simply being a good human free of unneceray baggage. Not Christian, Not American, Not Middle Class, Not Programmer,  I would become spiritual, wordly, unpredjudiced and multi-disciplinary. I would be able to slide in and out of ecosystems, learn, contribute and get out. I became irate when people referred to me as an American or a dancer [^1]. What I didn't realize until years later was that I created an identity of no identities and I was becoming overprotective of it. A genuine agnostic, undecided on everything.
 
-I decided develop a theory around what makes a human something and to test it. To be something, you first must understand what it is. To be something you must choose it and it must choose you. To be something, you must give it what it requires of you. To be something, you must be immersed in it for as long as your life permits.
+[^1]: xx
 
-I knew very clearly which identity I wanted to assume first. A Milonguero. Here's a slice of a Milonguero's life. After he's done with his responsibilities for the day he dresses up and grooms himself. He goes to his favorite milonga for the night and sits on a table with this friends that are already there. He dances a few dances with them to catch up on the day between songs. And now the night begins: he starts looking for the dancer that he feels a pull towards. An energy that connects them that is telling him to stay on her and she feels it too. When she finally does he cabaceos her and she agrees. He goes to her table and leads her into the dance floor. The first dance is a simple oranment just to confirm their connection. Was it a mirage? Is there something deep for them to experience that evening? The only way to do this is by giving her his full being through his embrace. Everything about his existence is hers. He is her. He's sitting the cavity in her chest next to her heart and she can feel him there. Or not. He probably made a mistake. After the tanda is over he takes her back and never dances with her again. But he continues looking until hopefully, he does find her and when he does, the only reason to stop dancing would be to rest his body and let her rest hers. But he knows that for the rest of the night, they'll be dancing for hours together painting the floor with their art.
+It was time to mark this as a lesson learned and start looking for identities I wanted to assume—a perk only available to folks that threw their identity shirts in the heavy duty cycle.
+
+"How does one build a milonguero identity?" was the question that kept me up at night and eventually lead me to an adventure in the underworld of the Buenos Aires milonga scene that changed me forever.
+
+My weakest point was that I was an introvert. I did well in classes, but as soon as the milonga started to form, my mind started spitting out algorithms plotting the fastest route to the exit. I had to find a way to work with my introversion. My way was to add a rule that prevented me from leaving the building: "You may not leave the building until you've danced at least one tanda" and over time I increased that number to five. That worked, but I've quickly found a way around it; I only danced with familiar people and friends. And they usally cared more about friend things than dancing—dancing in close embrace, mouth to ear, gossiping about the people around us. I quickly became aware of my mind's trick and added the following provision to my rule: "...A tanda is counted only when danced with a new person." The power of my mind's creativity became aparent when I found myself dancing with new people, but only ones that I was sure were below my level. I eyed the cute girls in the beginners class and marked them as my salvation. They would be the reason why I could leave the building and rest in the safety of my apartment with my cat. And thus was born the most difficult stipulation of all "...The new person must be intimidating to me."
+
+---
+section of how I actually became him and how I enjoy it and how it changed my life.
 
 ---
 [^1] My social media handle is nashtheycallme to show that even my name is something I wouldn't want to belong to. Writing bios are difficult for me.
