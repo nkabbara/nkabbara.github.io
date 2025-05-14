@@ -35,6 +35,12 @@ My current way of writing is to write a draft that I like—I might have to do m
 
 [^3]: Use the em-dash in two ways. One is to amplify or justify in the second part of the sentence a thought you stated in the first part. “We decided to keep going—it was only 100 miles more and we could get there in time for dinner.” The other use involves two dashes, which set apart a parenthetical thought within a longer sentence. “She told me to get in the car—she had been after me all summer to have a haircut—and we drove silently into town.”. How do these related to semi-colon and comma? Semi-colon separates two sentences which could stand alone, but are somehow related. Em-dash is used sort of like a comma. But usually more of a "separate thought" than a comma. Also, if your sentence already has a lot of commas it can be more visually clear. Commas are used in lists, they're used to separate clauses, they're used to indicate a pause. [more on these](https://www.reddit.com/r/FanFiction/comments/l2b5qo/whats_the_difference_between_using_the_em_dash/)
 
+## My Notes to Self While Writing a Book
+
+* For a first book, keep it short. Target is 150 pages, which comes out to about 3500 words per chapter.
+* I was thinking in term of word count. How many words do I need in a chapter. How do I not produce a blog post or an essay, but a chapter? It has to have unresolved threads that lead into the next chapter. Cliff hanger. Don't focus on word count, instead expand the interesting parts with more detail. Check word count only when you're at the end and if it's too short find areas where to expand. Reread parts of writing well that treat this subject.
+* Writing is a daunting task. Focus one paragraph at a time. today, I just want to work on this paragraph and expand it and have it communicate one solid point. If that's too much, then just start with a sentence. But have the idea in place beforehand and be sure that it will change as you go.
+
 ## Checklists
 
 _As I focus on an aspect, I turn it into a checklist to help me easily apply it to my writing. I build the checklists from the raw notes below when I need them._
