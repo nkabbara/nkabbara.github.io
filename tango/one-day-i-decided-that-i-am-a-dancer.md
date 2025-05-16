@@ -28,21 +28,25 @@ I started being rejected. Not so much by beautiful dancers—many never put in t
 
 My milonga rule in its entirety at that point was: "You may not leave the building until you've danced at least one tanda. A tanda is counted only when danced with a new person that intimidates me. Increase the number of tandas weekly."
 
-Rejection was starting to show holes in my rule, but it was a horse that got me pretty far. I used to be the guy that would run home after class, but a rule that was kind and gentle, helped me work my way up, at first dancing with friends, then with helpless beginners, then with gorgeous women and better dancers and it got me to the front door of skilled dancers that wouldn't open the door. Though it was time to dismount the horse, my debt to it didn't end there. It provided me with a nugget of self wisdome that changed how I think about myself. I had always assumed that I was an introvert. That when I went out of my apartment, I needed an equal or greater amount of time in it when I returned. After big events, I would spend a full day at home in bed hugging my pillows tensly listening to loud sad music to recover. Completely disfunctional. But now I went to a class with twenty people that don't speak English and I stayed at milongas with a hundred more and danced and mingled with them in broken Spanish and I went home with full energy ready to repeat the whole thing the following day. Referring to myself as an introvert was too generic and gave me too much cause to shelter myself more than I needed to. It was stress[^2] that was turning me into a pillow hugger, not introversion. This changed my approach to events that were physically and mentally draining. My primary defense against depletion was first to avoid new events. If I had to do them, I planned a day or two of recovery afterwards. Which meant my planning was always centered around being in familiar places all week and only venturing out on Friday or Saturday giving myself recovery days. After my discovery, depletion avoidance changed to building familiarity—I didn't want to call it stress management so I don't get stuck in generalities again. That was my key in lowering stress. I modified my milonga rule, compressing it and expanding it to work for most situations, including barbeques where I only knew one person and dangerous treks in Patagonia. The basic theme was start easy and take small steps. Increase difficulty gradually and take a step or two back when things get tough. Try to take new steps on your next try.
+Rejection was starting to show holes in my rule, but it was a horse that got me pretty far. I used to be the guy that would run home after class, but a kind and gentle rule, helped me work my way up, at first dancing with friends, then with helpless beginners, then with gorgeous women and better dancers and it got me to the front door of skilled dancers though they wouldn't open the door. It was time to dismount the horse, but my debt to it didn't end there. It provided me with a nugget of self wisdom that changed how I think about myself; I had always assumed that I was an introvert and that when I went out of my apartment, I needed an equal or greater amount of time in it when I returned. After big events, I would spend a full day at home in bed hugging my pillows tensly listening to loud sad music to recover. Completely disfunctional. But now I went to a class with twenty people that don't speak my language and I stayed at milongas with a hundred more and danced and mingled with people in broken Spanish and I went home with full energy ready to repeat the whole thing the following day. How was I an introvert?  It seemed like a misdiagnosis that gave me too much cause to shelter myself more than I needed to. I started to notice that only when I went to new places I would need recovery time the following day, but if I went to a familiar place, I was fine. The revelation was that it was stress[^2] that was turning me into a pillow hugger, not introversion. This freed me from the introvert label and gave me new ways to deal with this type of problem. My primary defense against depletion was first to avoid new events and if I had to do them, I had to plan a day or two of recovery afterwards making my milonguero quest untenable. But now instead of avoiding milongas, I built gardual familiarity with them. That was my key in lowering stress. I modified my milonga rule, compressing it and expanding it to work for many other situations, including conferences and challenging treks. The basic theme was build familiarity by progressing gently and regressing kindly. Repeat until you're at home with your people[^3].
+
+[^2]: agoraphobia? It seems it's like new places and new people. Maybe new people more than new places.
+
+[^3]: For one time type events, think of the place as a circle and if the center is your goal, work at the periphery meeting the most gentle people and familiarizing youreslf with the outer physical place. Even the furniture.
 
 _Rule worked, but I'm still at the periphery, I need to be in this thing_
 
 _But with rejection we need smething more than rules. We need a mindset shift. Thust the dancer._
 
-I started to think more about how to deal with rejection. There were popular techniques that people used mostly related to mindset shifts...._I started looking in chat panel to see how people do it what's recommeneded. Maybe more research here should help writing this. Remember, we are writing about our curret experiece, past experiece and where we'd like to be_.
+---
+* I started to think more about rejections from good dancers. Well, why do I want to dance with good dancers? To play. Forgetting playfullness.
+* Two of the types of rejections were you're not my friend, not with the cool kids and I don't want to dance with you. The other kind is you're not there yet.
+* I wanted the latter kind. Which meant I had to do hard work.
+* Describe what hard work in tango is. Here go crazy. Focus on the embrace. How the argentine embrace is. Describe the argentine people.
+* No rules and todos can help with all that. We need a mindset shift. The rules kept us at the periphery, what we need is smoething to puts us int the game.
+* Segway is the trials of tribulations of being a dancer.
 
 ---
-How do I go from here?
-* I started getting rejections
-* I didn't know how to deal with rejeactions. I needed more rejections to learn how to deal with them.
-* State the rule in its entirety at this point.
-* How I learned how to deal with rejection.
-* How do I work in the choosing the be a dancer?
 
 Remember this is me predicting my future. This could change tremendously.
 ---
