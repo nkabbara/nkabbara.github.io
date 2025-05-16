@@ -40,6 +40,7 @@ My current way of writing is to write a draft that I like—I might have to do m
 * For a first book, keep it short. Target is 150 pages, which comes out to about 3500 words per chapter.
 * I was thinking in term of word count. How many words do I need in a chapter. How do I not produce a blog post or an essay, but a chapter? It has to have unresolved threads that lead into the next chapter. Cliff hanger. Don't focus on word count, instead expand the interesting parts with more detail. Check word count only when you're at the end and if it's too short find areas where to expand. Reread parts of writing well that treat this subject.
 * Writing is a daunting task. Focus one paragraph at a time. today, I just want to work on this paragraph and expand it and have it communicate one solid point. If that's too much, then just start with a sentence. But have the idea in place beforehand and be sure that it will change as you go.
+* Switch between artist and craftsman. Don't mix the two. Let your creativity create and in later editing sessions, bring out the carpenter.
 
 ## Checklists
 

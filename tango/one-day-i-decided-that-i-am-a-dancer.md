@@ -34,12 +34,18 @@ Rejection was starting to show holes in my rule, but it was a horse that got me 
 
 [^3]: For one time type events, think of the place as a circle and if the center is your goal, work at the periphery meeting the most gentle people and familiarizing youreslf with the outer physical place. Even the furniture.
 
+Rejection was hard. When it was being nice, it ruined my night. When it was being a bitch it made me doubt my self. I went down the usual route and applied every trick in every self help book: it's not me, it's them. It's a good thing in disguise. It builds resilience. All these could be true, but still, rejection was hard. I had to revisit my milonguer quest and truly understand why was it something that I wanted to do? Why does it have so much pull on me and hadn't let me go of me all these years? What was it about watching that man at the beginning of the chapter that made it ok to have to deal with the challenges it takes to be like him?
+
+It was two things that made him so appealing. First, he was there with a table of friends that seemed to know each other for many years. They ate, they drank, they laughed, they talked and they danced way beyond midnight and then walked each other home when the band was packing their purcioussion. I imagined myself having a regular weeknight or two where I would go to a table full of friends with my seat always reserved and that we would eat, drink, laugh, talk and dance until the waiters have had enough. The second appeal was as deep as good friendships: play. When he got up to dance, whether a slow sad song or a jumpy and happy song he was playing. Play in its many forms, drawing songs on the floor with his feet, flirting with his partner in front of her lover, turning music into expression, wearing ridiculous clothes because he can. Yes, the struggle to have that aspect of his being was worth it for me and I was already starting to glimpse at the possibilities. Regulars that have been seeing me return constantly have become more inviting and friendlier over the months and I was being invited to join some of their tables. My dance was starting to improve to where I could feel like I could master certain aspect of it and turn it into pure enjoyment and at times my limitation was my partner; she didn't have the technique to play with me. That was what made rejection by good dancers OK and welcome. It meant I had more work to do, but it also objectified and clarified rejection. My quest now was to play and I wanted to play with the best players because it was more fun.
+
+I had a lot of hard work in front of me.
+
 _Rule worked, but I'm still at the periphery, I need to be in this thing_
 
 _But with rejection we need smething more than rules. We need a mindset shift. Thust the dancer._
 
 ---
-* I started to think more about rejections from good dancers. Well, why do I want to dance with good dancers? To play. Forgetting playfullness.
+* -[x] I started to think more about rejections from good dancers. Well, why do I want to dance with good dancers? To play. Forgetting playfullness.
 * Two of the types of rejections were you're not my friend, not with the cool kids and I don't want to dance with you. The other kind is you're not there yet.
 * I wanted the latter kind. Which meant I had to do hard work.
 * Describe what hard work in tango is. Here go crazy. Focus on the embrace. How the argentine embrace is. Describe the argentine people.
