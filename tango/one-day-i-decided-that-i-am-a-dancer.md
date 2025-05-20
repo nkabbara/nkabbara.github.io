@@ -44,35 +44,15 @@ I revisited my rule to see how I can expand it to help me navigate my updated qu
 
 Argentine Tango begins with the embrace. It's the cornerstone of everything. You either give your soul up completely to your partner or you don't. There is no in between. I am not talking about technique like where to place your hand on her back and how your elbows should touch and how to relax your shoulders and how to hold her hand and how to position your head. I am talking about giving up your soul. Think of the things about you that make you the most embarrased and most ashamed and imagine yourself telling them to someone you don't yet completely trust, someone you decided to give a chance with your deepest secrets. You know that they will hear the quiver in your voice and see how you look when you feel unworthy of love. You're so close together that she can feel your heart beat communicating all these vulnerabilities and you can feel hers reacting to them. All this is happening in the first few seconds of the dance. You haven't even started yet. I only learned what the embrace meant when I moved to Argentina. One evening, my Argentine friend led me into a party and when we arrived he hugged the first person he saw—for what seemed like an enternity—then they kissed and had a quick conversation though it felt like they exchanged more  than small talk. I shook that persons hand keeping a safe, American 10 foot distance. When he ran into the next person, the same thing transpired until we reached his circle of actual friends—about 14 people sitting in an actual circle—and the hugs and kisses ensued at whole different level. To my horror, they wouldn't accept my 10 foot distanced hand shake and each would pull me in for a hug and kiss. What a nightmear. I said to myself that I'm never going out again in Argentina. As the days went by, I started to see this everywhere: the barbershop next to my regular restaurant is regularly fronted by the owner hanging out with his son, the son's feet raised on his dad's lap, the dad's hand massaging the son's neck while they're conversing. My dad sends me a happhy new year text message on New Year Day and a happy birthday message usually one or two days after my birthday. Argentina is different. They know how to love and how to show it there. I needed to start by being comfortable with hugging and kissing and loving and showing it.
 
-If the Argentine Tango embrace is giving up your soul, then the Argentine Tango music is giving up your body. Dancers that have been dancing the same song since they could walk don't know how they're going to dance that song on any given day. The song has many layers and a dancer could pick a layer and dance it for the whole tanda or they could mix and match between the layers dancing different rhythms and different melodies. The leader could decide to let his partner dance small parts of the song or take full control and lead every single step. Not even he knows what's going to happen. It has more to do with his mood that day and how it's unfolding than it does with his decisions of how to dance. I on the other hand, plan my whole week down to the hour every Saturday. My planner has items that read "Sleep 8 hours",  "Drink coffee at 8am", "Go to the bathroom before starting work" and so on until bedtime. This plan is driven by and optimized for some higher order goal that I put in place at the start of the year. I revise my plan and how I'm going about it weekly. My first question to my tango teacher who lived on the 14th floor of a highrise was, how can I write down every single step I'm going to dance so I could memorize it and dance better. She started to look for the nearest window to jump out of. The dance is deeply structured, yet it's fundamentaly improvised. I had a hard time holding these two opposing ideas in my head at the same time. It goes against my being.
+The embrace cannot  be improved with my rule or any rule. That was my first rule resistant challenge.
 
-_give your soul in paragraph above, give up your body in this paragraph._
+If the embrace is offering up your soul, then the Argentine Tango music is offering up your body. Dancers that have been dancing the same song since they could walk don't know how they're going to dance that song on any given day. The song has many layers and a dancer could pick a layer and dance it for the whole tanda or they could mix and match between the layers dancing different rhythms and different melodies. The leader could decide to let his partner dance small parts of the song or take full control and lead every single step. Not even he knows what's going to happen. It has more to do with his mood that day and how the music is unfolding it than it does with his decisions of how to dance. I on the other hand, plan my whole week down to the hour every Saturday. My planner has items that read "Sleep 8 hours",  "Drink coffee at 8am", "Go to the bathroom before starting work" and so on until bedtime. This plan is driven by and optimized for some higher order goal that I put in place at the start of the year. I revise my plan and how I'm going about it weekly. My first question to my tango teacher who lived on the 14th floor of a highrise was, how can I write down every single step I'm going to dance so I could memorize it and dance better. She started to look for the nearest window to jump out of. The dance is deeply structured, yet it's fundamentaly improvised. I had a hard time holding these two opposing ideas in my head at the same time. My mind thrives on predictability and structure.
 
-After the embrace comes the music.
-* Talk about the improviasional aspects of the music and how the man leads it and how the follower must follow yet exert her myself. No structure for a man like me of structure.
-* Connect with the immigrate nature, the fleeteness of life
+The music cannot be chariographed. That my second rule resistant challenge.
 
+This was the point where it became clear that assumin an identity isn't about abiding by rules and setting up my environment to facilitate its manifestation. As hard as I tried, the fears and difficulties involved kept me at the periphery. I was simply not in it. I felt like a spectator at a show where every once in a while the host would involve the audience by inviting them up to stage. I would go to milongas and it felt like I was a spectator that was getting good at sneaking in a few dances here and there.
 
-
-_Rule worked, but I'm still at the periphery, I need to be in this thing_
-
-_But with rejection we need smething more than rules. We need a mindset shift. Thust the dancer._
-
----
-* -[x] I started to think more about rejections from good dancers. Well, why do I want to dance with good dancers? To play. Forgetting playfullness.
-* Describe what hard work in tango is. Here go crazy. Focus on the embrace. How the argentine embrace is. Describe the argentine people.
-* No rules and todos can help with all that. We need a mindset shift. The rules kept us at the periphery, what we need is smoething to puts us int the game.
-* Segway is the trials of tribulations of being a dancer.
-
----
-
-Remember this is me predicting my future. This could change tremendously.
----
-How all these rules were kinda working but I was still out in the fringes dabling. When I assume the dancer identity, I was in it. No more fringes. I was playing the game.
----
----
-section of how I actually became him and how I enjoy it and how it changed my life.
----
+This all changed one night when during the last dance, dance five of five that would free me to go home, I was horrified to realize that I was still an agnostic. My rules, as helpful as they were, have done all they could do. To assume an identity is much simpler than I thought. All you had to do was decide. So that night, I decided that I am a dancer.
 
 ---
 [^1] My social media handle is nashtheycallme to show that even my name is something I wouldn't want to belong to. Writing bios are difficult for me.
