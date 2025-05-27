@@ -15,6 +15,8 @@ My motivation for writing a book about tango is twofold: It will help me to disa
 Title: Awaken The Dancer Within
 
 ## Chapters
+Preface: [A Story](/tango/a-story)
+
 Chapter 1: [One Day I Decided That I am a Dancer](tango/one-day-i-decided-that-i-am-a-dancer)
 
 Chapter 2: [My Most Important Quest]()
