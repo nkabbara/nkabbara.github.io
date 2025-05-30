@@ -10,6 +10,10 @@ tags: hidden
 
 _How tango, a child of a neighborhood in buenos aires, became a worldwide phenomenon_
 
+_this story is pending more research about tango. Can improve on it as I read more and learn more about the history of tango_.
+
+Buenos Aires, San Telmo neighborhood, 1920, an Italian immigrant closely hugging a Spanish immigrant in what seems like an awkward waltz combined with an unusual polka combined with an African rhythm.
+
 Paris, 1920, a well clad 60 year old _inheritor_of_husband's death is looking across the dance into the gaze of a 24 year old latin hot throb.
 
 New York, 1984, a 32 year old accountant is looking across the dance floor into the eyes of a 30 year old fashion designer.

@@ -8,6 +8,8 @@ categories: tango
 tags: hidden
 ---
 
+*I don't like that it's too much about me. I think I need to do two things here, bring in quotes from various people related to the subject I'm talking about. Expanding the story and also shifting attention. Break it up into sections as Moon Walking, how he breaks up section with a different capital letter when he shifts*
+
 Have you ever succeeded at faking something for more than ten years? I had been faking dancing tango [^1] for longer than that. I felt miserable giving it just enough so no one would notice and wondered what it would be like to go all in. But the fear of doing so was too great. Greater than the misery I had felt. Eventually, I summoned enough courage to persue my aspiration and what I learned is that the journey compelled me to change into a different kind of person. It changed me into the person that you had to become in order to pursue your aspiration. Becoming a dancer was secondary.
 
 [^1]: argentine tango is a social dance. [Expand more here]
