@@ -3,7 +3,7 @@ layout: page
 title: "How to Read a Book"
 created: 2024-12-17
 udpates: 2025-03-03
-version: 2.3.0
+version: 2.3.1
 categories: book
 tags: hidden
 author: Mortimer J. Adler, Charles Van Doren
@@ -18,7 +18,7 @@ buy-url: https://a.co/d/4GnNNF0
 
 You know how when you buy a book and you open it to page one and start reading until you're done? Well, you're missing out on a much richer and more enlightening reading experience. There's a better way.
 
-Inspectional Reading: My favorite thing about inspectional reading is that it permits you to quickly put the book away because it doesn't serve the purpose you expected it to serve. But more than that, this level of reading enables you to get a lot out of a book quickly if you decide to proceed with it. And if still you decide to give it an analytical read (you should do so rarealy), then you'll elevate yourself to the level of the author and become his equal in wisdom.
+Inspectional Reading: My favorite thing about inspectional reading is that it permits you to quickly put the book away because it doesn't serve the purpose you expected it to serve. But more than that, this level of reading enables you to get a lot out of a book quickly if you decide to proceed with it. And if still you decide to give it an analytical read (you should do so rarely), then you'll elevate yourself to the level of the author and become his equal in wisdom.
 
 Analytical Reading: I attempted analytical reading on the last part of this book and found it very difficult at first because I was combining the rules. For example, I was trying to find the terms (rule 5), while at the same time the propositions (rule 6), and arguments (rule 7). Then I tried a different approach: I read a section while only applying rule 5, then I re-read it applying rule 6, and so on. As I did this with a few sections, I started to spot terms, propositions and arguments simultaneously. This might mean that when you start an analytical reading of a book, you might have to reread sections applying one rule at a time, but then as you go deeper into the book, the rules of a stage or even the multiple stages start to coalesce into one. The third stage of analytical reading can only be completed after you've done the first two.
 
