@@ -44,6 +44,10 @@ If the embrace is offering up your soul, then the Argentine Tango music is offer
 
 I must let myself be danced by the music. That was my second rule-resistant challenge.
 
+_before strating, check rembarkable 'Book' under tango folder for shape of this chapter_
+
+The two most important words in tango are embrace and musicality.
+
 This was the point where it became clear that assuming an identity isn't about abiding by rules and setting up my environment to facilitate its manifestation. As hard as I tried, the fears and difficulties involved kept me at the periphery. I was simply not in it. I felt like a spectator at a show where every once in a while the host would involve the audience by inviting them up to stage. I would go to milongas and it felt like I was a spectator that was getting good at sneaking in a few dances here and there.
 
 This all changed one night when during the last dance, dance five of five that would free me to go home, I was horrified to realize that I was still an agnostic. My rules, as helpful as they were, have done all they could do. To assume an identity is much simpler than I thought. All you had to do was decide. So that night, I decided that I am a dancer. _The rules although were pushing me out of my comfort zone, the were not enough to push me out of it inot identity zone_.
