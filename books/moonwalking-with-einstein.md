@@ -10,6 +10,10 @@ author: Joshua Foer
 buy-url: https://a.co/d/59bNSFI
 ---
 
+Moonwalking is a great companion to [Unlimited Memory](/books/unlimited-memory). UM takes on a howto and self help format while Moonwalking is participitory journalism. It gives UM context and purpose. It also sheds more light on some of the techniques in the way of tips from world champions. The main reason I read it though was to help me shape my [book on tango](/tango) which hasn't been relegated to a genre yet.
+
+## Raw Highlights
+
 So why bother investing in one’s memory in an age of externalized memories? The best answer I can give is the one that I received unwittingly from EP, whose memory had been so completely lost that he could not place himself in time or space, or relative to other people. That is: How we perceive the world and how we act in it are products of how and what we remember. We’re all just a bundle of habits shaped by our memories. And to the extent that we control our lives, we do so by gradually altering those habits, which is to say the networks of our memory. No lasting joke, invention, insight, or work of art was ever produced by an external memory. Not yet, at least. Our ability to find humor in the world, to make connections between previously unconnected notions, to create new ideas, to share in a common culture: All these essentially human acts depend on memory. Now more than ever, as the role of memory in our culture erodes at a faster pace than ever before, we need to cultivate our ability to remember. Our memories make us who we are. They are the seat of our values and source of our character.
 
 
