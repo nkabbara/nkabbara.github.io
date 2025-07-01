@@ -17,4 +17,4 @@ Preface: A Story
 
 Chapter 1: [One Day I Decided That I am a Dancer](/tango/book/one-day-i-decided-that-i-am-a-dancer)
 
-Chapter 2:...
+Chapter 2: [Embodying an Identity](/tango/book/embody)
