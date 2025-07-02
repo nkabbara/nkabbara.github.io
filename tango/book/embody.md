@@ -34,11 +34,21 @@ When I read that I realized that I had an imminant task ahead. It's not Nash tha
 
 ---
 
-What I did know for a fact was that without embodying an identity, I tended to get a few recurring pieces of feedback from teachers and from dancers alike. The first one was "tell her, don't ask her". There's a subtle energy when leading a movement where one can be in asking mode or in telling mode. It's so suble that if I wanted to change my "asking" to "telling" by exerting more force then I'd completely spill into the universes of "don't push her, lead her" and "don't mover her around like rag doll". What could alter this is a shift in attitude: a shift from "please, excuse me, would you please move to the left so I can step forward" to "sweetheart, materialize my lead into a step." My alter ego had to have that attitude. Another feedback I kept getting was "I can't feel your hand on my back." I placed my hand so softly on my followers back that they couldn't feel it. The subtlety with this one is that pulling her body into too much would mess up her axis. So the embrace had to somehow feel firm, yet giving. And the final piece of advice is "don't walk on water, push the ground". Pushing the ground. No matter how much I tried to crack that nut, the end result was so weird I felt like trex walking. My alter ego had to feel the ground and use it to propell his body.
+I started to look for my role model, one who's strengths are my weaknesses (improve clarity on this one). One of my weaknesses as a dancer was that I was too concerned with technique. That made my dance rigid at times and made it hard to let go and be free with the music. Many of the elements of technique take hundreds of hours of practice to master. If I was going to try and dance perfectly between then and the time I mastered my movement, I was going to have a very miserable time. Another recurring impedement was that I was too soft towards my partner. It was as if I was afraid of breaking her. My embrace was too polite. It felt like I asked her to do the movements instead of telling her to do them. This meant that I could only dance with a small percentage of dancers that tended to be sensitive and focused. The majority needed a clearer lead and a clearer lead also serves the sensitive dancer better. The final weakness that I was aware of was how I expressed the music. I only focused on one element of the orchestra and with the exception of my walk, my movements didn't map on to the music. If they did, it was because it naturally happened without me knowing how or why. Listing my weaknesses I started to look for a dancer that overdid almost to a calicature level what I had been lacking. He needed to dismiss dance technique yet create something more attractive. He needed to throw around his partner like a rag doll, yet keep her smiling. And he needed to express the music on multiple levels. With that list in hand, I started studying performances and landed on the perfect candidate.
 
-Who can tell a woman to do what he wants and expects her to? Who can embrace a woman so fully that she can feel every part of his arm? Who can walk and feel like they're rotating the earth beneath them?
+History of chicho.
 
 
+
+(the idea is that being him was uncomfortable to me. TAlk about how when I found the one I wanted, I felt too comfortable with him and excited. I was looking for someone that would make me uncomfortable because that meant I was doing stuff out of my comfort Zone. link in here episode from waking up by Oliver Burkman I think titled 'The upside of awkwardness')
+
+
+
+Structure
+1. Derek's advice
+2. I started to search for a role model and found one that flipped my weakneses. Found him. List his story and why he's awesome. Describe how he flipps your weaknesses.
+3. I didn't want to use him because he made me feel unformfortable. I felt more comfortable with a perfect technician. I wanted one that is harder to follow, but put me in my comfort zone. Pull in oliver burkman here.
+4. Describe how I'm feeling when dancing as him.
 
 ---
 
