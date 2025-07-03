@@ -2,10 +2,16 @@
 layout: page
 title: "Quotes"
 created: 2021-10-10
-updated: 2025-01-23
-version: 1.27.5
+updated: 2025-07-03
+version: 1.28.5
 categories: quotes
 ---
+
+> The great thing, if one can, is to stop regarding all the unpleasant things as interruptions of one's own or real life. the truth is of course that what one calls the interruptions are precisely one's real life, the life god is sending one, day by day.
+
+— CS Luis
+
+<br>
 
 > Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; **but to weigh and consider**.
 
