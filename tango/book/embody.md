@@ -34,14 +34,6 @@ When I read that I realized that I had an imminant task ahead. It's not Nash tha
 
 ---
 
-I started to look for my role model, one who's strengths are my weaknesses (improve clarity on this one). One of my weaknesses as a dancer was that I was too concerned with technique. That made my dance rigid at times and made it hard to let go and be free with the music. Many of the elements of technique take hundreds of hours of practice to master. If I was going to try and dance perfectly between then and the time I mastered my movement, I was going to have a very miserable time. Another recurring impedement was that I was too soft towards my partner. It was as if I was afraid of breaking her. My embrace was too polite. It felt like I asked her to do the movements instead of telling her to do them. This meant that I could only dance with a small percentage of dancers that tended to be sensitive and focused. The majority needed a clearer lead and a clearer lead also serves the sensitive dancer better. The final weakness that I was aware of was how I expressed the music. I only focused on one element of the orchestra and with the exception of my walk, my movements didn't map on to the music. If they did, it was because it naturally happened without me knowing how or why. Listing my weaknesses I started to look for a dancer that overdid almost to a calicature level what I had been lacking. He needed to dismiss dance technique yet create something more attractive. He needed to throw around his partner like a rag doll, yet keep her smiling. And he needed to express the music on multiple levels. With that list in hand, I started studying performances and landed on the perfect candidate.
-
-History of chicho.
-
-
-
-(the idea is that being him was uncomfortable to me. TAlk about how when I found the one I wanted, I felt too comfortable with him and excited. I was looking for someone that would make me uncomfortable because that meant I was doing stuff out of my comfort Zone. link in here episode from waking up by Oliver Burkman I think titled 'The upside of awkwardness')
-
 
 
 Structure
