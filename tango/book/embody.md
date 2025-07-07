@@ -48,6 +48,7 @@ Structure (it's changing every moment)
 
 ## Ideas
 
+* Your worth at milongas changes because you feel like people evaluate you on how you dance, not on who you are or how you are as a person.
 * Is there room for 'a mantra to get into the music zone?'
 * Are you a frog or a horse: use analogies of types of people and how to break them in. Boling frogs (gradual or immidiate like breaking in a horse). Study the sources of these to see how you can work them in at some point into this chapter.
 * Remember that eventually we need to revisit rejection in this chapter and how we got over it by embodying the identity of a dancer.
