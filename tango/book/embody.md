@@ -48,8 +48,9 @@ Structure (it's changing every moment)
 
 ## Ideas
 
+* Permanent student
 * Your worth at milongas changes because you feel like people evaluate you on how you dance, not on who you are or how you are as a person.
-* Is there room for 'a mantra to get into the music zone?'
+* a mantra to get into the music zone. How to stop learning mode and practice mode and actually dance.
 * Are you a frog or a horse: use analogies of types of people and how to break them in. Boling frogs (gradual or immidiate like breaking in a horse). Study the sources of these to see how you can work them in at some point into this chapter.
 * Remember that eventually we need to revisit rejection in this chapter and how we got over it by embodying the identity of a dancer.
 > It's not about how well you play, it's how you feel about what you play.
@@ -59,3 +60,4 @@ Structure (it's changing every moment)
 > You can feel terrified inside, but just pretend to be brave for one minute. By doing that, you were actually brave.
 > You are your actions. Your actions are you. Your self-image doesn't matter as much.
 > When you realize what you need to do, it doesn't mean that's who you need to be. You can just pretend.
+* There is acting in dancing, but you don't just simply pick a character. You need to dance at least 100 dances to discover who it is you really can be.
