@@ -2,10 +2,19 @@
 layout: page
 title: "Quotes"
 created: 2021-10-10
-updated: 2025-07-03
-version: 1.28.5
+updated: 2025-07-10
+version: 1.29.5
 categories: quotes
 ---
+
+> The man who works so moderately as to be able to work constantly not only preserves his health the longest, but in the course of a year executes the greatest quantity of work.
+
+— Adam Smith
+
+
+> When disaster is here and you want to be happy the happiness has to happen here; the dancing and the music here while there is disaster.
+
+— John Tarrant
 
 > The great thing, if one can, is to stop regarding all the unpleasant things as interruptions of one's own or real life. the truth is of course that what one calls the interruptions are precisely one's real life, the life god is sending one, day by day.
 
