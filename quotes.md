@@ -11,10 +11,13 @@ categories: quotes
 
 — Adam Smith
 
+<br>
 
 > When disaster is here and you want to be happy the happiness has to happen here; the dancing and the music here while there is disaster.
 
 — John Tarrant
+
+<br>
 
 > The great thing, if one can, is to stop regarding all the unpleasant things as interruptions of one's own or real life. the truth is of course that what one calls the interruptions are precisely one's real life, the life god is sending one, day by day.
 
