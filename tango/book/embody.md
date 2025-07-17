@@ -62,3 +62,4 @@ Structure (it's changing every moment)
 > When you realize what you need to do, it doesn't mean that's who you need to be. You can just pretend.
 * There is acting in dancing, but you don't just simply pick a character. You need to dance at least 100 dances to discover who it is you really can be.
 * What you remember is not the steps you made or the mistakes you made. You remember how it felt. So we are looking for connection in a milonga, the sacred place.
+* Find the oomph in your dance. Nothing is passive. When in embrace everything is active.
