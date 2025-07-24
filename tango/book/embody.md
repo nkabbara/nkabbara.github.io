@@ -17,9 +17,15 @@ tags: hidden
 
 # Embodying a Dancer
 
-What does a dancer do? He dances.
+What do dancers do? They dance.
 
-Up until a specific moment in time, I did everything in my power to avoid dancing. All camouflaged as beneficial activities that eventually will make me a better dancer (mention yelizabeta podcast where she encourages to go out and dance) so that I could dance one day. One of these was technique practice. I set aside an hour a day where I meticoulasly went over every note my teacher gave and practiced it in my living room with an imaginary dancer partner. My neighbors in the building accross regularly saw me hugging pillows stacked on top of each other to simulate a human torso and walking in cirles around my dining table. I practiced my embrace by imagining my right hand over Pillow's right scapula while keeping my right elbow engaged attempting to build a connection with her on my right side.
+What have I been doing for the majority of my tango time? I was stuck in learning mode for years. At first I was waiting to be ready, to feel ready so I could go out to the dance floor and just be great. I didn't want to be upcloe and vulnerable. I wanted to study really really hard then go show what I'm made of. However, what I came to find out that going into someone's embrace and being your true honest self comfortably is its own kind of practice. I needed to be in enough embraces and feel vulnerable enough times, until I could truly express myself.
+
+Going to the dance floor with a mindset of discovery and a stronger presence to monitor what I was doing and how I was feeling was one of the biggest breakthroughs I had in years. It was like studying a bug with a magnifying glass to understand its patterns of behavior. I called this period of my development Bug Named Nash.
+
+I started with the easy things first. I designated three days a week as a minimum to go to dances. At those dances, I pleged to sit front and center to make it easy for me to ask for dances. Right at settling down, I monitored how people were asking each other for dances and mimic's them. I prioritized dancers that never danced with before and if brain had designated them as intimidating the better. That would probably generate more behavior from the Bug. I was doing that in the name of science. The science of self discovery. After each milonga I wrote down how I felt with each dancer and took some general notes in regards to the evening.
+
+
 
 ---
 
