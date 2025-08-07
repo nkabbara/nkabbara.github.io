@@ -19,7 +19,7 @@ tags: hidden
 
 <span class="new-sub-section">What do dancers do? They dance.</span>
 
-What have I been doing for the majority of my tango time? I was stuck in learning mode. I wanted to be so good that when I went out there I could immediately impress (not necessarily others as much as myself). However, what I found out was that going into someone's embrace and being my true self comfortably is its own kind of practice. I needed to be in enough embraces and feel vulnerable enough times until I could understand what it meant to be at ease in my own skin. I was afraid of making mistakes, showing insecurity, and showing the lack of my musicality (improve this sentence).
+What have I been doing for the majority of my tango time? I was stuck in learning mode. I wanted to be so good that when I went out there I could immediately impress (not necessarily others as much as myself). However, what I found out was that going into someone's embrace and being my true self comfortably is its own kind of practice. I needed to be in enough embraces and feel vulnerable enough times until I could understand what it meant to be at ease in my own skin.
 
 I invented elaborate learning systems that were going to make me ready for social dancing. Unbeknowst to me at the time, these were fear avoidance strategies camouflaged as necessary prerequisites to dancing. I went into them with an assumption that they would take a long time to complete because dance is a skill that required mastery and mastery takes a lifetime. What a comforting feeling it must have been for my subconcious to know that it will never have to face the inevitable. This artifivial barrier became clear to me when I heard a talk by Oliver Burkeman, author of Four Thousand Weeks address this directly. Burkeman says that the reason that habit building or elaborate learning systems get in our way is because the change we’re contemplating is actually rather scary or uncomfortable and treating it as a long-term incremental project is a convenient way to push the difficult stuff to another time. For example, maybe I just needed to go out there and dance with other people and make mistakes and look stupid and be OK with it. Instead, I just did what I was comfortable with. Here's an example of my learning plan at the time: The first part was weekly private lessons with an experienced teacher. The second part was group classes where I could reinforce my private lessons and expose myself to new teachers. The third was private practice with friends. The last part was going to milongas to apply all my learnings. I was thinking of milongas as spaces where I could apply my learnings not spaces where I could dance to express myself and connect. I didn't give myself the space nor the time to do what this whole thing was about. My private practice with friends was my favorite part of my program, but it had the feeling of being stuck in middle school forever. I started to noticed that we compensated for each other's weaknesses and things that worked in private didn't necessarily transfer to the dance floor. A big part of tango is being able to go up to a new person and within the first minute be able to negotiate a whole world of movement and sensation then enjoy our agreement for the rest of the tanda. Practicing with friends doesn't teach you that. The group classes and private lessons though they were beneficial, they lacked an important inquiry due to their self serving bias: are you going out there and dancing? In hindsight, I think every teacher should stop giving lessons after around two months of instruction until students can say that they had overcome their dance floor anxieties. Only on rare occasions did teachers ask me how my social dancing was going. My system also served as my safe place where I reverted whenever I felt inadequate. Whenever I hit some set back on the dance floor, instead of addressing it on the dance floor, I came back to my system and modified it in some way that would supposedly prevent a setback like that from happening again. Going to classes was a necessary part of growing as a dancer, but I was using it to keep me away from the dance floor.
 
@@ -30,41 +30,28 @@ In his book, Useful Not True, Derek Sivers says that you don't have to feel like
 
 [^1]: after this experience, I'm convinced that once the mind understands and is clearly aware of the cause of its inhibition, then it can start moving forward. In moving forward, there will be fear and other emotional and mental challenges, but it won't be inhibition. So if you feel inhibited, look for what's blocking you and understand it. It will resolve itself and you'll start moving forward.
 
-As I started dancing with more people I started to get at least one rejection on any given day. Suprisingly, it has a negligible effect on me. It was like asking someone 'is this the line for the icecream?' and them saying 'no, this is the line for chocolate, icecream is over there' and I simply proceeded to find the line for icecream. It still baffles me how much imaginary fear my mind instilled in me for doing what I do now lightly. I think that when I realized that anxiety of taking responsibility was what was keeping in my seat, my fear disappeared because I have owned to many bigger and more serious responsibilities in my life. I just didn't know what I was dealing with.
-
-Once I got unblocked and started to dance all night, I started to get the feeling that after years of taking lessons and practiving with my broom, that now I was actually starting to dance and that dancing with so many people should have been the firt thing to do. My teachers should have refused to give me any lessons beyond the first couple of months until I overcame what I overcame years later. Dancing with so many different people with different body types, moods, and energies is its own sub discipline and requires its own progression. It feeds right back into lessons and practice and it is what allows you to actually improve. It is the magical ingridient that allows you to find yourself as a dancer. In order to make up for lost time, I decided to start journaling about every milonga I went to. It was like studying a bug with a magnifying glass to understand its patterns of behavior. I called this era of my development A Bug Named Nash. It was the biggest breakthrough I had in years.
-
-_from here on we could divide the sections by Bug Named Nash sub periods_
+But what about rejection? As I danced with more people I started to get at least one rejection on any given day. Suprisingly, it had a negligible effect on me. It was like asking someone 'is this the line for the icecream?' and them saying 'no, this is the line for chocolate, icecream is over there' and I simply proceeded to get my icecream. I was embarrased at how insignificant it felt because a short time ago it immobilized me in my seat for hours.
 
 ---
 
-In the first period in of the Bug era, I became aware that my mind constantly went to several places. The first one was figuring out what the next step was going to be. As I was in the middle of a movement, my mind was adamant on figuring what it was I was going to do next: "This is the perfect moment for a parallel turn.", "I should do some more ochos here", "I want to practice right turns here, focus on technique here". I was anxious about not boring my partner, so I was constantly in a search for the next thing to come.
-
-
+Suddenly becoming comfortable at milongas felt like I had awoken from a multi-year slumber. Still a little groggy, but excited to make up for lost time. I decided to start journaling about every milonga I went to to capture where my mind and my heart were going. It was like trying to understand a bug by studying it under a magnifying glass. I called this era of my development A Bug Named Nash. It resulted in the biggest breakthroughs I had in years.
 
 ---
 
-## Ideas
+In the first period in of the Bug era, the Post Slumber Period, I became aware that my mind constantly went to several places. The first one was figuring out what the next step was going to be. As I was in the middle of a movement, my mind was adamant on figuring what it was I was going to do next: "This is the perfect moment for a parallel turn.", "I should do some more ochos here", "I want to practice right turns here, focus on technique here". I was anxious about not boring my partner, so I was constantly in a search for the next thing to come.
 
-* our fears are not things we need to add to our selves to overcome them. Things we need to remove. Courage is created not by adding something, but by removing something.
-* Permanent student
-* Your worth at milongas changes because you feel like people evaluate you on how you dance, not on who you are or how you are as a person.
-* a mantra to get into the music zone. How to stop learning mode and practice mode and actually dance.
-* Are you a frog or a horse: use analogies of types of people and how to break them in. Boling frogs (gradual or immidiate like breaking in a horse). Study the sources of these to see how you can work them in at some point into this chapter.
-* Remember that eventually we need to revisit rejection in this chapter and how we got over it by embodying the identity of a dancer.
-> It's not about how well you play, it's how you feel about what you play.
-* There is acting in dancing, but you don't just simply pick a character. You need to dance at least 100 dances to discover who it is you really can be.
-* What you remember is not the steps you made or the mistakes you made. You remember how it felt. So we are looking for connection in a milonga, the sacred place.
-* Find the oomph in your dance. Nothing is passive. When in embrace everything is active.
-* mayfbe a chapter on teachers and how to think of them and how to be ok in exceeding them
-* in first chapter, make unity section more realistic; remove the magic. Yes, unity like paintbrush scenario, but it's not due to something mystic. It's body synchronization. If your level is high enough and her level is as high or higher, the synchrony will probably happen. So find these people and go with them.
-
-> I think we’re craving, whenever we use habit formation in [avoidant ways], that is in a way that results in us not doing the things in question, is our old friend the feeling of control. We want above all feeling in control of our lives. We want to see ourselves as the captain of the super yacht of our lives standing confidently on the bridge steering our life towards the future pointer which we will finally feel adequate and on top of things. Devising schemes for self improvement can really feed into that fantasy because you get to mentally project into the future all details all the nuts and bolts of how you’re going to get to that perfect future place. Where by contrast when you just do something today as a one off, [imperfectly and] with no promises about the future; when you just write a few paragraphs of your novel or sit and meditate for one session or suggest one meet up with a friend or go for one run, that requires the surrender of control because that’s not about steering the super yacht. That’s about launching your little canoe directly onto the rapids of reality and letting life take you wherever it’s going to take you. It means risking that you might do the thing badly and certainly that you’ll do it imperfectly. It means being OK with the possibility that you might sit down and meditate today or go for a run today or reach out to a friend today and then not come back to doing it again tomorrow.
-the tenderness of holding a baby
-
-Structure (this changes during the course of writing.)
-1.
-2. Learning in order to avoid dancing
-3. How rejection was not the culprit
-4. What I had to do and the start of the a Bug Era
-5. Next section goes into first period of the era
+Section Structure
+* Where is my mind?
+  * What's the next step?
+  * Is she bored? I am bored.
+  * what should it think?
+* Where is my heart?
+  * it wants validation. It wants people to say, good job
+  * shaky with someone who gives themselves completely. See note about sal3ouka.
+  * The feelings and sensations on critique
+  * what should it want?
+* What kinds of questions to ask at a milonga
+  * what kind of space is a milonga
+  * see start of 100 dances note for the questions.
+* Protect my interest
+  * When folks critsize, how to handle and how not to slip back into letting palp return. Let's call it palp fiction (This is good for expansion in previous section). See notes under dance 10.
