@@ -18,7 +18,7 @@ Preface: A Story
 Chapter 1: [One Day I Decided That I am a Dancer](/tango/book/one-day-i-decided-that-i-am-a-dancer)
 - Main point: in order to be, you must decide to be.
 
-Chapter 2: [Embodying an Identity](/tango/book/embody)
+Chapter 2: [Embodying an Identity](/tango/book/embody2)
 - Main point: embodying what you decided to be will force you to face your fears.
 
 
