@@ -21,6 +21,9 @@ Chapter 1: [One Day I Decided That I am a Dancer](/tango/book/one-day-i-decided-
 Chapter 2: [Embodying a Dancer](/tango/book/embody)
 - Main point: embodying what you decided to be will force you to face your fears.
 
+Chapter 3: [On Being Musical](/tango/book/musical)
+- Main point: ...
+
 [WIP Notes](/tango/book/wip-notes)
 
 ---
