@@ -2,7 +2,7 @@
 layout: page
 title: "Chapter Two"
 created: 2025-06-20
-updated: 2025/09/08
+updated: 2025-09-08
 version: 1.0.0
 categories: tango
 tags: hidden

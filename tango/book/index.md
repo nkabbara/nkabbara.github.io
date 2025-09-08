@@ -2,8 +2,8 @@
 layout: page
 title: "Awaken The Dancer Within"
 created: 2025-05-05
-updated: 2025-07-29
-version: 2.2.1
+updated: 2025-09-08
+version: 2.3.2
 categories: tango
 tags: hidden
 ---
@@ -18,7 +18,7 @@ Preface: A Story
 Chapter 1: [One Day I Decided That I am a Dancer](/tango/book/one-day-i-decided-that-i-am-a-dancer)
 - Main point: in order to be, you must decide to be.
 
-Chapter 2: [Embodying an Identity](/tango/book/embody)
+Chapter 2: [Embodying a Dancer](/tango/book/embody)
 - Main point: embodying what you decided to be will force you to face your fears.
 
 [WIP Notes](/tango/book/wip-notes)
