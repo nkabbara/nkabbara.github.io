@@ -10,6 +10,7 @@ tags: hidden
 
 Ideas that came up as I was writing various chapters. Come back to them for next chapters.
 
+* Update rejection section of at least add a footnote to it that even though it has been overcome, my natural tendency is to sit it out and only dance with friends. In order to soldier up and go get dances we need to employ a ritual to put us in the right mindset. A gentle one that doesn't lead to stress or burnout.
 * our fears are not things we need to add to our selves to overcome them. Things we need to remove. Courage is created not by adding something, but by removing something.
 * Permanent student
 * Your worth at milongas changes because you feel like people evaluate you on how you dance, not on who you are or how you are as a person.
