@@ -16,7 +16,7 @@ My time in tango had always been at the periphery. When I look back at how my in
 
 I've recently completed the first [two chapters](https://nashkabbara.com/tango/book/). My current focus is on musicality.
 
-<img src="assets/veroinlovewithnashhaha.jpeg" alt="Voyager Keyboard">
+<img src="assets/vero-nash.jpeg" alt="Voyager Keyboard">
 
 ## Voyager Keyboard
 
