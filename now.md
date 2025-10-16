@@ -2,13 +2,13 @@
 layout: page
 title: "now"
 created: 2024-12-14
-updated: 2025-10-09
+updated: 2025-10-16
 version: 1.8.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Oct 9, 2025 from Buenos Aires._</small>
+<small>_Last updated on Oct 16, 2025 from Buenos Aires._</small>
 
 ## Tango
 
@@ -24,9 +24,13 @@ I bought my <a href="https://www.zsa.io/voyager">Voyager keyboard</a> in Oct, 20
 
 <img src="assets/keyboard-voyager.JPG" alt="Voyager Keyboard">
 
-Update: I have 10 more letters to memorize! My plan is to switch all my keyboards to graphite before the end of the year and get to 40wpm at 97% accuracy.
+Update (2025/10/09): I have 10 more letters to memorize! My plan is to switch all my keyboards to graphite before the end of the year and get to 40wpm at 97% accuracy.
 
 <img src="assets/graphite-progress.png" alt="Graphite Progress">
+
+## Neovim & Lua
+
+I had been on the same .vimrc for years and recently decided to convert to init.lua to catch up to <a href="https://neovim.io/">neovim's</a> latest features. It's been tons of fun. I'm currently writing my own terminal plugin to go deeper into nvim's ecosystem. Also giving <a href="https://github.com/neovide/neovide">neovide</a> a go while I'm at it.
 
 
 <small>_(This is a now page, and if you have your own site, [you should check it out](https://nownownow.com/about).)_</small>
