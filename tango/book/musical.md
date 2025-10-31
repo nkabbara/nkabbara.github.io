@@ -14,7 +14,7 @@ tags: hidden
   }
 </style>
 
-_This chapter is incomplete. I felt disingenous completing it before I could call myself a musical dancer. After going deep into musicality for a couple of months, I realized that I'm either doing it wrong or I'm thinking about it incorrectly or I don't have the right instruction. I'll complete it when I figure things out and when I feel like my dance has become musical._
+_This chapter is 60% complete. After going deep into musicality for a couple of months, I realized that I'm either doing it wrong or I'm thinking about it incorrectly or I don't have the right instruction. I'll complete it when I figure things out and when I feel like my dance has become musical._
 
 # Becoming Musical
 
@@ -31,9 +31,17 @@ As fullfilling as it felt, I knew that getting into that semi mystical state was
 
 ---
 
-<span class="new-sub-section">Up until that point, my education in tango had been didactic in nature:</span> Here's a move, here's how you do it, now go do it. I had built a repertoire of these moves as I progressed and they had become automatic. Sometimes they fit in with the music, other times they didn't, but I used them regardless rendering my dance non-musical at times. I needed to do one of the hardest things one has to do in their journey of growth and that is to unlearn what they already know. Unlearning sounds strange. It sounds like you have a delete button and you could remove nuerons around specific connection in your brain. But that is not how it works in dance. I sought the help of a dance teacher that is well versed in biomechanics and he taught me that in order to unlearn, you must first deconstruct. It basically came down to finding moments of calm within the movements that you already know. He said "If your calsified pattern is made up of multiple parts, then find the connection points between those parts and pause in those moments". He then asked me to lead him while performing what he just explained. As I started to pause, he stopped me and said "You are imitating the form of a pause, but you are not actually pausing. A pause is not a suspension of muscles in the air or holding a specific pattern. Rather, it's transmitting less information."
+_my misconception about musicality_
 
+1. How I learned tango and how I'm going to fit learning musicality into that pattern.
+2. But first, I needed an overview of how tango music was constructed. Some theory learning. Here talk about the theory.
+3. How when I attemted to do theset things I ran into two hurdles: lack of technique and lack of timing (when the pattern started).
+4. Each one of these requires its own set of instruction. Here we can handle the silence. Then we segway into the technique section.
 
-I started to do that, but then he caught me faking. He said to me that what I was doing was imitating a pause, but while doing so, I was still tense and projecting a lot of information, what I needed to do was give off less information. I needed to truly turn the equipment generating movement down enough to give space to the environament to come in because if i'm constantly on a hight modulation, nothing will ever come in so every one of my movements, had to to consist of down times. Having learned this, I took my basic elements that I use all the time and I started to work on deconstructing them. I started to see where can I find pauses in those movments without even thinking about what I would do in those pauses. I would leave that to the gods of creativity to come in and make suggestions. This started to make my dance feel much more enjoyable. There were these moments of pausing sprinkled everywhere and these were the moments of where true creativity could show its face. 
+<span class="new-sub-section">Up until that point, my education in tango had been didactic in nature:</span> Here's a move, here's how you do it, now go do it. I had built a repertoire of these moves as I progressed and they had become automatic. Sometimes they fit in with the music, other times they didn't, but I used them regardless because I felt like I had no choice which rendered my dance non-musical at times. Following that same method of teaching, I thought that to become musical, I had to find various musical patterns in the music like syncopations, bridges, marcato variations and map some steps over them and then drill those into my body.
+
+As I tried to do so, I was hitting two distinct problems. The first one was that I could barely land my steps on time when these variations took place. Almost everytime a bridge took place or a syncopation happened, it was too late for me to perform it. The second problem was that many of these musical elements required a certain level of technique for them to be performed well. I needed to have complete command over my body while being able to step multiple steps per second.
+
+Becoming musical was proving to the biggest challenge
 
 ---
