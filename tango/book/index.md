@@ -25,6 +25,8 @@ _Embodying what you decided to be will force you to face your fears._
 
 Chapter 3: [On Being Musical](/tango/book/musical)
 
+_Musicality will reveal your blind spots._
+
 [WIP Notes](/tango/book/wip-notes)
 
 ---
