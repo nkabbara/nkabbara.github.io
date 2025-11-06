@@ -3,7 +3,7 @@ layout: page
 title: "now"
 created: 2024-12-14
 updated: 2025-11-06
-version: 1.9.12
+version: 1.10.12
 categories: now
 tags: hidden
 ---
