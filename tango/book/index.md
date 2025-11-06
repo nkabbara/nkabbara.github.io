@@ -13,7 +13,6 @@ _This page is changing heavily as I shape my ideas._
 My motivation for writing a book about tango is twofold: It will help me to disassociate as I go through the challenges of mastering its craft and its art and it will serve as a future memoir.
 
 ## Chapters
-Preface: A Story
 
 Chapter 1: [One Day I Decided That I am a Dancer](/tango/book/one-day-i-decided-that-i-am-a-dancer)
 
@@ -27,6 +26,3 @@ Chapter 3: [On Being Musical](/tango/book/musical)
 
 _Musicality will reveal your blind spots._
 
-[WIP Notes](/tango/book/wip-notes)
-
----
