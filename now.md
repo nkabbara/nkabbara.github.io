@@ -2,19 +2,19 @@
 layout: page
 title: "now"
 created: 2024-12-14
-updated: 2025-10-22
-version: 1.8.12
+updated: 2025-11-06
+version: 1.9.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Oct 22, 2025 from Buenos Aires._</small>
+<small>_Last updated on Nov 6, 2025 from Buenos Aires._</small>
 
 ## Tango
 
-My time in tango had always been at the periphery. When I look back at how my involvement in it has shaped my life and my relationships I wonder what would happen if I gave it more. This year I stopped wondering and went all in. I'm writing a memoire as I explore its profundity which is surprisingly acting as a guide that is helping me overcome many challenges.
+My time in tango had always been at the periphery. When I look back at how my involvement in it has shaped my life and my relationships I wonder what would happen if I gave it more. This year I stopped wondering and went all in. I'm writing a memoir as I explore its profundity which is surprisingly acting as a guide that is helping me overcome many challenges.
 
-I've recently completed the first [two chapters](https://nashkabbara.com/tango/book/). My current focus is on chapter three: On Being Musical.
+[Chapter three](https://nashkabbara.com/tango/book/) is out! Currently working on chapter 4: Technique Will Set You Free.
 
 <img src="assets/vero-nash.jpeg" alt="Voyager Keyboard">
 
@@ -24,13 +24,12 @@ I bought my <a href="https://www.zsa.io/voyager">Voyager keyboard</a> in Oct, 20
 
 <img src="assets/keyboard-voyager.JPG" alt="Voyager Keyboard">
 
-Update (2025/10/22): I have <a href="https://www.keybr.com/profile/82hl9uj">8 more letters</a> to memorize! My plan is to switch all my keyboards to graphite before the end of the year and get to 40wpm at 97% accuracy.
+Update (2025/11/05): I have <a href="https://www.keybr.com/profile/82hl9uj">6 more letters</a> to memorize! My plan is to switch all my keyboards to graphite before the end of the year and get to 40wpm at 98% accuracy.
 
 <img src="assets/graphite-progress.png" alt="Graphite Progress">
 
 ## Neovim & Lua
 
 I had been on the same .vimrc for years and recently decided to convert to init.lua to catch up to <a href="https://neovim.io/">neovim's</a> latest features. It's been tons of fun. I'm currently writing my own terminal plugin to go deeper into nvim's ecosystem. Also giving <a href="https://github.com/neovide/neovide">neovide</a> a go while I'm at it.
-
 
 <small>_(This is a now page, and if you have your own site, [you should check it out](https://nownownow.com/about).)_</small>
