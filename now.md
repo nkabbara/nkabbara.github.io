@@ -2,19 +2,19 @@
 layout: page
 title: "now"
 created: 2024-12-14
-updated: 2025-11-06
-version: 1.10.12
+updated: 2025-11-10
+version: 1.11.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Nov 6, 2025 from Buenos Aires._</small>
+<small>_Last updated on Nov 10, 2025 from Buenos Aires._</small>
 
 ## Tango
 
 My time in tango had always been at the periphery. When I look back at how my involvement in it has shaped my life and my relationships I wonder what would happen if I gave it more. This year I stopped wondering and went all in. I'm writing a memoir as I explore its profundity which is surprisingly acting as a guide that is helping me overcome many challenges.
 
-[Chapter three](https://nashkabbara.com/tango/book/) is out! Currently working on chapter 4: Technique Will Set You Free.
+[Chapter three](https://nashkabbara.com/tango/book/) is out! Currently working on chapter 4.
 
 <img src="assets/vero-nash.jpeg" alt="Voyager Keyboard">
 
