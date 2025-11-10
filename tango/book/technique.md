@@ -18,6 +18,8 @@ tags: hidden
 
 What's one idea that this chapter will convey? That once centimeter will make you a good dancer or a bad dancer.
 
+Where's my personal story in this?
+
 ## Notes
 
 Finding teachers that understand biomechanics is heard. Learning technique is hard and time instensive process.
