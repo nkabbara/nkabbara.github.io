@@ -14,8 +14,9 @@ tags: hidden
   }
 </style>
 
-# Technique Set Me Free
+# The Centimeter
 
+What's one idea that this chapter will convey? That once centimeter will make you a good dancer or a bad dancer.
 
 ## Notes
 
