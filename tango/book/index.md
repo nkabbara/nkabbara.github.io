@@ -26,3 +26,5 @@ Chapter 3: [On Being Musical](/tango/book/musical)
 
 _Musicality will reveal your blind spots._
 
+
+Appendix A: [Mantras](/tango/book/appendix-a)
