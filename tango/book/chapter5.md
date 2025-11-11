@@ -24,14 +24,11 @@ Outline
 
 # Protecting My Tango
 
-### Brain Dump
-
-
-_laid, love, friends, impress, entertainment, connection, good show, expression, insecurities, spectator, actor_
-
-Tango is the most generous phenomenon in my life. Am I looking to get laid? I know which milongas to go to to increase my chances. Am I looking for love? I know which milongas has my type of people. Am I looking to show off my dancing? I know which milongas have average dancers. Am I looking for entertainment? I know which milongas have the best music and which milongas have the most drama. Am I looking to express my creativity and share it with another person? I know which milongas have a relaxed and experimental vibe. Am I looking to get inspired? I know which milongas have the best dancers in the city. Am I looking to make friends? I start going consistently to the same milonga. Am I tired of it and don't want anything to do with it anymore? I know that it will be there for me when I return. But for me to be able to enjoy all this generousity, I must be completely honest with it. And for me to be able to do so, I must first be completely honest with myself.
+Tango is the most generous phenomenon in my life. Am I looking to get laid? I know which milongas to go to to increase my chances. Am I looking for love? I know which milongas have my type of people. Am I looking to show off my dancing? I know which milongas have average dancers. Am I looking for entertainment? I know which milongas have the best music and which milongas have the most drama. Am I looking to express my creativity and share it with another person? I know which milongas have a relaxed and experimental vibe. Am I looking to get inspired? I know which milongas have the best dancers in the city. Am I looking to make friends? I start going consistently to the same milonga. Am I tired of tango and don't want anything to do with it anymore? I know that it will be there for me when I return. But for me to be able to enjoy all this generousity, I must be completely honest with it. That's the deal. And I learned that for me to be honest with it, I must first be completely honest with myself. I tried to deceive it for the longest time by asking for one thing while what I was really looking for was something else. I was in for a world of hurt.
 
 The deal though is that all this is not for free. In order for tango to serve you, you must be completely honest with yourself in order to be able to be completely honest with it and what you want from it. I learned really slowly that if I go into tango not knowing exactly what I wanted from it or if I misled it in thinking one thing while I was actually seeking another, that it will retaliate is with psychological torment. I have to be very clear in my heart and my head that that is what I am going for.
+
+### Brain Dump
 
 So this brings me to me, what do I want from tango as I am writing this today? The old reason was seeing El Flaco an old and wrinkly man dance with a beautiful woman. I thought that ok, I want to be him. I want to dance with beautiful women at that age. But how about now? What is it?
 
