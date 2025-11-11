@@ -14,19 +14,28 @@ tags: hidden
   }
 </style>
 
-Outline
-
-1. The only goal is to enjoy yourself
-2. Beware of friends
-3. 
-
-1. Tango is the most generous activity. Start with the unique tango stuff
 
 # Protecting My Tango
 
-Tango is the most generous phenomenon in my life. Am I looking to get laid? I know which milongas to go to to increase my chances. Am I looking for love? I know which milongas have my type of people. Am I looking to show off my dancing? I know which milongas have average dancers. Am I looking for entertainment? I know which milongas have the best music and which milongas have the most drama. Am I looking to express my creativity and share it with another person? I know which milongas have a relaxed and experimental vibe. Am I looking to get inspired? I know which milongas have the best dancers in the city. Am I looking to make friends? I start going consistently to the same milonga. Am I tired of tango and don't want anything to do with it anymore? I know that it will be there for me when I return. But for me to be able to enjoy all this generousity, I must be completely honest with it. That's the deal. And I learned that for me to be honest with it, I must first be completely honest with myself. I tried to deceive it for the longest time by asking for one thing while what I was really looking for was something else. I was in for a world of hurt.
+## Outline
 
-The deal though is that all this is not for free. In order for tango to serve you, you must be completely honest with yourself in order to be able to be completely honest with it and what you want from it. I learned really slowly that if I go into tango not knowing exactly what I wanted from it or if I misled it in thinking one thing while I was actually seeking another, that it will retaliate is with psychological torment. I have to be very clear in my heart and my head that that is what I am going for.
+1. Tango is the most generous. Enumerate what it can do for you.
+2. Protecting tango from me. Mental & physical health.
+3. Protecting tango from other people.
+4. 
+
+Tango is the most generous phenomenon in my life. Am I looking to get laid? I know which milongas to go to to increase my chances. Am I looking for love? I know which milongas have my type of people. Am I looking to show off my dancing? I know which milongas have average dancers. Am I looking for entertainment? I know which milongas have the best music and which milongas have the most drama. Am I looking to express my creativity and share it with another person? I know which milongas have a relaxed and experimental vibe. Am I looking to get inspired? I know which milongas have the best dancers in the city. Am I looking to make friends? I start going consistently to the same milonga. Am I tired of tango and don't want anything to do with it anymore? I know that it will be there for me when I return. But for me to be able to enjoy all this generousity, I must be completely honest with it. That's the deal. And I learned that for me to be honest with it, I must first be completely honest with myself. I tried to deceive it for the longest time by asking for one thing while what I was really looking for was something else and I was in for a world of hurt.
+
+What I've come to find out that tango is all those things for me. At some point, I might be after a woman that I find extermely attactive and I'm trying everything I can to get her attention. At other points, I'm nerding out on the biomechanics of movement on the way to improving my saccadas. At another time, I'm going deep into the music to understand its elements and learn how to appreaciate it more. I've even obsessed over its roots and history and the sense of nostalgia it brings. It also gives me comfort that deep into my 70s I can have a hobby to spend my last decade in. Chance are I will find my wife in tango or I will find out her outside of tango but get her attention with the fact that I dance.I want to make it part of my life and I want to have a good relationship with it which I must have a good relationship with the people in it.
+
+I feel like I'm on prepetual path of learning and improving and I'm coming to accept that this will probably be a lifetime endeavor. There is not point in tango where I will stop, this is it. I will stop learning now and I will dance like so. There might be stages where I will say or do that, but in tango, in order to stay the same, you must keep changing. As you insecurities shift from one area in your life to another, I must work up the courage to accomodate. 
+
+I can be my won worst enemy when it comes to tango. In order to keep a good relationship with tango, I must find my way of being happy with it. I know late night and late mornings are not for me. I know I will miss out on the better parts of milongas, but I'm in this for life. Besides I will be one of the few good dancers that come in early, I don't have to compete with the pros that arrive later during the night. I know that my places unecessary challenges where I could go direct. I see a girl I like and that I can see myself with and I suddenly build up a set of tasks that must be completed before I even make contact with her. Like I must reach level X or I must become a regular or I must do X in order to talk to her first. This kind of behavior just makes my milonga experiences layers with shadowy and unnecessary thought. Just go direct. If I'm not ready, it's ok, but know that there are no required steps to do anything in tango. The important thing is being honest with yourself. (maybe a story about a girl I like that I placed all these ridiculous imaginary steps to go out with her and it turns out she's married with three kids)
+
+You friends could be your worst enemies. I have a whom I trust in many areas in my life, but when it comes to tango, I cannot take her comments seriously because they're an expression of competitiveness. A feeling of I cannot improve more than she can always surfaces. She makes snyde comments whenever I'm working hard on something. I have another friend that is easily excitable. Any new thing I do or any new experiment she sheds it under the most positive light ever. And I have a third friend that is able to take herself out of the picture and try to be objective about what is going on. In the end when it comes to friends the best ones are the ones that are willing to let you go for your own happiness. The ones that want you to succeed even if that means that they will never see you again. These are hard to come by because we're all deficient in some manner and sometimes it's our combination that reveals the best parts of who we are. If you're lucky to combine with people that fall into the third camp hang on to them in your journey until you're ready to move on. They  will let you go gracefully.
+
+Other people are a mix of well meaning, but socially challenged individules to pure assholes. Just stay away from then for as long as you can. They don't like you for one form or another. Whatever.
+
 
 ### Brain Dump
 
