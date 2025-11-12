@@ -14,12 +14,19 @@ tags: hidden
   }
 </style>
 
-1. Protecting tango from myself
+1. Why I started tango? 
+2. Why I stayed in tango?
+3. Why am I always looking for a reason of why I am in tango?
+4.  What if I'm afraid of stopping it, what would take its place? How would my social life look like?
 
 # Protecting My Tango
 
-Kurt Vonnegut's famous Girl-Meets-Boy arc goes something like this: Boy meets their dream girl, experiences momentary bliss, screws everything up, and then fights for redemption and wins. Everyone goes home happy. My arc in tango is completely screwed up. I meet my dream girl, I do not experience momentary bliss because I think that I have to become a better dancer before I can even say hello to her, I screw everything up, then I screw everything up some more, then I fight for redemption, but end up with a completely different girl. I've come to find out that tango is the perfect ecosystem to invent imaginary walls to put obstacles between myself and what I want. Whether it's being able to sit at a table with a specific group, or dance with a specific person or ask someone out, tango provides me with many ways of saying, I will when... That when could be I get better, I or become more regular, or take more classes. I found out that to maintain a healthy relationship with it, I needed to go direct towards the things I wanted or I'd be deceiving it.
+My first exposure to tango was watching an old video by a charismtic dancer called El Flaco Dani. It was the seed that helped begin my journey. El Flaco was in his seventies, with a long longing and drupy face. A face so full of wrinkles that his wrinkles were wrinkled. He was dancing a milonga with the young and beautiful Silvina Valz. I still clearly remember the though that ran through my mind: I can be in my seventies and dancing like this with such beautoful women? Enough time passed to forget about El Flaco, but my brother Joad and I planned a trip to Argentina that revived that video in my memory and and brought tango into my life. We had planned the trip to argentina because we were enamoured the concept of Hot argentine women. We were young and shallower than we are now, to actually go and experience the culture. 
 
+
+What good sotry do
+
+Kurt Vonnegut's famous Girl-Meets-Boy arc goes something like this: Boy meets their dream girl, experiences momentary bliss, screws everything up, and then fights for redemption and wins. Everyone goes home happy. My arc in tango is completely screwed up. I meet my dream girl, I do not experience momentary bliss because I think that I have to become a better dancer before I can even say hello to her, I screw everything up, then I screw everything up some more, then I fight for redemption and end up with a completely different girl. I've come to find out that tango is the perfect ecosystem to invent imaginary walls to put obstacles between myself and what I want. Whether it's being able to sit at a table with a specific group, or dance with a specific person or ask someone out, tango provides me with many ways of saying, I will when... That when could be I get better, I or become more regular, or take more classes. I found out that to maintain a healthy relationship with it, I needed to go direct towards the things I wanted or I'd be deceiving it.
 
 
 What I've come to find out that tango is all those things for me. At some point, I might be after a woman that I find extermely attactive and I'm trying everything I can to get her attention. At other points, I'm nerding out on the biomechanics of movement on the way to improving my saccadas. At another time, I'm going deep into the music to understand its elements and learn how to appreaciate it more. I've even obsessed over its roots and history and the sense of nostalgia it brings. It also gives me comfort that deep into my 70s I can have a hobby to spend my last decade in. Chance are I will find my wife in tango or I will find out her outside of tango but get her attention with the fact that I dance.I want to make it part of my life and I want to have a good relationship with it which I must have a good relationship with the people in it.
