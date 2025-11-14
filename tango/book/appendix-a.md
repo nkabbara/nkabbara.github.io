@@ -2,8 +2,8 @@
 layout: page
 title: "Appendix A"
 created: 2025-11-11
-updated: 2025-11-11
-version: 0.0.0
+updated: 2025-11-14
+version: 0.1.0
 categories: tango
 tags: hidden
 ---
@@ -30,3 +30,9 @@ Whenever I feel any kind of force keeping me in my seat or blocking me from aski
 
 ## First Embrace Mantra
 
+On my first contact with someone I'm looking to build our embrace: I start with feeling my feet into the ground. I then move my pelvis to find my grounding and to open the space. I then find my presense and give it to my partner completely. This is like an energy projecting from my torso to hers. It's saying, today, I am here for you in this form. And wait to see what she gives me in return. Then my arms surround my presense and hers. I go muscle deep into her with all the parts of my arms that touch her to communicate what I want with precision and clarity. I then look for her breath and mine and sync them together.
+
+- Feet
+- Pelvis
+- Presence
+- Arms
