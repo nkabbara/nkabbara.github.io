@@ -53,3 +53,5 @@ I must let myself be danced by the music. That was my second rule-resistant chal
 Although I improved technically and I successfully pushed myself to do things that were out of my comfort zone, I still felt like I was at the periphery. At milongas, I was like a visitor that was getting good at sneaking in a few safe dances here and there. These thoughts were occurring to me as I was dancing with an amazingly beautiful and skilled dancer. There I was, mission accomplished, but why was I still feeling like an outsider? Why was I not enjoying myself? Why was the fear of rejection still overwhelming? I felt like was still faking. I was attracted to an activity and I was trying to navigate it with my own language. Not the one it required of me. Then and there I made a decision: from that moment on, I was to assume the identity of a dancer and learn the language of tango.
 
 ---
+
+<a href="/tango/book/embody" style="float: right;" >Chapter 2 >> </a>
