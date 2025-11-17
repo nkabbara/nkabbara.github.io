@@ -2,10 +2,16 @@
 layout: page
 title: "Quotes"
 created: 2021-10-10
-updated: 2025-07-10
-version: 1.29.5
+updated: 2025-11-17
+version: 1.30.5
 categories: quotes
 ---
+
+> … the man who never looks into a newspaper is better informed than he who reads them, inasmuch as he who knows nothing is nearer to truth than he whose mind is filled with falsehoods and errors.
+
+– Thomas Jefferson
+
+<br>
 
 > The man who works so moderately as to be able to work constantly not only preserves his health the longest, but in the course of a year executes the greatest quantity of work.
 
