@@ -16,6 +16,12 @@ tags: hidden
 
 # Mantras
 
+## Tango Mantra
+
+_I noticed that the more I got into tango, the more I let my value derive from how well I danced. A big mistake because in tango or you will lose your general confidence._
+
+My self worth does not come from how well I dance. My self worth comes from my humanity: the multitude of ways in which I impact the lives of the people around me. How I actively take care of my well being and my happiness. How I please my ego with an aggregate of my lifetime wins.
+
 ## Milonga Mantra
 
 On my way to a milonga, I start taking deep breaths. I pay attention to the sensation of a location from which I am aware of these breaths. _This is usually behind my eyes somewhere_. I start dropping the sensation of location down to my jaw, then my neck, then shoulders, heart, abdomen, pelvis, legs, feet, then finally to the ground.
