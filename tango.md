@@ -10,4 +10,4 @@ tags:
 
 I'm working on [a book](/tango/book) about my misadventures in the Buenos Aires tango scene. If you're in town and want to discuss, send me an email!
 
-[Tango Note](/tango/tango-notes)
+[Tango Notes](/tango/tango-notes)
