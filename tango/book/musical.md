@@ -37,3 +37,4 @@ The missing paragraph: _If you're seeing this, it means that I don't feel like I
 Musicality turned out to be more than doing things to the music. It was a mixture of rapture, knowledge, and silence. But its catalyst, the element that pulls it out of your body into your partner's is the quality of your movement. How you invite your body to occupy space. Without that element, musicality will be a series of missed expressions. As I worked more on inviting rapture and silence into my body, I started to take movement technique more seriously and accepted the fact that after a few years of dancing, I was ready to feel like a beginner again. Beginner mind is hard.
 
 ---
+<a href="/tango/book/embody" style="float: left;" ><< Chapter 2</a>

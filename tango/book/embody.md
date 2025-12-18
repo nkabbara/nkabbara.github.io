@@ -49,3 +49,8 @@ My mind needed somewhere to be and so far I knew two places where it couldn't. I
 
 
 Dancing was starting to feel like dancing. Thicker and with more substance. Relaxed. Fun. I realized that until that point I was robbing my partners of what it meant to dance tango. I was too self involved and self aware distracted by steps, technique, musicality, the people around me and criticism. All of which was leading to tension in my body. I look back and wonder how all these dancers must have felt in a selfish embrace. I realized that at the minimum, I had to find Unity with my partner in order to make tango.
+
+---
+
+<a href="/tango/book/one-day-i-decided-that-i-am-a-dancer" style="float: left;"><< Chapter 1</a>
+<a href="/tango/book/musical" style="float: right;">Chapter 3 >> </a>
