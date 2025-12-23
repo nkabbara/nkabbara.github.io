@@ -1,14 +1,18 @@
 ---
 layout: page
 title: "now"
-created: 2024-12-14
+created: 2025-12-23
 updated: 2025-11-22
-version: 1.11.12
+version: 1.12.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Nov 22, 2025 from Buenos Aires._</small>
+<small>_Last updated on Dec 23, 2025 from Buenos Aires._</small>
+
+## Year In Review
+
+I'm writing out my [year in review](/2025-in-review) and publishing sections as I finish them.
 
 ## Tango
 
@@ -22,11 +26,10 @@ My time in tango had always been at the periphery. When I look back at how my in
 
 I bought my <a href="https://www.zsa.io/voyager">Voyager keyboard</a> in Oct, 2023 and never had the time to break it in. At first, I decided to quickly migrate to it by loading qwerty on it, but then I looked at some [videos comparing](https://www.youtube.com/watch?v=eNeYmr48JUM) qwerty with modern layouts and I was shocked at how much wrist and finger movement is involved with qwerty. So I decided to learn [graphite](https://github.com/rdavison/graphite-layout). I'm using [keybr](https://www.keybr.com/) to memorize the keys and then will use [MT](https://monkeytype.com/) to get me to 60-80 wpm.
 
+**Update:** I <a href="https://www.keybr.com/profile/82hl9uj">finished</a> memorizing all of the graphite alphanumeric characters and some the most common symbols. Currently working on improving my accuracy on Monkeytype using the English 200 at 98% accuracy. On Jan 1st, I'm going to switch all my keyboards cold turkey. It's going to be painful for a couple of months.
+
 <img src="assets/keyboard-voyager.JPG" alt="Voyager Keyboard">
 
-Update (2025/11/22): I have <a href="https://www.keybr.com/profile/82hl9uj">5 more letters</a> to memorize! I'm altering my strategy after discussing my progress with the reddit hive-mind by lowering keybr's speed threshold to 25wpm and starting with monkeytype immediately (with punctuation and numbers). The idea is that the last few letters on keybr are the least used in English and that I should start with real world vocab now to speedup the switch. The amount of brain pain this project is causing is way higher than I expected. I'm glad I'm at a point of no return.
-
-<img src="assets/graphite-progress.png" alt="Graphite Progress">
 
 ## Neovim & Lua
 
