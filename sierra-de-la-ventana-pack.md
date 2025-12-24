@@ -5,7 +5,7 @@ created: 2025-01-19
 updated: 2025-04-28
 version: 2.5.1
 categories: camping
-tags:
+tags: hidden
 ---
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSafKNjjxi7g5Ea2lAsEKDm426Jb4YdS9_7YO6ZrQL1SIGxtQ9XhluYPpzRMD7-lrg9E-kR9gSCEIlz/pubhtml?widget=true&amp;headers=false" style="width:100%; height:500px;"></iframe>
