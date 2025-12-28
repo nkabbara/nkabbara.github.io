@@ -85,5 +85,10 @@ My [2025 Playlist](https://music.youtube.com/playlist?list=PLbh5SXvhsTWBAAyTgDb1
 
 One of this year's experiments was not to post anything [on social media](/addictions). I then extended that to cancelling [The Criterion Channel](https://www.criterionchannel.com/browse), my favorite streaming service, and I disabled history and muted everyone that I follow on all platforms. This change alone has freed me to learn a new keyboard layout and code in my free time. I had no idea how dangerous and insidious these things are. One could lose their whole life plugged into the virtual world. I will extend this into 2026, but will post once a year to update my friends that don't read my [/now](/now) page.
 
+
+## Buenos Aires After Two Years
+
+I love it so much that I'm working on getting my residency. More exciting news about this in 2026!
+
 ---
 
