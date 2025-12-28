@@ -20,8 +20,6 @@ My time in tango had always been at the periphery. When I look back at how my in
 
 [Chapter three](https://nashkabbara.com/tango/book/) is out! Currently doing research (i.e dancing and studying a lot more) as I work on finishing the book with chapters 4 and 5 and appendix A. 
 
-<img src="assets/vero-nash.jpeg" alt="Voyager Keyboard">
-
 ## Voyager Keyboard
 
 I bought my <a href="https://www.zsa.io/voyager">Voyager keyboard</a> in Oct, 2023 and never had the time to break it in. At first, I decided to quickly migrate to it by loading qwerty on it, but then I looked at some [videos comparing](https://www.youtube.com/watch?v=eNeYmr48JUM) qwerty with modern layouts and I was shocked at how much wrist and finger movement is involved with qwerty. So I decided to learn [graphite](https://github.com/rdavison/graphite-layout). I'm using [keybr](https://www.keybr.com/) to memorize the keys and then will use [MT](https://monkeytype.com/) to get me to 60-80 wpm.

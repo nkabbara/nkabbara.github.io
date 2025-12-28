@@ -77,5 +77,13 @@ What's next?
 
 My plan for the beginning of 2026 is to complete my [terminal plugin](https://github.com/nkabbara/onmyterm.nvim) as a way to break in the graphite layout (in extreme anger). I never stopped coding during my sabbatical. I always found excuses to build something. I've come to accept that building with software above all else is the thing that excites me the most. That's going to take the bulk of 2026 with other projects taking second place.
 
+## Music
+
+My [2025 Playlist](https://music.youtube.com/playlist?list=PLbh5SXvhsTWBAAyTgDb15I7yuXK14mkAF&si=RdZNK5lrTEIbJ87n). My favorite song is [Clay Pigeons](https://music.youtube.com/watch?v=b_HpUnnPfsE&si=OETxdfNzW1LTG4D7).
+
+## Social Media & Addictions
+
+One of this year's experiments was not to post anything [on social media](/addictions). I then extended that to cancelling [The Criterion Channel](https://www.criterionchannel.com/browse), my favorite streaming service, and I disabled history and muted everyone that I follow on all platforms. This change alone has freed me to learn a new keyboard layout and code in my free time. I had no idea how dangerous and insidious these things are. One could lose their whole life plugged into the virtual world. I will extend this into 2026, but will post once a year to update my friends that don't read my [/now](/now) page.
+
 ---
 
