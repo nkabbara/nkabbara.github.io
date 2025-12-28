@@ -45,7 +45,14 @@ The year was mostly an exploratory year in which I finally started to understand
 
 So what's next for tango?
 
-* I plan to finish the memoire in 2026
+* I'm switching gears to mostly hands on and less theoratical work. This will be in the form of practice with professionals a few times a week combined with private lessons with my mentor. 
+* Codify all the acquired knowledge of this year into a manageable system to integrate into my education. _They're currently in the form of handwritten notes._
+* Finish the memoire in 2026
+* Figure out why my goal in tango keeps changing every few months and why I roll my eyes at past goals. Here's sample of past goals:
+  * To meet and be around beautiful women 🙄
+  * To connect and be in unity with another human 🙄
+  * To simply dance for fun and play with others (I'm not rolling my eyes on this one. Maybe this is it.)
+  * To discover myself more deeply through the dance 🙄
 
 
 ## Ditching Qwerty
