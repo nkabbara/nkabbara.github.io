@@ -3,7 +3,7 @@ layout: page
 title: "2025 In Review"
 created: 2025-12-23
 updated: 2025-12-28
-version: 1.6.0
+version: 1.8.0
 categories: article
 tags:
 ---
@@ -79,7 +79,7 @@ My plan for the beginning of 2026 is to complete my [terminal plugin](https://gi
 
 ## Music
 
-My [2025 Playlist](https://music.youtube.com/playlist?list=PLbh5SXvhsTWBAAyTgDb15I7yuXK14mkAF&si=RdZNK5lrTEIbJ87n). My favorite song is [Clay Pigeons](https://music.youtube.com/watch?v=b_HpUnnPfsE&si=OETxdfNzW1LTG4D7).
+My [2025 Playlist](https://music.youtube.com/playlist?list=PLbh5SXvhsTWBAAyTgDb15I7yuXK14mkAF&si=RdZNK5lrTEIbJ87n). An my favorite 2025 song is [Clay Pigeons](https://music.youtube.com/watch?v=b_HpUnnPfsE&si=OETxdfNzW1LTG4D7).
 
 ## Social Media & Addictions
 
