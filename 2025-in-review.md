@@ -8,6 +8,8 @@ categories: article
 tags:
 ---
 
+[_En Español_](https://nashkabbara-com.translate.goog/2025-in-review.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)
+
 ## Sabbatical
 
 I had been planning to take a sabbatical for several years. My idea was that as soon as my investment income exceeded my expenses with some wiggle room for emergencies and unforeseen events, I would hand in my resignation. I reached that milestone in 2023, but it took me almost all of 2024 to work up the courage to quit. I recalculated my expenses and income more than twenty times during that year. I imagined every possible emergency including the need for a sudden epidectomy, improbable lawsuits, and global market collapse. I contemplated starting a fund for said emergencies, which would have forced me to stay working for a few more years. After discussing my hesitation with a few friends, I came to the realization that I was dealing with loss aversion. I wanted to let go of a fat paycheck in a terrible tech market and for what? Are the eight hours that I would gain more valuable to me than what I was charging for them? Can I do better with my time than my employer could do with it? Will I look back in regret a year from now?
