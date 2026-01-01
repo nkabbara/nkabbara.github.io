@@ -2,13 +2,15 @@
 layout: page
 title: "2025 In Review"
 created: 2025-12-23
-updated: 2025-12-28
-version: 1.8.0
+updated: 2026-01-01
+version: 1.9.0
 categories: article
 tags:
 ---
 
 [_En Español_](https://nashkabbara-com.translate.goog/2025-in-review.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)
+
+The year of Sabbatical. Reflecting on the things that I did during this year, the overarching theme was doing all the things that I had always wished I could do if I had the time. Not having to worry about money nor external commitments forced me to self motivate in ways that I had never done before. This meant that I was constantly questioning what is important and who is important in my life. I discovered that what is important is what I decide is important. This sounds easier than it is until you figure out a way to escape your sphere of influence (very hard). My most fulfilling moments were moments shared with the right people. So for 2026 I will get better at deciding what is important and surround myself with the right people.
 
 ## Sabbatical
 
@@ -19,8 +21,6 @@ As a last attempt to test the strength of my desire[^1] I sought novelty, so I s
 [^1]: I'm skipping over a lot of detail including deteriorating team and company-wide moral that had been going on for months because they manifested after my plans for sabbatical.
 
 The beginning of the sabbatical was highjacked with a couple of heavy feelings: The first was that I was being left behind by my friends who were still making tons of money and moving forward in their careers. The second was this sense of lack of structure and having no deadlines to meet. I poured over my journal to address the first and put things into perspective. The escape velocity from the gravity money is immense, but once I was out, it felt like escaping from a make believe world that I had been living in my whole life. A whole section of my brain was freed up. How will I use it? This is something that I will think about more as the months pass by, but I think I'll just keep doing what I have always done, but with a source of motivation that is not financially driven. For the second, I had to build my own structure, something that I had done before when I built my first company. It had been a while since I switched from being an entrepreneur to working in the corporate world, but it was easy respawn the old structure and self motivate.
-
-Reflecting on the things that I did during this year, the overarching theme was doing all the things that I had always wished I could do if I had the time. The biggest insight I gained was that I had this underlying currant of thought that tricked me into believing that if I did those things then I would feel more fulfilled. I can put that type of thinking away now because the truth is that I am already fulfilled. It's just that I have to remind myself more often about that. Even more surprising was the fact that this pattern was also present as I was doing the things that I had always wished I could do. Thus, I cannot trust the whimsical part of my mind to drive the whole way, I must balance it with proactive wisdom. I prefer that the underlying currant of thought be about wonder and curiosity and their consequence of enabling me to see the world with more vitality. But I must be careful with distinguishing between curiosity and abandoning tasks and projects due to difficulty.
 
 What's next?
 
@@ -39,8 +39,10 @@ What I've been enjoying lately is listening to non-fiction and history books as 
 
 What's next?
 
-The only non-fiction book that I have on my list this year is [The Four Hour Chef](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591) by Tim Ferris. I'll probably add more to the list as the year progresses.
-
+Non-fiction books that I have on my list for 2026: 
+  * [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D) by Ray Dalio
+  * [The Four Hour Chef](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591) and [The Four Hour Body](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591) by Tim Ferris. I'm not planning on reading those cover to cover, just pertinent chapters.
+  * I should get leads to other books by reading the above.
 
 ## Tango
 
