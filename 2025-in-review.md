@@ -3,7 +3,7 @@ layout: page
 title: "2025 In Review"
 created: 2025-12-23
 updated: 2026-01-01
-version: 1.9.0
+version: 1.10.0
 categories: article
 tags:
 ---
@@ -92,7 +92,7 @@ One of this year's experiments was not to post anything [on social media](/addic
 
 ## Buenos Aires After Two Years
 
-I love it so much that I'm working on getting my residency. More exciting news about this in 2026!
+I love it so much that I'm working on getting my residency (more exciting news about this in 2026). I walk and bike everywhere and rarely use cars. The people are loving and warm. The ice cream, pizza, pasta, and steaks are amazing. I'm excited to plant roots here.
 
 ---
 
