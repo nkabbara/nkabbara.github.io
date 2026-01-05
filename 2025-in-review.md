@@ -2,7 +2,7 @@
 layout: page
 title: "2025 In Review"
 created: 2025-12-23
-updated: 2026-01-01
+updated: 2026-01-05
 version: 1.10.0
 categories: article
 tags:
@@ -10,7 +10,9 @@ tags:
 
 [_En Español_](https://nashkabbara-com.translate.goog/2025-in-review.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)
 
-The year of Sabbatical. Reflecting on the things that I did during this year, the overarching theme was doing all the things that I had always wished I could do if I had the time. Not having to worry about money nor external commitments forced me to self motivate in ways that I had never done before. This meant that I was constantly questioning what is important and who is important in my life. I discovered that what is important is what I decide is important. This sounds easier than it is until you figure out a way to escape your sphere of influence (very hard). My most fulfilling moments were moments shared with the right people. So for 2026 I will get better at deciding what is important and surround myself with the right people.
+The year of Sabbatical. Reflecting on the things that I did during this year, the overarching theme was doing all the things that I had always wished I could do if I had the time. Not having to worry about money nor external commitments forced me to self motivate in ways that I had never done before. "No one would do any hard or persistent work if he could avoid it, without physical, economic or social penalty."[^2] This meant that I was constantly questioning what is important and who is important in my life. I discovered that what is important is what I decide is important. This sounds easier than it is but I had to figure out a way to escape my sphere of influence that instilled certain ideas in me (very hard) and learn how to keep myself motivated (very very hard). Being surrounded by the right people helped me a lot in both and had the effect of creating some very fulfilling moments. So for 2026 I will get better at deciding what is important, how to stay motivated and surround myself with the right people.
+
+[^2]: Will Durant, The STORY of CIVILIZATION.
 
 ## Sabbatical
 
