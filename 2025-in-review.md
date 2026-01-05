@@ -3,7 +3,7 @@ layout: page
 title: "2025 In Review"
 created: 2025-12-23
 updated: 2026-01-05
-version: 1.10.0
+version: 1.11.0
 categories: article
 tags:
 ---
@@ -38,13 +38,6 @@ Thinking about the day to day effects of reading those books more than eight mon
 In the future, I would interlace reading non-fiction with a related activity that I'm involved in so theory and practice go hand in hand. E.G. I would read On Writing Well as I was writing my book, not as a prerequisite to writing my book. Get messy quick and organize later.
 
 What I've been enjoying lately is listening to non-fiction and history books as audiobooks and slow-reading non-fiction books. If I find a non-fiction book interesting enough, I'll publish its notes [here](/books).
-
-What's next?
-
-Non-fiction books that I have on my list for 2026: 
-  * [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D) by Ray Dalio
-  * [The Four Hour Chef](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591) and [The Four Hour Body](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591) by Tim Ferris. I'm not planning on reading those cover to cover, just pertinent chapters.
-  * I should get leads to other books by reading the above.
 
 ## Tango
 
