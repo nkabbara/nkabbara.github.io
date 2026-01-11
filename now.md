@@ -2,13 +2,13 @@
 layout: page
 title: "now"
 created: 2025-12-23
-updated: 2026-01-05
-version: 1.13.12
+updated: 2026-01-11
+version: 1.14.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Jan 5, 2026 from Buenos Aires._</small>
+<small>_Last updated on Jan 11, 2026 from Buenos Aires._</small>
 
 ## Year In Review
 
@@ -29,6 +29,7 @@ I started listening to the massive and wonderful [The Story of Civilization](htt
 I'm currently reading the following books:
 * [Food Rules by Michael Pollan](https://www.amazon.com/dp/B002YJK5L4)
 * [Practical Vim by Drew Neil](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought)
+* [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://a.co/d/eq1Kj2l)
 
 ## Graphite Layout
 
@@ -36,7 +37,7 @@ I've switched my work computer to [graphite](https://github.com/rdavison/graphit
 
 Why have I decided to make my life temporarily miserable? I saw [videos comparing](https://www.youtube.com/watch?v=eNeYmr48JUM) qwerty with [modern layouts](https://www.youtube.com/watch?v=DKQ4pOoFh5I) and I was shocked at how much wrist and finger movement is involved with qwerty. It's an experiment to see how a new layout will affect my typing experience and my interaction with my computers.
 
-I'm typing daily on Monkeytype for at least 15 minutes working my way from English 200 to English 10K. I'll stop this when I can average 80wpm at 98% accuracy for the last 10 uninterrupted lessons. I have symbols and numbers turned on. I move up a level when I can finish a language setting at 40wpm/98% for average of last 10 successful sessions.
+I'm typing daily on Monkeytype for at least 15 minutes working my way from English 200 to English 10K. I'll stop this when I can average 80wpm at 98% accuracy for the last 10 uninterrupted lessons. I have symbols and numbers turned on. I move up a level when I can finish a language setting at 40wpm/98% for average of last 10 successful sessions. Whenever I get bored of Monkeytype, I switch do [burst-type](https://www.burst-type.pro/)
 
 <img src="assets/keyboard-voyager.JPG" alt="Voyager Keyboard">
 
