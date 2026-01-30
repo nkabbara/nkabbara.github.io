@@ -2,13 +2,13 @@
 layout: page
 title: "now"
 created: 2025-12-23
-updated: 2026-01-11
-version: 1.14.12
+updated: 2026-01-30
+version: 1.15.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Jan 11, 2026 from Buenos Aires._</small>
+<small>_Last updated on Jan 30, 2026 from Buenos Aires._</small>
 
 ## Year In Review
 
@@ -16,7 +16,10 @@ Here's how my [2025 went](/2025-in-review).
 
 ## My First Neovim Plugin
 
-I'm currently writing my <a href="https://github.com/nkabbara/onmyterm.nvim">own floating terminal plugin</a> to learn neovims's API. I'm doing this on SUPER hard mode because I'm using [a new keyboard layout](https://github.com/rdavison/graphite-layout). I'm literally mapping missing symbols as I need them and then writing them on a sticky note to remember them. It feels excruciatingly painful and I'm getting tired much sooner than I usually do when coding. This has been an eye opener at how much effect one's setup has on cognitive load. It's forcing me to rethink my workflow and shortcuts to be more seamless.
+I released my first <a href="https://github.com/nkabbara/onmyterm.nvim">neovim plugin!</a> I built it to learn neovims's API and Lua and to battle test the graphite keyboard layout. But it fit my needs so much that it's now my daily terminal manager. I love neovim so much more now that I got a true taste of extending it and customizing it to my needs.
+
+The most exciting thing that happened during this project was that it gave me a chance to <a href="https://github.com/nickjvandyke/opencode.nvim/pull/139">contribute to open source</a>, further expanding my lua and neovim knowledge. I was using <a href="https://opencode.ai/">opencode</a> through a neovim plugin and noticed that it had no native way of switching sessions, which meant that I har to cycle through windows, issue the right commands then switch back to the window that I was working in. A flow killer. I submitted a PR that solves the problem reusing the same patterns of the plugin making the process nearly seamless. The <a href="https://github.com/nickjvandyke">creator</a> of the project was very accommodating and nice making the process delightful.
+
 
 ## Tango
 
@@ -27,15 +30,15 @@ I finised [chapter three](https://nashkabbara.com/tango/book/) of my tango memoi
 I started listening to the massive and wonderful [The Story of Civilization](https://www.amazon.com/dp/B074CF5NP9?binding=audio_download&ref=dbs_m_mng_rwt_sft_taud_tkin) series by Will Durant. There's more than 500 hours of listening in there.
 
 I'm currently reading the following books:
-* [Food Rules by Michael Pollan](https://www.amazon.com/dp/B002YJK5L4)
+* [Food Rules by Michael Pollan](https://www.amazon.com/dp/B002YJK5L4) [done]
 * [Practical Vim by Drew Neil](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought)
 * [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://a.co/d/eq1Kj2l)
 
 ## Graphite Layout
 
-I've switched my work computer to [graphite](https://github.com/rdavison/graphite-layout) on Jan 1st. I'm currently at around 40wpm (98% accuracy), but inconsistently. I'm using the <a href="https://www.zsa.io/voyager">Voyager</a> keyboard as my main driver and mapping my home row mods as I go. Once I have this keyboard stabilized, I'll switch my personal laptop to graphite as well using [Kanata](https://github.com/jtroo/kanata).
+I've switched my work computer to [graphite](https://github.com/rdavison/graphite-layout) on Jan 1st. I'm currently reaching 44wpm (98% accuracy) and more easily completing 60s runs, but inconsistently. I'm using the <a href="https://www.zsa.io/voyager">Voyager</a> keyboard as my work computer driver and for my other computers I am using [Kanata](https://github.com/jtroo/kanata) to remap my [keyboards](https://github.com/nkabbara/dotfiles/blob/main/dot_config/kanata/leisure.kbd). I 100% vouch for Kanata. Amazing software.
 
-Why have I decided to make my life temporarily miserable? I saw [videos comparing](https://www.youtube.com/watch?v=eNeYmr48JUM) qwerty with [modern layouts](https://www.youtube.com/watch?v=DKQ4pOoFh5I) and I was shocked at how much wrist and finger movement is involved with qwerty. It's an experiment to see how a new layout will affect my typing experience and my interaction with my computers.
+Why have I decided to make my life temporarily miserable? I saw [videos comparing](https://www.youtube.com/watch?v=eNeYmr48JUM) qwerty with [modern layouts](https://www.youtube.com/watch?v=DKQ4pOoFh5I) and I was shocked at how much wrist and finger movement is involved with qwerty. Now, whenever I try to type qwerty, it feels complicated.
 
 I'm typing daily on Monkeytype for at least 15 minutes working my way from English 200 to English 10K. I'll stop this when I can average 80wpm at 98% accuracy for the last 10 uninterrupted lessons. I have symbols and numbers turned on. I move up a level when I can finish a language setting at 40wpm/98% for average of last 10 successful sessions. Whenever I get bored of Monkeytype, I switch do [burst-type](https://www.burst-type.pro/)
 
