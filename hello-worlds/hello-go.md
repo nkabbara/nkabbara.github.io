@@ -1,20 +1,16 @@
 ---
 layout: page
-title: "Tech Notes"
-created: 2022-07-11
-updated: 2022-07-11
-version: 0.5.0
-categories: tech
+title: "Hello Go"
+created: 2024/02/02
+updated: 2026/02/02
+version: 1.0.2
+categories: article
+tags: tech hidden
 ---
-
-# Languages
-
-## Go
 
 ### Overview
 
-I tend to reach to Go when the problem at hand requires its low memory footprint and speed. This is not
-very often. These notes are to help me reload some of its fundamental concepts to mind.
+In 2023, a company I worked for decided to rewrite our whole tech stack from Ruby On Rails to Go microservices. I had a few weeks to load Go into my head before starting to break up a 100,000+ loc Rail app into separate services.
 
 ### App Structure
 
@@ -264,39 +260,3 @@ When you range over a string, you're ranging over runes.
 ```
 
 Constants only exist to compile time. They never find themselves on a stack or on the heap. ie `const foo = 333`
-
-# Screen
-
-Detach from a session: ctrl-a, ctrl-d
-
-# Docker
-
-Detach from a container ctrl-p, ctrl-q
-
-# Misc
-
-Loop on cli (bash):
-
-```
-for i in `seq 10`; do echo "myserver_$i"; done
-```
-
-List tcp listeners with their pids on Mac (nestat -nato equiv on linux):
-
-```
-sudo lsof -iTCP -sTCP:LISTEN -n -P
-```
-
-Bring background process to foreground
-
-```
-fg
-```
-
-Copy/Paste in cli
-
-```
-> pwd | pbcopy
-
-> pbpaste
-```
