@@ -10,7 +10,7 @@ tags: tech hidden
 
 ### Overview
 
-In 2023, a company I worked for decided to rewrite our whole tech stack from Ruby On Rails to Go microservices. I had a few weeks to load Go into my head before starting to break up a 100,000+ loc Rail app into seperate services.
+In 2023, a company I worked for decided to rewrite our whole tech stack from Ruby On Rails to Go microservices. I had a few weeks to load Go into my head before starting to break up a 100,000+ loc Rail app into separate services.
 
 ### App Structure
 
