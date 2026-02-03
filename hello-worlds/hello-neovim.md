@@ -5,7 +5,7 @@ created: 2026/02/02
 updated: 2026/02/02
 version: 0.0.1
 categories: article
-tags: tech
+tags: tech hidden
 ---
 
 _I wrote this using the graphite layout at < 40wpm in extreme anger._
