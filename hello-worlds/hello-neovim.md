@@ -27,6 +27,17 @@ vim --clean --cmd "set rtp+=$(pwd)"
 
 Adding the plugin dir to `runtimepath` enables `require()` to find it. It reads many directories within that path including `lua`, `plugin`, and `doc` (see `help runtimepath`). Lazy does much more and adds a lot of features to fully manage you plugins, but at its essence, we are just telling nvim where things are. Entry points into the plugin could be achieved with `nvim.api.nvim_create_user_command` or `vim.keymap.set`. From there on the work is very specific to what it is you are trying to do.
 
-The lua neovim API was confusing in the beginning. You have methods like `vim.*`, `vim.api`, `vim.cmd.*`, `vim.fn.*`, `vim.opt.*`, and `vim.o.*`. Why is the API surface divided this way? What I understood from reading the docs is that anything that has to do with vim (from which nvim was forked) goes under `vim.cmd` for ex-commands and `vim.fn` for builtin functions and user functions. So it's in these functions that we have to use 0-based indexing even if lua is 1-based. Any functionality that has to do with GUIs or remote plugins goes under `vim.api`. And `vim.*` contains everything else including the lua stdlib. Things get conflated when the same function is implemented under multiple APIs. This is usually done for various reasons, mostly convenience.
+The lua neovim API was confusing in the beginning. You have methods like `vim.*`, `vim.api`, `vim.cmd.*`, `vim.fn.*`, `vim.opt.*`, and `vim.o.*`. Why is the API surface divided this way? What I understood from reading the docs is that anything that has to do with vim (from which nvim was forked) goes under `vim.cmd` for ex-commands and `vim.fn` for builtin functions and user functions. So it's in these functions that we have to use 0-based indexing even if lua is 1-based. Any functionality that has to do with GUIs or remote plugins goes under `vim.api`. And `vim.*` contains everything else including the lua stdlib. Things get conflated when the same function is implemented under multiple APIs. This is usually done for various reasons, mostly convenience. `lua-guide` is a must read.
 
 <img src="/assets/hello-neovim-nvim-api.svg">
+
+Next up is exploring new areas in userland that I had neglected in the past. I'll keep updating this document as I learn new things.
+
+## Userland
+
+### Ex Commands
+
+The most annoying thing for me at the ex prompt is limited mobility and editing ability. It turns out there's some hidden power there:
+
+- `C-w` delete word back
+- `C-f` switch to an editable buffer. Edit any command in there and hit enter to execute.
