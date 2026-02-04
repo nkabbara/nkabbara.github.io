@@ -3,7 +3,7 @@ layout: page
 title: "Hello Go"
 created: 2024/02/02
 updated: 2026/02/02
-version: 0.0.1
+version: 1.0.2
 categories: article
 tags: tech hidden
 ---
