@@ -2,13 +2,13 @@
 layout: page
 title: "Hello Neovim (and lua)"
 created: 2026/02/02
-updated: 2026/02/02
-version: 0.0.1
+updated: 2026/02/04
+version: 0.2.3
 categories: article
 tags: tech hidden
 ---
 
-_I wrote this using the graphite layout at < 40wpm in extreme anger._
+_I wrote this using my new graphite layout at < 40wpm in extreme anger._
 
 I had been using vim with an overly messy `vimrc` for more than 10 years. When the AI "revolution" started, I thought it was time to try the latest and greatest editors around. I tried cursor for a month, but a couple of things turned me off (this has probably changed since then). The AI features felt like they were lipsticked over vscode and the experience didn't feel native to me. The other reason was I could not get the vim plugins do what I wanted them to. I kept reaching for the mouse repetitively. I switched to Zed and things felt better than cursor for a while, but I kept struggling with things like spellcheck and panel customization. I kept using it because they were constantly improving the product, but at one point I saw a youtube where someone was teaching how to use opencode. My curiosity pushed me to download neovim to follow along with the youtube and it was then that I realized how much better it is to be in vim than any of the editors that I had tried before. It gave me a sense of full control.
 
@@ -37,7 +37,7 @@ Next up is exploring new areas in userland that I had neglected in the past. I'l
 
 ### Ex Commands
 
-The most annoying thing for me at the ex prompt is limited mobility and editing ability. It turns out there's some hidden power there:
+I always had a feeling that I am underutilizing command mode and I'm constantly annoyed at the limited mobility and editing ability. It turns out there's tons of power there:
 
 - `C-w` delete word back
 - `C-f` switch to an editable buffer. Edit any command in there and hit enter to execute.

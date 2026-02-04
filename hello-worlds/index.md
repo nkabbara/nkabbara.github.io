@@ -15,3 +15,14 @@ My tech playground where I explore different technologies. I find that when I bu
 [Hello Go](hello-go)
 
 [Random Notes](random-notes)
+
+
+## Open Source Contributions
+
+* Opencode.nvim [feat(sessions): select session](https://github.com/nickjvandyke/opencode.nvim/pull/139)
+* Deno/std [fix(fs/expandGlob): globstar false does not take effect (#2571)](https://github.com/denoland/std/pull/2779)
+* nhost [nhost/hasura-backend-plus Removes superfluous var](https://github.com/nhost/hasura-backend-plus/pull/90)
+* kentcdodds/bookshelf [sets IsPending in finally](https://github.com/kentcdodds/bookshelf/pull/17)
+
+
+
