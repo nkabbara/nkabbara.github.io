@@ -3764,3 +3764,2547 @@ WARNING: 17 repetitive deprecation warnings omitted.
 Run in verbose mode to see all warnings.
                     ...done in 0.203721 seconds.
                     
+      Regenerating: 1 file(s) changed at 2026-02-23 09:54:16
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.789289 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 09:54:33
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.201883 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:03:11
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.234576 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:06:20
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.231708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:08:23
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.222838 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:09:52
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.222316 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:10:48
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.225151 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:13:15
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.218436 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:13:17
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.207309 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:13:49
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.203159 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:15:27
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.221575 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:15:45
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.230938 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-02-23 10:16:10
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.224473 seconds.
+                    
+[2026-02-23 10:23:49] ERROR '/favicon.ico' not found.
+[2026-02-23 10:23:56] ERROR '/hello-worlds/hello-lfs' not found.
+      Regenerating: 1 file(s) changed at 2026-02-23 10:24:11
+                    hello-worlds/hello-lfs.md
+       Jekyll Feed: Generating feed for posts
+[33m     Build Warning: Layout 'default' requested in 404.html does not exist.[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.png'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 11): Expected end_of_string but found pipe in "static_file.path contains image_path | append: '.jpg'" in books.md[0m
+[33m    Liquid Warning: Liquid syntax error (line 20): Unexpected character % in "page.layout != 'page'% or page.tags contains 'hidden'" in /Users/nkabbara/dev/nkabbara.github.io/_layouts/home.html[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │   "minima/skins/auto",
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │   "minima/initialize";
+  │   ^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+14 │ $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 14:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+15 │ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 15:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+24 │ $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 24:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 71.4%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+28 │ $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 28:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+31 │ $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
+   │                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/skins/auto.scss 31:28                                      @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 2:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+46 │   "minima/custom-variables", // Hook to override predefined variables.
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 46:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+47 │   "minima/base",             // Defines element resets.
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 47:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/layout",           // Defines structure and style based on CSS selectors.
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima/initialize.scss 48:3                                       @import
+    /Users/nkabbara/dev/nkabbara.github.io/assets/css/style.scss 3:3  root stylesheet
+WARNING: 17 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.256396 seconds.
+                    
+[2026-02-23 10:24:22] ERROR '/hello-worlds/hello-lfs' not found.
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.3.4   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:286:in 'Thread#join': SIGTERM (SignalException)
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:286:in 'Jekyll::Commands::Serve.boot_or_detach'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:223:in 'Jekyll::Commands::Serve.start_up_webrick'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:102:in 'Jekyll::Commands::Serve.process'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in 'block in Jekyll::Command.process_with_graceful_fail'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in 'Array#each'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in 'Jekyll::Command.process_with_graceful_fail'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:86:in 'block (2 levels) in Jekyll::Commands::Serve.init_with_program'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'block in Mercenary::Command#execute'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'Array#each'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'Mercenary::Command#execute'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in 'Mercenary::Program#go'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in 'Mercenary.program'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/exe/jekyll:15:in '<top (required)>'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/bin/jekyll:25:in 'Kernel#load'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/bin/jekyll:25:in '<top (required)>'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/cli/exec.rb:59:in 'Kernel.load'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/cli/exec.rb:59:in 'Bundler::CLI::Exec#kernel_load'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/cli/exec.rb:23:in 'Bundler::CLI::Exec#run'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/cli.rb:452:in 'Bundler::CLI#exec'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/cli.rb:29:in 'Bundler::CLI.start'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/bundler-2.6.2/exe/bundle:28:in 'block in <top (required)>'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/3.4.0/bundler/friendly_errors.rb:117:in 'Bundler.with_friendly_errors'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/lib/ruby/gems/3.4.0/gems/bundler-2.6.2/exe/bundle:20:in '<top (required)>'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/bin/bundle:25:in 'Kernel#load'
+	from /Users/nkabbara/.asdf/installs/ruby/3.4.1/bin/bundle:25:in '<main>'
