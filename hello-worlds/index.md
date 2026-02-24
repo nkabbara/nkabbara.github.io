@@ -3,14 +3,14 @@ layout: page
 title: "Hello Worlds"
 created: 2026/02/03
 updated: 2026/02/23
-version: 0.7.1
+version: 0.7.2
 categories: article
 tags: tech
 ---
 
 My tech playground where I explore different technologies. I find that when I build something and move on, not much sticks around in my mind. But when I write about it, I easily build a mental model around the its concepts.
 
-[Hello Nasix](hello-lfs)
+[Hello Nashix](hello-lfs)
 
 [Hello Neovim (and lua)](hello-neovim)
 
