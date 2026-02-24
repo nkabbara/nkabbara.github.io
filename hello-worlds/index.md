@@ -10,6 +10,8 @@ tags: tech
 
 My tech playground where I explore different technologies. I find that when I build something and move on, not much sticks around in my mind. But when I write about it, I easily build a mental model around the its concepts.
 
+[Hello LFS](hello-lfs)
+
 [Hello Neovim (and lua)](hello-neovim)
 
 [Hello Go](hello-go)
