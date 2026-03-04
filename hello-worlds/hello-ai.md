@@ -18,8 +18,12 @@ tags: tech hidden
 * [-] Look indo wigam loop
 * [x] type less brew install --cask handy. Use parakeet model v3.
 
-I feel exited to start the day to continue building. I feel like I cannot stop at the end of the evening. 
+I feel exited to start the day to continue building. I feel like I cannot stop at the end of the evening. I'm having a hard time taking breaks. I can't stop.
+
+I must be Empathetic to the agent. You have to look at him as a person, as a junior developer that's learning how to use the code base, that's gonna get better over time and treat him with respect and see things from his perspective and stop being jealous that he's obviously gonna get ten times better than I am.
 
 ---
 
 Draw as sequence diagram where a cronjob issues a request to the app Hamourabi. Hamourabi then goes to auction site A to collect a bunch of vins. Then, Hamourabi, gets the prices of these vins by contacting carmax site.
+
+Now high level. I am thinking more architecturally, more design wise, more like a product designer with technical skill.
