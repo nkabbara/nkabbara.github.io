@@ -22,6 +22,11 @@ I feel exited to start the day to continue building. I feel like I cannot stop a
 
 I must be Empathetic to the agent. You have to look at him as a person, as a junior developer that's learning how to use the code base, that's gonna get better over time and treat him with respect and see things from his perspective and stop being jealous that he's obviously gonna get ten times better than I am.
 
+I have to turn off the computer in order not to use it at my launch break.
+
+
+technique: Sometimes the AI is better at doing something in one language and not the other. One technique to use is to do it in that other language that the AI knows how to do it in, and then ask the AI to translate it to the language that you actually want. Works perfectly well sometimes.
+
 ---
 
 Draw as sequence diagram where a cronjob issues a request to the app Hamourabi. Hamourabi then goes to auction site A to collect a bunch of vins. Then, Hamourabi, gets the prices of these vins by contacting carmax site.
