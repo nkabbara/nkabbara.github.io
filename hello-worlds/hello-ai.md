@@ -27,6 +27,12 @@ I have to turn off the computer in order not to use it at my launch break.
 
 technique: Sometimes the AI is better at doing something in one language and not the other. One technique to use is to do it in that other language that the AI knows how to do it in, and then ask the AI to translate it to the language that you actually want. Works perfectly well sometimes.
 
+Have multiple agents each responsible for a specific part of app.
+
+Very annoying when you record a long convo and accidentally lose it because you've switched tabs or something.
+
+You need to get over how amazing this is and stop getting blown away so we can move forward with stuff.
+
 ---
 
 Draw as sequence diagram where a cronjob issues a request to the app Hamourabi. Hamourabi then goes to auction site A to collect a bunch of vins. Then, Hamourabi, gets the prices of these vins by contacting carmax site.
