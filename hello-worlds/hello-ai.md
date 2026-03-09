@@ -33,6 +33,12 @@ Very annoying when you record a long convo and accidentally lose it because you'
 
 You need to get over how amazing this is and stop getting blown away so we can move forward with stuff.
 
+It's like when I was developing my first startup and falling in love with rails and coding day and night.
+
+I've never worked so much in decades.
+
+It's a double edged sword. You could write really sloppy code and compound on a lot of bad incrimentally bad design decisions because you are moving so fast. But if you breath and keep your head on your shoulders you could build some great stuffi
+
 ---
 
 Draw as sequence diagram where a cronjob issues a request to the app Hamourabi. Hamourabi then goes to auction site A to collect a bunch of vins. Then, Hamourabi, gets the prices of these vins by contacting carmax site.
