@@ -39,6 +39,8 @@ I've never worked so much in decades.
 
 It's a double edged sword. You could write really sloppy code and compound on a lot of bad incrimentally bad design decisions because you are moving so fast. But if you breath and keep your head on your shoulders you could build some great stuffi
 
+It makes tons of mistakes and needs suprevision.
+
 ---
 
 Draw as sequence diagram where a cronjob issues a request to the app Hamourabi. Hamourabi then goes to auction site A to collect a bunch of vins. Then, Hamourabi, gets the prices of these vins by contacting carmax site.
