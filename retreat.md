@@ -8,7 +8,7 @@ categories: article
 tags:
 ---
 
-I had been meditating for over a decade. I started with Vipassana then a few year later switched to Dzogchen. My practice consisted of sitting between 10 to 30 minutes daily, originally in the evenings, but then I switched to mornings when I realized that is when my thoughts were the most scattered. Though my sessions were short, they were consistent with some weekend interruptions. If I don't practice for a few days in a row, my mood and sense of happiness is viscerally felt.
+I had been meditating for over a decade. I started with Vipassana then a few years later switched to Dzogchen. My practice consisted of sitting between 10 to 30 minutes daily, originally in the evenings, but then I switched to mornings when I realized that is when my thoughts were the most scattered. Though my sessions were short, they were consistent with some weekend interruptions. If I don't practice for a few days in a row, my mood and sense of happiness is viscerally felt.
 
 Recently I realized that my instructions mainly derived from books and The Waking Up App, and that I had never sought in-person instruction for something that had become a fundamental part of my being. Looking around the Buenos Aires area, I found a vipassana center about an hour away from town that offered 10-day silent retreats. The daily schedule was intense: wake up at 4 a.m. daily and practice meditation 10 hours a day. I signed up with the intention of deepening my practice, but walked out of there with much more.
 
@@ -18,11 +18,11 @@ Vipassana meditation is a collection of techniques that are meant to teach you h
 
 After you've become aware of these three types, you may then perform a variation of this scan that is faster where you only follow the vibrating sensations carving paths between the contracted ones, if they exist. Once at your toes you may go back in reverse or repeat from the top.
 
-Two versions of the above variations exist, one where you do part by part and another where do the scan in simultaneous symmetrical scans. i.e. Head split in half through the nose, both arms together, torse in half, pelvis in half, legs together, etc...
+Two versions of the above variations exist, one where you do part by part and another where you do the scan in simultaneous symmetrical scans. i.e. Head split in half through the nose, both arms together, torso in half, pelvis in half, legs together, etc...
 
 For a non-practitioner this all sounds really strange if not useless. But as you apply these techniques, you are teaching your mind to sense what your subconscious is up to through bodily sensations before they manifest into action, like speech or movements. You are creating a gap in time between stimulus and reaction.
 
-If you have a very stubborn contracted sensation, you may do a scan always starting from the top of your head and when you reach it, overlay a grid over it, and start to compare every square in the grid with the other in how they differ in sensation. You could then do that sideways and front to back. Then continue going down the body to finish the scan. Do not start at the contracted sensation to avoid aggitation. Start from the top with equanimity and awareness of subtelties.
+If you have a very stubborn contracted sensation, you may do a scan always starting from the top of your head and when you reach it, overlay a grid over it, and start to compare every square in the grid with the other in how they differ in sensation. You could then do that sideways and front to back. Then continue going down the body to finish the scan. Do not start at the contracted sensation to avoid agitation. Start from the top with equanimity and awareness of subtleties.
 
 In some instances, you may have complete free flow. In those cases, you may go deeper below your skin into your body sensing anything that could be happening inside. Be sure to not try to imagine organs. Keep sensation as the source of movement. When done with that, you may end the scan by sensing your spinal cord from top to bottom.
 
@@ -30,4 +30,4 @@ In all these techniques, always start top to bottom, stay equanimous and aware o
 
 After learning all this and experiencing its power first hand, I have decided to follow the teacher's recommendation of meditating two hours a day, one in the morning before breakfast and one in the afternoon before nightfall.
 
-In addition to learning how to meditate in Vipassana, the retreat's setting and environment completely took me out of my routines and habits and showed me that I can wake up at 4a.m without struggling throughout the day. I can fast a few hours before my first meal without feeling sluggish. I can be satisfied with two vegetarian meals a day.
+In addition to learning how to meditate in Vipassana, the retreat's setting and environment completely took me out of my routines and habits and showed me that I can wake up at 4 a.m. without struggling throughout the day. I can fast a few hours before my first meal without feeling sluggish. And I can be satisfied with two vegetarian meals a day.

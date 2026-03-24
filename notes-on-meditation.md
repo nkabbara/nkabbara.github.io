@@ -2,8 +2,8 @@
 layout: page
 title: "Notes On Meditation"
 created: 2022-04-03
-updated: 2022-04-03
-version: 0.1.9
+updated: 2026/03/23
+version: 0.2.9
 categories: meditation
 ---
 
@@ -11,6 +11,8 @@ There are concepts in meditation that are strongly ephemeral. You get an insight
 but in an instant, it could leave your mind and never return.
 
 Here, [we're](/how-are-you.html) documenting these epiphanies.
+
+For Vipassana meditation see my notes in [10-day retreat](/retreat)
 
 ## The Three Pillars of Meditation
 
