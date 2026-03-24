@@ -2,13 +2,21 @@
 layout: page
 title: "now"
 created: 2025-12-23
-updated: 2026-01-30
-version: 1.15.12
+updated: 2026/03/23
+version: 1.16.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on Jan 30, 2026 from Buenos Aires._</small>
+<small>_Last updated on March 23, 2026 from Buenos Aires._</small>
+
+## 10-day Vipassana Retreat
+
+Finally! After more than a decade of meditating at home and learning how to do it from books and apps, I took the leap and did a 10 day retreat in Brandsen, Buenos Aires. I [captured](/retreat) the technique so I can come back to it in the future. Around day three, I started to realize that this was hard work. I was going to bed every night mentally, and some nights emotionally, exhausted from the work. I've decided to follow the teacher's recommendation and increase my daily meditation from 30 minutes to 2 hours. A lot of work awaits!
+
+## Linux From Scratch
+
+I built linux from scratch following the instructions in the [LFS book](/hello-worlds/hello-lfs). The things I ended up learning from the experience were very different from what I was imagining I would learn. I don't know if I'd ever make that my daily driver, but it's good to know that I have that option for things like embedded linux or if I ever wanted to build a locked down system.
 
 ## Year In Review
 
