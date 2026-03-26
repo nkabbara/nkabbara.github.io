@@ -50,3 +50,5 @@ Now high level. I am thinking more architecturally, more design wise, more like 
 Using AI is forcing me to use new tools and new shortcuts. Like git worktree, how to navigate windows more efficiently, build mode vs review mode, etc...
 
 I find myself relying more on my high level skills and business skills.
+
+If you let ai go too long before code reviews, it'll be more time consuming refactoring later. Be dilligent in how you develop you code and how and when you write your tests.
