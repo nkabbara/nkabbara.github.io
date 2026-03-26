@@ -46,3 +46,7 @@ It makes tons of mistakes and needs suprevision.
 Draw as sequence diagram where a cronjob issues a request to the app Hamourabi. Hamourabi then goes to auction site A to collect a bunch of vins. Then, Hamourabi, gets the prices of these vins by contacting carmax site.
 
 Now high level. I am thinking more architecturally, more design wise, more like a product designer with technical skill.
+
+Using AI is forcing me to use new tools and new shortcuts. Like git worktree, how to navigate windows more efficiently, build mode vs review mode, etc...
+
+I find myself relying more on my high level skills and business skills.
