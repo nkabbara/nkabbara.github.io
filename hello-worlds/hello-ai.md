@@ -52,3 +52,5 @@ Using AI is forcing me to use new tools and new shortcuts. Like git worktree, ho
 I find myself relying more on my high level skills and business skills.
 
 If you let ai go too long before code reviews, it'll be more time consuming refactoring later. Be dilligent in how you develop you code and how and when you write your tests.
+
+It took me one week to create a POC to sell a customer on a project. And then it took me over a week, more than the time to do the POC, Vibe Coded, to reorganize all the code, clean it up and make it extensible and extendable and something that's good enough to build on top of.
