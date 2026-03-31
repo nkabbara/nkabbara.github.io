@@ -61,3 +61,8 @@ It's very Junior in quality; all code must be checked.
 It is perfect for my ADD. I can focus on multiple features at the time. I never get bored.
 
 Practice improving how I articulate ideas more clearly. Imagine that I am talking to cto or users or someone with deep tech and business knowledge.
+
+git worktree is a life saver for multi feature development.
+
+
+Write down anything that you find yourself saying repeatedly to the ai and incoroprate it into the project file if it's project specific or into the agent files if it's more general.
