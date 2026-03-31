@@ -66,3 +66,8 @@ git worktree is a life saver for multi feature development.
 
 
 Write down anything that you find yourself saying repeatedly to the ai and incoroprate it into the project file if it's project specific or into the agent files if it's more general.
+
+
+When working on multiple features it's much more fun to work in unrelated areas. Features that have nothing to do with each other.
+
+In the morning, I am full of energy and work on multiple features simultaneously. In the evening it's down to one.
