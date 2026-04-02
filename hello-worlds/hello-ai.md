@@ -75,3 +75,5 @@ In the morning, I am full of energy and work on multiple features simultaneously
 A nice review flow is 1. activate voice recording 2. proceed with review and ask it to put a todo list at top of file 3. as you are scrolling the file add to the todo list. 4. when done, send the message to ai so it can create the list. 5. review and edit the list. 6. Tell ai to fix it.
 
 Since refactoring is so easy one could easily fall into refactor perfection. Constantly improving the codbase instead of doing more prioritized work. 
+
+Putting in the effort and building methodically puts the app in a great place to keep building more and faster. Keep updating all the robot files. Keep documenting top of any file you touch with how, what, dependencies and general notes. Even have directives for how to comment in the robot files.
