@@ -77,3 +77,9 @@ A nice review flow is 1. activate voice recording 2. proceed with review and ask
 Since refactoring is so easy one could easily fall into refactor perfection. Constantly improving the codbase instead of doing more prioritized work. 
 
 Putting in the effort and building methodically puts the app in a great place to keep building more and faster. Keep updating all the robot files. Keep documenting top of any file you touch with how, what, dependencies and general notes. Even have directives for how to comment in the robot files.
+
+Damn, you cannot trust ai. It was suggesting a fix that would have introduced a pooling strategy for browsers because it had assumed that resources were not enough, whereas the real error was a bad function call.
+
+When I'm tired I work on only one feature at a time.
+
+So excited about it that While a deploy is happening, I am standing in front os the monitor watching kamal deploy after the ai pushed a change while listening to a podcast on how to improve your ai workflow
