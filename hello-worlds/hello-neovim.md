@@ -2,8 +2,8 @@
 layout: page
 title: "Hello Neovim (and lua)"
 created: 2026/02/02
-updated: 2026/02/04
-version: 0.2.3
+updated: 2026/05/17
+version: 0.3.3
 categories: article
 tags: tech hidden
 ---
@@ -34,6 +34,11 @@ The lua neovim API was confusing in the beginning. You have methods like `vim.*`
 Next up is exploring new areas in userland that I had neglected in the past. I'll keep updating this document as I learn new things.
 
 ## Userland
+
+### Buffer Motions
+
+- word & WORD: `w`, `b`, `e` and `ge` have capital counterparts that act on WORDS. These count things like `'` as part of the word.
+- `g<up arrow>`, <down arrow>, etc... count wrapped lines as actual lines. I might remap those to arrows as their `g` counterparts to line-wise.
 
 ### Ex Commands
 
