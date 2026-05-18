@@ -2,13 +2,18 @@
 layout: page
 title: "now"
 created: 2025-12-23
-updated: 2026/03/23
-version: 1.16.12
+updated: 2026/05/17
+version: 1.17.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on March 23, 2026 from Buenos Aires._</small>
+<small>_Last updated on May 17th, 2026 from Buenos Aires._</small>
+
+## New Project
+
+A new project pulled me out of my mini retirement sooner than I had expected. Tons of exciting challenges that I will write about soon. I've been pushing my agentic coding and workflow to new limits. My process keeps changing every couple of weeks. More to come...
+
 
 ## 10-day Vipassana Retreat
 
@@ -44,7 +49,7 @@ I'm currently reading the following books:
 
 ## Graphite Layout
 
-I've switched my work computer to [graphite](https://github.com/rdavison/graphite-layout) on Jan 1st. I'm currently reaching 44wpm (98% accuracy) and more easily completing 60s runs, but inconsistently. I'm using the <a href="https://www.zsa.io/voyager">Voyager</a> keyboard as my work computer driver and for my other computers I am using [Kanata](https://github.com/jtroo/kanata) to remap my [keyboards](https://github.com/nkabbara/dotfiles/blob/main/dot_config/kanata/leisure.kbd). I 100% vouch for Kanata. Amazing software.
+I've switched my work computer to [graphite](https://github.com/rdavison/graphite-layout) on Jan 1st. I'm currently (May 17th) reaching ~40wpm @ 98% accuracy and now completing 60s runs consistently. Finally moving from English 200 to English 5,000! I'm using the <a href="https://www.zsa.io/voyager">Voyager</a> keyboard as my work computer driver and for my other computers I am using [Kanata](https://github.com/jtroo/kanata) to remap my [keyboards](https://github.com/nkabbara/dotfiles/blob/main/dot_config/kanata/leisure.kbd). I 100% vouch for Kanata. Amazing software.
 
 Why have I decided to make my life temporarily miserable? I saw [videos comparing](https://www.youtube.com/watch?v=eNeYmr48JUM) qwerty with [modern layouts](https://www.youtube.com/watch?v=DKQ4pOoFh5I) and I was shocked at how much wrist and finger movement is involved with qwerty. Now, whenever I try to type qwerty, it feels complicated.
 
