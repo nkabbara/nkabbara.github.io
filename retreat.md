@@ -3,7 +3,7 @@ layout: page
 title: "10-day Vipassana Retreat"
 created: 2026/03/23
 updated: 2026/05/17
-version: 1.1.0
+version: 1.1.1
 categories: article
 tags:
 ---
