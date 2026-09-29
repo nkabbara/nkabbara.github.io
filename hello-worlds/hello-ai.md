@@ -83,3 +83,12 @@ Damn, you cannot trust ai. It was suggesting a fix that would have introduced a 
 When I'm tired I work on only one feature at a time.
 
 So excited about it that While a deploy is happening, I am standing in front os the monitor watching kamal deploy after the ai pushed a change while listening to a podcast on how to improve your ai workflow
+
+Curretly working at two features at the same time seem comfortable. Three is doable, but two is sustainable. Especially when one they are far apart. eg. backend & ui.
+
+Mind feels like it's on adrenaline. Everything is rushing and fast. Even daily meditations feel harder.
+
+Breaking jobs down is a required skill more than ever and having the whrerewithal to not overdo pr's is hard. My pr's are way too big.
+
+
+I have to close office door so I don't check if llm needs anything.
