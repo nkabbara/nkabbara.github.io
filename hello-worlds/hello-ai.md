@@ -18,6 +18,8 @@ tags: tech hidden
 * [-] Look indo wigam loop
 * [x] type less brew install --cask handy. Use parakeet model v3.
 
+multitasting has changed. You have to be careful how you manage multiple threads at the same time. If one is thuoght intensive, you cannot run others while working on that, but if you are just managing, then it's ok.
+
 I feel exited to start the day to continue building. I feel like I cannot stop at the end of the evening. I'm having a hard time taking breaks. I can't stop.
 
 I must be Empathetic to the agent. You have to look at him as a person, as a junior developer that's learning how to use the code base, that's gonna get better over time and treat him with respect and see things from his perspective and stop being jealous that he's obviously gonna get ten times better than I am.
