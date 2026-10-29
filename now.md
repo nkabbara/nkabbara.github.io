@@ -2,13 +2,13 @@
 layout: page
 title: "now"
 created: 2025-12-23
-updated: 2026/05/17
-version: 1.17.12
+updated: 2026/10/28
+version: 1.18.12
 categories: now
 tags: hidden
 ---
 
-<small>_Last updated on May 17th, 2026 from Buenos Aires._</small>
+<small>_Last updated on Oct 28, 2026 from Mar De Las Pampas._</small>
 
 ## New Project
 
@@ -23,16 +23,6 @@ Finally! After more than a decade of meditating at home and learning how to do i
 
 I built linux from scratch following the instructions in the [LFS book](/hello-worlds/hello-lfs). The things I ended up learning from the experience were very different from what I was imagining I would learn. I don't know if I'd ever make that my daily driver, but it's good to know that I have that option for things like embedded linux or if I ever wanted to build a locked down system.
 
-## Year In Review
-
-Here's how my [2025 went](/2025-in-review).
-
-## My First Neovim Plugin
-
-I released my first <a href="https://github.com/nkabbara/onmyterm.nvim">neovim plugin!</a> I built it to learn neovims's API and Lua and to battle test the graphite keyboard layout. But it fit my needs so much that it's now my daily terminal manager. I love neovim so much more now that I got a true taste of extending it and customizing it to my needs.
-
-The most exciting thing that happened during this project was that it gave me a chance to <a href="https://github.com/nickjvandyke/opencode.nvim/pull/139">contribute to open source</a>, further expanding my lua and neovim knowledge. I was using <a href="https://opencode.ai/">opencode</a> through a neovim plugin and noticed that it had no native way of switching sessions, which meant that I har to cycle through windows, issue the right commands then switch back to the window that I was working in. A flow killer. I submitted a PR that solves the problem reusing the same patterns of the plugin making the process nearly seamless. The <a href="https://github.com/nickjvandyke">creator</a> of the project was very accommodating and nice making the process delightful.
-
 
 ## Tango
 
@@ -44,12 +34,11 @@ I started listening to the massive and wonderful [The Story of Civilization](htt
 
 I'm currently reading the following books:
 * [Food Rules by Michael Pollan](https://www.amazon.com/dp/B002YJK5L4) [done]
-* [Practical Vim by Drew Neil](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought)
 * [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://a.co/d/eq1Kj2l)
 
 ## Graphite Layout
 
-I've switched my work computer to [graphite](https://github.com/rdavison/graphite-layout) on Jan 1st. I'm currently (May 17th) reaching ~40wpm @ 98% accuracy and now completing 60s runs consistently. Finally moving from English 200 to English 5,000! I'm using the <a href="https://www.zsa.io/voyager">Voyager</a> keyboard as my work computer driver and for my other computers I am using [Kanata](https://github.com/jtroo/kanata) to remap my [keyboards](https://github.com/nkabbara/dotfiles/blob/main/dot_config/kanata/leisure.kbd). I 100% vouch for Kanata. Amazing software.
+I've switched my work computer to [graphite](https://github.com/rdavison/graphite-layout) on Jan 1st. I'm currently (Oct 28th) reaching ~40wpm @ 98% accuracy and now completing 60s runs consistently. Finally moving from English 5,000 to English 10,000. This transition took 5 months of near daily practice! I'm using the <a href="https://www.zsa.io/voyager">Voyager</a> keyboard as my work computer driver and for my other computers I am using [Kanata](https://github.com/jtroo/kanata) to remap my [keyboards](https://github.com/nkabbara/dotfiles/blob/main/dot_config/kanata/leisure.kbd). I 100% vouch for Kanata. Amazing software.
 
 Why have I decided to make my life temporarily miserable? I saw [videos comparing](https://www.youtube.com/watch?v=eNeYmr48JUM) qwerty with [modern layouts](https://www.youtube.com/watch?v=DKQ4pOoFh5I) and I was shocked at how much wrist and finger movement is involved with qwerty. Now, whenever I try to type qwerty, it feels complicated.
 
